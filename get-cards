@@ -18,6 +18,6 @@ echo "</cards>" >> card-id-name.xml
 
 xml sel -t -m /cards -v "." $f | perl -n -e "if (/\S/) { print }" | paste - - | sed 's/\t/ /g'  | sed 's/  / /g' | sed 's/  / /g' | sed 's/  / /g' | sed 's/^ //'  > cards-w-id
 
-
+echo "wrote cards-w-id"
 
 

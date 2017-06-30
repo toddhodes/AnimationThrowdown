@@ -10,11 +10,13 @@
 user_id=`grep user_id ~/.at_creds | cut -d= -f2`
 password_hash=`grep password_hash ~/.at_creds | cut -d= -f2`
 
+out=units-w-levels-and-rarity
+
 curl -s 'https://cb-live.synapse-games.com/api.php?message=init&user_id='$user_id --data 'password='$password_hash > out
 
 cat out | jq . > out.js
-cat out.js |jq ' .user_units[] | {id: .unit_id, level: .level, rarity: .rarity}' | paste -d " " - - - - - |awk '{ print $3, $5, $7}' | tr -d \" | sort | sed 's/, /-/g' > units-w-levels-and-rarity
+cat out.js |jq ' .user_units[] | {id: .unit_id, level: .level, rarity: .rarity}' | paste -d " " - - - - - |awk '{ print $3, $5, $7}' | tr -d \" | sort | sed 's/, /-/g' > $out
 
-echo "wrote units-w-levels"
-wc -l units-w-levels
+echo "wrote $out"
+wc -l $out
 
