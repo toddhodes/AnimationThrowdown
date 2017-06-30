@@ -9,7 +9,7 @@ curl -s 'https://cb-live.synapse-games.com/assets/cards_mythic.xml' > cards_myth
 egrep "(<id|<name)" cards_finalform.xml  |paste - - >> $t
 egrep "(<id|<name)" cards_mythic.xml  |paste - - | sed 's/e>/e>Mythic /' >> $t
 # local copy!
-egrep "(<id|<name)" at-cards.xml |paste - - >> $t
+egrep "(<id|<name)" cards_extra_downloaded.xml |paste - - >> $t
 
 echo "<cards>" > card-id-name.xml
 sort $t | uniq >> card-id-name.xml
