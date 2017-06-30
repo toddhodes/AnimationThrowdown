@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<!-- Family Guy Mythics -->
+<unit>
+		<id>1100001</id>
+		<name>Stewie</name>
+		<desc>What the deuce?! Damn you all! Ha ha, classic. Stewie here. We're gonna have fun together.</desc>
+		<item_desc>Collect Stewie Fragments to craft and upgrade a Mythic Stewie card!</item_desc>
+		<picture>StewieRarity1</picture>
+		<asset_bundle>26</asset_bundle>		
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="inventory_upgrade_50_inventory" bundle_id="19"/>		
+		<rarity>5</rarity>
+		<set>7000</set>
+		<type>1</type>
+		<attack>9</attack>
+		<health>51</health>
+		<skill id="barrierall" x="4"/>
+		<skill id="strike" x="8"/>
+		<skill id="leech" x="13"/>
+		<upgrade>
+			<level>2</level>
+			<skill id="leech" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<skill id="strike" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<skill id="barrierall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<skill id="strike" x="11"/>
+			<health>53</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<skill id="leech" x="16"/>
+			<health>54</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<skill id="strike" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>57</health>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id="leech" x="17"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<skill id="barrierall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<skill id="strike" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>60</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>12</attack>
+			<health>62</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<skill id="leech" x="19"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>65</health>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<skill id="strike" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>68</health>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<skill id="leech" x="20"/>
+			<health>69</health>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<skill id="strike" x="16"/>
+			<health>71</health>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<skill id="barrierall" x="8"/>
+			<health>72</health>
+		</upgrade>												
+	</unit>
+<unit>
+		<id>1200001</id>
+		<name>Stan</name>
+		<desc>Field agent at the CIA. Stan is short for Stanley. Or Staniel.</desc>
+		<item_desc>Collect Stan Fragments to craft and upgrade a Mythic Stan card!</item_desc>
+		<picture>ad_stan_legendary</picture>
+		<asset_bundle>18</asset_bundle>	
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="inventory_upgrade_50_inventory" bundle_id="19"/>		
+		<rarity>5</rarity>
+		<set>7000</set>
+		<type>2</type>
+		<trait>armed</trait>
+		<attack>14</attack>
+		<health>42</health>
+		<skill id="armored" x="10"/>
+		<skill id="shrapnel" x="6"/>
+		<skill id="berserk" x="5"/>
+		<upgrade>
+			<level>2</level>
+			<health>45</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<skill id="armored" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<skill id="armored" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>48</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<skill id="shrapnel" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>51</health>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id="armored" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>54</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<attack>17</attack>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>57</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<skill id="shrapnel" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<skill id="armored" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>60</health>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>18</attack>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<skill id="shrapnel" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<skill id="armored" x="16"/>
+			<health>62</health>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<skill id="shrapnel" x="11"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>												
+	</unit>
+<unit>
+		<id>1300001</id>
+		<name>Louise</name>
+		<desc>Favorite Boy 4 Now: Boo Boo</desc>
+		<item_desc>Collect Louise Fragments to craft and upgrade a Mythic Louise card!</item_desc>
+		<picture>bb_louise_legendary</picture>
+		<asset_bundle>23</asset_bundle>
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="inventory_upgrade_50_inventory" bundle_id="19"/>		
+		<rarity>5</rarity>
+		<set>7000</set>
+		<type>3</type>
+		<attack>8</attack>
+		<health>54</health>
+		<skill id="invigorate" x="8"/>
+		<skill id="rallyall" x="6"/>
+		<skill id="pierce" x="11"/>
+		<upgrade>
+			<level>2</level>
+			<skill id="pierce" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<attack>9</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>57</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<skill id="invigorate" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<skill id="pierce" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>60</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<skill id="rallyall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id="invigorate" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>63</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id="pierce" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<skill id="rallyall" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>66</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<skill id="invigorate" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>69</health>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<skill id="pierce" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<skill id="invigorate" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<skill id="rallyall" x="10"/>
+			<attack>15</attack>
+		</upgrade>												
+	</unit>
+<unit>
+		<id>1400001</id>
+		<name>Peggy</name>
+		<desc>Peggy wears a size 16 shoe on her right foot. 16 1/2 on the left.</desc>
+		<item_desc>Collect Peggy Fragments to craft and upgrade a Mythic Peggy card!</item_desc>
+		<picture>koth_peggy_legendary</picture>
+		<asset_bundle>23</asset_bundle>
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="inventory_upgrade_50_inventory" bundle_id="19"/>		
+		<rarity>5</rarity>
+		<set>7000</set>
+		<type>4</type>
+		<trait>educated</trait>
+		<attack>12</attack>
+		<health>45</health>
+		<skill id="counter" x="8"/>
+		<skill id="healall" x="4"/>
+		<skill id="poison" x="10"/>
+		<upgrade>
+			<level>2</level>
+			<health>48</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<skill id="counter" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<skill id="poison" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<skill id="healall" x="6"/>
+			<health>50</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>53</health>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id="counter" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<skill id="poison" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>56</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id="healall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>17</attack>
+			<health>57</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<skill id="poison" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<skill id="counter" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<skill id="poison" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>60</health>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<skill id="poison" x="17"/>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<skill id="counter" x="13"/>
+			<health>62</health>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<skill id="healall" x="8"/>
+			<health>65</health>
+		</upgrade>												
+	</unit>
+<unit>
+		<id>1500001</id>
+		<name>Leela</name>
+		<desc>Depth perception is overrated.</desc>
+		<item_desc>Collect Leela Fragments to craft and upgrade a Mythic Leela card!</item_desc>
+		<picture>fr_leela_rarity</picture>
+		<asset_bundle>26</asset_bundle>
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="inventory_upgrade_50_inventory" bundle_id="19"/>		
+		<rarity>5</rarity>
+		<set>7000</set>
+		<type>5</type>
+		<trait>athletic</trait>
+		<attack>18</attack>
+		<health>35</health>
+		<skill id="inspire" x="8"/>
+		<skill id="strike" x="10"/>
+		<skill id="weakenall" x="6"/>
+		<upgrade>
+			<level>2</level>
+			<skill id="strike" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>38</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<skill id="inspire" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<skill id="weakenall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>20</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<skill id="strike" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>41</health>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<skill id="inspire" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>21</attack>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>44</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<skill id="weakenall" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id="inspire" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<skill id="strike" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<attack>23</attack>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>47</health>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>50</health>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<skill id="inspire" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>53</health>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<skill id="strike" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<skill id="weakenall" x="10"/>
+			<health>54</health>
+		</upgrade>												
+	</unit>
+
+</root>	

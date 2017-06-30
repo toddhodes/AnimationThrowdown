@@ -1,0 +1,15 @@
+for i in `cat units-w-levels-and-rarity`
+do   
+  unit=`echo $i | cut -d- -f1`
+  lvl=`echo $i | cut -d- -f2`
+  rarity=`echo $i | cut -d- -f3`
+  name=`egrep ^$unit cards-w-id | cut -d" " -f2-`
+  case $rarity in
+  "3") color="E";;
+  "4") color="L";;
+  "5") color="M";;
+  esac
+  echo "$color $name: $lvl"
+done 
+
+
