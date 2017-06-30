@@ -36,6 +36,9 @@ brew install jq
 
 ## Generate card inventory
 
-just run ``make```
+in the directory where you cloned this, simply run 
+```
+make
+```
 
 
