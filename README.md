@@ -2,7 +2,7 @@
 Animation Throwdown scripts
 
 
-These scripts get you deck card inventory, and output it as text
+These scripts get your deck card inventory, and output it as text
 
 ## Setup
 
@@ -36,7 +36,7 @@ brew install jq
 
 ## Generate card inventory
 
-in the directory where you cloned this, simply run 
+In the directory where you cloned this, simply run 
 ```
 make
 ```
