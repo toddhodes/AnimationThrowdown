@@ -6,19 +6,16 @@ function toStars() {
   i=$level
  
   case $rare in
-  "3") max=5
-        ;;
-  "4") max=6 
-        ;;
-  "5") max=7
-        ;;
+  "3") max=5 ;;
+  "4") max=6 ;;
+  "5") max=7 ;;
   esac
 
-     while [ $i -gt $max ]
-     do
-        i=$[$i-$max]
-        stars="*"$stars
-     done
+  while [ $i -gt $max ]
+  do
+    i=$[$i-$max]
+    stars="*"$stars
+  done
    
    echo $i$stars
 }
@@ -31,9 +28,9 @@ do
   name=`egrep ^$unit cards-w-id | cut -d" " -f2-`
 
   case $rarity in
-  "3") color="E";;
-  "4") color="L";;
-  "5") color="M";;
+  "3") color="E" ;;
+  "4") color="L" ;;
+  "5") color="M" ;;
   esac
 
   stars=`toStars $rarity $lvl`
