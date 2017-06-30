@@ -5,5 +5,5 @@ cards:
 	./gen-cards
 
 clean:
-	rm	cards-w-id out out.js units-w-levels-and-rarity
+	rm	cards-w-id out units-w-levels-and-rarity
 
