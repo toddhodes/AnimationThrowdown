@@ -1,23 +1,14 @@
 
-t=card-id-name.tmp.xml
-f=card-id-name.xml
+t=cards-w-id
 
 curl -s 'https://cb-live.synapse-games.com/assets/cards_finalform.xml' > cards_finalform.xml
 curl -s 'https://cb-live.synapse-games.com/assets/cards_mythic.xml' > cards_mythic.xml
 
+xml sel -T -t -m /root/unit -v "id" -o " " -v name -n cards_mythic.xml > $t
+xml sel -T -t -m /root/unit -v "id" -o " " -v name -n cards_finalform.xml >> $t
+##  note! local copy only, downloaded from cartoon-battle or reddit
+xml sel -T -t -m /root/unit -v "id" -o " " -v name -n cards_extra_downloaded.xml >> $t
 
-egrep "(<id|<name)" cards_finalform.xml  |paste - - >> $t
-egrep "(<id|<name)" cards_mythic.xml  |paste - - | sed 's/e>/e>Mythic /' >> $t
-# local copy!
-egrep "(<id|<name)" cards_extra_downloaded.xml |paste - - >> $t
-
-echo "<cards>" > card-id-name.xml
-sort $t | uniq >> card-id-name.xml
-echo "</cards>" >> card-id-name.xml
-
-
-xml sel -t -m /cards -v "." $f | perl -n -e "if (/\S/) { print }" | paste - - | sed 's/\t/ /g'  | sed 's/  / /g' | sed 's/  / /g' | sed 's/  / /g' | sed 's/^ //'  > cards-w-id
-
-echo "wrote cards-w-id"
+echo "wrote $t"
 
 
