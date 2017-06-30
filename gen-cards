@@ -1,15 +1,43 @@
+
+function toStars() {
+  stars=""
+  rare=$1
+  level=$2
+  i=$level
+ 
+  case $rare in
+  "3") max=5
+        ;;
+  "4") max=6 
+        ;;
+  "5") max=7
+        ;;
+  esac
+
+     while [ $i -gt $max ]
+     do
+        i=$[$i-$max]
+        stars="*"$stars
+     done
+   
+   echo $i$stars
+}
+
 for i in `cat units-w-levels-and-rarity`
 do   
   unit=`echo $i | cut -d- -f1`
   lvl=`echo $i | cut -d- -f2`
   rarity=`echo $i | cut -d- -f3`
   name=`egrep ^$unit cards-w-id | cut -d" " -f2-`
+
   case $rarity in
   "3") color="E";;
   "4") color="L";;
   "5") color="M";;
   esac
-  echo "$color $name: $lvl"
+
+  stars=`toStars $rarity $lvl`
+
+  #echo "$color $name: $lvl"
+  echo "$color $name: $stars"
 done 
-
-
