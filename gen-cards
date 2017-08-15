@@ -27,7 +27,7 @@ do
   unit=`echo $i | cut -d- -f1`
   lvl=`echo $i | cut -d- -f2`
   rarity=`echo $i | cut -d- -f3`
-  name=`egrep ^$unit cards-w-id | cut -d" " -f2-`
+  name=`egrep ^$unit cards-w-id | cut -d" " -f2- | head -1`
 
   case $rarity in
   "1") color="C" ;;
@@ -39,6 +39,7 @@ do
 
   stars=`toStars $rarity $lvl`
 
+  #echo "unit:$unit name:$name: lvl:$lvl rare:$rarity"
   #echo "$color $name: $lvl"
   echo "$color $name: $stars"
 done 

@@ -1,10 +1,12 @@
 
 t=cards-w-id
 
+curl -s 'https://spanser.net/AnimationThrowdown/cards.xml' > cards_spanser.xml
 curl -s 'https://cb-live.synapse-games.com/assets/cards_finalform.xml' > cards_finalform.xml
 curl -s 'https://cb-live.synapse-games.com/assets/cards_mythic.xml' > cards_mythic.xml
 
 xml sel -T -t -m /root/unit -v "id" -o " " -v name -n cards_mythic.xml > $t
+xml sel -T -t -m /root/unit -v "id" -o " " -v name -n cards_spanser.xml >> $t
 xml sel -T -t -m /root/unit -v "id" -o " " -v name -n cards_finalform.xml >> $t
 ##  note! local copy only, downloaded from cartoon-battle or reddit
 xml sel -T -t -m /root/unit -v "id" -o " " -v name -n cards_extra_downloaded.xml >> $t
