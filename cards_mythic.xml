@@ -5,6 +5,7 @@
 		<id>1100001</id>
 		<name>Stewie</name>
 		<desc>What the deuce?! Damn you all! Ha ha, classic. Stewie here. We're gonna have fun together.</desc>
+		<item_name>Stewie Fragment</item_name>
 		<item_desc>Collect Stewie Fragments to craft and upgrade a Mythic Stewie card!</item_desc>
 		<picture>StewieRarity1</picture>
 		<asset_bundle>26</asset_bundle>		
@@ -110,6 +111,7 @@
 		<id>1200001</id>
 		<name>Stan</name>
 		<desc>Field agent at the CIA. Stan is short for Stanley. Or Staniel.</desc>
+		<item_name>Stan Fragment</item_name>
 		<item_desc>Collect Stan Fragments to craft and upgrade a Mythic Stan card!</item_desc>
 		<picture>ad_stan_legendary</picture>
 		<asset_bundle>18</asset_bundle>	
@@ -212,6 +214,7 @@
 		<id>1300001</id>
 		<name>Louise</name>
 		<desc>Favorite Boy 4 Now: Boo Boo</desc>
+		<item_name>Louise Fragment</item_name>
 		<item_desc>Collect Louise Fragments to craft and upgrade a Mythic Louise card!</item_desc>
 		<picture>bb_louise_legendary</picture>
 		<asset_bundle>23</asset_bundle>
@@ -308,10 +311,112 @@
 			<attack>15</attack>
 		</upgrade>												
 	</unit>
+<!-- 	<unit>
+		<id>1300002</id>
+		<name>Bob</name>
+		<desc>I'd fire all of you if I could.</desc>
+		<item_name>Bob Fragment</item_name>
+		<item_desc>Collect Bob Fragments to craft and upgrade a Mythic Bob card!</item_desc>
+		<picture>Bob</picture>
+		<asset_bundle>4</asset_bundle>
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="inventory_upgrade_50_inventory" bundle_id="19"/>		
+		<rarity>5</rarity>
+		<set>7001</set>
+		<type>3</type>
+		<attack>8</attack>
+		<health>54</health>
+		<skill id="invigorate" x="8"/>
+		<skill id="rallyall" x="6"/>
+		<skill id="pierce" x="11"/>
+		<upgrade>
+			<level>2</level>
+			<skill id="pierce" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<attack>9</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>57</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<skill id="invigorate" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<skill id="pierce" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>60</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<skill id="rallyall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id="invigorate" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>63</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id="pierce" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<skill id="rallyall" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>66</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<skill id="invigorate" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>69</health>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<skill id="pierce" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<skill id="invigorate" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<skill id="rallyall" x="10"/>
+			<attack>15</attack>
+		</upgrade>												
+	</unit>	 -->
 <unit>
 		<id>1400001</id>
 		<name>Peggy</name>
 		<desc>Peggy wears a size 16 shoe on her right foot. 16 1/2 on the left.</desc>
+		<item_name>Peggy Fragment</item_name>
 		<item_desc>Collect Peggy Fragments to craft and upgrade a Mythic Peggy card!</item_desc>
 		<picture>koth_peggy_legendary</picture>
 		<asset_bundle>23</asset_bundle>
@@ -416,6 +521,7 @@
 		<id>1500001</id>
 		<name>Leela</name>
 		<desc>Depth perception is overrated.</desc>
+		<item_name>Leela Fragment</item_name>
 		<item_desc>Collect Leela Fragments to craft and upgrade a Mythic Leela card!</item_desc>
 		<picture>fr_leela_rarity</picture>
 		<asset_bundle>26</asset_bundle>
