@@ -4,9 +4,9 @@ all: cards deck
 
 cards:
 	./get-cards
-	./get-deck
 
 deck:
+	./get-deck
 	./gen-cards | sort | uniq -c
 
 clean:
