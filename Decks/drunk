@@ -1,4 +1,4 @@
-Defense:
+Defense: 6/7/12
    1 L Drunk at the Clam: 6**
    3 L High School Bill: 6**
    2 L Jose Servo: 6**
@@ -34,4 +34,9 @@ Offense: 8/8/9
    3 L Peter: 6**
    2 L Bender: 6**
 
-
+convert: 
+   +2 L Bender: ^**
+   +1 L Spring Break Shots: 6**
+   -1 L High School Bill: 6**
+   -1 L Mowing While Intoxicated: 6**
+   -1 L Yacht Dreams: 6**
