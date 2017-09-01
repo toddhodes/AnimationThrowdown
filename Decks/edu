@@ -3,17 +3,17 @@
 3 Bender
 3 Fry
 Louise
+Peggy
 
 1 Bending School
-4 Mr Frond 12/52
+5 Mr Frond 12/52
 2 Tom Landry 17/39
 
 3 HS Bill 14/55
 2 Principal Peter 18/48
 1 Diarama Gene 21/41
 
-2 Badmin
-1 HMH
+1 Badmin
 1 TFHL
 1 Viking
 
@@ -22,10 +22,9 @@ Louise
 
 10 gene
 
-7 Mr frond 12/52
+3 Mr frond 12/52
 9 Woz 12/45
 2 Bending school
-15 Principal shepard 16/38
 1 TL MS 17/39
 
 4 Principal peter 18/48
@@ -38,6 +37,4 @@ Louise
 1 gene - healer
 ? peter
 
-1 louise
-
-robot house
+TL == robot house
