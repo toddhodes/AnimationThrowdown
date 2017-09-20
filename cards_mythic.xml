@@ -311,107 +311,110 @@
 			<attack>15</attack>
 		</upgrade>												
 	</unit>
-<!-- 	<unit>
+	<unit>
 		<id>1300002</id>
 		<name>Bob</name>
 		<desc>I'd fire all of you if I could.</desc>
 		<item_name>Bob Fragment</item_name>
 		<item_desc>Collect Bob Fragments to craft and upgrade a Mythic Bob card!</item_desc>
-		<picture>Bob</picture>
-		<asset_bundle>4</asset_bundle>
+		<picture>BB_BobMythic</picture>
+		<asset_bundle>36</asset_bundle>
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="inventory_upgrade_50_inventory" bundle_id="19"/>		
 		<rarity>5</rarity>
 		<set>7001</set>
 		<type>3</type>
-		<attack>8</attack>
-		<health>54</health>
-		<skill id="invigorate" x="8"/>
-		<skill id="rallyall" x="6"/>
-		<skill id="pierce" x="11"/>
+		<attack>16</attack>
+		<health>44</health>
+		<skill id="poison" x="10"/>
+		<skill id="hijack" x="6"/>
+		<skill id="weakenall" x="6"/>
 		<upgrade>
 			<level>2</level>
-			<skill id="pierce" x="12"/>
+			<skill id="hijack" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<attack>9</attack>
+			<attack>17</attack>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>57</health>
+			<health>46</health>
+			<skill id="poison" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<skill id="invigorate" x="10"/>
+			<attack>18</attack>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<skill id="pierce" x="13"/>
+			<skill id="poison" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<health>60</health>
+			<health>49</health>
+			<skill id="weakenall" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<attack>11</attack>
+			<attack>19</attack>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<skill id="rallyall" x="7"/>
+			<skill id="weakenall" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<skill id="invigorate" x="11"/>
+			<skill id="hijack" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>63</health>
+			<health>52</health>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<attack>12</attack>
+			<skill id="poison" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<skill id="pierce" x="15"/>
+			<health>55</health>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<skill id="rallyall" x="8"/>
+			<skill id="hijack" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<health>66</health>
+			<health>57</health>			
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<skill id="invigorate" x="12"/>
+			<skill id="poison" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<attack>14</attack>
+			<attack>20</attack>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>69</health>
+			<health>60</health>
+			<skill id="weakenall" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<skill id="pierce" x="16"/>
+			<skill id="hijack" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
-			<skill id="invigorate" x="13"/>
+			<skill id="poison" x="17"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
-			<skill id="rallyall" x="10"/>
-			<attack>15</attack>
+			<skill id="weakenall" x="10"/>
+			<attack>21</attack>
 		</upgrade>												
-	</unit>	 -->
+	</unit>	
 <unit>
 		<id>1400001</id>
 		<name>Peggy</name>
