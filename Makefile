@@ -7,7 +7,7 @@ cards:
 
 deck:
 	./get-deck
-	./gen-cards | sort | uniq -c
+	./gen-cards | sort | uniq -c | tee CARDS
 
 clean:
 	rm	cards-w-id out units-w-levels-and-rarity
