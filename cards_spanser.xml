@@ -20613,6 +20613,7 @@
 		<set>1002</set>
 		<type>3</type>
 		<trait>disguised</trait>
+		<trait>musical</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.72</health_multiplier>
 		<skill id='rallyall' p='50' v='5' y='disguised' />
@@ -20857,6 +20858,7 @@
 		<set>1002</set>
 		<type>3</type>
 		<trait>disguised</trait>
+		<trait>musical</trait>
 		<attack_multiplier>0.73</attack_multiplier>
 		<health_multiplier>0.70</health_multiplier>
 		<skill id='heal' p='30' v='11' y='3' />
