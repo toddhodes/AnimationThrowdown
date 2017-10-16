@@ -11197,7 +11197,37 @@
 		<skill id='weaken' p='32' v='10' />
 		<skill id='berserk' p='35' v='7' />
 	</unit>
-	
+	<unit>
+		<id>15141</id>
+		<name>Owl Stewie</name>
+		<desc>Hoo Hoo! Take it slow.</desc>
+		<picture>fg_stewieowl</picture>
+		<asset_bundle>14</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>1</type>
+		<trait>disguised</trait>
+		<attack_multiplier>0.74</attack_multiplier>
+		<health_multiplier>0.74</health_multiplier>
+		<skill id='weakenall' p='50' v='6' />
+		<skill id='strike' p='27' v='11' />
+	</unit>	
+	<unit>
+		<id>15142</id>
+		<name>S and M Lois</name>
+		<desc>The safety word is banana.</desc>
+		<picture>fg_s_mlois</picture>
+		<asset_bundle>14</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>1</type>
+		<trait>disguised</trait>
+		<attack_multiplier>0.71</attack_multiplier>
+		<health_multiplier>0.73</health_multiplier>		
+		<skill id='strike' p='32' v='12' />
+		<skill id='armored' p='25' v='9' />
+		<skill id='invigorate' p='22' v='9' />
+	</unit>		
 	<!-- American Dad -->
 
 <unit>
@@ -13847,7 +13877,108 @@
 			<skill id='healall' x='4' y='musical' />
 		</upgrade>
 	</unit>
-
+	<unit>
+		<id>20038</id>
+		<name>Roger's Sexy Shorts</name>
+		<desc></desc>
+		<picture>AD_RogersSexyShorts2</picture>
+		<asset_bundle>37</asset_bundle>
+		<rarity>4</rarity>
+		<set>9999</set>
+		<type>2</type>
+		<trait>disguised</trait>
+		<release_time>1508436000</release_time>
+		<attack>6</attack>
+		<health>30</health>
+		<skill id='outlast' x='4' />
+		<skill id='armored' x='3' />
+		<skill id='barrierall' x='1' y='disguised' />
+		<upgrade>
+			<level>2</level>
+			<skill id='outlast' x='5' />
+			<health>31</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<skill id='armored' x='4' />
+			<health>33</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<skill id='outlast' x='6' />
+			<health>35</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<skill id='armored' x='5' />
+			<health>37</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>7</attack>			
+			<health>39</health>
+			<skill id='barrierall' x='2' y='disguised' />
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<skill id='armored' x='6' />
+			<health>41</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<attack>8</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<skill id='outlast' x='7' />
+			<health>43</health>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id='outlast' x='8' />
+			<health>45</health>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>46</health>
+			<skill id='armored' x='7' />
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<skill id='barrierall' x='3' y='disguised' />
+			<health>47</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>49</health>
+			<skill id='outlast' x='9' />
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<skill id='armored' x='8' />
+			<health>51</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>53</health>
+			<skill id='outlast' x='10' />
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<skill id='outlast' x='11' />
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<attack>9</attack>
+			<health>55</health>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>57</health>
+			<skill id='armored' x='9' />
+			<skill id='barrierall' x='4' y='disguised' />
+		</upgrade>
+	</unit>
 	<!--  stop at id 24000 -->
 
 	<!-- American Dad Combos -->
@@ -15587,7 +15718,22 @@
 		<skill id='heal' p='25' v='12' />
 		<skill id='weakenall' p='50' v='4' />
 	</unit>
-
+	<unit>
+		<id>25118</id>
+		<name>Boy Witch Steve</name>
+		<desc></desc>
+		<picture>AD_BoyWitchSteve</picture>
+		<asset_bundle>36</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>2</type>
+		<trait>disguised</trait>
+		<attack_multiplier>0.73</attack_multiplier>
+		<health_multiplier>0.69</health_multiplier>
+		<skill id='berserk' p='34' v='6' />
+		<skill id='leech' p='24' v='10' />
+		<skill id='counter' p='28' v='12' />
+	</unit>
 	<!--  stop at id 24000 -->
 	<!-- Bob's Burgers -->
 	<unit>
@@ -19306,7 +19452,98 @@
 			<health>45</health>
 		</upgrade>
 	</unit>
-		
+	<unit>
+		<id>30050</id>
+		<name>Jimmy Jr. Horse Costume</name>
+		<desc>You take my breath away.</desc>
+		<picture>BB_JimmyJrHorse</picture>
+		<asset_bundle>33</asset_bundle>
+		<rarity>4</rarity>
+		<set>9999</set>
+		<type>3</type>
+		<trait>disguised</trait>
+		<release_time>1507831200</release_time>
+		<attack>9</attack>
+		<health>22</health>
+		<skill id='bodyguard' x='5' />
+		<skill id='inspire' x='4' y='disguised' />
+		<upgrade>
+			<level>2</level>
+			<skill id='inspire' x='5' y='disguised' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>24</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<attack>10</attack>
+			<health>26</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<skill id='inspire' x='6' y='disguised' />
+			<health>28</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>11</attack>
+			<skill id='bodyguard' x='6' />
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>30</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<attack>12</attack>			
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<skill id='bodyguard' x='7' />
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id='inspire' x='7' y='disguised' />
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<attack>13</attack>
+			<health>32</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<skill id='bodyguard' x='8' />
+			<health>34</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id='inspire' x='8' y='disguised' />
+			<health>35</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>14</attack>
+			<health>36</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<skill id='bodyguard' x='9' />
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>39</health>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<skill id='inspire' x='9' y='disguised' />
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>15</attack>
+			<health>40</health>
+		</upgrade>
+	</unit>		
 	<!-- Bob's Burgers Combos -->
 
 	<unit>
@@ -21082,7 +21319,23 @@
 		<skill id='outlast' p='30' v='9' />
 		<skill id='rally' p='30' v='10' y='3' />
 		<skill id='pierce' p='25' v='12' />
-	</unit>	
+	</unit>
+	<unit>
+		<id>35119</id>
+		<name>Half Dog Gene</name>
+		<desc>Half dog. Half Hanks. All cop.</desc>
+		<picture>BB_HalfDogHalfCopGene</picture>
+		<asset_bundle>33</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>3</type>
+		<trait>disguised</trait>
+		<attack_multiplier>0.71</attack_multiplier>
+		<health_multiplier>0.76</health_multiplier>
+		<skill id='armored' p='25' v='7' />
+		<skill id='inspire' p='24' v='8' />
+		<skill id='barrierall' p='55' v='5' y='disguised' />
+	</unit>			
 	<!-- King of the Hill -->
 
 	<unit>
@@ -23658,7 +23911,104 @@
 			<attack>17</attack>
 			<health>41</health>
 		</upgrade>
-	</unit>		
+	</unit>	
+	<unit>
+		<id>40037</id>
+		<name>Ski Mask</name>
+		<desc>I can show you how to make a bomb out of toilet paper and dynamite.</desc>
+		<picture>koth_skimaskdale</picture>
+		<asset_bundle>15</asset_bundle>
+		<rarity>4</rarity>
+		<set>9999</set>
+		<type>4</type>
+		<trait>disguised</trait>
+		<release_time>1507831200</release_time>
+		<attack>9</attack>
+		<health>22</health>
+		<skill id="barrier" x="3" y='disguised'/>
+		<skill id="strike" x="4" />
+		<upgrade>
+			<level>2</level>
+			<health>23</health>
+			<skill id="bodyguard" x="1"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>25</health>
+			<skill id="strike" x="4" />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>26</health>
+			<skill id="bodyguard" x="3" />
+			<skill id="barrier" x="5" y='disguised'/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>28</health>
+			<skill id="strike" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>30</health>
+			<skill id="bodyguard" x="4" />
+		</upgrade>
+		<upgrade>
+			<level>8</level>			
+			<skill id="barrier" x="6" y='disguised'/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<skill id="strike" x="7"/>
+			<health>32</health>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id="bodyguard" x="5" />
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<skill id="strike" x="8"/>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<skill id="bodyguard" x="6" />
+			<health>34</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id="barrier" x="7" y='disguised'/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<skill id="strike" x="9"/>
+			<health>35</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>36</health>
+			<skill id="strike" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<skill id="barrier" x="8" y='disguised'/>
+			<health>38</health>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<skill id="bodyguard" x="7" />
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>12</attack>
+			<health>40</health>
+		</upgrade>
+	</unit>				
 	<!--  stop at id 44000 -->
 	<!-- King of the Hill combos -->
 
@@ -25323,6 +25673,22 @@
 		<skill id='shrapnel' p='35' v='7' />
 		<skill id='poison' p='25' v='11' />
 	</unit>
+	<unit>
+		<id>45109</id>
+		<name>Military Tux Bill</name>
+		<desc></desc>
+		<picture>KOTH_MilitaryTuxBill</picture>
+		<asset_bundle>36</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>4</type>
+		<trait>disguised</trait>
+		<attack_multiplier>0.8</attack_multiplier>
+		<health_multiplier>0.62</health_multiplier>
+		<skill id='poison' p='30' v='13' />
+		<skill id='bodyguard' p='25' v='7' />
+		<skill id='pierce' p='20' v='12' />
+	</unit>	
 	<!-- Futurama -->
 
 <unit>
@@ -30043,7 +30409,23 @@
 		<health_multiplier>0.74</health_multiplier>
 		<skill id='rally' p='30' v='12' y='5' />
 		<skill id='leech' p='27' v='13' />
-	</unit>		
+	</unit>	
+	<unit>
+		<id>55109</id>
+		<name>Water Nympho</name>
+		<desc></desc>
+		<picture>FR_WaterNymphoAmy</picture>
+		<asset_bundle>37</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>5</type>
+		<trait>disguised</trait>
+		<attack_multiplier>0.7</attack_multiplier>
+		<health_multiplier>0.7</health_multiplier>
+		<skill id='healall' p='55' v='5' y='disguised' />
+		<skill id='leech'   p='20' v='10' />
+		<skill id='poison'   p='28' v='12' />
+	</unit>			
 <!-- END Futurama Combos -->
 
 <!-- Generic Input Cards -->
@@ -31772,11 +32154,11 @@
 		<health>4</health>
 		<upgrade>
 			<level>2</level>
-			<health>3</health>
+			<health>5</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>5</health>
+			<health>6</health>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
@@ -32940,7 +33322,7 @@
 		<id>give</id>
 		<name>Give</name>
 		<icon>skill_give</icon>
-		<upkeep>1</upkeep>
+		<!-- <upkeep>1</upkeep> -->
 		<target_anim>rally</target_anim>
 		<desc>Give a random card the {s} skill with {x} value.</desc>
 		<short_desc>Give {x}</short_desc>

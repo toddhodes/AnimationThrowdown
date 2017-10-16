@@ -8751,9 +8751,10 @@
 	  <picture>bb_burgersandfriesgene</picture>
 	  <asset_bundle>14</asset_bundle>
 	  <rarity>3</rarity>
-	  <set>3001</set>
+	  <set>9999</set>
 	  <type>3</type>
 	  <trait>disguised</trait>
+	  <trait>musical</trait>
 	  <skill id="rallyall" x="1" y="disguised"/>
 	  <skill id="berserk" x="2"/>
 	  <attack>7</attack>
@@ -10678,9 +10679,10 @@
 	  <picture>bb_burgersandfrieslouise</picture>
 	  <asset_bundle>14</asset_bundle>
 	  <rarity>4</rarity>
-	  <set>3001</set>
+	  <set>9999</set>
 	  <type>3</type>
 	  <trait>disguised</trait>
+	  <trait>musical</trait>
 	  <release_time>1493316000</release_time>
 	  <skill id="heal" x="6" y="3"/>
 	  <skill id="shrapnel" x="4"/>
