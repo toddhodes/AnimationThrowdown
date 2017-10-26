@@ -548,7 +548,7 @@
 	  <id>110009</id>
 		<combo_card_id>15114</combo_card_id>
 	  <name>American Giggolo</name>
-	  <desc></desc>
+	  <desc>Ladies, this is your pilot speaking. I am in the full, upright, and locked position.</desc>
 	  <picture>AmericanGiggolo</picture>
 	  <asset_bundle>12</asset_bundle>
 	  <rarity>3</rarity>
@@ -641,6 +641,7 @@
 		<combo_card_id>15113</combo_card_id>
 	  <name>Pimp Peter</name>
 	  <picture>PimpPeter</picture>
+	  <desc>You know I hit you and whore you out because I love you right?</desc>
 	  <asset_bundle>12</asset_bundle>
 	  <rarity>4</rarity>
 	  <set>3001</set>
@@ -1205,8 +1206,9 @@
 	<unit>
 	  <id>110016</id>
 		<combo_card_id>15119</combo_card_id>
-	  <name>Teen La Queefa</name>
+	  <name>Teen LaQueefa</name>
 	  <picture>fg_teenlaqueefa</picture>
+	  <desc>She'd be in the history books, if anyone kept track of this nonsense.</desc>
 	  <asset_bundle>22</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>
@@ -3501,6 +3503,7 @@
 	  <id>110041</id>
 	  <name>Principal Peter</name>
 	  <picture>FG_PrincipalPeter</picture>
+	  <desc>Later, he got in a lot of trouble for hitting kids.</desc>
 	  <asset_bundle>36</asset_bundle>
 	  <rarity>4</rarity>
 	  <set>3001</set>
@@ -3610,6 +3613,7 @@
 	<unit>
 	  <id>110042</id>
 	  <name>ABC Quagmire</name>
+	  <desc>I hope to one day Giggity, like my father, and his father before him.</desc>
 	  <picture>FG_PrepubescentQuagmire</picture>
 	  <asset_bundle>36</asset_bundle>
 	  <rarity>3</rarity>
@@ -4849,7 +4853,7 @@
 	  <id>120010</id>
 		<combo_card_id>25088</combo_card_id>
 	  <name>Heavy Metal Hayley</name>
-	  <desc>From the episode "Father's Daze".</desc>
+	  <desc>From the episode "Father's Daze."</desc>
 	  <picture>ad_heavymetalhayley</picture>
 	  <asset_bundle>15</asset_bundle>
 	  <rarity>4</rarity>
@@ -4955,7 +4959,7 @@
 	  <id>120011</id>
 		<combo_card_id>25089</combo_card_id>
 	  <name>Opera Francine</name>
-	  <desc>From the episode "Father's Daze".</desc>
+	  <desc>From the episode "Father's Daze."</desc>
 	  <picture>ad_operafrancine</picture>
 	  <asset_bundle>15</asset_bundle>
 	  <rarity>3</rarity>
@@ -5234,6 +5238,7 @@
 	  <id>120014</id>
 		<combo_card_id>25091</combo_card_id>
 	  <name>Stevie Wonderbra</name>
+	  <desc>I like his nickname because it's about tits.</desc>
 	  <picture>ad_steviewonderbra</picture>
 	  <asset_bundle>18</asset_bundle>
 	  <rarity>3</rarity>
@@ -6686,6 +6691,7 @@
 	  <id>120030</id>
 	  <name>Tennis Stan</name>
 	  <picture>ad_TennisStan</picture>
+	  <desc>Is there anything better than night tennis?</desc>
 	  <asset_bundle>32</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>
@@ -6772,6 +6778,7 @@
 <unit>
 	  <id>120031</id>
 	  <name>Badminton Roger</name>
+	  <desc>Line judge, you ready?</desc>
 	  <picture>AD_badmintonRoger</picture>
 	  <asset_bundle>32</asset_bundle>
 	  <rarity>4</rarity>
@@ -7718,6 +7725,7 @@
 	  <id>120042</id>
 	  <name>Mr. Deliver</name>
 	  <picture>AD_MrDeliverRoger</picture>
+	  <desc>The Captain goes down with the ship.</desc>
 	  <asset_bundle>36</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>
@@ -8010,6 +8018,7 @@
 	  <id>120045</id>
 	  <name>Boy Witch Steve</name>
 	  <picture>AD_BoyWitchSteve</picture>
+	  <desc>I can fly! (He can't really fly.)</desc>
 	  <asset_bundle>36</asset_bundle>
 	  <rarity>4</rarity>
 	  <set>3001</set>
@@ -9143,6 +9152,7 @@
 		<combo_card_id>35089</combo_card_id>
 	  <name>Bob Gene</name>
 	  <picture>bb_bobgene</picture>
+	  <desc>It's perfect! I've been tarred and Bob-ed.</desc>
 	  <asset_bundle>14</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3002</set>
@@ -9307,6 +9317,7 @@
 		<combo_card_id>35086</combo_card_id>
 	  <name>Sandwitch</name>
 	  <picture>bb_sandwitch</picture>
+	  <desc>Witch, please!</desc>
 	  <asset_bundle>15</asset_bundle>
 	  <rarity>4</rarity>
 	  <set>3001</set>
@@ -9501,6 +9512,7 @@
 	  <id>130015</id>
 		<combo_card_id>35090</combo_card_id>
 	  <name>Top of the Pecking Order</name>
+	  <desc>I'm the alpha turkey.</desc>
 	  <picture>bb_topofthepeckingorder</picture>
 	  <asset_bundle>21</asset_bundle>
 	  <rarity>3</rarity>
@@ -9586,6 +9598,7 @@
 		<combo_card_id>35092</combo_card_id>
 	  <name>Running Hose</name>
 	  <picture>bb_runninghose</picture>
+	  <desc>Nice stems!</desc>
 	  <asset_bundle>21</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>
@@ -9670,6 +9683,7 @@
 		<combo_card_id>35093</combo_card_id>
 	  <name>Naked Tug of War</name>
 	  <picture>bb_nakedtugofwarbob</picture>
+	  <desc>Big fatty wins the tug!</desc>
 	  <asset_bundle>21</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>
@@ -11054,6 +11068,7 @@
 	  <id>130032</id>
 	  <name>Horse Rider Tina</name>
 	  <picture>bb_HorseRiderTina</picture>
+	  <desc>This is really happening.</desc>
 	  <asset_bundle>31</asset_bundle>
 	  <rarity>4</rarity>
 	  <set>3001</set>
@@ -12009,6 +12024,7 @@
 	  <id>130043</id>
 	  <name>Diarama Gene</name>
 	  <picture>BB_DiaramaGene</picture>
+	  <desc>Ta-da!</desc>
 	  <asset_bundle>36</asset_bundle>
 	  <rarity>4</rarity>
 	  <set>3001</set>
@@ -12118,6 +12134,7 @@
 	  <id>130044</id>
 	  <name>News Anchor Tina</name>
 	  <picture>BB_SchoolNewsTina</picture>
+	  <desc>Have a seat at the Tina table.</desc>
 	  <asset_bundle>35</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>
@@ -12214,6 +12231,7 @@
 	  <id>130045</id>
 	  <name>Mocktrial Louise</name>
 	  <picture>BB_MocktrialLouise</picture>
+	  <desc>This whole card is out of order!</desc>
 	  <asset_bundle>36</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>
@@ -13641,6 +13659,7 @@
 		<combo_card_id>45080</combo_card_id>
 	  <name>Baseball Bobby</name>
 	  <picture>koth_baseballbobby</picture>
+	  <desc>Don't play lawyer ball son.</desc>
 	  <asset_bundle>21</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3002</set>
@@ -14952,6 +14971,7 @@
 	  <id>140026</id>
 	  <name>Golfing Hank</name>
 	  <picture>koth_GolfClubHank</picture>
+	  <desc>The quicker we're out of Hot Springs the better.</desc>
 	  <asset_bundle>26</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>
@@ -15044,6 +15064,7 @@
 	  <id>140027</id>
 	  <name>Cheerleader Peggy</name>
 	  <picture>koth_CheerleaderPeggy</picture>
+	  <desc>Arlen, Arlen, Fight Fight Fight!</desc>
 	  <asset_bundle>26</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>
@@ -15128,6 +15149,7 @@
 	  <id>140028</id>
 	  <name>Swimmer Dale</name>
 	  <picture>KOTH_SwimmerDale</picture>
+	  <desc>Ready to refine my strokes.</desc>
 	  <asset_bundle>26</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>
@@ -16320,6 +16342,7 @@
 	  <id>140040</id>
 	  <name>High School Bill</name>
 	  <picture>KOTH_HS_Bill</picture>
+	  <desc>I'll never lose this hair.</desc>
 	  <asset_bundle>36</asset_bundle>
 	  <rarity>4</rarity>
 	  <set>3001</set>
@@ -16429,6 +16452,7 @@
 	  <id>140041</id>
 	  <name>Sex Ed Teacher</name>
 	  <picture>KOTH_SexEdTeacherPeggy</picture>
+	  <desc>This doesn't seem right.</desc>
 	  <asset_bundle>36</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>
@@ -16523,6 +16547,7 @@
 	  <id>140042</id>
 	  <name>Shop Teacher Hank</name>
 	  <picture>KOTH_ShopTeacherHank</picture>
+	  <desc>The real Substitute Teacher of the Year.</desc>
 	  <asset_bundle>36</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>
@@ -18749,6 +18774,7 @@
 	  <id>150018</id>
 	  <name>Congo Jack</name>
 	  <picture>fr_congojackfry</picture>
+	  <desc>Congo Jack? Another shocking twist!</desc>
 	  <asset_bundle>21</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3002</set>
@@ -19788,6 +19814,7 @@
 	  <id>150029</id>
 	  <name>Bucking Buggalo Leela</name>
 	  <picture>fr_BuckingBuggaloLeela</picture>
+	  <desc>...where the deer and the-- oh god make it stop!!</desc>
 	  <asset_bundle>32</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>

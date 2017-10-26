@@ -7699,7 +7699,7 @@
 <unit>
 		<id>10030</id>
 		<name>Chris Griffin</name>
-		<desc>Hi, I'm Chris! I'm from TV and now your phone!</desc>
+		<desc>You did it Chris! You're a legend!</desc>
 		<picture>ChrisGriffin</picture>
 		<asset_bundle>18</asset_bundle>
 		<rarity>4</rarity>
@@ -7963,7 +7963,7 @@
 		<name>Lady Wrestling</name>
 		<picture>fg_wrestling</picture>
 		<asset_bundle>22</asset_bundle>
-		<desc></desc>
+		<desc>These gals have over eight meters of ass-crack between them.</desc>
 		<rarity>3</rarity>
 		<set>2</set>
 		<type>1</type>
@@ -8044,7 +8044,7 @@
 
 <unit>
 		<id>10034</id>
-		<name>Pushups</name>
+		<name>Push Ups</name>
 		<picture>fg_pushup</picture>
 		<asset_bundle>22</asset_bundle>
 		<desc/>
@@ -8919,7 +8919,7 @@
 	<unit>
 		<id>10044</id>
 		<name>Principal Shepard</name>
-		<desc></desc>
+		<desc>By the rules of high school, you are now the coolest. But not really.</desc>
 		<picture>FG_PrincipalShepard</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>4</rarity>
@@ -9017,7 +9017,7 @@
 	<unit>
 		<id>10045</id>
 		<name>Preschool Grad Stewie</name>
-		<desc></desc>
+		<desc>The "Participation" Diploma.</desc>
 		<picture>FG_PreschoolStewie</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>3</rarity>
@@ -9282,6 +9282,98 @@
 			<health>37</health>
 		</upgrade>
 	</unit>		
+	<unit>
+		<id>10048</id>
+		<name>Softball Player Jerome</name>
+		<desc></desc>
+		<picture></picture>
+		<asset_bundle></asset_bundle>
+		<rarity>4</rarity>
+		<set>9999</set>
+		<type>1</type>
+		<trait>athletic</trait>
+		<release_time>1510250400</release_time>
+		<attack>10</attack>
+		<health>21</health>
+		<skill id='hijack' x='3' />
+		<skill id='strike' x='4' />
+		<skill id='rally' x='7' y='athletic' />
+		<upgrade>
+			<level>2</level>
+			<skill id='rally' x='8' y='athletic' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<skill id='strike' x='5' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<skill id='hijack' x='4' />
+			<health>23</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<skill id='rally' x='9' y='athletic' />
+			<health>25</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<attack>12</attack>		
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<skill id='strike' x='6' />
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>27</health>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<skill id='hijack' x='5' />
+			<health>29</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<skill id='rally' x='10' y='athletic' />
+			<health>31</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id='strike' x='7' />
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>33</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<attack>17</attack>
+			<health>35</health>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<skill id='hijack' x='6' />
+			<health>37</health>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<skill id='rally' x='12' y='athletic' />
+			<attack>19</attack>
+		</upgrade>
+	</unit>	
 	<!--  stop at id 14000 -->
 	<!-- Family Guy Combos -->
 
@@ -9834,7 +9926,7 @@
 	<unit>
 		<id>15038</id>
 		<name>Giggitygun</name>
-		<desc></desc>
+		<desc>Giggity giggity giggity giggity giggity giggity!</desc>
 		<picture>fg_giggitygun</picture>
 		<asset_bundle>18</asset_bundle>
 		<rarity>1</rarity>
@@ -10580,7 +10672,7 @@
 	<unit>
 		<id>15091</id>
 		<name>Roller Skate Peter</name>
-		<desc></desc>
+		<desc>Ah, disco and roller skating. A timeless combination.</desc>
 		<picture>fg_rollerskatingpeter</picture>
 		<asset_bundle>22</asset_bundle>
 		<rarity>1</rarity>
@@ -10873,7 +10965,7 @@
 	<unit>
 		<id>15113</id>
 		<name>Pimp Peter</name>
-		<desc></desc>
+		<desc>You know I hit you and whore you out because I love you right?</desc>
 		<picture>PimpPeter</picture>
 		<asset_bundle>12</asset_bundle>
 		<rarity>1</rarity>
@@ -10888,7 +10980,7 @@
 	<unit>
 		<id>15114</id>
 		<name>American Giggolo</name>
-		<desc></desc>
+		<desc>Ladies, this is your pilot speaking. I am in the full, upright, and locked position.</desc>
 		<picture>AmericanGiggolo</picture>
 		<asset_bundle>12</asset_bundle>
 		<rarity>1</rarity>
@@ -10965,8 +11057,8 @@
 	</unit>
 	<unit>
 		<id>15119</id>
-		<name>Teen La Queefa</name>
-		<desc></desc>
+		<name>Teen LaQueefa</name>
+		<desc>She'd be in the history books, if anyone kept track of this nonsense.</desc>
 		<picture>fg_teenlaqueefa</picture>
 		<asset_bundle>22</asset_bundle>
 		<rarity>1</rarity>
@@ -11229,7 +11321,7 @@
 	<unit>
 		<id>15137</id>
 		<name>ABC Quagmire</name>
-		<desc></desc>
+		<desc>I hope to one day Giggity, like my father, and his father before him.</desc>
 		<picture>FG_PrepubescentQuagmire</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>1</rarity>
@@ -11245,7 +11337,7 @@
 	<unit>
 		<id>15138</id>
 		<name>Principal Peter</name>
-		<desc></desc>
+		<desc>Later, he got in a lot of trouble for hitting kids.</desc>
 		<picture>FG_PrincipalPeter</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>1</rarity>
@@ -11320,6 +11412,37 @@
 		<skill id='strike' p='32' v='12' />
 		<skill id='armored' p='25' v='9' />
 		<skill id='invigorate' p='22' v='9' />
+	</unit>	
+	<unit>
+		<id>15143</id>
+		<name>Baseball Chris</name>
+		<desc></desc>
+		<picture></picture>
+		<asset_bundle></asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>1</type>
+		<trait>athletic</trait>
+		<attack_multiplier>0.72</attack_multiplier>
+		<health_multiplier>0.72</health_multiplier>		
+		<skill id='armored' p='28' v='8' />
+		<skill id='weakenall' p='50' v='4' />
+		<skill id='leech' p='25' v='12' />
+	</unit>	
+	<unit>
+		<id>15144</id>
+		<name>Golfing Lois</name>
+		<desc></desc>
+		<picture></picture>
+		<asset_bundle></asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>1</type>
+		<trait>athletic</trait>
+		<attack_multiplier>0.75</attack_multiplier>
+		<health_multiplier>0.69</health_multiplier>		
+		<skill id='healall' p='50' v='5' y='athletic' />
+		<skill id='strike' p='25' v='9' />
 	</unit>		
 	<!-- American Dad -->
 
@@ -13785,7 +13908,7 @@
 	<unit>
 		<id>20036</id>
 		<name>Professor Baxter</name>
-		<desc></desc>
+		<desc>Heads up, I might be changing it back to Professor Guggenheim.</desc>
 		<picture>AD_ProfessorBaxter</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>4</rarity>
@@ -13973,7 +14096,7 @@
 	<unit>
 		<id>20038</id>
 		<name>Roger's Sexy Shorts</name>
-		<desc></desc>
+		<desc>Maybe too sexy?</desc>
 		<picture>AD_RogersSexyShorts2</picture>
 		<asset_bundle>37</asset_bundle>
 		<rarity>4</rarity>
@@ -15398,7 +15521,7 @@
 	<unit>
 		<id>25091</id>
 		<name>Stevie Wonderbra</name>
-		<desc></desc>
+		<desc>I like his nickname because it's about tits.</desc>
 		<picture>ad_steviewonderbra</picture>
 		<asset_bundle>18</asset_bundle>
 		<rarity>1</rarity>
@@ -15581,7 +15704,7 @@
 	<unit>
 		<id>25103</id>
 		<name>Tennis Stan</name>
-		<desc></desc>
+		<desc>Is there anything better than night tennis?</desc>
 		<picture>ad_TennisStan</picture>
 		<asset_bundle>32</asset_bundle>
 		<rarity>1</rarity>
@@ -15597,7 +15720,7 @@
 	<unit>
 		<id>25104</id>
 		<name>Badminton Roger</name>
-		<desc></desc>
+		<desc>Line judge, you ready?</desc>
 		<picture>AD_badmintonRoger</picture>
 		<asset_bundle>32</asset_bundle>
 		<rarity>1</rarity>
@@ -15613,7 +15736,7 @@
 	<unit>
 		<id>25105</id>
 		<name>Francine Painting</name>
-		<desc></desc>
+		<desc>I need some time alone with the painting.</desc>
 		<picture>AD_FrancinePainting</picture>
 		<asset_bundle>33</asset_bundle>
 		<rarity>1</rarity>
@@ -15768,7 +15891,7 @@
 	<unit>
 		<id>25115</id>
 		<name>Mr. Deliver</name>
-		<desc></desc>
+		<desc>The Captain goes down with the ship.</desc>
 		<picture>AD_MrDeliverRoger</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>1</rarity>
@@ -15815,7 +15938,7 @@
 	<unit>
 		<id>25118</id>
 		<name>Boy Witch Steve</name>
-		<desc></desc>
+		<desc>I can fly! (He can't really fly.)</desc>
 		<picture>AD_BoyWitchSteve</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>1</rarity>
@@ -15860,6 +15983,22 @@
 		<skill id='counter' p='20' v='9' />
 		<skill id='shrapnel'  p='32' v='8' />
 	</unit>		
+	<unit>
+		<id>25121</id>
+		<name>Criss Cross Applesauce</name>
+		<desc>Time to school some fools!</desc>
+		<picture>ad_crisscrossapplesauce</picture>
+		<asset_bundle>18</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>2</type>
+		<trait>athletic</trait>
+		<attack_multiplier>0.76</attack_multiplier>
+		<health_multiplier>0.67</health_multiplier>
+		<skill id='bodyguard' p='30' v='7' />
+		<skill id='heal' p='25' v='11' y='athletic' />
+		<skill id='poison' p='27' v='12' />
+	</unit>	
 	<!--  stop at id 24000 -->
 	<!-- Bob's Burgers -->
 	<unit>
@@ -18058,7 +18197,7 @@
 	<unit>
 		<id>30033</id>
 		<name>Turkey Trot</name>
-		<desc></desc>
+		<desc>Turk-tacular!</desc>
 		<picture>bb_turkeytrot</picture>
 		<asset_bundle>21</asset_bundle>
 		<rarity>3</rarity>
@@ -19220,7 +19359,7 @@
 	<unit>
 		<id>30046</id>
 		<name>Mr. Frond</name>
-		<desc></desc>
+		<desc>S - slap it (a high five).</desc>
 		<picture>BB_MrFrond</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>4</rarity>
@@ -19310,7 +19449,7 @@
 	<unit>
 		<id>30047</id>
 		<name>Erotic Friend Fiction</name>
-		<desc></desc>
+		<desc>Sexy 60 Minutes.</desc>
 		<picture>BB_EroticFriendFictionWriterTina</picture>
 		<asset_bundle>35</asset_bundle>
 		<rarity>3</rarity>
@@ -20186,7 +20325,7 @@
 
 	<unit>
 		<id>35034</id>
-		<name>The Child Molester</name>
+		<name>The Child Molestor</name>
 		<desc>It's the Burger of the Day.</desc>
 		<picture>TheChildMolestor</picture>
 		<asset_bundle>5</asset_bundle>
@@ -20937,7 +21076,7 @@
 	<unit>
 		<id>35086</id>
 		<name>Sandwitch</name>
-		<desc></desc>
+		<desc>Witch, please!</desc>
 		<picture>bb_sandwitch</picture>
 		<asset_bundle>15</asset_bundle>
 		<rarity>1</rarity>
@@ -20985,7 +21124,7 @@
 	<unit>
 		<id>35089</id>
 		<name>Bob Gene</name>
-		<desc></desc>
+		<desc>It's perfect! I've been tarred and Bob-ed.</desc>
 		<picture>bb_bobgene</picture>
 		<asset_bundle>14</asset_bundle>
 		<rarity>1</rarity>
@@ -21000,7 +21139,7 @@
 	<unit>
 		<id>35090</id>
 		<name>Top of the Pecking Order</name>
-		<desc></desc>
+		<desc>I'm the alpha turkey.</desc>
 		<picture>bb_topofthepeckingorder</picture>
 		<asset_bundle>21</asset_bundle>
 		<rarity>1</rarity>
@@ -21030,7 +21169,7 @@
 	<unit>
 		<id>35092</id>
 		<name>Running Hose</name>
-		<desc></desc>
+		<desc>Nice stems!</desc>
 		<picture>bb_runninghose</picture>
 		<asset_bundle>21</asset_bundle>
 		<rarity>1</rarity>
@@ -21045,7 +21184,7 @@
 	<unit>
 		<id>35093</id>
 		<name>Naked Tug of War</name>
-		<desc></desc>
+		<desc>Big fatty wins the tug!</desc>
 		<picture>bb_nakedtugofwarbob</picture>
 		<asset_bundle>21</asset_bundle>
 		<rarity>1</rarity>
@@ -21184,7 +21323,7 @@
 	<unit>
 		<id>35102</id>
 		<name>Horse Rider Tina</name>
-		<desc></desc>
+		<desc>This is really happening.</desc>
 		<picture>bb_HorseRiderTina</picture>
 		<asset_bundle>31</asset_bundle>
 		<rarity>1</rarity>
@@ -21199,7 +21338,7 @@
 	<unit>
 		<id>35103</id>
 		<name>Cat Dragon</name>
-		<desc></desc>
+		<desc>Whiskers is Coming.</desc>
 		<picture>BB_CatDragonLouise</picture>
 		<asset_bundle>33</asset_bundle>
 		<rarity>1</rarity>
@@ -21355,7 +21494,7 @@
 	<unit>
 		<id>35113</id>
 		<name>News Anchor Tina</name>
-		<desc></desc>
+		<desc>Have a seat at the Tina table.</desc>
 		<picture>BB_SchoolNewsTina</picture>
 		<asset_bundle>35</asset_bundle>
 		<rarity>1</rarity>
@@ -21371,7 +21510,7 @@
 	<unit>
 		<id>35114</id>
 		<name>Diarama Gene</name>
-		<desc></desc>
+		<desc>Ta-da!</desc>
 		<picture>BB_DiaramaGene</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>1</rarity>
@@ -21387,7 +21526,7 @@
 	<unit>
 		<id>35115</id>
 		<name>Mocktrial Louise</name>
-		<desc></desc>
+		<desc>This whole card is out of order!</desc>
 		<picture>BB_MocktrialLouise</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>1</rarity>
@@ -23197,7 +23336,7 @@
 <unit>
 		<id>40027</id>
 		<name>Hank Hill</name>
-		<desc>What the hell kind of country is this where I can only hate a man if he's white?</desc>
+		<desc>Being a legend feels pretty good, I'll tell ya what.</desc>
 		<picture>koth_hankhill_legendary</picture>
 		<asset_bundle>18</asset_bundle>
 		<rarity>4</rarity>
@@ -23882,7 +24021,7 @@
 	<unit>
 		<id>40035</id>
 		<name>Chemistry Teacher Peggy</name>
-		<desc></desc>
+		<desc>The Art of Science.</desc>
 		<picture>KOTH_ChemTeacherPeggy</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>3</rarity>
@@ -25357,7 +25496,7 @@
 	<unit>
 		<id>45080</id>
 		<name>Baseball Bobby</name>
-		<desc></desc>
+		<desc>Don't play lawyer ball son.</desc>
 		<picture>koth_baseballbobby</picture>
 		<asset_bundle>21</asset_bundle>
 		<rarity>1</rarity>
@@ -25499,7 +25638,7 @@
 	<unit>
 		<id>45089</id>
 		<name>Arlen Men's Choir</name>
-		<desc></desc>
+		<desc>Every man deserves to sing.</desc>
 		<picture>koth_ArlenMensChoir</picture>
 		<asset_bundle>32</asset_bundle>
 		<rarity>1</rarity>
@@ -25515,7 +25654,7 @@
 	<unit>
 		<id>45090</id>
 		<name>Golfing Hank</name>
-		<desc></desc>
+		<desc>The quicker we're out of Hot Springs the better.</desc>
 		<picture>koth_GolfClubHank</picture>
 		<asset_bundle>26</asset_bundle>
 		<rarity>1</rarity>
@@ -25531,7 +25670,7 @@
 	<unit>
 		<id>45091</id>
 		<name>Cheerleader Peggy</name>
-		<desc></desc>
+		<desc>Arlen, Arlen, Fight Fight Fight!</desc>
 		<picture>koth_CheerleaderPeggy</picture>
 		<asset_bundle>26</asset_bundle>
 		<rarity>1</rarity>
@@ -25546,7 +25685,7 @@
 	<unit>
 		<id>45092</id>
 		<name>Swimmer Dale</name>
-		<desc></desc>
+		<desc>Ready to refine my strokes.</desc>
 		<picture>KOTH_SwimmerDale</picture>
 		<asset_bundle>26</asset_bundle>
 		<rarity>1</rarity>
@@ -25562,7 +25701,7 @@
 	<unit>
 		<id>45093</id>
 		<name>River Burned</name>
-		<desc></desc>
+		<desc>Dang ol' float trip man.</desc>
 		<picture>KOTH_RiverBurnedBoomhauer</picture>
 		<asset_bundle>33</asset_bundle>
 		<rarity>1</rarity>
@@ -25594,7 +25733,7 @@
 	<unit>
 		<id>45095</id>
 		<name>Jouster Peggy</name>
-		<desc></desc>
+		<desc>You just got beat by a girl.</desc>
 		<picture>KOTH_JousterPeggy</picture>
 		<asset_bundle>33</asset_bundle>
 		<rarity>1</rarity>
@@ -25722,7 +25861,7 @@
 	<unit>
 		<id>45103</id>
 		<name>High School Bill</name>
-		<desc></desc>
+		<desc>I'll never lose this hair.</desc>
 		<picture>KOTH_HS_Bill</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>1</rarity>
@@ -25738,7 +25877,7 @@
 	<unit>
 		<id>45104</id>
 		<name>Sex Ed Teacher</name>
-		<desc></desc>
+		<desc>This doesn't seem right.</desc>
 		<picture>KOTH_SexEdTeacherPeggy</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>1</rarity>
@@ -25754,7 +25893,7 @@
 	<unit>
 		<id>45105</id>
 		<name>Shop Teacher Hank</name>
-		<desc></desc>
+		<desc>The real Substitute Teacher of the Year.</desc>
 		<picture>KOTH_ShopTeacherHank</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>1</rarity>
@@ -25818,7 +25957,7 @@
 	<unit>
 		<id>45109</id>
 		<name>Military Tux Bill</name>
-		<desc></desc>
+		<desc>I love a man in uniform.</desc>
 		<picture>KOTH_MilitaryTuxBill</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>1</rarity>
@@ -25862,7 +26001,22 @@
 		<skill id='heal'  p='30' v='11'  />
 		<skill id='bodyguard' p='25' v='10' />
 		<skill id='hijack'   p='32' v='8' />
-	</unit>				
+	</unit>		
+	<unit>
+		<id>45112</id>
+		<name>Cyclist Hank</name>
+		<desc></desc>
+		<picture></picture>
+		<asset_bundle></asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>4</type>
+		<trait>athletic</trait>
+		<attack_multiplier>0.71</attack_multiplier>
+		<health_multiplier>0.79</health_multiplier>
+		<skill id='pierce' p='25' v='14' />
+		<skill id='shrapnel' p='35' v='9' />
+	</unit>			
 	<!-- Futurama -->
 
 <unit>
@@ -28659,7 +28813,7 @@
 	<unit>
 		<id>50039</id>
 		<name>Wozniak Nerd Academy</name>
-		<desc></desc>
+		<desc>You're going to play polo on a Segway, just accept it.</desc>
 		<picture>FR_WozniakNerdAcademy</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>4</rarity>
@@ -28762,7 +28916,7 @@
 	<unit>
 		<id>50040</id>
 		<name>Bending School</name>
-		<desc></desc>
+		<desc>Go, Fighting Girders!</desc>
 		<picture>FR_BendingSchool</picture>
 		<asset_bundle>35</asset_bundle>
 		<rarity>4</rarity>
@@ -29041,6 +29195,103 @@
 			<skill id='barrier' x='9' />
 		</upgrade>						
 	</unit>		
+	<unit>
+		<id>50043</id>
+		<name>Terrestial Cycling</name>
+		<desc>This bicycle is powered by love. It's corny but cheap.</desc>
+		<picture>FR_TerrestrialCycling</picture>
+		<asset_bundle>32</asset_bundle>
+		<rarity>4</rarity>
+		<set>9999</set>
+		<type>5</type>
+		<trait>athletic</trait>
+		<release_time>1510855200</release_time>
+		<attack>4</attack>
+		<health>33</health>
+		<skill id='hijack' x='3' />
+		<skill id='invigorate' x='5' />
+		<skill id='weaken' x='6' />
+		<upgrade>
+			<level>2</level>
+			<health>36</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>	
+			<skill id='invigorate' x='6' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<attack>5</attack>
+			<health>38</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<skill id='hijack' x='4' />
+			<health>40</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<skill id='weaken' x='7' />
+			<attack>6</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<skill id='weaken' x='8' />
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<skill id='invigorate' x='7' />
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<attack>7</attack>
+			<health>42</health>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id='hijack' x='5' />
+			<health>44</health>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<skill id='weaken' x='9' />
+			<health>46</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<skill id='invigorate' x='8' />
+			<health>48</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id='hijack' x='6' />
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<skill id='weaken' x='10' />
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<skill id='invigorate' x='9' />		
+			<health>50</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<attack>8</attack>
+			<health>52</health>
+		</upgrade>
+		<upgrade>
+			<level>17</level>	
+			<skill id='hijack' x='7' />
+			<health>54</health>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<skill id='invigorate' x='10' />
+			<skill id='weaken' x='11' />
+			<health>57</health>
+		</upgrade>						
+	</unit>	
 	<!--  stop at id 54000 -->
 	<!-- Futurama Combos -->
 
@@ -30261,7 +30512,7 @@
 	<unit>
 		<id>55082</id>
 		<name>Congo Jack</name>
-		<desc></desc>
+		<desc>Congo Jack? Another shocking twist!</desc>
 		<picture>fr_congojackfry</picture>
 		<asset_bundle>21</asset_bundle>
 		<rarity>1</rarity>
@@ -30416,7 +30667,7 @@
 	<unit>
 		<id>55092</id>
 		<name>Bucking Buggalo Leela</name>
-		<desc></desc>
+		<desc>...where the deer and the-- oh god make it stop!!</desc>
 		<picture>fr_BuckingBuggaloLeela</picture>
 		<asset_bundle>32</asset_bundle>
 		<rarity>1</rarity>
@@ -30431,7 +30682,7 @@
 	<unit>
 		<id>55093</id>
 		<name>Goddess of Beauty</name>
-		<desc></desc>
+		<desc>You got any sacred artwork of her from the back?</desc>
 		<picture>FR_GoddessOfBeautyMosaic</picture>
 		<asset_bundle>33</asset_bundle>
 		<rarity>1</rarity>
@@ -30602,7 +30853,7 @@
 	<unit>
 		<id>55104</id>
 		<name>One Eyed Orphan</name>
-		<desc></desc>
+		<desc>Nice depth-perception, one-eye!</desc>
 		<picture>FR_OneEyeLeela</picture>
 		<asset_bundle>36</asset_bundle>
 		<rarity>1</rarity>
@@ -30617,7 +30868,7 @@
 	<unit>
 		<id>55105</id>
 		<name>Chosen Brain Fry</name>
-		<desc></desc>
+		<desc>Fry's brain ain't right, but somehow he makes do.</desc>
 		<picture>FR_ChosenBrainFry</picture>
 		<asset_bundle>35</asset_bundle>
 		<rarity>1</rarity>
@@ -30633,7 +30884,7 @@
 	<unit>
 		<id>55106</id>
 		<name>Bending School Grad</name>
-		<desc></desc>
+		<desc>Time to bend around Europe for a few months, then get a job bending.</desc>
 		<picture>FR_BendingSchoolGrad</picture>
 		<asset_bundle>35</asset_bundle>
 		<rarity>1</rarity>
@@ -30709,6 +30960,38 @@
 		<skill id='shrapnel' p='32' v='8' />
 		<skill id='poison'   p='28' v='10' />
 	</unit>	
+	<unit>
+		<id>55111</id>
+		<name>Golfer Amy</name>
+		<desc></desc>
+		<picture></picture>
+		<asset_bundle></asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>5</type>
+		<trait>athletic</trait>
+		<attack_multiplier>0.68</attack_multiplier>
+		<health_multiplier>0.68</health_multiplier>
+		<skill id='outlast' p='25' v='12' />
+		<skill id='shrapnel' p='33' v='8' />
+		<skill id='berserk' p='33' v='8' />
+	</unit>
+	<unit>
+		<id>55112</id>
+		<name>Sewer Surfer Bender</name>
+		<desc></desc>
+		<picture></picture>
+		<asset_bundle></asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>5</type>
+		<trait>athletic</trait>
+		<attack_multiplier>0.73</attack_multiplier>
+		<health_multiplier>0.70</health_multiplier>
+		<skill id='armored' p='30' v='9' />
+		<skill id='inspire' p='35' v='7' y='athletic' />
+		<skill id='poison' p='25' v='13' />
+	</unit>
 			
 <!-- END Futurama Combos -->
 
