@@ -681,7 +681,7 @@
 			<level>10</level>
 			<health>75</health>
 			<skill id='healall' x='3' y='3' />
-		</upgrade>
+		</upgrade>										
 	</unit>
 
 	<unit>
@@ -1352,7 +1352,7 @@
 
 	<!-- Commander Defense Cards -->
 
-	<unit>
+ 	<unit>
 		<id>14001</id>
 		<name>Peter's Defense</name>
 		<desc>Run along Stewie, Daddy had a rough night. </desc>
@@ -2087,7 +2087,7 @@
 			<health>38</health>
 			<skill id='rallyall' x='2' />
 		</upgrade>
-	</unit>
+	</unit> 
 
 
 	<!-- Futurama Campaign Leaders, future leaders need to be 5500+ -->
@@ -9286,10 +9286,10 @@
 		<id>10048</id>
 		<name>Softball Player Jerome</name>
 		<desc></desc>
-		<picture></picture>
-		<asset_bundle></asset_bundle>
+		<picture>FG_SoftballPlayerJerome</picture>
+		<asset_bundle>37</asset_bundle>
 		<rarity>4</rarity>
-		<set>9999</set>
+		<set>2</set>
 		<type>1</type>
 		<trait>athletic</trait>
 		<release_time>1510250400</release_time>
@@ -11416,9 +11416,9 @@
 	<unit>
 		<id>15143</id>
 		<name>Baseball Chris</name>
-		<desc></desc>
-		<picture></picture>
-		<asset_bundle></asset_bundle>
+		<desc>From the episode "Chris Has Got a Date, Date, Date, Date, Date."</desc>
+		<picture>BaseballChris</picture>
+		<asset_bundle>12</asset_bundle>
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>1</type>
@@ -11432,9 +11432,9 @@
 	<unit>
 		<id>15144</id>
 		<name>Golfing Lois</name>
-		<desc></desc>
-		<picture></picture>
-		<asset_bundle></asset_bundle>
+		<desc>So what do I do, just aim for the pond?</desc>
+		<picture>fg_GolfingLois</picture>
+		<asset_bundle>31</asset_bundle>
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>1</type>
@@ -15999,6 +15999,37 @@
 		<skill id='heal' p='25' v='11' y='athletic' />
 		<skill id='poison' p='27' v='12' />
 	</unit>	
+	<unit>
+		<id>25122</id>
+		<name>Water Polo Steve</name>
+		<desc>It's like Ratatouille, but with a lot more pube-tugging.</desc>
+		<picture>ad_steveklausswimsuit</picture>
+		<asset_bundle>18</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>2</type>
+		<trait>athletic</trait>
+		<attack_multiplier>0.69</attack_multiplier>
+		<health_multiplier>0.76</health_multiplier>
+		<skill id='barrierall' p='50' v='5' y='athletic' />
+		<skill id='bodyguard' p='30' v='6' />
+		<skill id='weaken' p='22' v='12' />
+	</unit>		
+	<unit>
+		<id>25123</id>
+		<name>Tennis Francine</name>
+		<desc>Ready to go pound those balls.</desc>
+		<picture>ad_TennisFrancine</picture>
+		<asset_bundle>32</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>2</type>
+		<trait>athletic</trait>
+		<attack_multiplier>0.76</attack_multiplier>
+		<health_multiplier>0.76</health_multiplier>
+		<skill id='barrier' p='30' v='10' y='athletic' />
+		<skill id='pierce' p='25' v='15' />
+	</unit>	
 	<!--  stop at id 24000 -->
 	<!-- Bob's Burgers -->
 	<unit>
@@ -19809,6 +19840,192 @@
 			<health>40</health>
 		</upgrade>
 	</unit>		
+	<unit>
+		<id>30051</id>
+		<name>Synchronized Swimming</name>
+		<desc>You take my breath away.</desc>
+		<picture>BB_SynchronizedSwimming</picture>
+		<asset_bundle>37</asset_bundle>
+		<rarity>4</rarity>
+		<set>2</set>
+		<type>3</type>
+		<trait>athletic</trait>
+		<release_time>1511460000</release_time>
+		<attack>10</attack>
+		<health>24</health>
+		<skill id='strike' x='5' />
+		<skill id='invigorate' x='6' />
+		<skill id='inspire' x='2' y='athletic' />
+		<upgrade>
+			<level>2</level>
+			<skill id='inspire' x='3' y='athletic' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>26</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<attack>11</attack>
+			<health>28</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<skill id='inspire' x='4' y='athletic' />			
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<skill id='invigorate' x='7' />
+			<health>30</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>32</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<skill id='inspire' x='5' y='athletic' />		
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<skill id='strike' x='6' />
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id='inspire' x='6' y='athletic' />
+			<skill id='invigorate' x='8' />
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<attack>12</attack>
+			<health>34</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<skill id='strike' x='7' />
+			<health>36</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id='inspire' x='9' y='athletic' />
+			<health>38</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<skill id='invigorate' x='9' />
+			<health>40</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<skill id='strike' x='8' />
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<skill id='invigorate' x='10' />
+			<health>41</health>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<skill id='inspire' x='10' y='athletic' />
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>13</attack>
+			<health>43</health>
+		</upgrade>
+	</unit>	
+	<unit>
+		<id>30052</id>
+		<name>Horse Camp</name>
+		<desc>Time to mount.</desc>
+		<picture>BB_HorseCamp</picture>
+		<asset_bundle>31</asset_bundle>
+		<rarity>4</rarity>
+		<set>3</set>
+		<type>3</type>
+		<trait>athletic</trait>
+		<release_time>1511460000</release_time>
+		<attack>7</attack>
+		<health>26</health>
+		<skill id='bodyguard' x='3' />
+		<skill id='counter' x='3' />
+		<skill id='outlast' x='6' />
+		<upgrade>
+			<level>2</level>
+			<skill id='counter' x='4' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>28</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<skill id='outlast' x='7' />
+			<health>30</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<skill id='bodyguard' x='4' />			
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>8</attack>
+			<health>32</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>34</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<skill id='counter' x='5' />		
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<skill id='outlast' x='8' />
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id='bodyguard' x='5' />	
+			<skill id='counter' x='6' />
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<attack>9</attack>
+			<health>36</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>38</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id='counter' x='7' />
+			<health>40</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>			
+			<health>41</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<skill id='outlast' x='9' />
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<skill id='bodyguard' x='6' />	
+			<health>43</health>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<skill id='counter' x='8' />
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>10</attack>
+			<health>45</health>
+		</upgrade>
+	</unit>			
 	<!-- Bob's Burgers Combos -->
 
 	<unit>
@@ -21616,6 +21833,38 @@
 		<skill id='weakenall' p='50' v='6' />
 		<skill id='poison' p='26' v='10' />
 		<skill id='pierce' p='20' v='12' />
+	</unit>	
+	<unit>
+		<id>35121</id>
+		<name>Butt Toucher Tina</name>
+		<desc></desc>
+		<picture>BB_ButtToucherTina</picture>
+		<asset_bundle>37</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>3</type>
+		<trait>athletic</trait>
+		<attack_multiplier>0.74</attack_multiplier>
+		<health_multiplier>0.69</health_multiplier>
+		<skill id='strike' p='35' v='9' />
+		<skill id='leech' p='25' v='12' />
+		<skill id='invigorate' p='30' v='11' />
+	</unit>		
+	<unit>
+		<id>35122</id>
+		<name>Freezerdome Gene</name>
+		<desc>Sturdy and purdy.</desc>
+		<picture>bb_freezerdomegene</picture>
+		<asset_bundle>21</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>3</type>
+		<trait>athletic</trait>
+		<attack_multiplier>0.72</attack_multiplier>
+		<health_multiplier>0.72</health_multiplier>
+		<skill id='bodyguard' p='33' v='8' />
+		<skill id='weaken' p='30' v='11' />
+		<skill id='berserk' p='35' v='7' />
 	</unit>				
 	<!-- King of the Hill -->
 
@@ -24289,7 +24538,98 @@
 			<attack>12</attack>
 			<health>40</health>
 		</upgrade>
-	</unit>				
+	</unit>	
+	<unit>
+		<id>40038</id>
+		<name>Yogi Victor</name>
+		<desc></desc>
+		<picture>KOTH_YogiVictor</picture>
+		<asset_bundle>37</asset_bundle>
+		<rarity>4</rarity>
+		<set>2</set>
+		<type>4</type>
+		<trait>athletic</trait>
+		<release_time>1512064800</release_time>
+		<attack>2</attack>
+		<health>32</health>
+		<skill id='counter' x='4' />
+		<skill id='healall' x='1' y='athletic' />
+		<upgrade>
+			<level>2</level>
+			<skill id='counter' x='5' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>35</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>38</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<skill id='counter' x='6' />
+			<health>40</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<skill id='healall' x='2' y='athletic' />
+			<health>42</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>45</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<skill id='counter' x='7' />
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<attack>3</attack>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>48</health>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<skill id='counter' x='8' />
+			<health>50</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<skill id='healall' x='3' y='athletic' />
+			<health>52</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>55</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<skill id='counter' x='9' />
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>58</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<attack>4</attack>
+			<health>60</health>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<skill id='counter' x='10' />
+			<health>62</health>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<skill id='healall' x='4' y='athletic' />
+			<health>65</health>
+		</upgrade>
+	</unit>			
 	<!--  stop at id 44000 -->
 	<!-- King of the Hill combos -->
 
@@ -26006,8 +26346,8 @@
 		<id>45112</id>
 		<name>Cyclist Hank</name>
 		<desc></desc>
-		<picture></picture>
-		<asset_bundle></asset_bundle>
+		<picture>KOTH_CyclistHank</picture>
+		<asset_bundle>37</asset_bundle>
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>4</type>
@@ -26016,7 +26356,23 @@
 		<health_multiplier>0.79</health_multiplier>
 		<skill id='pierce' p='25' v='14' />
 		<skill id='shrapnel' p='35' v='9' />
-	</unit>			
+	</unit>	
+	<unit>
+		<id>45113</id>
+		<name>Rodeo Bobby</name>
+		<desc>I feel quicker in these pants!</desc>
+		<picture>KOTH_RodeoBobby</picture>
+		<asset_bundle>26</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>4</type>
+		<trait>athletic</trait>
+		<attack_multiplier>0.7</attack_multiplier>
+		<health_multiplier>0.73</health_multiplier>
+		<skill id='armored' p='20' v='10' />
+		<skill id='hijack' p='35' v='8' />
+		<skill id='counter' p='26' v='11' />
+	</unit>					
 	<!-- Futurama -->
 
 <unit>
@@ -29202,7 +29558,7 @@
 		<picture>FR_TerrestrialCycling</picture>
 		<asset_bundle>32</asset_bundle>
 		<rarity>4</rarity>
-		<set>9999</set>
+		<set>2</set>
 		<type>5</type>
 		<trait>athletic</trait>
 		<release_time>1510855200</release_time>
@@ -30964,8 +31320,8 @@
 		<id>55111</id>
 		<name>Golfer Amy</name>
 		<desc></desc>
-		<picture></picture>
-		<asset_bundle></asset_bundle>
+		<picture>FR_GolferAmy</picture>
+		<asset_bundle>37</asset_bundle>
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>5</type>
@@ -30980,8 +31336,8 @@
 		<id>55112</id>
 		<name>Sewer Surfer Bender</name>
 		<desc></desc>
-		<picture></picture>
-		<asset_bundle></asset_bundle>
+		<picture>FR_SewerSurferBender</picture>
+		<asset_bundle>37</asset_bundle>
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>5</type>
@@ -30991,6 +31347,22 @@
 		<skill id='armored' p='30' v='9' />
 		<skill id='inspire' p='35' v='7' y='athletic' />
 		<skill id='poison' p='25' v='13' />
+	</unit>
+	<unit>
+		<id>55113</id>
+		<name>Sewer Surfer Fry</name>
+		<desc></desc>
+		<picture>FR_SewerSurferFry2</picture>
+		<asset_bundle>37</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>5</type>
+		<trait>athletic</trait>
+		<attack_multiplier>0.78</attack_multiplier>
+		<health_multiplier>0.62</health_multiplier>
+		<skill id='strike' p='32' v='9' />
+		<skill id='leech' p='30' v='12' />
+		<skill id='poison' p='20' v='11' />
 	</unit>
 			
 <!-- END Futurama Combos -->
