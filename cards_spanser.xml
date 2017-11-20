@@ -28,7 +28,7 @@
 	 -->
 
 	<!-- Commanders -->
-	<unit>
+<!-- 	<unit>
 		<id>1001</id>
 		<name>Peter</name>
 		<desc>Voted Quahog's official town simpleton.</desc>
@@ -504,7 +504,7 @@
 			<health>73</health>
 			<skill id='heal' x='4' y='2' />
 		</upgrade>
-	</unit>
+	</unit> -->
 	<!-- STILL NEEDS DESIGN
 	<unit>
 		<id>2004</id>
@@ -563,7 +563,7 @@
 		</upgrade>
 	</unit>
 -->
-	<unit>
+<!-- 	<unit>
 		<id>2005</id>
 		<name>Ricky Spanish</name>
 		<desc></desc>
@@ -1348,11 +1348,11 @@
 			<health>80</health>
 			<skill id='rallyall' x='2' />
 		</upgrade>
-	</unit>
+	</unit> -->
 
 	<!-- Commander Defense Cards -->
 
- 	<unit>
+<!--  	<unit>
 		<id>14001</id>
 		<name>Peter's Defense</name>
 		<desc>Run along Stewie, Daddy had a rough night. </desc>
@@ -2087,7 +2087,7 @@
 			<health>38</health>
 			<skill id='rallyall' x='2' />
 		</upgrade>
-	</unit> 
+	</unit>  -->
 
 
 	<!-- Futurama Campaign Leaders, future leaders need to be 5500+ -->
@@ -2998,7 +2998,111 @@
 			<skill id='rallyall' x='4' />
 			<skill id='give' s='armored' x='5' />
 		</upgrade>
-	</unit> 	   
+	</unit> 
+	<unit>
+		<id>5515</id>
+		<name>Robot Santa</name>
+		<desc>If I don't complete my BRUTAL rampage, well, it just wouldn't be Xmas.</desc>
+		<picture>robotSanta</picture>
+		<asset_bundle>24</asset_bundle>
+		<commander>1</commander>
+		<rarity>1</rarity>
+		<set>5000</set>
+		<type>5</type>
+		<health>15</health>
+		<upgrade>
+			<level>2</level>
+			<health>20</health>
+			<skill id='strike' x='1' />
+			<skill id='barrier' x='1' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>35</health>
+			<skill id='barrier' x='1' />
+			<skill id='strike' x='2' />
+			<skill id='weaken' x='1' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>55</health>
+			<skill id='barrier' x='3' />
+			<skill id='strike' x='3' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>80</health>
+			<skill id='barrier' x='4' />
+			<skill id='strike' x='4' />
+			<skill id='weaken' x='2' />
+		</upgrade>
+	</unit>	
+	<unit>
+		<id>5516</id>
+		<name>Kwanzaa Bot</name>
+		<desc>I'm fighting back for Kwanzaa so the children won't miss it.</desc>
+		<picture>kwanzaaBot</picture>
+		<asset_bundle>24</asset_bundle>
+		<commander>1</commander>
+		<rarity>1</rarity>
+		<set>5000</set>
+		<type>5</type>
+		<health>15</health>
+		<upgrade>
+			<level>2</level>
+			<health>20</health>
+			<skill id='rally' x='1'  />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>35</health>
+			<skill id='healall' x='1'  />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>55</health>
+			<skill id='rally' x='2' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>80</health>
+			<skill id='rally' x='3' />
+			<skill id='healall' x='2' />
+		</upgrade>
+	</unit>
+	<unit>
+		<id>5517</id>
+		<name>Hanukkah Zombie</name>
+		<desc>Has the best voice actor in the world.</desc>
+		<picture>hanukkahZombie</picture>
+		<asset_bundle>24</asset_bundle>
+		<commander>1</commander>
+		<rarity>1</rarity>
+		<set>5000</set>
+		<type>5</type>
+		<health>15</health>
+		<upgrade>
+			<level>2</level>
+			<health>20</health>
+			<skill id='strike' x='1' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>35</health>
+			<skill id='weakenall' x='1' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>55</health>
+			<skill id='strike' x='2' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>80</health>
+			<skill id='strike' x='3' />
+			<skill id='weakenall' x='2' />
+		</upgrade>
+	</unit>		   
     <!-- Bob's Campaign Leaders -->
      <unit>
         <id>6001</id>
@@ -3835,6 +3939,102 @@
        		<skill id='weakenall' x='5' />
         </upgrade>
      </unit>
+     <unit>
+        <id>6027</id>
+		<name>Kissy Tina</name>
+		<desc></desc>
+		<picture>kissyTina</picture>
+		<asset_bundle>37</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>3</type>
+        <health>52</health>
+        <skill id='healall' x='4' />
+        <skill id='give' s='inspire' x='5' />
+        <upgrade>
+            <level>2</level>
+            <health>57</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>62</health>
+        	<skill id='give' s='inspire' x='6' />
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>70</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>85</health>
+       		<skill id='healall' x='5' />
+        </upgrade>
+     </unit> 
+     <unit>
+        <id>6028</id>
+		<name>Sailor Mr. Fischoedor</name>
+		<desc></desc>
+		<picture>sailorMrFischoedor</picture>
+		<asset_bundle>37</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>3</type>
+        <health>52</health>
+        <skill id='healall' x='4' />
+        <skill id='give' s='inspire' x='5' />
+        <upgrade>
+            <level>2</level>
+            <health>57</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>62</health>
+        	<skill id='give' s='inspire' x='6' />
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>70</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>85</health>
+       		<skill id='healall' x='5' />
+        </upgrade>
+     </unit> 
+     <unit>
+        <id>6029</id>
+		<name>Upskirt Kurt</name>
+		<desc></desc>
+		<picture>upskirtKurt</picture>
+		<asset_bundle>37</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>3</type>
+        <health>52</health>
+        <skill id='healall' x='4' />
+        <skill id='give' s='inspire' x='5' />
+        <upgrade>
+            <level>2</level>
+            <health>57</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>62</health>
+        	<skill id='give' s='inspire' x='6' />
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>70</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>85</health>
+       		<skill id='healall' x='5' />
+        </upgrade>
+     </unit>                  
 	 <!--  Family Guy Campaign Leaders  -->
      <unit>
         <id>7001</id>
@@ -5231,7 +5431,45 @@
 			<skill id='weakenall' x='4' />
 			<skill id='give' s='berserk' x='5' />
 		</upgrade>
-	</unit>     
+	</unit>   
+	<unit>
+		<id>8022</id>
+		<name>Krampus</name>
+		<desc>I bet you can't guess my voice actor.</desc>
+		<picture>swoleKrampus</picture>
+		<asset_bundle>36</asset_bundle>
+		<commander>1</commander>
+		<rarity>1</rarity>
+		<set>5000</set>
+		<type>2</type>
+		<health>15</health>
+		<upgrade>
+			<level>2</level>
+			<health>20</health>
+			<skill id='heal' x='1' />
+			<skill id='barrier' x='1' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>35</health>
+			<skill id='barrier' x='1' />
+			<skill id='heal' x='2' />
+			<skill id='rally' x='1' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>55</health>
+			<skill id='barrier' x='3' />
+			<skill id='heal' x='3' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>80</health>
+			<skill id='barrier' x='4' />
+			<skill id='heal' x='4' />
+			<skill id='rally' x='2' />
+		</upgrade>
+	</unit>		  
 	 <!--  King of the Hill Campaign Leaders  -->
      <unit>
         <id>9001</id>
