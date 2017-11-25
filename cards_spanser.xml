@@ -2182,7 +2182,7 @@
         <name>Dr. Zoidberg</name> <!-- THIS IS NOT A PLAYER COMMANDER -->
         <desc>My name isn't slick. It's Zoidberg. John #@$%ing Zoidberg!</desc>
         <picture>zoidberg</picture>
-        <asset_bundle>3</asset_bundle>
+        <asset_bundle>5</asset_bundle>
 		<commander>1</commander>
         <rarity>1</rarity>
         <set>5000</set>
@@ -3072,7 +3072,7 @@
 	</unit>
 	<unit>
 		<id>5517</id>
-		<name>Hanukkah Zombie</name>
+		<name>Chanukkah Zombie</name>
 		<desc>Has the best voice actor in the world.</desc>
 		<picture>hanukkahZombie</picture>
 		<asset_bundle>24</asset_bundle>
@@ -3951,7 +3951,7 @@
         <type>3</type>
         <health>52</health>
         <skill id='healall' x='4' />
-        <skill id='give' s='inspire' x='5' />
+        <skill id='give' s='armored' x='5' />
         <upgrade>
             <level>2</level>
             <health>57</health>
@@ -3959,7 +3959,7 @@
         <upgrade>
             <level>3</level>
             <health>62</health>
-        	<skill id='give' s='inspire' x='6' />
+        	<skill id='give' s='armored' x='6' />
         </upgrade>
         <upgrade>
             <level>4</level>
@@ -3975,15 +3975,15 @@
         <id>6028</id>
 		<name>Sailor Mr. Fischoedor</name>
 		<desc></desc>
-		<picture>sailorMrFischoedor</picture>
+		<picture>sailorMr.Fischoedor</picture>
 		<asset_bundle>37</asset_bundle>
 		<commander>1</commander>
         <rarity>1</rarity>
         <set>5000</set>
         <type>3</type>
         <health>52</health>
-        <skill id='healall' x='4' />
-        <skill id='give' s='inspire' x='5' />
+        <skill id='weakenall' x='4' />
+        <skill id='strike' x='4' />
         <upgrade>
             <level>2</level>
             <health>57</health>
@@ -3991,7 +3991,7 @@
         <upgrade>
             <level>3</level>
             <health>62</health>
-        	<skill id='give' s='inspire' x='6' />
+        	<skill id='strike' x='5' />
         </upgrade>
         <upgrade>
             <level>4</level>
@@ -4000,7 +4000,7 @@
         <upgrade>
             <level>5</level>
             <health>85</health>
-       		<skill id='healall' x='5' />
+       		<skill id='weakenall' x='5' />
         </upgrade>
      </unit> 
      <unit>
@@ -4014,16 +4014,17 @@
         <set>5000</set>
         <type>3</type>
         <health>52</health>
-        <skill id='healall' x='4' />
-        <skill id='give' s='inspire' x='5' />
+        <skill id='strike' x='4' />
+        <skill id='counter' x='4' />
         <upgrade>
             <level>2</level>
             <health>57</health>
+            <skill id='counter' x='5' />
         </upgrade>
         <upgrade>
             <level>3</level>
             <health>62</health>
-        	<skill id='give' s='inspire' x='6' />
+        	<skill id='weaken' x='4' />
         </upgrade>
         <upgrade>
             <level>4</level>
@@ -4032,7 +4033,7 @@
         <upgrade>
             <level>5</level>
             <health>85</health>
-       		<skill id='healall' x='5' />
+       		<skill id='strike' x='5' />
         </upgrade>
      </unit>                  
 	 <!--  Family Guy Campaign Leaders  -->
