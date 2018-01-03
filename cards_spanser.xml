@@ -14655,7 +14655,102 @@
 			<health>41</health>
 			<attack>11</attack>
 		</upgrade>
-	</unit>		
+	</unit>
+	<unit>
+		<id>20041</id>
+		<name>Candy Cane Gun</name>
+		<desc>I'll see you in Hell, Stan.</desc>
+		<picture>ad_candycanegun</picture>
+		<asset_bundle>22</asset_bundle>
+		<rarity>4</rarity>
+		<set>3</set>
+		<type>2</type>
+		<trait>armed</trait>
+		<release_time>1515088800</release_time>
+		<attack>10</attack>
+		<health>15</health>
+		<skill id='hijack' x='4' />
+		<skill id='shrapnel' x='4' />
+		<skill id='pierce' x='6' />
+		<upgrade>
+			<level>2</level>
+			<health>16</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>17</health>
+			<skill id='shrapnel' x='5' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<attack>11</attack>
+			<skill id='pierce' x='7' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>18</health>
+			<skill id='hijack' x='5' />
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>12</attack>			
+			<health>20</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>21</health>
+			<skill id='hijack' x='6' />
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>22</health>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id='shrapnel' x='6' />
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>23</health>
+			<skill id='pierce' x='8' />
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<attack>14</attack>
+			<health>25</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>26</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<skill id='pierce' x='9' />
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>27</health>
+			<skill id='shrapnel' x='7' />
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<skill id='hijack' x='7' />
+			<health>29</health>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>32</health>
+			<attack>16</attack>
+		</upgrade>
+	</unit>				
 	<!--  stop at id 24000 -->
 
 	<!-- American Dad Combos -->
@@ -20615,6 +20710,100 @@
 			<attack>14</attack>
 			<health>47</health>
 		</upgrade>
+	</unit>		
+	<unit>
+		<id>30054</id>
+		<name>Cat Guards</name>
+		<desc></desc>
+		<picture>BB_CatGuards</picture>
+		<asset_bundle>39</asset_bundle>
+		<rarity>4</rarity>
+		<set>9999</set>
+		<type>3</type>
+		<trait>armed</trait>
+		<release_time>1515088800</release_time>
+		<attack>10</attack>
+		<health>28</health>
+		<skill id='inspire' x='5' y='armed' />
+		<skill id='rally' x='4' />
+		<skill id='armored' x='6' />
+		<upgrade>
+			<level>2</level>
+			<health>30</health>
+			<skill id='armored' x='7' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>32</health>
+			<skill id='rally' x='5' />	
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<skill id='inspire' x='6' y='armed' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>34</health>
+			<skill id='rally' x='6' />			
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>36</health>
+			<skill id='rally' x='7' />	
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<attack>11</attack>
+			<skill id='inspire' x='7' y='armed' />		
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>38</health>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id='rally' x='8' />	
+		</upgrade>
+		<upgrade>
+			<level>11</level>			
+			<skill id='armored' x='8' />
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>40</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id='rally' x='9' />
+			<health>41</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>			
+			<health>43</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<skill id='armored' x='9' />
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<skill id='inspire' x='8' y='armed' />	
+			<health>45</health>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<skill id='rally' x='10' />
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>13</attack>
+			<health>46</health>
+		</upgrade>
 	</unit>			
 	<!-- Bob's Burgers Combos -->
 
@@ -25362,7 +25551,85 @@
 			<attack>15</attack>
 			<health>44</health>
 		</upgrade>
-	</unit>			
+	</unit>	
+	<unit>
+		<id>40040</id>
+		<name>Dale's Artillery</name>
+		<desc></desc>
+		<picture>KOTH_DalesArtillery</picture>
+		<asset_bundle>39</asset_bundle>
+		<rarity>3</rarity>
+		<set>3</set>
+		<type>4</type>
+		<trait>armed</trait>
+		<release_time>1515088800</release_time>
+		<attack>8</attack>
+		<health>10</health>
+		<skill id='bodyguard' x='1' />
+		<skill id='strike' x='2' />
+		<skill id='invigorate' x='1' />
+		<upgrade>
+			<level>2</level>
+			<skill id='invigorate' x='2' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>13</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<skill id='bodyguard' x='2' />			
+			<skill id='strike' x='3' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<attack>9</attack>
+			<health>15</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<skill id='invigorate' x='3' />
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>18</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<skill id='bodyguard' x='3' />						
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id='strike' x='4' />
+			<health>20</health>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<skill id='invigorate' x='4' />
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>23</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id='bodyguard' x='4' />						
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<skill id='strike' x='5' />
+			<skill id='bodyguard' x='5' />	
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<attack>11</attack>
+			<health>25</health>
+		</upgrade>	
+	</unit>				
 	<!--  stop at id 44000 -->
 	<!-- King of the Hill combos -->
 
@@ -32854,8 +33121,8 @@
 		<id>60098</id>
 		<name>Test One</name>
 		<desc></desc>
-		<picture>KOTH_CupidBobby</picture>
-		<asset_bundle>33</asset_bundle>
+		<picture>FR_NNYPDCadetFry</picture>
+		<asset_bundle>39</asset_bundle>
 		<rarity>3</rarity>
 		<set>9999</set>
 		<hidden>1</hidden>
@@ -34910,6 +35177,12 @@
         <name>Musical</name>
         <icon>trait_music</icon>
     </unit_trait>
+    
+<!--     <unit_trait>
+        <id>animal</id>
+        <name>Animal</name>
+        <icon>trait_animal</icon>
+    </unit_trait> -->
 
  <!--
 	<unit_trait>
