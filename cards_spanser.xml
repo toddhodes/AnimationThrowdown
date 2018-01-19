@@ -25926,6 +25926,100 @@
 			<attack>11</attack>
 			<health>25</health>
 		</upgrade>	
+	</unit>		
+	<unit>
+		<id>40041</id>
+		<name>Bill Dauterive</name>
+		<desc>Today my life enters phase two, the good years.</desc>
+		<picture>koth_bill_legendary</picture>
+		<asset_bundle>23</asset_bundle>
+		<rarity>4</rarity>
+		<set>2</set>
+		<type>4</type>
+		<release_time>1515520800</release_time>
+		<attack>12</attack>
+		<health>18</health>
+		<skill id='shrapnel' x='4' />
+		<skill id='barrier' x='4' y='4' />
+		<skill id='berserk' x='2' />
+		<upgrade>
+			<level>2</level>
+			<skill id='barrier' x='5' y='4' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>20</health>
+			<skill id='shrapnel' x='5' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>22</health>
+			<skill id='berserk' x='3' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<skill id='barrier' x='6' y='4' />
+		</upgrade>
+		<upgrade>
+			<level>6</level>			
+			<health>24</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>26</health>
+			<skill id='barrier' x='7' y='4' />
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<skill id='shrapnel' x='6'  />
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>28</health>
+			<skill id='berserk' x='4' />
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<skill id='barrier' x='8' y='4' />
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<attack>15</attack>
+			<health>30</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>32</health>
+			<skill id='shrapnel' x='7' />
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<skill id='barrier' x='9' y='4' />
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>34</health>
+			<skill id='berserk' x='5' />
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<attack>16</attack>
+			<health>35</health>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<skill id='barrier' x='10' y='4' />
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>17</attack>
+			<health>37</health>
+		</upgrade>
 	</unit>				
 	<!--  stop at id 44000 -->
 	<!-- King of the Hill combos -->
@@ -27719,7 +27813,7 @@
 		<attack_multiplier>0.66</attack_multiplier>
 		<health_multiplier>0.75</health_multiplier>
 		<skill id='poison' p='32' v='12' />
-		<skill id='weakenall' p='20' v='11' />
+		<skill id='weaken' p='20' v='11' />
 		<skill id='outlast' p='28' v='13' />
 	</unit>	
 	<unit>

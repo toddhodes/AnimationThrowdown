@@ -19997,7 +19997,7 @@
 	  <trait>armed</trait>
 	  <release_time>1515693600</release_time>
 	  <skill id="poison" x="4"/>
-	  <skill id="weakenall" x="5"/>
+	  <skill id="weaken" x="5"/>
 	  <skill id="outlast" x="5"/>
 	  <attack>6</attack>
 	  <health>25</health>
@@ -20015,7 +20015,7 @@
 	    <level>4</level>
 	    <attack>7</attack>
 	    <health>29</health>
-	    <skill id="weakenall" x="6"/>
+	    <skill id="weaken" x="6"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>5</level>
@@ -20027,7 +20027,7 @@
 	    <level>6</level>
 	    <attack>8</attack>
 	    <health>32</health>
-	    <skill id="weakenall" x="7"/>
+	    <skill id="weaken" x="7"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>7</level>
@@ -20044,7 +20044,7 @@
 	    <level>9</level>
 	    <health>36</health>
 	    <skill id="poison" x="8"/>
-	    <skill id="weakenall" x="8"/>
+	    <skill id="weaken" x="8"/>
 	    <skill id="outlast" x="9"/>
 	  </upgrade>
 	  <upgrade>
@@ -20056,7 +20056,7 @@
 	    <attack>10</attack>
 	    <health>39</health>
 	    <skill id="poison" x="9"/>
-	    <skill id="weakenall" x="9"/>
+	    <skill id="weaken" x="9"/>
 	    <skill id="outlast" x="10"/>
 	  </upgrade>
 	  <upgrade>
@@ -20073,7 +20073,7 @@
 	  <upgrade>
 	    <level>14</level>
 	    <health>43</health>
-	    <skill id="weakenall" x="10"/>
+	    <skill id="weaken" x="10"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>15</level>
