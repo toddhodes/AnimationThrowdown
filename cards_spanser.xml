@@ -9712,7 +9712,7 @@
         <picture>FG_PetersDrawing</picture>
         <asset_bundle>34</asset_bundle>
         <rarity>4</rarity>
-        <set>9999</set>
+        <set>2</set>
         <type>1</type>
         <trait>artistic</trait>
         <release_time>1519322400</release_time> <!-- 2/22/2018 -->
@@ -15101,7 +15101,7 @@
         <picture>AD_Miguel</picture>
         <asset_bundle>40</asset_bundle>
         <rarity>4</rarity>
-        <set>9999</set>
+        <set>3</set>
         <type>2</type>
         <trait>artistic</trait>
         <release_time>1517508000</release_time> <!-- 2/1/2018 -->
@@ -21346,7 +21346,7 @@
         <picture>BB_GhostBoy</picture>
         <asset_bundle>40</asset_bundle>
         <rarity>4</rarity>
-        <set>9999</set>
+        <set>2</set>
         <type>3</type>
         <trait>artistic</trait>
         <release_time>1518717600</release_time> <!-- 2/15/2018 -->
@@ -26441,7 +26441,7 @@
         <picture>KOTH_MrTwilley</picture>
         <asset_bundle>40</asset_bundle>
         <rarity>4</rarity>
-        <set>9999</set>
+        <set>2</set>
         <type>4</type>
         <trait>artistic</trait>
         <release_time>1518112800</release_time> <!-- 2/8/2018 -->
@@ -28347,7 +28347,7 @@
 		<name>Taxidermy Artist</name>
 		<desc>The Hemingway of the taxidermy diorama.</desc>
 		<picture>KOTH_PeggyTaxidermy</picture>
-		<asset_bundle>15</asset_bundle>
+		<asset_bundle>35</asset_bundle>
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>4</type>
@@ -31846,7 +31846,7 @@
 		<picture>FR_ZappBranniganPortrait</picture>
 		<asset_bundle>34</asset_bundle>
 		<rarity>4</rarity>
-		<set>9999</set>
+		<set>2</set>
 		<type>5</type>
 		<trait>artistic</trait>
 		<release_time>1517508000</release_time>
@@ -36359,64 +36359,76 @@
 		<id>drunk</id>
 		<name>Drunk</name>
 		<icon>trait_drunk</icon>
+		<order>1</order>
 	</unit_trait>
 	<unit_trait>
 		<id>educated</id>
 		<name>Educated</name>
 		<icon>trait_educated</icon>
+		<order>2</order>
 	</unit_trait>
 	<unit_trait>
 		<id>addicted</id>
 		<name>Addicted</name>
 		<icon>trait_addicted</icon>
+		<order>3</order>
 	</unit_trait>
 	<unit_trait>
 		<id>hyper</id>
 		<name>Hyper</name>
 		<icon>trait_hyper</icon>
+		<order>4</order>
 	</unit_trait>
 	<unit_trait>
 		<id>rich</id>
 		<name>Rich</name>
 		<icon>trait_rich</icon>
+		<order>5</order>
 	</unit_trait>
 	<unit_trait>
 		<id>athletic</id>
 		<name>Athletic</name>
 		<icon>trait_athletic</icon>
+		<order>6</order>
 	</unit_trait>
 	<unit_trait>
 		<id>artistic</id>
 		<name>Artistic</name>
 		<icon>trait_artistic</icon>
+		<order>7</order>
 	</unit_trait>
 	<unit_trait>
 		<id>armed</id>
 		<name>Armed</name>
 		<icon>trait_armed</icon>
+		<order>8</order>
 	</unit_trait>
     <unit_trait>
         <id>disguised</id>
         <name>Disguised</name>
         <icon>trait_disguised</icon>
+		<order>9</order>
     </unit_trait>
 
     <unit_trait>
         <id>fighter</id>
         <name>Fighter</name>
         <icon>trait_martialArts</icon>
+		<order>10</order>
     </unit_trait>
 
     <unit_trait>
         <id>musical</id>
         <name>Musical</name>
         <icon>trait_music</icon>
+		<order>11</order>
     </unit_trait>
     
 <!--     <unit_trait>
         <id>animal</id>
         <name>Animal</name>
         <icon>trait_animal</icon>
+		<order>12</order>
     </unit_trait> -->
 
  <!--
@@ -36424,6 +36436,7 @@
 		<id>omicronian</id>
 		<name>Omicronian</name>
 		<icon>drunkTraitIcon</icon>
+		<order>13</order>
 	</unit_trait>
  -->
 	<!-- Skills -->
