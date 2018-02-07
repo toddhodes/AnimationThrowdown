@@ -4779,7 +4779,81 @@
             <health>85</health>
        		<skill id='healall' x='5' />
         </upgrade>
-     </unit>               
+     </unit> 
+	<unit>
+		<id>7025</id>
+		<name>Hot Meg</name>
+		<desc>You ever been on a date with three gorgeous ladies at the same time?</desc>
+		<picture>hotMeg</picture>
+		<asset_bundle>24</asset_bundle>
+		<commander>1</commander>
+		<rarity>1</rarity>
+		<set>5000</set>
+		<type>3</type>
+		<health>15</health>
+		<upgrade>
+			<level>2</level>
+			<health>20</health>
+			<skill id='barrierall' x='1' y='1' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>35</health>
+			<skill id='rally' x='1' y='1' />
+			<skill id='barrierall' x='2' y='1' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>50</health>
+			<skill id='strike' x='2' />
+			<skill id='rally' x='2' y='1' />
+			<skill id='barrierall' x='3' y='1' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>80</health>
+			<skill id='strike' x='4' />
+			<skill id='rally' x='3' y='1' />
+			<skill id='barrierall' x='4' y='1' />
+		</upgrade>
+	</unit> 
+	<unit>
+		<id>7026</id>
+		<name>Sexy Stewie</name>
+		<desc>Hey Valentine. What do you say we hit the town?</desc>
+		<picture>sexyStewie</picture>
+		<asset_bundle>24</asset_bundle>
+		<commander>1</commander>
+		<rarity>1</rarity>
+		<set>5000</set>
+		<type>3</type>
+		<health>15</health>
+		<upgrade>
+			<level>2</level>
+			<health>20</health>
+			<skill id='rallyall' x='1' y='1' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>35</health>
+			<skill id='heal' x='1' y='1' />
+			<skill id='rallyall' x='2' y='1' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>50</health>
+			<skill id='weaken' x='2' />
+			<skill id='heal' x='2' y='1' />
+			<skill id='rallyall' x='3' y='1' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>80</health>
+			<skill id='weaken' x='4' />
+			<skill id='heal' x='3' y='1' />
+			<skill id='rallyall' x='4' y='1' />
+		</upgrade>
+	</unit>  	                  
 	 <!--  American Dad Campaign Leaders  -->
      <unit>
         <id>8001</id>
@@ -5470,7 +5544,44 @@
 			<skill id='heal' x='4' />
 			<skill id='rally' x='2' />
 		</upgrade>
-	</unit>		  
+	</unit>	
+	<unit>
+		<id>8023</id>
+		<name>Laura Vanderbooben</name>
+		<desc>I'm a slut!</desc>
+		<picture>lauraVanderbooben</picture>
+		<asset_bundle>24</asset_bundle>
+		<commander>1</commander>
+		<rarity>1</rarity>
+		<set>5000</set>
+		<type>3</type>
+		<health>15</health>
+		<upgrade>
+			<level>2</level>
+			<health>20</health>
+			<skill id='healall' x='1' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>35</health>
+			<skill id='barrier' x='1' />
+			<skill id='healall' x='2'  />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>50</health>
+			<skill id='weaken' x='2' />
+			<skill id='barrier' x='2'  />
+			<skill id='healall' x='3'  />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>80</health>
+			<skill id='weaken' x='4' />
+			<skill id='barrier' x='3' />
+			<skill id='healall' x='4'  />
+		</upgrade>
+	</unit> 		  
 	 <!--  King of the Hill Campaign Leaders  -->
      <unit>
         <id>9001</id>
