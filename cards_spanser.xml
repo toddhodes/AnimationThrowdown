@@ -36535,12 +36535,12 @@
 		<order>11</order>
     </unit_trait>
     
-<!--     <unit_trait>
+    <unit_trait>
         <id>animal</id>
         <name>Animal</name>
         <icon>trait_animal</icon>
 		<order>12</order>
-    </unit_trait> -->
+    </unit_trait>
 
  <!--
 	<unit_trait>
