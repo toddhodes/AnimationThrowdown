@@ -27101,7 +27101,7 @@
 	<unit>
 		<id>40039</id>
 		<name>Arlen YMCA</name>
-		<desc>Were young men become men.</desc>
+		<desc>Where young men become men.</desc>
 		<picture>KOTH_arlenYMCA</picture>
 		<asset_bundle>38</asset_bundle>
 		<rarity>4</rarity>
@@ -27426,12 +27426,11 @@
         </upgrade>
         <upgrade>
             <level>11</level>
-			<skill id='heal' x='8' />
+			<attack>9</attack>
         </upgrade>
         <upgrade>
             <level>12</level>
-			<health>45</health>
-			<attack>9</attack>
+			<health>45</health>			
         </upgrade>
         <upgrade>
             <level>13</level>
