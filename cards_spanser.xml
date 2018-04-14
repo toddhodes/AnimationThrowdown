@@ -36813,7 +36813,8 @@
 		<set>9999</set>
 		<hidden>1</hidden>
 		<type>6</type>
-		<trait>animal</trait>
+		<trait>hyper</trait>
+		<release_time>1555351200</release_time>
         <skill id='invigorate' x='10' />
 		<attack>5</attack>
 		<health>500</health>
@@ -36885,10 +36886,12 @@
 		<desc></desc>
 		<picture>MurderVictim</picture>
 		<asset_bundle>1</asset_bundle>
-		<rarity>1</rarity>
+		<rarity>4</rarity>
 		<set>9999</set>
 		<hidden>1</hidden>
 		<type>6</type>
+		<trait>hyper</trait>
+		<release_time>1555351200</release_time>
 		<attack>4</attack>
 		<health>20</health>
 		<skill id='strike' x='5' />
@@ -36918,6 +36921,88 @@
 		</upgrade>
 	</unit>
 
+	<unit>
+		<id>60100</id>
+		<name>Test Three</name>
+		<desc></desc>
+		<picture>MurderVictim</picture>
+		<asset_bundle>1</asset_bundle>
+		<rarity>3</rarity>
+		<set>9999</set>
+		<hidden>1</hidden>
+		<type>6</type>
+		<trait>hyper</trait>
+		<release_time>1555351200</release_time>
+		<attack>4</attack>
+		<health>20</health>
+		<skill id='strike' x='5' />
+		<upgrade>
+			<level>2</level>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+		</upgrade>
+	</unit>
+
+	<unit>
+		<id>60101</id>
+		<name>Test Four</name>
+		<desc></desc>
+		<picture>MurderVictim</picture>
+		<asset_bundle>1</asset_bundle>
+		<rarity>3</rarity>
+		<set>9999</set>
+		<hidden>1</hidden>
+		<type>6</type>
+		<trait>hyper</trait>
+		<release_time>1555351200</release_time>
+		<attack>4</attack>
+		<health>20</health>
+		<skill id='strike' x='5' />
+		<upgrade>
+			<level>2</level>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+		</upgrade>
+	</unit>
+		
 	<unit>
 		<id>60401</id>
 		<name>Apple</name>
