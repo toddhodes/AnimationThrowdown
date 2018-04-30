@@ -1,14 +1,20 @@
 
-Offense: 8/8/9
-   1 L Drunk at the Clam: 6**
-   2 L Jose Servo: 6**
-   1 L Mowing While Intoxicated: 6**
-   2 L Time for Hard Liquor: 6**
-   2 L Viking Peter: 6**
-   1 L Yacht Dreams: 6**
+Offense: 
 
-   7 L Jelly Bean Schnapps: 6**
-   1 L Spring Break Shots: 6**
+9/10/6 rumble
+
+   1 M Louise: 4**
+   8 L Philip J. Fry: 6**
+
+   5 L Thunder Cocktails: 6**
+   4 L Vodka Beer: 6**
+   1 L Wine Bucket: 6**
+
+   2 L Jose Servo: 6**
+   2 L Party All the Time: 6**
+   2 L Viking Peter: 6**
+
+8/8/9 prev gen 
 
    1 M Leela: 3*
    1 M Louise: 4*
@@ -16,8 +22,40 @@ Offense: 8/8/9
    3 L Peter: 6**
    2 L Bender: 6**
 
+   7 L Jelly Bean Schnapps: 6**
+   1 L Spring Break Shots: 6**
 
-Defense: 6/7/12
+   1 L Drunk at the Clam: 6**
+   2 L Jose Servo: 6**
+   1 L Mowing While Intoxicated: 6**
+   2 L Time for Hard Liquor: 6**
+   2 L Viking Peter: 6**
+   1 L Yacht Dreams: 6**
+
+Defense: 
+
+2/4/19
+
+   1 M Louise: 4**
+   1 M Stewie: 4**
+
+   2 L Brau Beer: 1
+   2 L Vodka Beer: 6**
+
+   4 L Brian Statue: 6**
+   1 L Drunk at the Clam: 6**
+   2 L Jose Servo: 6**
+   1 L Meatman Sculptor: 6**
+   1 L Mowing While Intoxicated: 6**
+   2 L Party All the Time: 6**
+   2 L Time for Hard Liquor: 6**
+   2 L Viking Peter: 6**
+   3 L Whiskey Bartender: 6**
+   1 L Yacht Dreams: 6**
+  
+
+6/7/12 prev gen 
+
    1 L Drunk at the Clam: 6**
    3 L High School Bill: 6**
    2 L Jose Servo: 6**
@@ -37,9 +75,3 @@ Defense: 6/7/12
       +1 L Peter: 6**
       +1 L Spring Break Shots: 6**
 
-convert: 
-   +2 L Bender: ^**
-   +1 L Spring Break Shots: 6**
-   -1 L High School Bill: 6**
-   -1 L Mowing While Intoxicated: 6**
-   -1 L Yacht Dreams: 6**
