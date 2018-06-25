@@ -500,7 +500,172 @@
 			<skill id="berserk" x="8"/>
 		</upgrade>
 	</unit>
-<unit>
+	<unit>
+		<id>1200003</id>
+		<name>Hayley</name>
+		<desc>When did I eat vomit?</desc>
+		<picture>ad_hayley_legendary</picture>
+		<asset_bundle>23</asset_bundle>
+		<release_time>1529431200</release_time>
+			<item_name>Hayley Fragment</item_name>
+			<item_desc>Collect Hayley Fragments to craft and upgrade a Mythic Hayley card!</item_desc>	
+			<item_icon>inventory_upgrade_50_inventory</item_icon>
+			<item_bundle_id>19</item_bundle_id>
+			<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<attack>12</attack>
+		<health>44</health>
+		<rarity>5</rarity>
+		<skill id="inspire" x="7"/>
+		<skill id="bodyguard" x="7"/>
+		<skill id="leech" x="10"/>
+		<type>2</type>
+		<trait>artistic</trait>
+		<set>7001</set>
+		<upgrade>
+			<level>2</level>
+			<health>45</health>
+			<skill id="inspire" x="7"/>
+			<skill id="bodyguard" x="7"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>46</health>
+			<skill id="inspire" x="7"/>
+			<skill id="bodyguard" x="8"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>47</health>
+			<attack>13</attack>
+			<skill id="inspire" x="7"/>
+			<skill id="bodyguard" x="8"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>48</health>
+			<skill id="inspire" x="8"/>
+			<skill id="bodyguard" x="8"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>49</health>
+			<skill id="inspire" x="8"/>
+			<skill id="bodyguard" x="9"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>50</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>51</health>
+			<skill id="inspire" x="9"/>
+			<skill id="bodyguard" x="9"/>
+			<skill id="leech" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>52</health>
+			<skill id="inspire" x="9"/>
+			<skill id="bodyguard" x="10"/>
+			<skill id="leech" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>53</health>
+			<attack>15</attack>
+			<skill id="inspire" x="9"/>
+			<skill id="bodyguard" x="10"/>
+			<skill id="leech" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>54</health>
+			<skill id="inspire" x="10"/>
+			<skill id="bodyguard" x="10"/>
+			<skill id="leech" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>55</health>
+			<skill id="inspire" x="10"/>
+			<skill id="bodyguard" x="11"/>
+			<skill id="leech" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>56</health>
+			<attack>16</attack>
+			<skill id="inspire" x="10"/>
+			<skill id="bodyguard" x="11"/>
+			<skill id="leech" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>57</health>
+			<skill id="inspire" x="10"/>
+			<skill id="bodyguard" x="11"/>
+			<skill id="leech" x="17"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>58</health>
+			<skill id="inspire" x="11"/>
+			<skill id="bodyguard" x="12"/>
+			<skill id="leech" x="17"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>59</health>
+			<skill id="inspire" x="11"/>
+			<skill id="bodyguard" x="12"/>
+			<skill id="leech" x="18"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>60</health>
+			<attack>17</attack>
+			<skill id="inspire" x="12"/>
+			<skill id="bodyguard" x="12"/>
+			<skill id="leech" x="18"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>61</health>
+			<skill id="inspire" x="12"/>
+			<skill id="bodyguard" x="13"/>
+			<skill id="leech" x="18"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>62</health>
+			<attack>18</attack>
+			<skill id="inspire" x="12"/>
+			<skill id="bodyguard" x="13"/>
+			<skill id="leech" x="19"/>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>63</health>
+			<skill id="inspire" x="12"/>
+			<skill id="bodyguard" x="14"/>
+			<skill id="leech" x="19"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>64</health>
+			<skill id="inspire" x="13"/>
+			<skill id="bodyguard" x="14"/>
+			<skill id="leech" x="20"/>
+		</upgrade>
+	</unit>
+	<unit>
 		<id>1300001</id>
 		<name>Louise</name>
 		<desc>Favorite Boy 4 Now: Boo Boo</desc>
