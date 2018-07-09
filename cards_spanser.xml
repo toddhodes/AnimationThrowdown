@@ -4931,7 +4931,7 @@
 	<unit>
 		<id>7028</id>
 		<name>America Peter</name>
-		<desc></desc>
+		<desc>Immigrants took my "sitting on the couch" job!</desc>
 		<picture>americanPeter</picture>
 		<asset_bundle>24</asset_bundle>
 		<commander>1</commander>
@@ -5733,7 +5733,7 @@
 	<unit>
 		<id>8025</id>
 		<name>America Stan</name>
-		<desc></desc>
+		<desc>My biceps are protected by the 2nd amendment.</desc>
 		<picture>americanStan</picture>
 		<asset_bundle>24</asset_bundle>
 		<commander>1</commander>
@@ -6417,7 +6417,7 @@
 	<unit>
 		<id>9022</id>
 		<name>America Dale</name>
-		<desc></desc>
+		<desc>USA! USA! USA!</desc>
 		<picture>americanDale</picture>
 		<asset_bundle>24</asset_bundle>
 		<commander>1</commander>
@@ -39923,7 +39923,7 @@
 		<release_time>1555351200</release_time>
 		<attack>5</attack>
 		<health>20</health>
-		<skill id='leech' x='5'  />
+		<skill id='strike' x='5'  />
 		<upgrade>
 			<level>2</level>
 		</upgrade>
