@@ -4,6 +4,7 @@
 <unit>
 		<id>1100001</id>
 		<name>Stewie</name>
+		<character>fg_stewie</character>
 		<desc>What the deuce?! Damn you all! Ha ha, classic. Stewie here. We're gonna have fun together.</desc>
 		<item_name>Stewie Fragment</item_name>
 		<item_desc>Collect Stewie Fragments to craft and upgrade a Mythic Stewie card!</item_desc>
@@ -110,6 +111,7 @@
 	<unit>
 		<id>1100002</id>
 		<name>Quagmire</name>
+		<character>fg_quagmire</character>
 		<desc>If I were you I'd do me.</desc>
 		<picture>FG_QuagmireMythic</picture>
 		<asset_bundle>40</asset_bundle>
@@ -255,9 +257,10 @@
 		</upgrade>
 	</unit>
 	
-<unit>
+	<unit>
 		<id>1200001</id>
 		<name>Stan</name>
+		<character>ad_stan</character>
 		<desc>Field agent at the CIA. Stan is short for Stanley. Or Staniel.</desc>
 		<item_name>Stan Fragment</item_name>
 		<item_desc>Collect Stan Fragments to craft and upgrade a Mythic Stan card!</item_desc>
@@ -361,6 +364,7 @@
 	<unit>
 		<id>1200002</id>
 		<name>Bullock</name>
+		<character>ad_bullock</character>
 		<desc>Whoa! Things just got real.</desc>
 		<picture>AD_BullockMythic</picture>
 		<asset_bundle>40</asset_bundle>
@@ -503,6 +507,7 @@
 	<unit>
 		<id>1200003</id>
 		<name>Hayley</name>
+		<character>ad_hayley</character>
 		<desc>When did I eat vomit?</desc>
 		<picture>ad_hayley_legendary</picture>
 		<asset_bundle>23</asset_bundle>
@@ -668,6 +673,7 @@
 	<unit>
 		<id>1300001</id>
 		<name>Louise</name>
+		<character>bb_lousie</character>
 		<desc>Favorite Boy 4 Now: Boo Boo</desc>
 		<item_name>Louise Fragment</item_name>
 		<item_desc>Collect Louise Fragments to craft and upgrade a Mythic Louise card!</item_desc>
@@ -769,6 +775,7 @@
 	<unit>
 		<id>1300002</id>
 		<name>Bob</name>
+		<character>bb_bob</character>
 		<desc>I'd fire all of you if I could.</desc>
 		<item_name>Bob Fragment</item_name>
 		<item_desc>Collect Bob Fragments to craft and upgrade a Mythic Bob card!</item_desc>
@@ -999,9 +1006,10 @@
 			<skill id="counter" x="13"/>
 		</upgrade>
 	</unit>	 -->
-<unit>
+	<unit>
 		<id>1400001</id>
 		<name>Peggy</name>
+		<character>kh_peggy</character>
 		<desc>Peggy wears a size 16 shoe on her right foot. 16 1/2 on the left.</desc>
 		<item_name>Peggy Fragment</item_name>
 		<item_desc>Collect Peggy Fragments to craft and upgrade a Mythic Peggy card!</item_desc>
@@ -1107,6 +1115,7 @@
 	<unit>
 		<id>1400002</id>
 		<name>Boomhauer</name>
+		<character>kh_boomhauer</character>
 		<desc>Dang ol' mythicism man. Spooky.</desc>
 		<picture>KOTH_BoomhauerMythic</picture>
 		<asset_bundle>40</asset_bundle>
@@ -1244,9 +1253,10 @@
 			<skill id="strike" x="15"/>
 		</upgrade>
 	</unit>	
-<unit>
+	<unit>
 		<id>1500001</id>
 		<name>Leela</name>
+		<character>ft_leela</character>
 		<desc>Depth perception is overrated.</desc>
 		<item_name>Leela Fragment</item_name>
 		<item_desc>Collect Leela Fragments to craft and upgrade a Mythic Leela card!</item_desc>
@@ -1349,6 +1359,7 @@
 	<unit>
 		<id>1500002</id>
 		<name>Dr. Zoidberg</name>
+		<character>ft_zoidberg</character>
 		<desc>Hooray, I’m useful!</desc>
 		<item_name>Zoidberg Fragment</item_name>
 		<item_desc>Collect Zoidberg Fragments to craft and upgrade a Mythic Zoidberg card!</item_desc>		
