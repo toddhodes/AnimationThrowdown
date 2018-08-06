@@ -673,7 +673,7 @@
 	<unit>
 		<id>1300001</id>
 		<name>Louise</name>
-		<character>bb_lousie</character>
+		<character>bb_louise</character>
 		<desc>Favorite Boy 4 Now: Boo Boo</desc>
 		<item_name>Louise Fragment</item_name>
 		<item_desc>Collect Louise Fragments to craft and upgrade a Mythic Louise card!</item_desc>
@@ -876,10 +876,11 @@
 			<skill id="weakenall" x="10"/>
 			<attack>21</attack>
 		</upgrade>												
-	</unit>	
-<!-- 	<unit>
+	</unit>		
+ 	<unit>
 		<id>1300003</id>
 		<name>Teddy</name>
+		<character>bb_teddy</character>
 		<desc>This will either be fun or terrible.</desc>
 		<picture>BB_TeddyMythic</picture>
 		<asset_bundle>40</asset_bundle>
@@ -888,124 +889,123 @@
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="inventory_upgrade_50_inventory" bundle_id="19"/>			
-		<attack>17</attack>
-		<health>39</health>
+		<attack>13</attack>
+		<health>40</health>
 		<rarity>5</rarity>
-		<skill id="inspire" x="9"/>
-		<skill id="bodyguard" x="8"/>
-		<skill id="counter" x="9"/>
+		<skill id="counter" x="10"/>
+		<skill id="outlast" x="9"/>
+		<skill id="hijack" x="6"/>
 		<type>3</type>
 		<set>7001</set>
 		<upgrade>
 			<level>2</level>
-			<health>40</health>
+			<health>42</health>
+			<skill id="hijack" x="7" />
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>41</health>
-			<attack>18</attack>
+			<health>44</health>
+			<attack>14</attack>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>42</health>
+			<health>46</health>
+			<skill id="counter" x="11"/>
+			<skill id="outlast" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>43</health>
-			<skill id="inspire" x="10"/>
-			<skill id="bodyguard" x="8"/>
-			<skill id="counter" x="9"/>
+			<attack>15</attack>
+			<health>47</health>
+			<skill id="counter" x="11"/>
+			<skill id="outlast" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<attack>19</attack>
-			<skill id="inspire" x="10"/>
-			<skill id="bodyguard" x="8"/>
-			<skill id="counter" x="10"/>
+			<health>50</health>
+			<skill id="counter" x="11"/>
+			<skill id="outlast" x="10"/>
+			<skill id="hijack" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<health>44</health>
+			<health>52</health>
+			<skill id="counter" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>45</health>
-			<skill id="inspire" x="10"/>
-			<skill id="bodyguard" x="9"/>
-			<skill id="counter" x="10"/>
+			<health>53</health>
+			<skill id="counter" x="12"/>
+			<skill id="outlast" x="11"/>
+			<skill id="hijack" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>46</health>
-			<attack>20</attack>
+			<health>55</health>
+			<attack>16</attack>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<health>47</health>
+			<health>56</health>
+			<skill id="counter" x="13"/>
+			<skill id="outlast" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<skill id="inspire" x="11"/>
-			<skill id="bodyguard" x="9"/>
-			<skill id="counter" x="11"/>
+			<health>57</health>
+			<skill id="hijack" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<health>48</health>
-			<attack>21</attack>
+			<health>58</health>
+			<skill id="counter" x="14"/>
+			<skill id="outlast" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>49</health>
+			<attack>17</attack>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>50</health>
-			<skill id="inspire" x="11"/>
-			<skill id="bodyguard" x="10"/>
-			<skill id="counter" x="11"/>
+			<health>60</health>
+			<skill id="outlast" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<health>51</health>
-			<skill id="inspire" x="12"/>
-			<skill id="bodyguard" x="10"/>
-			<skill id="counter" x="11"/>
+			<health>61</health>
+			<skill id="outlast" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<skill id="inspire" x="12"/>
-			<skill id="bodyguard" x="10"/>
-			<skill id="counter" x="12"/>
+			<health>62</health>
+			<skill id="counter" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<attack>22</attack>
-			<health>52</health>
+			<attack>18</attack>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>53</health>
-			<attack>23</attack>
+			<health>65</health>			
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<health>54</health>
+			<skill id="counter" x="14"/>
+			<skill id="outlast" x="13"/>
+			<skill id="hijack" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
-			<health>55</health>
-			<skill id="inspire" x="12"/>
-			<skill id="bodyguard" x="11"/>
-			<skill id="counter" x="12"/>
+			<health>66</health>
+			<skill id="counter" x="15"/>
+			<skill id="outlast" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
-			<skill id="inspire" x="13"/>
-			<skill id="bodyguard" x="11"/>
-			<skill id="counter" x="13"/>
+			<health>67</health>
+			<attack>19</attack>
 		</upgrade>
-	</unit>	 -->
+	</unit>
 	<unit>
 		<id>1400001</id>
 		<name>Peggy</name>

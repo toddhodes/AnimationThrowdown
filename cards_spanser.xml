@@ -7486,7 +7486,7 @@
 	<unit>
 		<id>10018</id>
 		<name>Quagmire</name>
-		<character>fg_quadmire</character>
+		<character>fg_quagmire</character>
 		<desc>Giggity giggity. Giggity goo.</desc>
 		<picture>Quagmire</picture>
 		<asset_bundle>1</asset_bundle>
@@ -21172,7 +21172,7 @@
 <unit>
 		<id>30021</id>
 		<name>Capoeria</name>
-		<desc/>
+		<desc></desc>
 		<picture>bb_ExtremeCapoeira</picture>
 		<asset_bundle>23</asset_bundle>
 		<rarity>4</rarity>
@@ -23504,7 +23504,7 @@
 	<unit>
 		<id>30048</id>
 		<name>Eugene Belcher</name>
-		<character>bb_eugene</character>
+		<character>bb_gene</character>
 		<desc>I'm going to make the psychedelic crop top of my dreams!</desc>
 		<picture>bb_gene_legendary</picture>
 		<asset_bundle>23</asset_bundle>
@@ -42889,6 +42889,8 @@
 		<id>pierce</id>
 		<name>Jab</name>
 		<icon>skill_jab</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_jab" bundle_id="1" />
 		<target_anim>pierce</target_anim>
 		<desc>Reduces effects that prevent damage by {x} when attacking.</desc>
 		<short_desc>Jab {x}</short_desc>
@@ -42901,6 +42903,8 @@
 		<id>strike</id>
 		<name>Punch</name>
 		<icon>skill_punch</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_punch" bundle_id="1" />
 		<target_anim>strike</target_anim>
         <desc>A random enemy {y} card takes {x} damage.</desc>
 		<short_desc>Punch {x}</short_desc>
@@ -42913,6 +42917,8 @@
 		<id>armored</id>
 		<name>Sturdy</name>
 		<icon>skill_sturdy</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_sturdy" bundle_id="1" />
 		<block_anim>armored</block_anim>
 		<desc>Blocks {x} damage when attacked.</desc>
 		<short_desc>Sturdy {x}</short_desc>
@@ -42925,6 +42931,8 @@
 		<id>counter</id>
 		<name>Payback</name>
 		<icon>skill_payBack</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_payBack" bundle_id="1" />
 		<target_anim>armored</target_anim>
         <desc>Deals {x} damage to any card that attacks this, if this card survives.</desc>
 		<short_desc>Payback {x}</short_desc>
@@ -42937,6 +42945,8 @@
 		<id>weaken</id>
 		<name>Cripple</name>
 		<icon>skill_cripple</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_cripple" bundle_id="1" />
 		<target_anim>weaken</target_anim>
         <desc>Reduces attack of a random enemy {y} card by {x} for a turn.</desc>
 		<short_desc>Cripple {x}</short_desc>
@@ -42949,6 +42959,8 @@
 		<id>weakenall</id>
 		<name>Cripple All</name>
 		<icon>skill_crippleAll</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_crippleAll" bundle_id="1" />
 		<target_anim>weaken</target_anim>
         <desc>Reduces attack of all enemy {y} cards by {x} for a turn.</desc>
 		<short_desc>Cripple All {x}</short_desc>
@@ -42961,6 +42973,8 @@
 		<id>poison</id>
 		<name>Gas</name>
 		<icon>skill_fart</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_fart" bundle_id="1" />
 		<target_anim>weaken</target_anim>
         <desc>Attacked enemy card takes {x} additional damage after each of their turns.</desc>
 		<short_desc>Gas {x}</short_desc>
@@ -42973,6 +42987,8 @@
 		<id>barrier</id>
 		<name>Shield</name>
 		<icon>skill_shield</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_shield" bundle_id="1" />
 		<target_anim>weaken</target_anim>
         <desc>Prevent {x} damage dealt to another random {y} card.</desc>
 		<short_desc>Shield {x}</short_desc>
@@ -42985,6 +43001,8 @@
 		<id>barrierall</id>
 		<name>Shield All</name>
 		<icon>skill_shieldAll</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_shieldAll" bundle_id="1" />
 		<target_anim>barrier</target_anim>
         <desc>Prevent {x} damage dealt to other friendly {y} cards.</desc>
 		<short_desc>Shield All {x}</short_desc>
@@ -42997,6 +43015,8 @@
 		<id>invigorate</id>
 		<name>Boost</name>
 		<icon>skill_boost</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_boost" bundle_id="1" />
 		<target_anim>rally</target_anim>
 		<desc>Card gets +{x} attack whenever you play a combo.</desc>
 		<short_desc>Boost {x}</short_desc>
@@ -43009,6 +43029,8 @@
 		<id>outlast</id>
 		<name>Recover</name>
 		<icon>skill_recover</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_recover" bundle_id="1" />
 		<target_anim>heal</target_anim>
 		<desc>Gets +{x} max health whenever you play a combo</desc>
 		<short_desc>Recover {x}</short_desc>
@@ -43021,6 +43043,8 @@
 		<id>rally</id>
 		<name>Cheer</name>
 		<icon>skill_cheer</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_cheer" bundle_id="1" />
 		<target_anim>rally</target_anim>
         <desc>Increases attack of another random friendly {y} card by {x} for a turn. Only targets cards that have not attacked this turn.</desc>
 		<short_desc>Cheer {x}</short_desc>
@@ -43033,6 +43057,8 @@
 		<id>rallyall</id>
 		<name>Cheer All</name>
 		<icon>skill_cheerAll</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_cheerAll" bundle_id="1" />
 		<target_anim>rally</target_anim>
         <desc>Increases attack of all other friendly {y} cards by {x} for a turn. Only targets cards that have not attacked this turn.</desc>
 		<short_desc>Cheer All {x}</short_desc>
@@ -43045,6 +43071,8 @@
 		<id>heal</id>
 		<name>Heal</name>
 		<icon>skill_heal</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_heal" bundle_id="1" />
 		<target_anim>rally</target_anim>
         <desc>Restore {x} health to another damaged {y} card.</desc>
 		<short_desc>Heal {x}</short_desc>
@@ -43057,6 +43085,8 @@
 		<id>healall</id>
 		<name>Heal All</name>
 		<icon>skill_healAll</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_healAll" bundle_id="1" />
 		<target_anim>heal</target_anim>
         <desc>Restore {x} health to all other friendly damaged {y} cards.</desc>
 		<short_desc>Heal All {x}</short_desc>
@@ -43069,6 +43099,8 @@
 		<id>leech</id>
 		<name>Leech</name>
 		<icon>skill_leech</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_leech" bundle_id="1" />
 		<target_anim>heal</target_anim>
 		<desc>Heals self for {x} after dealing attack damage to a card.</desc>
 		<short_desc>Leech {x}</short_desc>
@@ -43081,6 +43113,8 @@
 		<id>inspire</id>
 		<name>Motivate</name>
 		<icon>skill_inspire</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_inspire" bundle_id="1" />
 		<target_anim>rally</target_anim>
         <desc>{y} cards adjacent to this get extra attack.</desc>
 		<short_desc>Motivate {x}</short_desc>
@@ -43093,6 +43127,8 @@
 		<id>shrapnel</id>
 		<name>Bomb</name>
 		<icon>skill_bomb</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_bomb" bundle_id="1" />
 		<target_anim>strike</target_anim>
         <desc>Deal {x} damage to {y} enemies adjacent to the one this attacks.</desc>
 		<short_desc>Bomb {x}</short_desc>
@@ -43105,6 +43141,8 @@
 		<id>berserk</id>
 		<name>Crazed</name>
 		<icon>skill_crazed</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_crazed" bundle_id="1" />
 		<target_anim>rally</target_anim>
 		<desc>Gain {x} attack after dealing damage</desc>
 		<short_desc>Crazed {x}</short_desc>
@@ -43118,6 +43156,8 @@
 		<id>hijack</id>
 		<name>Hijack</name>
 		<icon>skill_hijack</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_hijack" bundle_id="1" />
 		<target_anim>rally</target_anim>
         <desc>Steals up to {x} attack from each attack increase on the opposing enemy until next turn.</desc>
 		<short_desc>Hijack {x}</short_desc>
@@ -43130,6 +43170,8 @@
 		<id>bodyguard</id>
 		<name>Bodyguard</name>
 		<icon>skill_bodyguard</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_bodyguard" bundle_id="1" />
 		<block_anim>armored</block_anim>
 		<desc>Prevent {x} damage from each skill that targets this card and adjacent allies. Uses the highest Bodyguard available.</desc>
 		<short_desc>Bodyguard {x}</short_desc>
@@ -43142,6 +43184,8 @@
 		<id>give</id>
 		<name>Give</name>
 		<icon>skill_give</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_give" bundle_id="1" />
 		<!-- <upkeep>1</upkeep> -->
 		<target_anim>rally</target_anim>
 		<desc>Give a random card the {s} skill with {x} value.</desc>
@@ -43156,6 +43200,8 @@
 		<id>attackBoost</id>
 		<name>attackBoost</name>
 		<icon>skill_crazed</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_crazed" bundle_id="1" />
 		<target_anim>rally</target_anim>
 		<desc>Gain {x} attack after dealing damage</desc>
 		<short_desc>Crazed {x}</short_desc>
@@ -43168,6 +43214,8 @@
 		<id>healthBoost</id>
 		<name>healthBoost</name>
 		<icon>skill_crazed</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_crazed" bundle_id="1" />
 		<target_anim>rally</target_anim>
 		<desc>Gain {x} attack after dealing damage</desc>
 		<short_desc>Crazed {x}</short_desc>
@@ -43182,6 +43230,8 @@
 		<id>fast</id>
 		<name>Fast</name>
 		<icon>skill_fast</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_fast" bundle_id="1" />
 		<target_anim>fast</target_anim>
 		<desc>Card activates immediately.</desc>
 		<short_desc>Fast</short_desc>
@@ -43194,6 +43244,8 @@
 		<id>slow</id>
 		<name>Slow</name>
 		<icon>skill_slow</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_slow" bundle_id="1" />
 		<target_anim>slow</target_anim>
 		<desc>Card activates after {x} additional turns.</desc>
 		<short_desc>Slow {x}</short_desc>
@@ -43206,6 +43258,8 @@
 		<id>scorch</id>
 		<name>Scorch</name>
 		<icon>skill_fart</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_fart" bundle_id="1" />
 		<target_anim>weaken</target_anim>
         <desc>Attacked enemy card takes {x} additional damage after each of their turns. This damage stacks with any Scorch damage already applied to a card.</desc>
 		<short_desc>Scorch {x}</short_desc>
@@ -43219,6 +43273,8 @@
 		<id>empower</id>
 		<name>Empower</name>
 		<icon>skill_cheer</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_cheer" bundle_id="1" />
 		<target_anim>rally</target_anim>
         <desc>Increases attack of a random friendly {y} card by {x} for a turn. This skill can target itself.</desc>
 		<short_desc>Empower {x}</short_desc>
@@ -43231,8 +43287,10 @@
 	<skillType>
 		<id>poisonstrike</id>
 		<name>Gas Punch</name>
-		<icon>skill_punch</icon>
-		<!-- <prefab asset="skill_punchGreen" bundle_id="1" /> -->
+		<!-- <icon>skill_punch</icon> -->
+		<icon>skill_punchGreen</icon>
+		<asset_bundle>43</asset_bundle>
+		<prefab asset="skill_punchGreen" bundle_id="43" />
 		<target_anim>strike</target_anim>
         <desc>A random enemy {y} card takes {x} damage, and {x} Gas is applied to the enemy card if the Punch deals damage.</desc>
 		<short_desc>Gas Punch {x}</short_desc>
@@ -43246,6 +43304,8 @@
 		<id>fortification</id>
 		<name>Fortification</name>
 		<icon>skill_sturdy</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_sturdy" bundle_id="1" />
 		<block_anim>armored</block_anim>
 		<desc>Blocks {x} damage when attacked to this card and adjacent allies. Uses the highest Fortification available.</desc>
 		<short_desc>Fortification {x}</short_desc>
@@ -43259,6 +43319,8 @@
 		<id>rupture</id>
 		<name>Rupture</name>
 		<icon>skill_jab</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_jab" bundle_id="1" />
 		<target_anim>pierce</target_anim>
 		<desc>Half of {x} rounded up is added to this card's attack value.</desc>
 		<short_desc>Rupture {x}</short_desc>
@@ -43272,6 +43334,8 @@
 		<id>awaken</id>
 		<name>Awaken</name>
 		<icon>skill_cheer</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_cheer" bundle_id="1" />
 		<target_anim>rally</target_anim>
         <desc>Increases attack of a random friendly {y} card by {x} permanently. Only targets cards that have not attacked this turn.</desc>
 		<short_desc>Awaken {x}</short_desc>
@@ -43285,6 +43349,8 @@
 		<id>poisonpierce</id>
 		<name>Gas Jab</name>
 		<icon>skill_pierce</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_pierce" bundle_id="1" />
 		<target_anim>pierce</target_anim>
 		<desc>Reduces effects that prevent damage by {x} when attacking and applies {x} Gas to the enemy card when damage is dealt.</desc>
 		<short_desc>Gas Jab {x}</short_desc>
@@ -43298,6 +43364,8 @@
 		<id>shrapnelpierce</id>
 		<name>Bomb Jab</name>
 		<icon>skill_pierce</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_pierce" bundle_id="1" />
 		<target_anim>pierce</target_anim>
 		<desc>Reduces effects that prevent damage by {x} when attacking and deal {x} damage to {y} enemies adjacent to the one this attacks.</desc>
 		<short_desc>Shrapnel Jab {x}</short_desc>
@@ -43311,6 +43379,8 @@
 		<id>energize</id>
 		<name>Energize</name>
 		<icon>skill_boost</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_boost" bundle_id="1" />
 		<target_anim>rally</target_anim>
 		<desc>This card and adjacent cards get +{x} attack whenever you play a combo.</desc>
 		<short_desc>Energize {x}</short_desc>
@@ -43324,6 +43394,8 @@
 		<id>vitalize</id>
 		<name>Vitalize</name>
 		<icon>skill_recover</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_recover" bundle_id="1" />
 		<target_anim>heal</target_anim>
 		<desc>This card and adjacent cards get +{x} max health whenever you play a combo</desc>
 		<short_desc>Vitalize {x}</short_desc>
@@ -43337,6 +43409,8 @@
 		<id>inverse</id>
 		<name>Inverse</name>
 		<icon>skill_heal</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_heal" bundle_id="1" />
 		<target_anim>rally</target_anim>
         <desc>The effects of Punch and Heal are swapped.</desc>
 		<short_desc>Heal {x}</short_desc>
@@ -43350,6 +43424,8 @@
 		<id>unity</id>
 		<name>Unity</name>
 		<icon>card_icon_health</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="card_icon_health" bundle_id="1" />
 		<target_anim>rally</target_anim>
         <desc>If all cards in your deck have the same faction as your hero, they all get +25% HP.</desc>
 		<short_desc>Unity {x}</short_desc>
@@ -43363,6 +43439,8 @@
 		<id>greed</id>
 		<name>Greed</name>
 		<icon>skill_shrink</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="skill_shrink" bundle_id="1" />
 		<target_anim>rally</target_anim>
         <desc>Disable all friendly target skills.</desc>
 		<short_desc>Unity {x}</short_desc>
@@ -43376,6 +43454,8 @@
 		<id>singularity</id>
 		<name>Singularity</name>
 		<icon>card_icon_health</icon>
+		<asset_bundle>1</asset_bundle>
+		<prefab asset="card_icon_health" bundle_id="1" />
 		<target_anim>rally</target_anim>
         <desc>Whenever you play a second copy of a card, its HP is reduced to 1.</desc>
 		<short_desc>Unity {x}</short_desc>
