@@ -1504,4 +1504,170 @@
 			<skill id="strike" x="16"/>
 		</upgrade>
 	</unit>
+	
+	<unit>
+		<id>1500003</id>
+		<name>Professor Farnsworth</name>
+		<desc>A-wha?</desc>
+		<character>ft_farnsworth</character>
+		<picture>fr_farnsworth_legendary</picture>
+		<asset_bundle>18</asset_bundle>
+		<release_time>1534096800</release_time>
+		<item_name>Professor Farnsworth Fragment</item_name>
+		<item_desc>Collect Professor Farnsworth Fragments to craft and upgrade a Mythic Professor Farnsworth card!</item_desc>		
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<attack>15</attack>
+		<health>35</health>
+		<rarity>5</rarity>
+		<skill id="bodyguard" x="7"/>
+		<skill id="strike" x="10"/>
+		<skill id="shrapnel" x="6"/>
+		<type>5</type>
+		<trait>educated</trait>
+		<set>7001</set>
+		<upgrade>
+			<level>2</level>
+			<health>36</health>
+			<attack>16</attack>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>37</health>
+			<skill id="bodyguard" x="8"/>
+			<skill id="strike" x="10"/>
+			<skill id="shrapnel" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>38</health>
+			<skill id="bodyguard" x="8"/>
+			<skill id="strike" x="11"/>
+			<skill id="shrapnel" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>39</health>
+			<attack>17</attack>
+			<skill id="bodyguard" x="8"/>
+			<skill id="strike" x="11"/>
+			<skill id="shrapnel" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>40</health>
+			<skill id="bodyguard" x="9"/>
+			<skill id="strike" x="11"/>
+			<skill id="shrapnel" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>43</health>
+			<skill id="bodyguard" x="9"/>
+			<skill id="strike" x="12"/>
+			<skill id="shrapnel" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>44</health>
+			<attack>18</attack>
+			<skill id="bodyguard" x="9"/>
+			<skill id="strike" x="12"/>
+			<skill id="shrapnel" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>45</health>
+			<skill id="bodyguard" x="10"/>
+			<skill id="strike" x="12"/>
+			<skill id="shrapnel" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>46</health>
+			<skill id="bodyguard" x="10"/>
+			<skill id="strike" x="13"/>
+			<skill id="shrapnel" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>47</health>
+			<skill id="bodyguard" x="10"/>
+			<skill id="strike" x="13"/>
+			<skill id="shrapnel" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>48</health>
+			<attack>19</attack>
+			<skill id="bodyguard" x="11"/>
+			<skill id="strike" x="13"/>
+			<skill id="shrapnel" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>49</health>
+			<skill id="bodyguard" x="11"/>
+			<skill id="strike" x="14"/>
+			<skill id="shrapnel" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>50</health>
+			<skill id="bodyguard" x="11"/>
+			<skill id="strike" x="14"/>
+			<skill id="shrapnel" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>51</health>
+			<attack>20</attack>
+			<skill id="bodyguard" x="12"/>
+			<skill id="strike" x="14"/>
+			<skill id="shrapnel" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>52</health>
+			<skill id="bodyguard" x="12"/>
+			<skill id="strike" x="15"/>
+			<skill id="shrapnel" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>53</health>
+			<skill id="bodyguard" x="12"/>
+			<skill id="strike" x="15"/>
+			<skill id="shrapnel" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>54</health>
+			<skill id="bodyguard" x="13"/>
+			<skill id="strike" x="15"/>
+			<skill id="shrapnel" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>55</health>
+			<attack>21</attack>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>56</health>
+			<skill id="bodyguard" x="14"/>
+			<skill id="strike" x="15"/>
+			<skill id="shrapnel" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>58</health>
+			<attack>22</attack>
+			<skill id="bodyguard" x="14"/>
+			<skill id="strike" x="16"/>
+			<skill id="shrapnel" x="12"/>
+		</upgrade>
+	</unit>
+	
 </root>	
