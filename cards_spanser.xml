@@ -20211,6 +20211,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>2</type>
+		<trait>addicted</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='counter' p='30' v='8' />
@@ -44537,7 +44538,7 @@
 		<type>6</type>
 		<trait>hyper</trait>
 		<release_time>1555351200</release_time>
-        <skill id='bodyguard' x='1' />
+        <skill id='strike' x='200' />
 		<attack>5</attack>
 		<health>500</health>
 		<upgrade>
