@@ -45567,7 +45567,50 @@
 			<level>9</level>
 		</upgrade>
 	</unit>
-		
+
+<!-- 	<unit>
+		<id>60103</id>
+		<name>Test Five</name>
+		<desc></desc>
+		<picture>FR_HimalayanMonks</picture>
+		<character>kh_peggy</character>
+		<asset_bundle>44</asset_bundle>
+		<rarity>3</rarity>
+		<set>9999</set>
+		<hidden>1</hidden>
+		<type>6</type>
+		<trait>hyper</trait>
+		<release_time>1555351200</release_time>
+		<attack>5</attack>
+		<health>50</health>
+		<skill id='barrier' x='1'  />
+		<skill id='barrierall' x='1'  />
+		<upgrade>
+			<level>2</level>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+		</upgrade>
+	</unit> -->
+			
 	<unit>
 		<id>60401</id>
 		<name>Apple</name>
