@@ -567,6 +567,152 @@
 			<skill id="leech" x="20"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>1100005</id>
+		<name>Peter's Drawing</name>
+		<desc>Roses are red, violets, etc. I'll meet you upstairs with no pants on.</desc>
+		<picture>FG_PetersDrawing</picture>
+		<asset_bundle>34</asset_bundle>
+		<item_name>Peter's Drawing Fragment</item_name>
+		<item_desc>Collect Peter's Drawing Fragments to craft and upgrade a Mythic Peter's Drawing card!</item_desc>	
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<attack>16</attack>
+		<health>46</health>
+		<rarity>5</rarity>
+		<skill id="inspire" x="7"/>
+		<skill id="healall" x="4" y="artistic"/>
+		<skill id="hijack" x="7"/>
+		<type>1</type>
+		<trait>artistic</trait>
+		<set>7002</set>
+		<upgrade>
+			<level>2</level>
+			<health>47</health>
+			<attack>17</attack>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>48</health>
+			<skill id="inspire" x="8"/>
+			<skill id="healall" x="4" y="artistic"/>
+			<skill id="hijack" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>49</health>
+			<skill id="inspire" x="8"/>
+			<skill id="healall" x="5" y="artistic"/>
+			<skill id="hijack" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>50</health>
+			<skill id="inspire" x="8"/>
+			<skill id="healall" x="5" y="artistic"/>
+			<skill id="hijack" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>18</attack>
+			<health>51</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>52</health>
+			<skill id="inspire" x="9"/>
+			<skill id="healall" x="6" y="artistic"/>
+			<skill id="hijack" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>53</health>
+			<skill id="inspire" x="9"/>
+			<skill id="healall" x="6" y="artistic"/>
+			<skill id="hijack" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<attack>19</attack>
+			<health>54</health>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>55</health>
+			<skill id="inspire" x="10"/>
+			<skill id="healall" x="7" y="artistic"/>
+			<skill id="hijack" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>56</health>
+			<skill id="inspire" x="10"/>
+			<skill id="healall" x="7" y="artistic"/>
+			<skill id="hijack" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<attack>20</attack>
+			<health>57</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>58</health>
+			<skill id="inspire" x="11"/>
+			<skill id="healall" x="7" y="artistic"/>
+			<skill id="hijack" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>59</health>
+			<skill id="inspire" x="11"/>
+			<skill id="healall" x="8" y="artistic"/>
+			<skill id="hijack" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<attack>21</attack>
+			<health>60</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>61</health>
+			<skill id="inspire" x="12"/>
+			<skill id="healall" x="8" y="artistic"/>
+			<skill id="hijack" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>62</health>
+			<skill id="inspire" x="12"/>
+			<skill id="healall" x="9" y="artistic"/>
+			<skill id="hijack" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>22</attack>
+			<health>63</health>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>64</health>
+			<skill id="inspire" x="13"/>
+			<skill id="healall" x="9" y="artistic"/>			
+		</upgrade>
+		<upgrade>
+			<level>20</level>			
+			<skill id="hijack" x="14"/>
+			<health>65</health>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<attack>23</attack>
+			<skill id="inspire" x="14"/>
+			<skill id="healall" x="10" y="artistic"/>
+			<skill id="hijack" x="15"/>
+		</upgrade>
+	</unit>
 	
 	<unit>
 		<id>1200001</id>
@@ -2300,171 +2446,150 @@
 			<skill id="leech" x="20"/>
 		</upgrade>
 	</unit>
-<!-- 	<unit>
-		<id>1599903</id>
-		<name>Test Mythic</name>
-		<character>kh_dale</character>
-		<desc>I always knew I'd be part of the illuminati.</desc>
-		<picture>koth_dale_legendary</picture>
-		<asset_bundle>23</asset_bundle>
-		<item_name>Dale Fragment</item_name>
-		<item_desc>Collect Dale Fragments to craft and upgrade a Mythic Dale card!</item_desc>	
+	<unit>
+		<id>1500005</id>
+		<name>Nibbler on the Roof</name>
+		<desc>We've had some tough times... but at least we won a Tony.</desc>
+		<picture>FR_NibblerOnTheRoof</picture>
+		<asset_bundle>31</asset_bundle>		
+		<item_name>Nibbler on the Roof Fragment</item_name>
+		<item_desc>Collect Nibbler on the Roof Fragments to craft and upgrade a Mythic Nibbler on the Roof card!</item_desc>		
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
 		<attack>13</attack>
-		<health>42</health>
+		<health>53</health>
 		<rarity>5</rarity>
-		<skill id="armored" x="9"/>
-		<skill id="weaken" x="9"/>
-		<skill id="leech" x="10"/>
-		<type>4</type>
-		<set>7001</set>
+		<skill id="hijack" x="7"/>
+		<skill id="strike" x="9"/>
+		<skill id="leech" x="11"/>
+		<type>5</type>
+		<trait>musical</trait>
+		<set>7002</set>
 		<upgrade>
 			<level>2</level>
-			<health>43</health>
-			<skill id="armored" x="9"/>
-			<skill id="weaken" x="9"/>
-			<skill id="leech" x="11"/>
+			<attack>14</attack>
+			<health>54</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>44</health>			
-			<skill id="armored" x="9"/>
-			<skill id="weaken" x="10"/>
-			<skill id="leech" x="11"/>
-		</upgrade>
-		<upgrade>
-			<level>4</level>
-			<health>45</health>
-			<attack>14</attack>
-			<skill id="armored" x="10"/>
-			<skill id="weaken" x="10"/>
-			<skill id="leech" x="11"/>
-		</upgrade>
-		<upgrade>
-			<level>5</level>
-			<health>46</health>
-			<skill id="armored" x="10"/>
-			<skill id="weaken" x="11"/>
+			<skill id="hijack" x="7"/>
+			<skill id="strike" x="10"/>
 			<skill id="leech" x="12"/>
 		</upgrade>
 		<upgrade>
-			<level>6</level>
-			<health>47</health>
-			<skill id="armored" x="10"/>
-			<skill id="weaken" x="11"/>
+			<level>4</level>
+			<attack>15</attack>
+			<skill id="hijack" x="8"/>
+			<skill id="strike" x="10"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>55</health>
+			<skill id="hijack" x="9"/>
+			<skill id="strike" x="10"/>
 			<skill id="leech" x="13"/>
 		</upgrade>
 		<upgrade>
+			<level>6</level>
+			<health>56</health>
+			<attack>16</attack>
+		</upgrade>
+		<upgrade>
 			<level>7</level>
-			<health>48</health>
-			<attack>15</attack>
-			<skill id="armored" x="11"/>
-			<skill id="weaken" x="11"/>
+			<health>57</health>
+			<skill id="hijack" x="9"/>
+			<skill id="strike" x="11"/>
 			<skill id="leech" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>49</health>
-			<skill id="armored" x="11"/>
-			<skill id="weaken" x="12"/>
-			<skill id="leech" x="13"/>
+			<attack>17</attack>
+			<skill id="hijack" x="9"/>
+			<skill id="strike" x="11"/>
+			<skill id="leech" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>50</health>
-			<attack>16</attack>
-			<skill id="armored" x="11"/>
-			<skill id="weaken" x="12"/>
+			<health>58</health>
+			<skill id="hijack" x="10"/>
+			<skill id="strike" x="12"/>
 			<skill id="leech" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<health>51</health>
-			<skill id="armored" x="11"/>
-			<skill id="weaken" x="13"/>
-			<skill id="leech" x="14"/>
+			<attack>18</attack>
+			<health>59</health>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>52</health>
-			<skill id="armored" x="12"/>
-			<skill id="weaken" x="13"/>
+			<skill id="hijack" x="11"/>
+			<skill id="strike" x="12"/>
 			<skill id="leech" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<health>53</health>
-			<skill id="armored" x="12"/>
-			<skill id="weaken" x="13"/>
-			<skill id="leech" x="16"/>
+			<attack>19</attack>
+			<health>60</health>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>54</health>
-			<attack>17</attack>
-			<skill id="armored" x="12"/>
-			<skill id="weaken" x="14"/>
+			<skill id="hijack" x="12"/>
+			<skill id="strike" x="13"/>
 			<skill id="leech" x="16"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>55</health>
-			<skill id="armored" x="13"/>
-			<skill id="weaken" x="14"/>
-			<skill id="leech" x="16"/>
+			<attack>20</attack>
+			<health>61</health>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<health>56</health>
-			<skill id="armored" x="13"/>
-			<skill id="weaken" x="15"/>
-			<skill id="leech" x="17"/>
+			<health>62</health>
+			<skill id="hijack" x="12"/>
+			<skill id="strike" x="14"/>
+			<skill id="leech" x="16"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>57</health>
-			<skill id="armored" x="13"/>
-			<skill id="weaken" x="15"/>
-			<skill id="leech" x="18"/>
+			<skill id="hijack" x="13"/>
+			<skill id="strike" x="14"/>
+			<skill id="leech" x="17"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<health>58</health>
-			<attack>18</attack>
-			<skill id="armored" x="14"/>
-			<skill id="weaken" x="15"/>
-			<skill id="leech" x="18"/>
+			<attack>21</attack>
+			<health>63</health>
+			<skill id="hijack" x="13"/>
+			<skill id="strike" x="15"/>
+			<skill id="leech" x="17"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>59</health>
-			<skill id="armored" x="14"/>
-			<skill id="weaken" x="16"/>
+			<attack>22</attack>
+			<skill id="hijack" x="13"/>
+			<skill id="strike" x="15"/>
 			<skill id="leech" x="18"/>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<health>60</health>			
-			<skill id="armored" x="14"/>
-			<skill id="weaken" x="16"/>
-			<skill id="leech" x="19"/>
+			<health>64</health>
+			<skill id="hijack" x="14"/>
+			<skill id="strike" x="15"/>
+			<skill id="leech" x="18"/>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
-			<health>61</health>
-			<skill id="armored" x="14"/>
-			<skill id="weaken" x="17"/>
-			<skill id="leech" x="19"/>
+			<attack>23</attack>
+			<health>65</health>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
-			<health>62</health>
-			<attack>19</attack>
-			<skill id="armored" x="15"/>
-			<skill id="weaken" x="17"/>
-			<skill id="leech" x="20"/>
+			<skill id="hijack" x="15"/>
+			<skill id="strike" x="16"/>
+			<skill id="leech" x="19"/>
 		</upgrade>
-	</unit>		 -->
+	</unit>
+
 </root>	

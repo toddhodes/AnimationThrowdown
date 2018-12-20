@@ -7998,6 +7998,116 @@
 	    <health>50</health>
 	    <skill id="leech" x="11"/>
 	  </upgrade>
+	</unit>	
+	<unit>
+	  <id>110087</id>
+	  <name>Medicated Stewie</name>
+	  <desc>These meds help me to uh... uhhh... think.</desc>
+	  <picture>AdderallStewie</picture>
+	  <asset_bundle>5</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>1</type>
+	  <trait>addicted</trait>
+	  <skill id="counter" x="5"/>
+	  <skill id="shrapnel" x="4"/>
+	  <skill id="poison" x="6"/>
+	  <combo_card_id>15018</combo_card_id>
+	  <attack>8</attack>
+	  <health>26</health>
+	  <upgrade>
+	    <level>2</level>
+	    <health>27</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>29</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>9</attack>
+	    <health>31</health>
+	    <skill id="shrapnel" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>33</health>
+	    <skill id="counter" x="6"/>
+	    <skill id="poison" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>10</attack>
+	    <health>35</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>36</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>11</attack>
+	    <health>38</health>
+	    <skill id="shrapnel" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>40</health>
+	    <skill id="counter" x="7"/>
+	    <skill id="poison" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>12</attack>
+	    <health>42</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>44</health>
+	    <skill id="counter" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>13</attack>
+	    <health>46</health>
+	    <skill id="counter" x="9"/>
+	    <skill id="shrapnel" x="7"/>
+	    <skill id="poison" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>47</health>
+	    <skill id="shrapnel" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <attack>14</attack>
+	    <health>49</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>51</health>
+	    <skill id="poison" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>15</attack>
+	    <health>53</health>
+	    <skill id="poison" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>55</health>
+	    <skill id="counter" x="11"/>
+	    <skill id="shrapnel" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>16</attack>
+	    <health>57</health>
+	    <skill id="poison" x="12"/>
+	    <skill id="counter" x="13"/>
+	  </upgrade>
 	</unit>			
 	<!-- American Dad Final Forms -->
 	
@@ -23538,7 +23648,7 @@
 	</unit>	
 	<unit>
 	  <id>130079</id>
-	  <name>Borobu Addict</name>
+	  <name>Burobu Addict</name>
 	  <picture>BB_BorobuAddictLouise</picture>
 	  <asset_bundle>46</asset_bundle>
 	  <rarity>3</rarity>
@@ -24377,7 +24487,112 @@
 	    <skill id="leech" x="13"/>
 	    <skill id="pierce" x="11"/>
 	  </upgrade>
-	</unit>						
+	</unit>	
+	<unit>
+	  <id>130087</id>
+	  <name>Burgerboss Bob</name>
+	  <desc>Ahh! Relish hole!</desc>
+	  <picture>BurgerBossBob</picture>
+	  <asset_bundle>4</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>3</type>
+	  <trait>addicted</trait>
+	  <skill id="pierce" x="7"/>
+	  <skill id="berserk" x="4"/>
+	  <combo_card_id>35023</combo_card_id>
+	  <attack>8</attack>
+	  <health>24</health>
+	  <upgrade>
+	    <level>2</level>
+	    <health>25</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <attack>9</attack>
+	    <health>26</health>
+	    <skill id="pierce" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <health>28</health>
+	    <skill id="berserk" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <attack>10</attack>
+	    <health>29</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>11</attack>
+	    <health>31</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>32</health>
+	    <skill id="pierce" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>12</attack>
+	    <health>34</health>
+	    <skill id="berserk" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <attack>13</attack>
+	    <health>35</health>
+	    <skill id="pierce" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <health>37</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <attack>14</attack>
+	    <health>38</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>15</attack>
+	    <health>40</health>
+	    <skill id="pierce" x="11"/>
+	    <skill id="berserk" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>41</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <attack>16</attack>
+	    <health>43</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <attack>17</attack>
+	    <health>44</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <health>46</health>
+	    <skill id="pierce" x="12"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <attack>18</attack>
+	    <health>47</health>
+	    <skill id="berserk" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>19</attack>
+	    <health>49</health>
+	    <skill id="pierce" x="13"/>
+	  </upgrade>
+	</unit>	
 	<!-- King of the Hill Final Forms -->
 	
 	
