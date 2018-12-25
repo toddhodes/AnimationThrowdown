@@ -1,0 +1,127 @@
+
+Combo Mastery
+Level | Combo | left
+
+2 | Another Lousy Millenium | 0
+2 | Badminton Roger | 0
+2 | Baseball Chris | 0
+2 | Bending School Grad | 0
+2 | Boy Witch Steve | 0
+2 | Chicken Fight | 0
+2 | Chosen Brain Fry | 0
+2 | Chris Painting | 0
+2 | Christmas Trap | 0
+2 | Devil Hank | 0
+2 | Diarama Gene | 0
+2 | Draw Me Tina | 0
+2 | Eggnog Roger | 0
+2 | Freezerdome Gene | 0
+2 | Fry in Robot Disguise | 0
+2 | Goddess of Beauty | 10
+2 | Golfer Amy | 0
+2 | Half Dog Gene | 0
+2 | Heavy Metal Hayley | 0
+2 | High School Bill | 0
+2 | High School Linda | 0
+2 | Meg Portrait | 30
+2 | One Man Musical | 0
+2 | Pigeon Bill | 0
+2 | Positron Shooter Fry | 0
+2 | Power Choir Roger | 0
+2 | Red Rodriguez 2 Real | 0
+2 | Ricky Spanish | 0
+2 | Shoplift Addict | 0
+2 | Super Dance Squad | 0
+2 | Tattooed Fat Guy | 30
+2 | The Thinker Ape | 10
+2 | Trippy Zoidberg | 10
+2 | Viking Peter | 0
+2 | Whiskey Bartender | 0
+2 | Wingnut Amy | 0
+2 | Wingnut Leela | 0
+1 | Action Delivery Force Zoidberg | 5
+1 | Anally Defaced | 15
+1 | Art of War | 5
+1 | Artsy Tina | 5
+1 | Battle Axe Peggy | 5
+1 | Benderbrau | 5
+1 | Body Paint Date | 5
+1 | Booty Shaking Drunk | 5
+1 | Burgerboss Bob | 5
+1 | Butt Toucher Tina | 5
+1 | Cartel Klaus | 25
+1 | Church Wine Drunk | 25
+1 | Cigarette Addicts | 25
+1 | Claw-Plach Fry | 5
+1 | Congo Jack | 5
+1 | Crayon Drawing | 5
+1 | Dancing Peggy | 5
+1 | Devil Bobby | 5
+1 | Dolphin Rider Peter | 10
+1 | Dr. Bobbenstein | 5
+1 | Drunk at the Clam | 5
+1 | Drunk Peggy | 5
+1 | Dummy Fight | 5
+1 | Fart in a Jar | 25
+1 | Fart School Louise | 5
+1 | K Pop Peter | 5
+1 | Karate Bender | 5
+1 | Kidney Killer | 5
+1 | Knife Fight Stewie | 25
+1 | Leela Balloon Art | 25
+1 | Life Drawing Hayley | 25
+1 | Medieval Hank | 5
+1 | Michael Dangle-low | 5
+1 | Mr. Deliver | 5
+1 | Music Video Stewie | 5
+1 | Opera Singer Leela | 5
+1 | Owl Stewie | 5
+1 | Party Beer Implant | 5
+1 | Pirate Cannon Peter | 25
+1 | Pool Shark | 25
+1 | Propane Sculpture | 5
+1 | Rapture Stan | 5
+1 | Ravenous Porcelain Babies | 5
+1 | RC Helicopter | 5
+1 | Rough Night Stan | 25
+1 | Santa Killer Hayley | 5
+1 | Sketch Artist Peter | 5
+1 | Sleighing Tonight | 5
+1 | Softball Boomhauer | 25
+1 | Stewie Longlegs | 5
+1 | Stressed Out Leela | 5
+1 | Taxidermy Artist | 5
+1 | Tennis Francine | 15
+1 | Tennis Stan | 5
+1 | Tina Tackle | 5
+1 | Toga Bill | 5
+1 | Trash Can Drunk | 5
+1 | Umbriel | 5
+1 | Victory Dance | 5
+1 | Will of a Housewife | 25
+1 | Zoidberg vs Bot | 5
+0 | Burobu Addict | 15
+0 | Celebeartions | 15
+0 | Claw Machine | 25
+0 | Diamond Ring Lois | 15
+0 | Drunk Peter | 30
+0 | Gaga Ball | 30
+0 | Marionette Chris | 25
+0 | Medicated Stewie | 50
+0 | Pan Flute Stewie | 30
+0 | Postal Lois | 10
+0 | Q.T. McWhiskers | 5
+0 | Scooty-Puff Jr | 10
+0 | Shut Up and Take My Money | 60
+0 | Slip 'n Slide Bob | 30
+0 | Smoke Bomb | 10
+0 | Softball Bill | 30
+0 | Solid Gold Tuxedo | 15
+0 | Street Hockey Brian | 10
+0 | Sword Fighter Francine | 10
+0 | Trapeze Bob | 10
+0 | Traumatized Dale | 55
+0 | Water Nympho | 30
+0 | Water Polo Steve | 10
+
+
