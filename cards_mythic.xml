@@ -713,7 +713,156 @@
 			<skill id="hijack" x="15"/>
 		</upgrade>
 	</unit>
-	
+	<unit>
+		<id>1100006</id>
+		<name>Peter</name>
+		<character>fg_peter</character>
+		<desc>There's a message in my cereal. It says "Ooooooooo."</desc>
+		<picture>FG_LMPeter</picture>
+		<asset_bundle>49</asset_bundle>
+		<item_name>Peter Fragment</item_name>
+		<item_desc>Collect Peter Fragments to craft and upgrade a Mythic Peter card!</item_desc>	
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="inventory_upgrade_50_inventory" bundle_id="19"/>			
+		<attack>11</attack>
+		<health>52</health>
+		<rarity>5</rarity>
+		<skill id="armored" x="10"/>
+		<skill id="rallyall" x="8" y="1"/>
+		<skill id="shrapnel" x="6"/>
+		<type>1</type>
+		<trait>drunk</trait>
+		<set>7001</set>
+		<upgrade>
+			<level>2</level>
+			<health>53</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>54</health>
+			<skill id="armored" x="11"/>
+			<skill id="rallyall" x="8" y="1"/>
+			<skill id="shrapnel" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>55</health>
+			<skill id="armored" x="11"/>
+			<skill id="rallyall" x="8" y="1"/>
+			<skill id="shrapnel" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>56</health>
+			<skill id="armored" x="11"/>
+			<skill id="rallyall" x="9" y="1"/>
+			<skill id="shrapnel" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>57</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>58</health>
+			<skill id="armored" x="11"/>
+			<skill id="rallyall" x="9" y="1"/>
+			<skill id="shrapnel" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>59</health>
+			<skill id="armored" x="12"/>
+			<skill id="rallyall" x="9" y="1"/>
+			<skill id="shrapnel" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>60</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>61</health>
+			<skill id="armored" x="12"/>
+			<skill id="rallyall" x="9" y="1"/>
+			<skill id="shrapnel" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>62</health>
+			<skill id="armored" x="12"/>
+			<skill id="rallyall" x="10" y="1"/>
+			<skill id="shrapnel" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>63</health>
+			<skill id="armored" x="13"/>
+			<skill id="rallyall" x="10" y="1"/>
+			<skill id="shrapnel" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>64</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>65</health>
+			<skill id="armored" x="13"/>
+			<skill id="rallyall" x="10" y="1"/>
+			<skill id="shrapnel" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>66</health>
+			<skill id="armored" x="13"/>
+			<skill id="rallyall" x="11" y="1"/>
+			<skill id="shrapnel" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>67</health>
+			<skill id="armored" x="14"/>
+			<skill id="rallyall" x="11" y="1"/>
+			<skill id="shrapnel" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>68</health>
+			<attack>16</attack>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>69</health>
+			<skill id="armored" x="14"/>
+			<skill id="rallyall" x="11" y="1"/>
+			<skill id="shrapnel" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>70</health>
+			<attack>17</attack>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>71</health>
+			<skill id="armored" x="15"/>
+			<skill id="rallyall" x="11" y="1"/>
+			<skill id="shrapnel" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>72</health>
+			<skill id="armored" x="15"/>
+			<skill id="rallyall" x="12" y="1"/>
+			<skill id="shrapnel" x="12"/>
+		</upgrade>
+	</unit>	
 	<unit>
 		<id>1200001</id>
 		<name>Stan</name>
@@ -1464,6 +1613,143 @@
 		</upgrade>
 	</unit>
 	<unit>
+		<id>1300004</id>
+		<name>Tina</name>
+		<desc>I am a smart, strong, sensual woman.</desc>
+		<character>bb_tina</character>
+		<picture>BB_LMTina</picture>
+		<asset_bundle>49</asset_bundle>
+		<item_name>Tina Fragment</item_name>
+		<item_desc>Collect Tina Fragments to craft and upgrade a Mythic Tina card!</item_desc>	
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="inventory_upgrade_50_inventory" bundle_id="19"/>			
+		<attack>16</attack>
+		<health>45</health>
+		<rarity>5</rarity>
+		<skill id="invigorate" x="10"/>
+		<skill id="barrierall" x="4" y="3"/>
+		<skill id="leech" x="10"/>
+		<type>3</type>
+		<set>7001</set>
+		<upgrade>
+			<level>2</level>
+			<health>46</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>47</health>
+			<attack>17</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<skill id="invigorate" x="11"/>
+			<skill id="barrierall" x="4" y="3"/>
+			<skill id="leech" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>48</health>
+			<skill id="invigorate" x="11"/>
+			<skill id="barrierall" x="4" y="3"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>49</health>
+			<attack>18</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<skill id="invigorate" x="11"/>
+			<skill id="barrierall" x="5" y="3"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>50</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="barrierall" x="5" y="3"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>51</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="barrierall" x="5" y="3"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>19</attack>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>52</health>
+			<skill id="invigorate" x="13"/>
+			<skill id="barrierall" x="5" y="3"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>53</health>
+			<skill id="invigorate" x="13"/>
+			<skill id="barrierall" x="5" y="3"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>54</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>20</attack>
+			<skill id="invigorate" x="13"/>
+			<skill id="barrierall" x="6" y="3"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>55</health>
+			<skill id="invigorate" x="14"/>
+			<skill id="barrierall" x="6" y="3"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>56</health>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<attack>21</attack>
+			<skill id="invigorate" x="14"/>
+			<skill id="barrierall" x="6" y="3"/>
+			<skill id="leech" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>57</health>
+			<attack>22</attack>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>58</health>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>59</health>
+			<skill id="invigorate" x="15"/>
+			<skill id="barrierall" x="6" y="3"/>
+			<skill id="leech" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<skill id="invigorate" x="15"/>
+			<skill id="barrierall" x="7" y="3"/>
+			<skill id="leech" x="15"/>
+		</upgrade>
+	</unit>	
+	<unit>
 		<id>1400001</id>
 		<name>Peggy</name>
 		<character>kh_peggy</character>
@@ -1877,6 +2163,144 @@
 			<skill id="leech" x="20"/>
 		</upgrade>
 	</unit>	
+	<unit>
+		<id>1400004</id>
+		<name>Bobby</name>
+		<desc>I haven't even hit my growth spurt yet, and I'm already a stud.</desc>
+		<character>kh_bobby</character>
+		<picture>KOTH_LMBobby</picture>
+		<asset_bundle>49</asset_bundle>
+		<item_name>Bobby Fragment</item_name>
+		<item_desc>Collect Bobby Fragments to craft and upgrade a Mythic Bobby card!</item_desc>	
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<attack>12</attack>
+		<health>56</health>
+		<rarity>5</rarity>
+		<skill id="counter" x="10"/>
+		<skill id="strike" x="10"/>
+		<skill id="berserk" x="5"/>
+		<type>4</type>
+		<set>7001</set>
+		<upgrade>
+			<level>2</level>
+			<health>57</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>58</health>
+			<skill id="counter" x="11"/>
+			<skill id="strike" x="10"/>
+			<skill id="berserk" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>59</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<attack>13</attack>
+			<skill id="counter" x="11"/>
+			<skill id="strike" x="11"/>
+			<skill id="berserk" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>60</health>
+			<skill id="counter" x="11"/>
+			<skill id="strike" x="11"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>61</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>62</health>
+			<skill id="counter" x="12"/>
+			<skill id="strike" x="11"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>63</health>
+			<skill id="counter" x="12"/>
+			<skill id="strike" x="12"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>64</health>
+			<skill id="counter" x="13"/>
+			<skill id="strike" x="12"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>65</health>
+			<skill id="counter" x="13"/>
+			<skill id="strike" x="13"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>66</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>67</health>
+			<skill id="counter" x="13"/>
+			<skill id="strike" x="13"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<attack>15</attack>
+			<health>68</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<skill id="counter" x="14"/>
+			<skill id="strike" x="13"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>69</health>
+			<skill id="counter" x="14"/>
+			<skill id="strike" x="14"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>70</health>
+			<attack>16</attack>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>71</health>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>72</health>
+			<skill id="counter" x="15"/>
+			<skill id="strike" x="14"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<skill id="counter" x="15"/>
+			<skill id="strike" x="15"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>
+	</unit>
+	
 	<unit>
 		<id>1500001</id>
 		<name>Leela</name>
