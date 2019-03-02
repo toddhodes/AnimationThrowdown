@@ -8911,7 +8911,119 @@
 	    <skill id="outlast" x="12"/>
 	  </upgrade>
 	</unit>
-
+	<unit>
+	  <id>110096</id>
+	  <name>Laser Gun Stewie</name>
+	  <desc>You've gotta ask yourself one question, "Do I feel lucky?"</desc>
+	  <picture>LaserGunStewie</picture>
+	  <asset_bundle>6</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>1</type>
+	  <trait>armed</trait>
+	  <skill id="strike" x="5"/>
+	  <skill id="pierce" x="7"/>
+	  <skill id="poison" x="6"/>
+	  <card_type>object</card_type>
+	  <combo_card_id>15020</combo_card_id>
+	  <attack>7</attack>
+	  <health>30</health>
+	  <upgrade>
+	    <level>2</level>
+	    <health>32</health>
+	    <skill id="pierce" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>34</health>
+	    <skill id="strike" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>8</attack>
+	    <health>36</health>
+	    <skill id="poison" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>38</health>
+	    <skill id="pierce" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>9</attack>
+	    <health>40</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>42</health>
+	    <skill id="strike" x="7"/>
+	    <skill id="pierce" x="10"/>
+	    <skill id="poison" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>10</attack>
+	    <health>44</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>46</health>
+	    <skill id="strike" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>11</attack>
+	    <health>48</health>
+	    <skill id="pierce" x="11"/>
+	    <skill id="poison" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>50</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>12</attack>
+	    <health>52</health>
+	    <skill id="strike" x="9"/>
+	    <skill id="pierce" x="12"/>
+	    <skill id="poison" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>54</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <attack>13</attack>
+	    <health>56</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>58</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>14</attack>
+	    <health>60</health>
+	    <skill id="strike" x="10"/>
+	    <skill id="pierce" x="13"/>
+	    <skill id="poison" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>62</health>
+	    <skill id="pierce" x="14"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>15</attack>
+	    <health>64</health>
+	    <skill id="strike" x="11"/>
+	    <skill id="poison" x="12"/>
+	  </upgrade>
+	</unit>
 
 	<!-- American Dad Final Forms -->
 	
