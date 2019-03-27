@@ -7747,6 +7747,7 @@
 		<rarity>1</rarity>
 		<set>1</set>
 		<type>1</type>
+		<trait>rich</trait>
 		<attack>2</attack>
 		<health>7</health>
 		<upgrade>
@@ -13571,6 +13572,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>1</type>
+		<trait>rich</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='counter' p='35' v='10' />
@@ -16265,6 +16267,7 @@
 		<rarity>3</rarity>
 		<set>1</set>
 		<type>2</type>
+		<trait>rich</trait>
 		<attack>9</attack>
 		<health>12</health>
 		<skill id="armored" x="2"/>
@@ -21831,6 +21834,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>2</type>
+		<trait>rich</trait>
 		<attack_multiplier>0.6</attack_multiplier>
 		<health_multiplier>0.8</health_multiplier>
 		<skill id='inspire' p='40' v='7' />
@@ -21860,6 +21864,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>2</type>
+		<trait>rich</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='inspire' p='30' v='6' />
@@ -30166,6 +30171,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>3</type>
+		<trait>rich</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.73</health_multiplier>
 		<skill id='armored' p='30' v='15' />
@@ -30227,6 +30233,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>3</type>
+		<trait>rich</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='heal' p='20' v='8' y='3' />
@@ -30520,6 +30527,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>3</type>
+		<trait>rich</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='rally' p='32' v='9' />
@@ -32886,6 +32894,7 @@
 		<rarity>2</rarity>
 		<set>1</set>
 		<type>4</type>
+		<trait>rich</trait>
 		<attack>2</attack>
 		<health>8</health>
 		<skill id='invigorate' x='1' />
@@ -37934,6 +37943,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>4</type>
+		<trait>rich</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='invigorate' p='32' v='8' />
@@ -40675,6 +40685,7 @@
 		<rarity>1</rarity>
 		<set>1</set>
 		<type>5</type>
+		<trait>rich</trait>
 		<attack>2</attack>
 		<health>5</health>
 		<upgrade>
@@ -46371,6 +46382,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>5</type>
+		<trait>rich</trait>
 		<attack_multiplier>0.6</attack_multiplier>
 		<health_multiplier>0.8</health_multiplier>
 		<skill id='strike' p='40' v='10' />
@@ -46399,6 +46411,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>5</type>
+		<trait>rich</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='armored' p='25' v='12' />
@@ -46443,6 +46456,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>5</type>
+		<trait>rich</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='heal' p='25' v='10' />
@@ -46473,6 +46487,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>5</type>
+		<trait>rich</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='heal' p='30' v='10' />
@@ -47017,6 +47032,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>5</type>
+		<trait>rich</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='invigorate' p='35' v='7' />
@@ -47031,6 +47047,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>5</type>
+		<trait>rich</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='armored' p='28' v='10' />
@@ -51108,6 +51125,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>5</type>
+	  <trait>rich</trait>
 	  <skill id="armored" x="4"/>
 	  <skill id="invigorate" x="4"/>
 	  <attack>9</attack>

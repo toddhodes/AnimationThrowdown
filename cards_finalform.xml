@@ -45140,5 +45140,115 @@
 	    <skill id="inspire" x="12"/>
 	    <skill id="bodyguard" x="11"/>
 	  </upgrade>
-</unit>
+	</unit>
+	<unit>
+	  <id>150098</id>
+	  <name>Bender's Ducklings</name>
+	  <picture>FR_BendersDucklings</picture>
+	  <asset_bundle>41</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>5</type>
+	  <trait>animal</trait>
+	  <skill id="heal" x="8" y="animal"/>
+	  <skill id="inspire" x="5" y="animal"/>
+	  <skill id="berserk" x="3"/>
+	  <card_type>object</card_type>
+	  <combo_card_id>55124</combo_card_id>
+	  <attack>7</attack>
+	  <health>30</health>
+	  <upgrade>
+	    <level>2</level>
+	    <health>31</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>33</health>
+	    <skill id="heal" x="9" y="animal"/>
+	    <skill id="inspire" x="6" y="animal"/>
+	    <skill id="berserk" x="4"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>8</attack>
+	    <health>35</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>37</health>
+	    <skill id="heal" x="10" y="animal"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>9</attack>
+	    <health>39</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>41</health>
+	    <skill id="heal" x="11" y="animal"/>
+	    <skill id="inspire" x="7" y="animal"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>10</attack>
+	    <health>43</health>
+	    <skill id="berserk" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>45</health>
+	    <skill id="inspire" x="8" y="animal"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>11</attack>
+	    <health>47</health>
+	    <skill id="heal" x="12" y="animal"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>49</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>12</attack>
+	    <health>51</health>
+	    <skill id="heal" x="13" y="animal"/>
+	    <skill id="inspire" x="9" y="animal"/>
+	    <skill id="berserk" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>53</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <attack>13</attack>
+	    <health>55</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>57</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>14</attack>
+	    <health>59</health>
+	    <skill id="heal" x="14" y="animal"/>
+	    <skill id="inspire" x="10" y="animal"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>61</health>
+	    <skill id="heal" x="15" y="animal"/>
+	    <skill id="berserk" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>15</attack>
+	    <health>63</health>
+	    <skill id="inspire" x="11" y="animal"/>
+	  </upgrade>
+	</unit>
 </root>	
