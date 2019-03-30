@@ -2,126 +2,232 @@
 Combo Mastery
 Level | Combo | left
 
-2 | Another Lousy Millenium | 0
-2 | Badminton Roger | 0
+3 | 5 AM Wine | 35
+3 | One Man Musical | 10
+2 | Another Lousy Millenium | 70
+2 | Badminton Roger | 30
 2 | Baseball Chris | 0
-2 | Bending School Grad | 0
+2 | Bender's Clowns | 10
+2 | Bender's Ducklings | 45
+2 | Bending School Grad | 40
+2 | Blueberry Delivery Girl | 35
+2 | Blueberry Picker | 95
 2 | Boy Witch Steve | 0
+2 | Brian Statue | 50
+2 | Captain Leela | 35
+2 | Cartel Klaus | 0
+2 | Castanet Zoidberg | 70
+2 | Celebeartions | 20
 2 | Chicken Fight | 0
 2 | Chosen Brain Fry | 0
 2 | Chris Painting | 0
 2 | Christmas Trap | 0
-2 | Devil Hank | 0
+2 | Church Wine Drunk | 0
+2 | Cigarette Addicts | 0
+2 | Cognac Bender | 90
+2 | Criss Cross Applesauce | 90
+2 | Cupid Bobby | 25
+2 | Dancing Peggy | 10
+2 | Devil Hank | 30
+2 | Diamond Ring Lois | 45
 2 | Diarama Gene | 0
-2 | Draw Me Tina | 0
-2 | Eggnog Roger | 0
+2 | Draw Me Gene | 0
+2 | Draw Me Tina | 70
+2 | Dream Guitar | 50
+2 | Drunk Peter | 35
+2 | Drunk Stan | 0
+2 | Eggnog Roger | 80
+2 | Fever Dreams | 35
 2 | Freezerdome Gene | 0
 2 | Fry in Robot Disguise | 0
-2 | Goddess of Beauty | 10
+2 | Fry's Macaroni Art | 30
+2 | Fry's Painting | 65
+2 | Gingerbread Sculptor | 95
+2 | Goddess of Beauty | 35
 2 | Golfer Amy | 0
+2 | Gun Safety Peter | 60
 2 | Half Dog Gene | 0
-2 | Heavy Metal Hayley | 0
+2 | Hank Hill, Running Back | 20
+2 | Heavy Metal Hayley | 50
 2 | High School Bill | 0
 2 | High School Linda | 0
-2 | Meg Portrait | 30
-2 | One Man Musical | 0
+2 | Hip Hop Bob | 30
+2 | I am Mona | 0
+2 | Jose Servo | 0
+2 | Knife Fight Stewie | 0
+2 | Kuchi Kopi Sculptor | 5
+2 | Laser Gun Stewie | 60
+2 | Leela Balloon Art | 0
+2 | Life Drawing Hayley | 10
+2 | Lounge Singer Hayley | 45
+2 | Marionette Chris | 45
+2 | Martian Calendar | 15
+2 | Medicated Stewie | 70
+2 | Meg Portrait | 55
+2 | Michael Dangle-low | 60
+2 | Mowing While Intoxicated | 10
+2 | Mural Restorer | 70
+2 | Music Video Stewie | 65
+2 | Musical Linda | 70
+2 | Pan Flute Stewie | 0
+2 | Party All the Time | 85
 2 | Pigeon Bill | 0
+2 | Pirate Cannon Peter | 0
+2 | Pointillism | 5
 2 | Positron Shooter Fry | 0
-2 | Power Choir Roger | 0
-2 | Red Rodriguez 2 Real | 0
+2 | Power Choir Roger | 30
+2 | Propane Sculpture | 5
+2 | Q.T. McWhiskers | 25
+2 | Rapper Klaus | 80
+2 | Red Rodriguez 2 Real | 85
 2 | Ricky Spanish | 0
+2 | Roger Goes Down | 30
+2 | Rough Night Stan | 0
+2 | S and M Lois | 60
+2 | S and M Peter | 55
+2 | Santa Bill | 40
+2 | Santa Killer Hayley | 85
+2 | Santa Killer Steve | 50
+2 | Sculptor Peter | 25
+2 | Sewer Surfer Fry | 0
+2 | Sexpun T'Come  | 40
 2 | Shoplift Addict | 0
+2 | Slip 'n Slide Bob | 10
+2 | Softball Lois | 60
+2 | Space Cadet Chris | 25
+2 | Space Honey | 35
 2 | Super Dance Squad | 0
+2 | Supermodel Roger | 0
+2 | Talent Show Lois | 20
 2 | Tattooed Fat Guy | 30
 2 | The Thinker Ape | 10
+2 | Traumatized Dale | 55
 2 | Trippy Zoidberg | 10
 2 | Viking Peter | 0
-2 | Whiskey Bartender | 0
+2 | Whale Hunter Amy | 0
+2 | Whiskey Bartender | 10
+2 | Will of a Housewife | 0
+2 | Wine & Paint Quagmire | 0
 2 | Wingnut Amy | 0
 2 | Wingnut Leela | 0
 1 | Action Delivery Force Zoidberg | 5
+1 | Alley Entertainment | 20
 1 | Anally Defaced | 15
 1 | Art of War | 5
 1 | Artsy Tina | 5
 1 | Battle Axe Peggy | 5
+1 | Bender in Love | 80
 1 | Benderbrau | 5
 1 | Body Paint Date | 5
 1 | Booty Shaking Drunk | 5
-1 | Burgerboss Bob | 5
+1 | Burger Addict Teddy | 5
+1 | Burgerboss Bob | 35
 1 | Butt Toucher Tina | 5
-1 | Cartel Klaus | 25
-1 | Church Wine Drunk | 25
-1 | Cigarette Addicts | 25
+1 | Chamber of Understanding | 100
+1 | Cheerleader Peggy | 5
 1 | Claw-Plach Fry | 5
+1 | Coach Farnsworth | 55
 1 | Congo Jack | 5
+1 | Crate Trained Steve | 25
 1 | Crayon Drawing | 5
-1 | Dancing Peggy | 5
 1 | Devil Bobby | 5
 1 | Dolphin Rider Peter | 10
 1 | Dr. Bobbenstein | 5
 1 | Drunk at the Clam | 5
-1 | Drunk Peggy | 5
+1 | Drunk Peggy | 20
 1 | Dummy Fight | 5
 1 | Fart in a Jar | 25
 1 | Fart School Louise | 5
+1 | Fowl Fighter Teddy | 75
 1 | K Pop Peter | 5
 1 | Karate Bender | 5
+1 | Katz | 25
 1 | Kidney Killer | 5
-1 | Knife Fight Stewie | 25
-1 | Leela Balloon Art | 25
-1 | Life Drawing Hayley | 25
+1 | Kiss and Clarinet | 10
+1 | Klepto Bender | 5
 1 | Medieval Hank | 5
-1 | Michael Dangle-low | 5
 1 | Mr. Deliver | 5
-1 | Music Video Stewie | 5
-1 | Opera Singer Leela | 5
+1 | Opera Francine | 5
+1 | Opera Singer Leela | 25
 1 | Owl Stewie | 5
 1 | Party Beer Implant | 5
-1 | Pirate Cannon Peter | 25
-1 | Pool Shark | 25
-1 | Propane Sculpture | 5
-1 | Rapture Stan | 5
+1 | Penguin Conservator | 115
+1 | Pool Shark | 35
+1 | Postal Lois | 5
+1 | Rapture Stan | 25
 1 | Ravenous Porcelain Babies | 5
 1 | RC Helicopter | 5
-1 | Rough Night Stan | 25
-1 | Santa Killer Hayley | 5
 1 | Sketch Artist Peter | 5
-1 | Sleighing Tonight | 5
+1 | Sleighing Tonight | 25
 1 | Softball Boomhauer | 25
+1 | Spray Painter | 90
 1 | Stewie Longlegs | 5
+1 | Stickin' Hank | 25
 1 | Stressed Out Leela | 5
+1 | Tainted Alamo | 75
 1 | Taxidermy Artist | 5
 1 | Tennis Francine | 15
 1 | Tennis Stan | 5
+1 | The Equestranauts | 25
 1 | Tina Tackle | 5
 1 | Toga Bill | 5
+1 | Trapeze Bob | 5
 1 | Trash Can Drunk | 5
+1 | Tree | 60
 1 | Umbriel | 5
-1 | Victory Dance | 5
-1 | Will of a Housewife | 25
+1 | Victory Dance | 65
 1 | Zoidberg vs Bot | 5
-0 | Burobu Addict | 15
-0 | Celebeartions | 15
-0 | Claw Machine | 25
-0 | Diamond Ring Lois | 15
-0 | Drunk Peter | 30
+0 | Baseball Bobby | 45
+0 | Belcher Date Night | 110
+0 | Betsy | 10
+0 | Brainwashed Hayley | 10
+0 | Burgers and Fries Louise | 50
+0 | Burobu Addict | 20
+0 | Catcher Luanne | 65
+0 | Christian Rock | 30
+0 | Claw Machine | 35
+0 | Country Club Stan | 15
+0 | Crack Addict Stan | 30
+0 | Date Wine Zoidberg | 80
+0 | Death Metal | 60
+0 | Dream Millionaire | 25
+0 | Easter Bunny Peter | 50
+0 | Fur Coat Lois | 35
 0 | Gaga Ball | 30
-0 | Marionette Chris | 25
-0 | Medicated Stewie | 50
-0 | Pan Flute Stewie | 30
-0 | Postal Lois | 10
-0 | Q.T. McWhiskers | 5
+0 | Guinea Pig in Space | 80
+0 | Heavenly Hank | 75
+0 | Hottyz Bill | 30
+0 | I Like Beer | 50
+0 | Lord Griffin | 10
+0 | Master Robaire | 15
+0 | Meg Meggy Meg | 25
+0 | Mission Doctor | 30
+0 | Money Retriever | 85
+0 | Naked Tug of War | 10
+0 | Oktoberfest Leela | 50
+0 | One Art Please | 30
+0 | Poppler Jingle Fry | 25
+0 | Quicky Kiss-it | 60
+0 | Ready for Santa | 30
+0 | Road Kill | 95
+0 | Santa Bender | 35
 0 | Scooty-Puff Jr | 10
 0 | Shut Up and Take My Money | 60
-0 | Slip 'n Slide Bob | 30
+0 | Sing and Swing | 35
 0 | Smoke Bomb | 10
 0 | Softball Bill | 30
-0 | Solid Gold Tuxedo | 15
+0 | Solid Gold Tuxedo | 30
+0 | Space Queen | 70
+0 | Space Stan | 45
+0 | Space Steve | 105
+0 | Space Walk | 60
+0 | Spaceship Pilot | 45
+0 | Spin Out Louise | 175
+0 | Squirrel Death | 10
 0 | Street Hockey Brian | 10
 0 | Sword Fighter Francine | 10
-0 | Trapeze Bob | 10
-0 | Traumatized Dale | 55
 0 | Water Nympho | 30
 0 | Water Polo Steve | 10
-
+0 | Wild Brian | 30
+0 | Wine Tasting Linda | 80
 
