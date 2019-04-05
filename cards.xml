@@ -50129,11 +50129,13 @@
 		<set>9999</set>
 		<hidden>1</hidden>
 		<type>6</type>
-		<trait>hyper</trait>
+		<trait>drunk</trait>
 		<release_time>1555351200</release_time>
-        <skill id='weaken' x='20' />
-		<attack>5</attack>
-		<health>500</health>
+        <skill id='hijack' x='7' />
+        <skill id='invigorate' x='9' />
+        <skill id='poison' x='11' />
+		<attack>13</attack>
+		<health>48</health>
 		<upgrade>
 			<level>2</level>
 		</upgrade>

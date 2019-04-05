@@ -41649,6 +41649,7 @@
 	<picture>FR_ActionDeliveryForceLeela</picture>
 	<asset_bundle>38</asset_bundle>
 	<rarity>4</rarity>
+	<card_type>final_form</card_type>
 	<set>3001</set>
 	<type>5</type>
 	<trait>fighter</trait>
