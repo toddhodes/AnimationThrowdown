@@ -46595,4 +46595,117 @@
 	    <health>44</health>
 	  </upgrade>
 	</unit>
+	<unit>
+	  <id>150102</id>
+	  <name>Sewer Surfer Fry</name>
+	  <picture>FR_SewerSurferFry2</picture>
+	  <asset_bundle>37</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>5</type>
+	  <trait>athletic</trait>
+	  <release_time>1554746400</release_time>
+	  <skill id="strike" x="5"/>
+	  <skill id="leech" x="7"/>
+	  <skill id="poison" x="7"/>
+	  <card_type>object</card_type>
+	  <combo_card_id>55113</combo_card_id>
+	  <attack>7</attack>
+	  <health>29</health>
+	  <upgrade>
+	    <level>2</level>
+	    <health>30</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>32</health>
+	    <skill id="strike" x="6"/>
+	    <skill id="leech" x="8"/>
+	    <skill id="poison" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>8</attack>
+	    <health>34</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>35</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>9</attack>
+	    <health>37</health>
+	    <skill id="leech" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>39</health>
+	    <skill id="strike" x="7"/>
+	    <skill id="poison" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>10</attack>
+	    <health>40</health>
+	    <skill id="leech" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>42</health>
+	    <skill id="strike" x="8"/>
+	    <skill id="poison" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>11</attack>
+	    <health>44</health>
+	    <skill id="leech" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>46</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>12</attack>
+	    <health>47</health>
+	    <skill id="strike" x="9"/>
+	    <skill id="leech" x="12"/>
+	    <skill id="poison" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>49</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <attack>13</attack>
+	    <health>51</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>52</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>14</attack>
+	    <health>54</health>
+	    <skill id="strike" x="10"/>
+	    <skill id="leech" x="13"/>
+	    <skill id="poison" x="12"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>56</health>
+	    <skill id="leech" x="14"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>15</attack>
+	    <health>58</health>
+	    <skill id="strike" x="11"/>
+	    <skill id="poison" x="13"/>
+	  </upgrade>
+	</unit>	
 </root>	
