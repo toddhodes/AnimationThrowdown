@@ -16,97 +16,120 @@
 		<rarity>5</rarity>
 		<set>7000</set>
 		<type>1</type>
-		<attack>9</attack>
-		<health>51</health>
+		<attack>12</attack>
+		<health>58</health>
 		<skill id="barrierall" x="4"/>
 		<skill id="strike" x="8"/>
 		<skill id="leech" x="13"/>
 		<upgrade>
-			<level>2</level>
+			<level>2</level>			
+			<skill id="barrierall" x="4"/>
 			<skill id="leech" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
+			<health>59</health>			
 			<skill id="strike" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<skill id="barrierall" x="6"/>
+			<health>60</health>			
+			<attack>13</attack>
+			<skill id="barrierall" x="6"/>			
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<attack>11</attack>
+			<health>61</health>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
+			<health>62</health>
 			<skill id="strike" x="11"/>
-			<health>53</health>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
+			<health>63</health>
 			<skill id="leech" x="16"/>
-			<health>54</health>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
+			<health>64</health>
 			<skill id="strike" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>57</health>
+			<health>65</health>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
 			<skill id="leech" x="17"/>
+			<health>66</health>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
+			<health>67</health>
+			<skill id="strike" x="12"/>
 			<skill id="barrierall" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
+			<health>68</health>
 			<skill id="strike" x="13"/>
+			<skill id="leech" x="17"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>60</health>
+			<health>69</health>
+			<skill id="strike" x="13"/>
+			<skill id="leech" x="17"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<attack>12</attack>
-			<health>62</health>
+			<skill id="barrierall" x="7"/>
+			<attack>14</attack>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
+			<health>71</health>
+			<skill id="barrierall" x="7"/>
+			<skill id="strike" x="13"/>
 			<skill id="leech" x="19"/>
 		</upgrade>
 		<upgrade>
-			<level>16</level>
-			<health>65</health>
+			<level>16</level>			
+			<health>72</health>
+			<skill id="barrierall" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
+			<skill id="barrierall" x="7"/>
 			<skill id="strike" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>68</health>
+			<health>73</health>
+			<skill id="barrierall" x="7"/>
+			<skill id="strike" x="15"/>
+			<skill id="leech" x="19"/>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<skill id="leech" x="20"/>
-			<health>69</health>
+			<health>74</health>
+			<skill id="leech" x="20"/>		
 		</upgrade>
 		<upgrade>
 			<level>20</level>
+			<health>75</health>
 			<skill id="strike" x="16"/>
-			<health>71</health>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
+			<health>76</health>
+			<attack>16</attack>
 			<skill id="barrierall" x="8"/>
-			<health>72</health>
-		</upgrade>												
+			<skill id="strike" x="16"/>
+			<skill id="leech" x="20"/>
+		</upgrade>
 	</unit>
 	<unit>
 		<id>1100002</id>
@@ -269,8 +292,8 @@
         <item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
 		<release_time>1539626400</release_time>
-		<attack>10</attack>
-		<health>50</health>
+		<attack>13</attack>
+		<health>56</health>
 		<rarity>5</rarity>
 		<skill id="bodyguard" x="7"/>
 		<skill id="invigorate" x="8"/>
@@ -280,130 +303,127 @@
 		<set>7001</set>
 		<upgrade>
 			<level>2</level>
-			<health>51</health>
+			<health>57</health>
 			<skill id="bodyguard" x="8"/>
 			<skill id="invigorate" x="8"/>
 			<skill id="shrapnel" x="6"/>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>52</health>
-			<attack>11</attack>
+			<health>58</health>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>53</health>
+			<health>59</health>
 			<skill id="bodyguard" x="8"/>
 			<skill id="invigorate" x="8"/>
 			<skill id="shrapnel" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>54</health>
+			<health>60</health>
 			<skill id="bodyguard" x="8"/>
 			<skill id="invigorate" x="9"/>
 			<skill id="shrapnel" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>55</health>
+			<health>61</health>
 			<skill id="bodyguard" x="9"/>
 			<skill id="shrapnel" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<attack>12</attack>
-			<health>56</health>
+			<attack>14</attack>
+			<health>62</health>
 			<skill id="invigorate" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>57</health>
+			<health>63</health>
 			<skill id="bodyguard" x="9"/>
 			<skill id="invigorate" x="10"/>
 			<skill id="shrapnel" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>58</health>
+			<health>64</health>
 			<skill id="bodyguard" x="10"/>
 			<skill id="invigorate" x="10"/>
 			<skill id="shrapnel" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<attack>13</attack>
+			<health>65</health>
 			<skill id="bodyguard" x="10"/>
 			<skill id="invigorate" x="10"/>
 			<skill id="shrapnel" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>59</health>
 			<skill id="bodyguard" x="11"/>
 			<skill id="invigorate" x="10"/>
 			<skill id="shrapnel" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<health>60</health>
+			<health>66</health>
 			<skill id="bodyguard" x="11"/>
 			<skill id="invigorate" x="11"/>
 			<skill id="shrapnel" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>61</health>
-			<attack>14</attack>
+			<health>67</health>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>62</health>
+			<attack>15</attack>
 			<skill id="bodyguard" x="11"/>
 			<skill id="invigorate" x="11"/>
 			<skill id="shrapnel" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<health>63</health>
+			<health>68</health>
 			<skill id="bodyguard" x="12"/>
 			<skill id="invigorate" x="11"/>
 			<skill id="shrapnel" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>64</health>
 			<skill id="bodyguard" x="12"/>
 			<skill id="invigorate" x="12"/>
 			<skill id="shrapnel" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<attack>15</attack>
-			<health>65</health>
+			<attack>16</attack>
+			<health>69</health>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>66</health>
+			<health>70</health>
 			<skill id="bodyguard" x="12"/>
 			<skill id="invigorate" x="12"/>
 			<skill id="shrapnel" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<health>67</health>
+			<health>71</health>
 			<skill id="bodyguard" x="13"/>
 			<skill id="invigorate" x="12"/>
 			<skill id="shrapnel" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
-			<health>68</health>
+			<health>72</health>
 			<skill id="invigorate" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
-			<attack>16</attack>
+			<attack>17</attack>
+			<health>73</health>
 			<skill id="bodyguard" x="14"/>			
 			<skill id="shrapnel" x="12"/>
 		</upgrade>
@@ -724,7 +744,7 @@
 		<item_desc>Collect Peter Fragments to craft and upgrade a Mythic Peter card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="inventory_upgrade_50_inventory" bundle_id="19"/>			
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
 		<attack>11</attack>
 		<health>52</health>
 		<rarity>5</rarity>
@@ -1761,92 +1781,136 @@
 		<rarity>5</rarity>
 		<set>7000</set>
 		<type>3</type>
-		<attack>8</attack>
-		<health>54</health>
-		<skill id="invigorate" x="8"/>
-		<skill id="rallyall" x="6"/>
-		<skill id="pierce" x="11"/>
+		<attack>10</attack>
+		<health>63</health>
+		<skill id="invigorate" x="9"/>
+		<skill id="rallyall" x="8"/>
+		<skill id="pierce" x="12"/>
 		<upgrade>
 			<level>2</level>
-			<skill id="pierce" x="12"/>
+			<health>64</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<attack>9</attack>
-		</upgrade>
-		<upgrade>
-			<level>4</level>
-			<health>57</health>
-		</upgrade>
-		<upgrade>
-			<level>5</level>
-			<skill id="invigorate" x="10"/>
-		</upgrade>
-		<upgrade>
-			<level>6</level>
+			<health>65</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="rallyall" x="8"/>
 			<skill id="pierce" x="13"/>
 		</upgrade>
 		<upgrade>
+			<level>4</level>
+			<health>66</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>67</health>
+			<skill id="invigorate" x="10"/>
+			<skill id="rallyall" x="8"/>
+			<skill id="pierce" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>68</health>
+			<skill id="invigorate" x="10"/>
+			<skill id="rallyall" x="8"/>
+			<skill id="pierce" x="14"/>
+		</upgrade>
+		<upgrade>
 			<level>7</level>
-			<health>60</health>
+			<attack>11</attack>
+			<health>69</health>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<attack>11</attack>
+			<skill id="invigorate" x="11"/>
+			<skill id="rallyall" x="8"/>
+			<skill id="pierce" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<skill id="rallyall" x="7"/>
+			<health>70</health>
+			<skill id="invigorate" x="11"/>
+			<skill id="rallyall" x="8"/>
+			<skill id="pierce" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
+			<health>71</health>
 			<skill id="invigorate" x="11"/>
+			<skill id="rallyall" x="9"/>
+			<skill id="pierce" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>63</health>
+			<health>72</health>
+			<skill id="invigorate" x="11"/>
+			<skill id="rallyall" x="9"/>
+			<skill id="pierce" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
 			<attack>12</attack>
-		</upgrade>
-		<upgrade>
-			<level>13</level>
-			<skill id="pierce" x="15"/>
-		</upgrade>
-		<upgrade>
-			<level>14</level>
-			<skill id="rallyall" x="8"/>
-		</upgrade>
-		<upgrade>
-			<level>15</level>
-			<health>66</health>
-		</upgrade>
-		<upgrade>
-			<level>16</level>
-			<skill id="invigorate" x="12"/>
-		</upgrade>
-		<upgrade>
-			<level>17</level>
-			<attack>14</attack>
-		</upgrade>
-		<upgrade>
-			<level>18</level>
-			<health>69</health>
-		</upgrade>
-		<upgrade>
-			<level>19</level>
 			<skill id="pierce" x="16"/>
 		</upgrade>
 		<upgrade>
-			<level>20</level>
+			<level>13</level>
+			<health>73</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="rallyall" x="9"/>
+			<skill id="pierce" x="17"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>13</attack>
+			<skill id="invigorate" x="12"/>
+			<skill id="rallyall" x="9"/>
+			<skill id="pierce" x="18"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>75</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="rallyall" x="9"/>
+			<skill id="pierce" x="18"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<attack>14</attack>
+			<health>76</health>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>77</health>
 			<skill id="invigorate" x="13"/>
+			<skill id="rallyall" x="9"/>
+			<skill id="pierce" x="18"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>78</health>
+			<skill id="invigorate" x="13"/>
+			<skill id="rallyall" x="9"/>
+			<skill id="pierce" x="19"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>79</health>
+			<skill id="pierce" x="20"/>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>80</health>
+			<skill id="invigorate" x="14"/>
+			<skill id="rallyall" x="9"/>
+			<skill id="pierce" x="20"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
-			<skill id="rallyall" x="10"/>
 			<attack>15</attack>
-		</upgrade>												
+			<skill id="invigorate" x="14"/>
+			<skill id="rallyall" x="10"/>
+			<skill id="pierce" x="20"/>
+		</upgrade>
 	</unit>
 	<unit>
 		<id>1300002</id>
@@ -3388,7 +3452,7 @@
 		<type>5</type>
 		<trait>athletic</trait>
 		<attack>18</attack>
-		<health>35</health>
+		<health>40</health>
 		<skill id="inspire" x="8"/>
 		<skill id="strike" x="10"/>
 		<skill id="weakenall" x="6"/>
@@ -3398,27 +3462,31 @@
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>38</health>
+			<health>41</health>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
+			<health>42</health>
 			<skill id="inspire" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
+			<health>43</health>
 			<skill id="weakenall" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
+			<health>44</health>
 			<attack>20</attack>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
+			<health>45</health>
 			<skill id="strike" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>41</health>
+			<health>46</health>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
@@ -3430,7 +3498,7 @@
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>44</health>
+			<health>47</health>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
@@ -3438,10 +3506,12 @@
 		</upgrade>
 		<upgrade>
 			<level>13</level>
+			<health>48</health>
 			<skill id="inspire" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
+			<health>49</health>
 			<skill id="strike" x="13"/>
 		</upgrade>
 		<upgrade>
@@ -3450,14 +3520,15 @@
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>47</health>
-		</upgrade>
-		<upgrade>
-			<level>17</level>
 			<health>50</health>
 		</upgrade>
 		<upgrade>
+			<level>17</level>
+			<health>51</health>
+		</upgrade>
+		<upgrade>
 			<level>18</level>
+			<health>52</health>
 			<skill id="inspire" x="13"/>
 		</upgrade>
 		<upgrade>
@@ -3466,12 +3537,13 @@
 		</upgrade>
 		<upgrade>
 			<level>20</level>
+			<health>54</health>
 			<skill id="strike" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
 			<skill id="weakenall" x="10"/>
-			<health>54</health>
+			<health>56</health>
 		</upgrade>												
 	</unit>
 	<unit>
@@ -4238,4 +4310,159 @@
 			<skill id="weaken" x="17"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>1500007</id>
+		<name>Fry</name>
+		<desc>I told you I'm great at video games.</desc>
+		<character>ft_fry</character>
+		<picture>FR_LMFry</picture>
+		<asset_bundle>49</asset_bundle>
+		<item_name>Fry Fragment</item_name>
+		<item_desc>Collect Fry Fragments to craft and upgrade a Mythic Fry card!</item_desc>		
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>		
+        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<attack>18</attack>
+		<health>41</health>
+		<rarity>5</rarity>
+		<skill id="counter" x="7"/>
+		<skill id="invigorate" x="10"/>
+		<skill id="barrier" x="10" y="5"/>
+		<type>5</type>
+		<set>7001</set>
+		<upgrade>
+			<level>2</level>
+			<health>42</health>
+			<skill id="counter" x="8"/>
+			<skill id="invigorate" x="10"/>
+			<skill id="barrier" x="10" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>43</health>
+			<skill id="counter" x="8"/>
+			<skill id="invigorate" x="11"/>
+			<skill id="barrier" x="10" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>44</health>
+			<skill id="counter" x="8"/>
+			<skill id="invigorate" x="11"/>
+			<skill id="barrier" x="11" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>45</health>
+			<skill id="counter" x="9"/>
+			<skill id="invigorate" x="11"/>
+			<skill id="barrier" x="11" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>46</health>
+			<attack>19</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>47</health>
+			<skill id="counter" x="10"/>
+			<skill id="invigorate" x="11"/>
+			<skill id="barrier" x="11" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>48</health>
+			<skill id="counter" x="10"/>
+			<skill id="invigorate" x="12"/>
+			<skill id="barrier" x="12" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>49</health>
+			<skill id="counter" x="11"/>
+			<skill id="invigorate" x="12"/>
+			<skill id="barrier" x="12" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>50</health>
+			<skill id="counter" x="11"/>
+			<skill id="invigorate" x="12"/>
+			<skill id="barrier" x="13" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>51</health>
+			<skill id="counter" x="12"/>
+			<skill id="invigorate" x="12"/>
+			<skill id="barrier" x="13" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>52</health>
+			<skill id="counter" x="12"/>
+			<skill id="invigorate" x="13"/>
+			<skill id="barrier" x="13" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>53</health>
+			<attack>20</attack>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>54</health>
+			<skill id="counter" x="13"/>
+			<skill id="invigorate" x="13"/>
+			<skill id="barrier" x="13" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>55</health>
+			<skill id="counter" x="14"/>
+			<skill id="invigorate" x="13"/>
+			<skill id="barrier" x="14" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>56</health>
+			<skill id="counter" x="14"/>
+			<skill id="invigorate" x="14"/>
+			<skill id="barrier" x="14" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>57</health>
+			<skill id="counter" x="14"/>
+			<skill id="invigorate" x="14"/>
+			<skill id="barrier" x="15" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>58</health>
+			<skill id="counter" x="15"/>
+			<skill id="invigorate" x="14"/>
+			<skill id="barrier" x="15" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>60</health>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>61</health>
+			<skill id="counter" x="16"/>
+			<skill id="invigorate" x="14"/>
+			<skill id="barrier" x="15" y="5"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>62</health>
+			<attack>21</attack>
+			<skill id="counter" x="16"/>
+			<skill id="invigorate" x="15"/>
+			<skill id="barrier" x="16" y="5"/>
+		</upgrade>
+	</unit>	
 </root>	
