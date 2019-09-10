@@ -53976,4 +53976,121 @@
 	    <skill id="inspire" x="11"/>
 	  </upgrade>
 	</unit>
+	<unit>
+	  <id>150115</id>
+	  <name>Cute Witch of the North</name>
+	  <desc>Abraca-duh!</desc>
+	  <picture>FR_CuteWitchOfTheNorthAmy</picture>
+	  <asset_bundle>33</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>5</type>
+	  <trait>disguised</trait>
+	  <skill id="heal" x="7"/>
+	  <skill id="weaken" x="5"/>
+	  <skill id="leech" x="8"/>
+	  <card_type>object</card_type>  
+	  <combo_card_id>55095</combo_card_id>
+  	  <attack>7</attack>
+      <health>22</health>
+	  <upgrade>
+	    <level>2</level>
+	    <health>23</health>
+	    <skill id="heal" x="8"/>
+	    <skill id="weaken" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>25</health>
+	    <skill id="leech" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>8</attack>
+	    <health>27</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>29</health>
+	    <skill id="heal" x="9"/>
+	    <skill id="weaken" x="7"/>
+	    <skill id="leech" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>9</attack>
+	    <health>31</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>33</health>
+	    <skill id="heal" x="10"/>
+	    <skill id="weaken" x="8"/>
+	    <skill id="leech" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>10</attack>
+	    <health>35</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>37</health>
+	    <skill id="leech" x="12"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>11</attack>
+	    <health>39</health>
+	    <skill id="heal" x="11"/>
+	    <skill id="weaken" x="9"/>
+	    <skill id="leech" x="13"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>41</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>12</attack>
+	    <health>43</health>
+	    <skill id="heal" x="12"/>
+	    <skill id="weaken" x="10"/>
+	    <skill id="leech" x="14"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>45</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <attack>13</attack>
+	    <health>47</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>49</health>
+	    <skill id="leech" x="15"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>14</attack>
+	    <health>51</health>
+	    <skill id="heal" x="13"/>
+	    <skill id="weaken" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>53</health>
+	    <skill id="heal" x="14"/>
+	    <skill id="weaken" x="12"/>
+	    <skill id="leech" x="16"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>15</attack>
+	    <health>55</health>
+	    <skill id="leech" x="17"/>
+	  </upgrade>
+	</unit>	
 </root>	
