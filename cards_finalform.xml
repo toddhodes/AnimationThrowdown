@@ -54092,5 +54092,114 @@
 	    <health>55</health>
 	    <skill id="leech" x="17"/>
 	  </upgrade>
+	</unit>
+	<unit>
+	  <id>150116</id>
+	  <name>The Thinker Ape</name>
+	  <desc>I fling therefore I am.</desc>
+	  <picture>ApeThinking</picture>
+	  <asset_bundle>7</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>5</type>
+	  <trait>artistic</trait>
+	  <skill id="armored" x="4"/>
+	  <skill id="strike" x="5"/>
+	  <skill id="inspire" x="3"/>
+	  <card_type>object</card_type>
+	  <combo_card_id>55047</combo_card_id>
+	  <attack>7</attack>
+	  <health>30</health>
+	  <upgrade>
+	    <level>2</level>
+	    <health>31</health>
+	    <skill id="armored" x="5"/>
+	    <skill id="inspire" x="4"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>33</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>8</attack>
+	    <health>35</health>
+	    <skill id="strike" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>36</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>9</attack>
+	    <health>38</health>
+	    <skill id="armored" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>40</health>
+	    <skill id="strike" x="7"/>
+	    <skill id="inspire" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>10</attack>
+	    <health>41</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>43</health>
+	    <skill id="armored" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>11</attack>
+	    <health>45</health>
+	    <skill id="strike" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>47</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>12</attack>
+	    <health>48</health>
+	    <skill id="armored" x="8"/>
+	    <skill id="strike" x="9"/>
+	    <skill id="inspire" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>50</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <attack>13</attack>
+	    <health>52</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>53</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>14</attack>
+	    <health>55</health>
+	    <skill id="armored" x="9"/>
+	    <skill id="strike" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>57</health>
+	    <skill id="inspire" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>15</attack>
+	    <health>59</health>
+	    <skill id="strike" x="11"/>
+	  </upgrade>
 	</unit>	
 </root>	

@@ -46173,6 +46173,7 @@
 <unit>
 		<id>50017</id>
 		<name>Vitruvian Man</name>
+		<linked_card_id>50079</linked_card_id>
 		<desc>Note how the perspective lines draw the eye right to his dong.</desc>
 		<picture>VitruvianMan</picture>
 		<asset_bundle>9</asset_bundle>
@@ -52900,6 +52901,134 @@
 			<skill id="bodyguard" x="7"/>
 			<skill id="strike" x="9"/>
 			<skill id="shrapnel" x="6"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>50079</id>
+		<name>Vitruvian Man</name>
+		<desc>Note how the perspective lines draw the eye right to his dong.</desc>
+		<picture>VitruvianMan</picture>
+		<asset_bundle>9</asset_bundle>
+		<release_time>1568138400</release_time>
+		<attack>6</attack>
+		<health>29</health>
+		<rarity>4</rarity>
+		<skill id="inspire" x="2"/>
+		<skill id="rally" x="3" y="5"/>
+		<skill id="weakenall" x="1"/>
+		<type>5</type>
+		<trait>artistic</trait>
+		<set>1</set>
+		<upgrade>
+			<level>2</level>
+			<health>30</health>
+			<skill id="inspire" x="2"/>
+			<skill id="rally" x="4" y="5"/>
+			<skill id="weakenall" x="1"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>32</health>
+			<skill id="inspire" x="3"/>
+			<skill id="rally" x="4" y="5"/>
+			<skill id="weakenall" x="1"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>33</health>
+			<attack>7</attack>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>35</health>
+			<skill id="inspire" x="3"/>
+			<skill id="rally" x="4" y="5"/>
+			<skill id="weakenall" x="2"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>36</health>
+			<skill id="inspire" x="3"/>
+			<skill id="rally" x="5" y="5"/>
+			<skill id="weakenall" x="2"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>38</health>
+			<skill id="inspire" x="4"/>
+			<skill id="rally" x="6" y="5"/>
+			<skill id="weakenall" x="2"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>40</health>
+			<attack>8</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>41</health>
+			<skill id="inspire" x="4"/>
+			<skill id="rally" x="6" y="5"/>
+			<skill id="weakenall" x="3"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>43</health>
+			<skill id="inspire" x="4"/>
+			<skill id="rally" x="7" y="5"/>
+			<skill id="weakenall" x="3"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>44</health>
+			<skill id="inspire" x="5"/>
+			<skill id="rally" x="7" y="5"/>
+			<skill id="weakenall" x="3"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>46</health>
+			<attack>9</attack>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>48</health>
+			<skill id="inspire" x="5"/>
+			<skill id="rally" x="8" y="5"/>
+			<skill id="weakenall" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>49</health>
+			<skill id="inspire" x="6"/>
+			<skill id="rally" x="8" y="5"/>
+			<skill id="weakenall" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>51</health>
+			<skill id="inspire" x="6"/>
+			<skill id="rally" x="9" y="5"/>
+			<skill id="weakenall" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>52</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>54</health>
+			<skill id="inspire" x="7"/>
+			<skill id="rally" x="9" y="5"/>
+			<skill id="weakenall" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>56</health>
+			<skill id="inspire" x="7"/>
+			<skill id="rally" x="10" y="5"/>
+			<skill id="weakenall" x="5"/>
 		</upgrade>
 	</unit>		
 	<!-- end futurama input -->

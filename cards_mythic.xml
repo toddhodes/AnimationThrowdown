@@ -3445,6 +3445,154 @@
 			<skill id="strike" x="16"/>
 		</upgrade>
 	</unit>	
+	<unit>
+		<id>1400007</id>
+		<name>Bill</name>
+		<character>kh_bill</character>		
+		<desc>Boycott Dale Gribble! He is an exterminator of bugs and friendships! Do not let him into your house, or your heart!</desc>
+		<picture>KOTH_LMBill</picture>
+		<asset_bundle>49</asset_bundle>		
+		<item_name>Bill Fragment</item_name>
+		<item_desc>Collect Bill Fragments to craft and upgrade a Mythic Bill card!</item_desc>	
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<attack>17</attack>
+		<health>45</health>
+		<rarity>5</rarity>
+		<skill id="barrier" x="10" y="4"/>
+		<skill id="shrapnel" x="7"/>
+		<skill id="berserk" x="5"/>
+		<type>4</type>
+		<set>7001</set>
+		<upgrade>
+			<level>2</level>
+			<health>46</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>47</health>
+			<skill id="barrier" x="10" y="4"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="berserk" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>48</health>
+			<skill id="barrier" x="11" y="4"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="berserk" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>49</health>
+			<skill id="barrier" x="11" y="4"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>50</health>
+			<attack>18</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>51</health>
+			<skill id="barrier" x="12" y="4"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>52</health>
+			<skill id="barrier" x="12" y="4"/>
+			<skill id="shrapnel" x="9"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>53</health>
+			<skill id="barrier" x="13" y="4"/>
+			<skill id="shrapnel" x="9"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>54</health>
+			<skill id="barrier" x="13" y="4"/>
+			<skill id="shrapnel" x="9"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>55</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>56</health>
+			<skill id="barrier" x="13" y="4"/>
+			<skill id="shrapnel" x="10"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>57</health>
+			<skill id="barrier" x="14" y="4"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>58</health>
+			<attack>19</attack>
+			<skill id="shrapnel" x="10"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>59</health>
+			<skill id="barrier" x="14" y="4"/>
+			<skill id="shrapnel" x="10"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>60</health>
+			<skill id="barrier" x="14" y="4"/>
+			<skill id="shrapnel" x="11"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>61</health>
+			<skill id="barrier" x="15" y="4"/>
+			<skill id="shrapnel" x="11"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>63</health>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<skill id="barrier" x="15" y="4"/>
+			<skill id="shrapnel" x="12"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>64</health>
+			<skill id="barrier" x="16" y="4"/>
+			<skill id="shrapnel" x="12"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>65</health>
+			<attack>20</attack>
+			<skill id="barrier" x="16" y="4"/>
+			<skill id="shrapnel" x="12"/>
+			<skill id="berserk" x="9"/>
+		</upgrade>
+	</unit>	
 	<!-- Futurama Mythics -->
 	<unit>
 		<id>1500001</id>
