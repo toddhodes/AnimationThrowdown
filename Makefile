@@ -14,5 +14,4 @@ cm:
 
 clean:
 	@#rm	cards-w-id out units-w-levels-and-rarity
-	rm	cards-w-id-and-rarity user.json units-w-levels
-
+	rm	cards-w-id-and-rarity user.json units-w-levels ids-with-cm

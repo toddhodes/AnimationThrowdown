@@ -13,9 +13,15 @@ password_hash=`grep password_hash ~/.at_creds | cut -d= -f2`
 out=units-w-levels
 
 curl -s 'https://cb-live.synapse-games.com/api.php?message=init&user_id='$user_id --data 'password='$password_hash > user.json
+echo "retrieved user.json"
 
-cat user.json | jq . | jq ' .user_units[] | {id: .unit_id, level: .level, mastery: .mastery_level}' | paste -d " " - - - - - |awk '{ print $3, $5, $7}' | tr -d \" | sort | sed 's/, /-/g' > $out
+cat user.json | jq . | jq ' .user_units[] | {id: .unit_id, level: .level, mastery: .mastery_level}' | paste -d " " - - - - - \
+   | awk '{ print $3, $5, $7}' | tr -d \" | sort | sed 's/, /-/g' > $out
 
 echo "wrote $out"
 wc -l $out
 
+cat user.json | jq . | jq ' .user_combo_mastery[] | {id: .id, level: .level}' | paste -d " " - - - - \
+   | awk '{ print $3, $5 }' | tr -d \" | sort | sed 's/, /-/g' > ids-with-cm
+echo "wrote ids-with-cm"
+wc -l ids-with-cm

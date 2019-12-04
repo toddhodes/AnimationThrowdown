@@ -1,8 +1,4 @@
 
-cat user.json | jq . | jq ' .user_combo_mastery[] | {id: .id, level: .level}' | paste -d " " - - - - \
-	| awk '{ print $3, $5 }' | tr -d \" | sort | sed 's/, /-/g' > ids-with-cm
-
-
 for i in `cat ids-with-cm`
 do   
   unit=`echo $i | cut -d- -f1`
