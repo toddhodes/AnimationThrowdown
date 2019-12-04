@@ -751,6 +751,7 @@
 		<type>1</type>
 		<trait>drunk</trait>
 		<set>7001</set>
+		<!-- <update_time>1574198160</update_time> -->
 		<upgrade>
 			<level>2</level>
 			<health>53</health>
