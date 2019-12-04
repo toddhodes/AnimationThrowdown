@@ -1,0 +1,15 @@
+
+cat user.json | jq . | jq ' .user_combo_mastery[] | {id: .id, level: .level}' | paste -d " " - - - - \
+	| awk '{ print $3, $5 }' | tr -d \" | sort | sed 's/, /-/g' > ids-with-cm
+
+
+for i in `cat ids-with-cm`
+do   
+  unit=`echo $i | cut -d- -f1`
+  cm=`echo $i | cut -d- -f2`
+
+  unit=`egrep ^$unit cards-w-id-and-rarity | head -1`
+  name=`echo $unit | cut -d" " -f3-`
+
+  echo "$cm | $name"
+done 
