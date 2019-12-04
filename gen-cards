@@ -4,7 +4,8 @@ function toStars() {
   rare=$1
   level=$2
   i=$level
- 
+
+  max=6
   case $rare in
   "9") max=3 ;;
   "12") max=4 ;;
@@ -26,20 +27,30 @@ for i in `cat units-w-levels-and-rarity`
 do   
   unit=`echo $i | cut -d- -f1`
   lvl=`echo $i | cut -d- -f2`
-  rarity=`echo $i | cut -d- -f3`
-  name=`egrep ^$unit cards-w-id | cut -d" " -f2- | head -1`
+  #cm=`echo $i | cut -d- -f3`
 
+  unit=`egrep ^$unit cards-w-id | head -1`
+  name=`echo $unit | cut -d" " -f3-`
+  rarity=`echo $unit | cut -d" " -f2`
+
+  color="L"
   case $rarity in
-  "9") color="C" ;;
-  "12") color="R" ;;
-  "15") color="E" ;;
-  "18") color="L" ;;
-  "21") color="M" ;;
+  "1") color="C" ;;
+  "2") color="R" ;;
+  "3") color="E" ;;
+  "4") color="L" ;;
+  "5") color="M" ;;
   esac
 
   stars=`toStars $rarity $lvl`
+  cm_text=""
+  #case "$cm" in
+  #"1") cm_txt="(cm1)" ;;
+  #"2") cm_txt="(cm2)" ;;
+  #"3") cm_txt="(cm3)" ;;
+  #esac
 
   #echo "unit:$unit name:$name: lvl:$lvl rare:$rarity"
-  #echo "$color $name: $lvl"
+  #echo "$color $name: $lvl $cm_text"
   echo "$color $name: $stars"
 done 
