@@ -10,7 +10,7 @@
 user_id=`grep user_id ~/.at_creds | cut -d= -f2`
 password_hash=`grep password_hash ~/.at_creds | cut -d= -f2`
 
-out=units-w-levels-and-rarity
+out=units-w-levels
 
 curl -s 'https://cb-live.synapse-games.com/api.php?message=init&user_id='$user_id --data 'password='$password_hash > out
 

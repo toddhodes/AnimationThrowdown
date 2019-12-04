@@ -23,17 +23,17 @@ function toStars() {
    echo $i$stars
 }
 
-for i in `cat units-w-levels-and-rarity`
+for i in `cat units-w-levels`
 do   
   unit=`echo $i | cut -d- -f1`
   lvl=`echo $i | cut -d- -f2`
   #cm=`echo $i | cut -d- -f3`
 
-  unit=`egrep ^$unit cards-w-id | head -1`
+  unit=`egrep ^$unit cards-w-id-and-rarity | head -1`
   name=`echo $unit | cut -d" " -f3-`
   rarity=`echo $unit | cut -d" " -f2`
 
-  color="L"
+  color="?"
   case $rarity in
   "1") color="C" ;;
   "2") color="R" ;;
@@ -43,6 +43,7 @@ do
   esac
 
   stars=`toStars $rarity $lvl`
+
   cm_text=""
   #case "$cm" in
   #"1") cm_txt="(cm1)" ;;
