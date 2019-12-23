@@ -1028,6 +1028,159 @@
 			<skill id="weakenall" x="11"/>
 		</upgrade>
 	</unit>	
+	<unit>
+		<id>1100008</id>
+		<character>fg_meg</character>
+		<name>Meg</name>
+		<desc>I've never even been in a picture before.</desc>
+		<picture>FG_LMMeg</picture>
+		<asset_bundle>49</asset_bundle>
+		<item_name>Meg Fragment</item_name>
+		<item_desc>Collect Meg Fragments to craft and upgrade a Mythic Meg card!</item_desc>	
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>18</item_bundle_id>	
+        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<attack>15</attack>
+		<health>52</health>
+		<rarity>5</rarity>
+		<skill id="bodyguard" x="7"/>
+		<skill id="heal" x="13"/>
+		<skill id="leech" x="12"/>
+		<type>1</type>
+		<set>7001</set>
+		<upgrade>
+			<level>2</level>
+			<health>53</health>
+			<skill id="bodyguard" x="8"/>
+			<skill id="heal" x="13"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>54</health>
+			<skill id="bodyguard" x="8"/>
+			<skill id="heal" x="13"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>55</health>
+			<skill id="bodyguard" x="8"/>
+			<skill id="heal" x="14"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<attack>16</attack>
+			<health>56</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>57</health>
+			<skill id="bodyguard" x="9"/>
+			<skill id="heal" x="14"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<skill id="bodyguard" x="9"/>
+			<skill id="heal" x="15"/>
+			<skill id="leech" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>58</health>
+			<skill id="bodyguard" x="10"/>
+			<skill id="heal" x="15"/>
+			<skill id="leech" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>59</health>
+			<skill id="bodyguard" x="10"/>
+			<skill id="heal" x="15"/>
+			<skill id="leech" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>17</attack>
+			<health>60</health>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>61</health>
+			<skill id="bodyguard" x="10"/>
+			<skill id="heal" x="16"/>
+			<skill id="leech" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>62</health>
+			<skill id="bodyguard" x="11"/>
+			<skill id="heal" x="16"/>
+			<skill id="leech" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>63</health>
+			<skill id="bodyguard" x="11"/>
+			<skill id="heal" x="16"/>
+			<skill id="leech" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>18</attack>
+			<skill id="bodyguard" x="11"/>
+			<skill id="heal" x="17"/>
+			<skill id="leech" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>64</health>
+			<skill id="bodyguard" x="12"/>
+			<skill id="heal" x="17"/>
+			<skill id="leech" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>65</health>
+			<skill id="bodyguard" x="12"/>
+			<skill id="heal" x="17"/>
+			<skill id="leech" x="17"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>66</health>
+			<skill id="bodyguard" x="12"/>
+			<skill id="heal" x="18"/>
+			<skill id="leech" x="17"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>67</health>
+			<skill id="bodyguard" x="13"/>
+			<skill id="heal" x="18"/>
+			<skill id="leech" x="17"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>68</health>
+			<skill id="bodyguard" x="13"/>
+			<skill id="heal" x="18"/>
+			<skill id="leech" x="18"/>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<attack>19</attack>
+			<health>69</health>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<skill id="bodyguard" x="14"/>
+			<skill id="heal" x="19"/>
+			<skill id="leech" x="19"/>
+		</upgrade>
+	</unit>
 	<!-- AD Mythics -->
 	<unit>
 		<id>1200001</id>
@@ -1141,7 +1294,7 @@
 			<attack>20</attack>
 			<skill id="berserk" x="8"/>
 		</upgrade>												
-	</unit>
+	</unit>	
 	<unit>
 		<id>1200002</id>
 		<name>Bullock</name>
@@ -1154,137 +1307,122 @@
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
-		<attack>15</attack>
-		<health>36</health>
+		<attack>17</attack>
+		<health>45</health>
 		<rarity>5</rarity>
-		<skill id="armored" x="8"/>
+		<skill id="armored" x="9"/>
 		<skill id="outlast" x="9"/>
-		<skill id="berserk" x="5"/>
+		<skill id="berserk" x="6"/>
 		<type>2</type>
-		<set>7001</set>
+		<set>7001</set>		
 		<upgrade>
 			<level>2</level>
-			<attack>16</attack>
-		</upgrade>
-		<upgrade>
-			<level>3</level>
-			<health>38</health>
-		</upgrade>
-		<upgrade>
-			<level>4</level>
-			<health>39</health>
-			<skill id="armored" x="8"/>
-			<skill id="outlast" x="10"/>
-			<skill id="berserk" x="5"/>
-		</upgrade>
-		<upgrade>
-			<level>5</level>
-			<health>40</health>
-			<attack>17</attack>
-		</upgrade>
-		<upgrade>
-			<level>6</level>
-			<health>41</health>
-			<skill id="armored" x="8"/>
-			<skill id="outlast" x="10"/>
-			<skill id="berserk" x="6"/>
-		</upgrade>
-		<upgrade>
-			<level>7</level>
-			<health>42</health>
-			<skill id="armored" x="9"/>
-			<skill id="outlast" x="10"/>
-			<skill id="berserk" x="6"/>
-		</upgrade>
-		<upgrade>
-			<level>8</level>
-			<health>43</health>
 			<attack>18</attack>
 		</upgrade>
 		<upgrade>
-			<level>9</level>
-			<health>44</health>
-			<skill id="armored" x="9"/>
-			<skill id="outlast" x="11"/>
-			<skill id="berserk" x="6"/>
-		</upgrade>
-		<upgrade>
-			<level>10</level>
-			<health>45</health>
-			<skill id="armored" x="10"/>
-			<skill id="outlast" x="11"/>
-			<skill id="berserk" x="6"/>
-		</upgrade>
-		<upgrade>
-			<level>11</level>
+			<level>3</level>
 			<health>46</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<skill id="armored" x="9"/>
+			<skill id="outlast" x="10"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>47</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<skill id="armored" x="9"/>
+			<skill id="outlast" x="10"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<skill id="armored" x="10"/>
+			<skill id="outlast" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
 			<attack>19</attack>
 		</upgrade>
 		<upgrade>
-			<level>12</level>
-			<health>47</health>
+			<level>9</level>
 			<skill id="armored" x="10"/>
 			<skill id="outlast" x="11"/>
-			<skill id="berserk" x="7"/>
 		</upgrade>
 		<upgrade>
-			<level>13</level>
-			<health>48</health>
+			<level>10</level>
 			<skill id="armored" x="11"/>
 			<skill id="outlast" x="11"/>
-			<skill id="berserk" x="7"/>
 		</upgrade>
 		<upgrade>
-			<level>14</level>
-			<health>49</health>
+			<level>11</level>
 			<attack>20</attack>
 		</upgrade>
 		<upgrade>
-			<level>15</level>
-			<health>50</health>
+			<level>12</level>
+			<health>48</health>
 			<skill id="armored" x="11"/>
+			<skill id="outlast" x="11"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>49</health>
+			<skill id="armored" x="11"/>
+			<skill id="outlast" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>50</health>
+			<attack>21</attack>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<skill id="armored" x="12"/>
 			<skill id="outlast" x="12"/>
-			<skill id="berserk" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
 			<health>51</health>
-			<skill id="armored" x="12"/>
+			<skill id="armored" x="13"/>
 			<skill id="outlast" x="12"/>
-			<skill id="berserk" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<attack>21</attack>
+			<attack>22</attack>
 			<health>52</health>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
 			<health>53</health>
-			<skill id="berserk" x="8"/>
+			<skill id="berserk" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
 			<health>54</health>
-			<skill id="armored" x="13"/>
+			<skill id="armored" x="14"/>
 			<skill id="outlast" x="12"/>			
 		</upgrade>
 		<upgrade>
 			<level>20</level>
 			<health>55</health>
-			<skill id="armored" x="13"/>
+			<skill id="armored" x="15"/>
 			<skill id="outlast" x="13"/>
-			<skill id="berserk" x="8"/>
+			<skill id="berserk" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
-			<attack>22</attack>
+			<attack>23</attack>
 			<health>56</health>
-			<skill id="armored" x="14"/>
+			<skill id="armored" x="16"/>
 			<skill id="outlast" x="13"/>
-			<skill id="berserk" x="8"/>
+			<skill id="berserk" x="9"/>
 		</upgrade>
-	</unit>
+	</unit>	
 	<unit>
 		<id>1200003</id>
 		<name>Hayley</name>
@@ -2174,7 +2312,7 @@
 		<item_desc>Collect Teddy Fragments to craft and upgrade a Mythic Teddy card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="inventory_upgrade_50_inventory" bundle_id="19"/>			
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
 		<attack>16</attack>
 		<health>48</health>
 		<rarity>5</rarity>
@@ -4740,7 +4878,7 @@
 			<skill id="strike" x="16"/>
 			<skill id="shrapnel" x="12"/>
 		</upgrade>
-	</unit>
+	</unit>	
 	<unit>
 		<id>1500004</id>
 		<name>Bender</name>
@@ -4753,8 +4891,8 @@
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
         <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
-		<attack>15</attack>
-		<health>44</health>
+		<attack>16</attack>
+		<health>48</health>
 		<rarity>5</rarity>
 		<skill id="armored" x="9"/>
 		<skill id="counter" x="9"/>
@@ -4763,49 +4901,43 @@
 		<set>7001</set>
 		<upgrade>
 			<level>2</level>
-			<health>45</health>
 			<skill id="armored" x="9"/>
 			<skill id="counter" x="9"/>
 			<skill id="leech" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>46</health>
-			<attack>16</attack>
+			<health>49</health>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>47</health>
 			<skill id="armored" x="10"/>
-			<skill id="counter" x="9"/>
+			<skill id="counter" x="10"/>
 			<skill id="leech" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>48</health>
 			<skill id="armored" x="10"/>
-			<skill id="counter" x="9"/>
 			<skill id="leech" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>49</health>
 			<skill id="armored" x="10"/>
-			<skill id="counter" x="10"/>
+			<skill id="counter" x="11"/>
 			<skill id="leech" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
 			<attack>17</attack>
 			<skill id="armored" x="10"/>
-			<skill id="counter" x="10"/>
+			<skill id="counter" x="11"/>
 			<skill id="leech" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
 			<health>50</health>
 			<skill id="armored" x="11"/>
-			<skill id="counter" x="10"/>
+			<skill id="counter" x="11"/>
 			<skill id="leech" x="14"/>
 		</upgrade>
 		<upgrade>
@@ -4817,28 +4949,28 @@
 			<level>10</level>
 			<health>52</health>
 			<skill id="armored" x="11"/>
-			<skill id="counter" x="11"/>
+			<skill id="counter" x="12"/>
 			<skill id="leech" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
 			<health>53</health>
 			<skill id="armored" x="11"/>
-			<skill id="counter" x="11"/>
+			<skill id="counter" x="12"/>
 			<skill id="leech" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
 			<health>54</health>
 			<skill id="armored" x="12"/>
-			<skill id="counter" x="11"/>
+			<skill id="counter" x="12"/>
 			<skill id="leech" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
 			<health>55</health>
 			<skill id="armored" x="12"/>
-			<skill id="counter" x="11"/>
+			<skill id="counter" x="13"/>
 			<skill id="leech" x="16"/>
 		</upgrade>
 		<upgrade>
@@ -4849,51 +4981,49 @@
 		<upgrade>
 			<level>15</level>
 			<health>57</health>
-			<skill id="armored" x="12"/>
-			<skill id="counter" x="12"/>
+			<skill id="armored" x="13"/>
 			<skill id="leech" x="17"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
 			<health>58</health>
-			<skill id="armored" x="13"/>
-			<skill id="counter" x="12"/>
+			<skill id="armored" x="14"/>
 			<skill id="leech" x="17"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
 			<attack>20</attack>
-			<skill id="armored" x="13"/>
-			<skill id="counter" x="12"/>
+			<skill id="armored" x="14"/>
 			<skill id="leech" x="18"/>
+			<skill id="counter" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
 			<health>59</health>
-			<skill id="armored" x="13"/>
-			<skill id="counter" x="12"/>
+			<skill id="armored" x="15"/>
 			<skill id="leech" x="19"/>
+			<skill id="counter" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
 			<health>60</health>
-			<skill id="armored" x="14"/>
+			<skill id="counter" x="16"/>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
 			<health>61</health>			
-			<skill id="counter" x="13"/>
+			<skill id="counter" x="17"/>
 			<skill id="leech" x="19"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
-			<health>62</health>
+			<health>63</health>
 			<attack>21</attack>
-			<skill id="armored" x="14"/>
-			<skill id="counter" x="13"/>
+			<skill id="armored" x="16"/>
+			<skill id="counter" x="18"/>
 			<skill id="leech" x="20"/>
 		</upgrade>
-	</unit>
+	</unit>	
 	<unit>
 		<id>1500005</id>
 		<name>Nibbler on the Roof</name>

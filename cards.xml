@@ -35058,7 +35058,7 @@
 		<rarity>4</rarity>
 		<skill id="inspire" x="4"/>
 		<skill id="enlarge" x="4"/>
-		<skill id="strike" x="5" y="drunk"/>
+		<skill id="strike" x="5" />
 		<type>3</type>
 		<trait>drunk</trait>		
 		<release_time>1572285600</release_time>
@@ -35073,7 +35073,7 @@
 			<health>26</health>
 			<skill id="inspire" x="4"/>
 			<skill id="enlarge" x="4"/>
-			<skill id="strike" x="6" y="drunk"/>
+			<skill id="strike" x="6" />
 		</upgrade>
 		<upgrade>
 			<level>4</level>
@@ -35081,21 +35081,21 @@
 			<attack>10</attack>
 			<skill id="inspire" x="4"/>
 			<skill id="enlarge" x="5"/>
-			<skill id="strike" x="6" y="drunk"/>
+			<skill id="strike" x="6" />
 		</upgrade>
 		<upgrade>
 			<level>5</level>
 			<health>29</health>
 			<skill id="inspire" x="5"/>
 			<skill id="enlarge" x="5"/>
-			<skill id="strike" x="6" y="drunk"/>
+			<skill id="strike" x="6" />
 		</upgrade>
 		<upgrade>
 			<level>6</level>
 			<health>31</health>
 			<skill id="inspire" x="5"/>
 			<skill id="enlarge" x="5"/>
-			<skill id="strike" x="7" y="drunk"/>
+			<skill id="strike" x="7" />
 		</upgrade>
 		<upgrade>
 			<level>7</level>
@@ -35103,7 +35103,7 @@
 			<attack>11</attack>
 			<skill id="inspire" x="5"/>
 			<skill id="enlarge" x="6"/>
-			<skill id="strike" x="7" y="drunk"/>
+			<skill id="strike" x="7" />
 		</upgrade>
 		<upgrade>
 			<level>8</level>
@@ -35115,7 +35115,7 @@
 			<health>35</health>
 			<skill id="inspire" x="6"/>
 			<skill id="enlarge" x="6"/>
-			<skill id="strike" x="7" y="drunk"/>
+			<skill id="strike" x="7" />
 		</upgrade>
 		<upgrade>
 			<level>10</level>
@@ -35123,21 +35123,21 @@
 			<attack>13</attack>
 			<skill id="inspire" x="6"/>
 			<skill id="enlarge" x="6"/>
-			<skill id="strike" x="8" y="drunk"/>
+			<skill id="strike" x="8" />
 		</upgrade>
 		<upgrade>
 			<level>11</level>
 			<health>38</health>
 			<skill id="inspire" x="6"/>
 			<skill id="enlarge" x="7"/>
-			<skill id="strike" x="8" y="drunk"/>
+			<skill id="strike" x="8" />
 		</upgrade>
 		<upgrade>
 			<level>12</level>
 			<health>39</health>
 			<skill id="inspire" x="6"/>
 			<skill id="enlarge" x="7"/>
-			<skill id="strike" x="9" y="drunk"/>
+			<skill id="strike" x="9" />
 		</upgrade>
 		<upgrade>
 			<level>13</level>
@@ -35145,14 +35145,14 @@
 			<attack>14</attack>
 			<skill id="inspire" x="7"/>
 			<skill id="enlarge" x="7"/>
-			<skill id="strike" x="9" y="drunk"/>
+			<skill id="strike" x="9" />
 		</upgrade>
 		<upgrade>
 			<level>14</level>
 			<health>42</health>
 			<skill id="inspire" x="7"/>
 			<skill id="enlarge" x="8"/>
-			<skill id="strike" x="9" y="drunk"/>
+			<skill id="strike" x="9" />
 		</upgrade>
 		<upgrade>
 			<level>15</level>
@@ -35165,21 +35165,21 @@
 			<attack>16</attack>
 			<skill id="inspire" x="7"/>
 			<skill id="enlarge" x="8"/>
-			<skill id="strike" x="10" y="drunk"/>
+			<skill id="strike" x="10" />
 		</upgrade>
 		<upgrade>
 			<level>17</level>
 			<health>46</health>
 			<skill id="inspire" x="8"/>
 			<skill id="enlarge" x="8"/>
-			<skill id="strike" x="10" y="drunk"/>
+			<skill id="strike" x="10" />
 		</upgrade>
 		<upgrade>
 			<level>18</level>
 			<health>48</health>
 			<skill id="inspire" x="8"/>
 			<skill id="enlarge" x="9"/>
-			<skill id="strike" x="11" y="drunk"/>
+			<skill id="strike" x="11" />
 		</upgrade>
 	</unit>
 	<unit>
