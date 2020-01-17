@@ -17115,7 +17115,7 @@
 	<unit>
         <id>15164</id>
         <name>Army Quagmire</name>
-        <desc></desc>
+        <desc>They don't prepare you for how much you hear the song "Fortunate Son."</desc>
         <picture>FG_ArmyQuagmire</picture>
         <asset_bundle>44</asset_bundle>
         <rarity>1</rarity>
@@ -17962,6 +17962,36 @@
         <skill id='hijack' p='30' v='9'  />
         <skill id='bodyguard' p='30' v='8'/>
         <skill id='bunker' p='30' v='4'/>
+    </unit>
+    <unit>
+        <id>15218</id>
+        <name>Musical Peter</name>
+        <picture>FG_MusicalPeter</picture>
+        <asset_bundle>47</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>1</type>
+        <trait>musical</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.69</health_multiplier>
+        <skill id='shrapnel' p='30' v='6'  />
+        <skill id='bodyguard' p='30' v='8'/>
+        <skill id='bunker' p='30' v='6'/>
+    </unit>
+    <unit>
+        <id>15219</id>
+        <name>Keyboard Joe</name>
+        <picture>FG_KeyboardJoe</picture>
+        <asset_bundle>55</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>1</type>
+        <trait>musical</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.71</health_multiplier>
+        <skill id='rally' p='30' v='10'  />
+        <skill id='burn' p='30' v='8'/>
+        <skill id='leech' p='30' v='12'/>
     </unit>
 	                                                             				
 	<!-- End Family Guy combo -->			
@@ -21017,7 +21047,7 @@
 	<unit>
 		<id>20042</id>
 		<name>Cat with Gun</name>
-		<desc></desc>
+		<desc>Your lives are up.</desc>
 		<picture>AD_CatGun</picture>
 		<asset_bundle>39</asset_bundle>
 		<rarity>4</rarity>
@@ -21806,6 +21836,7 @@
 	<unit>
 		<id>20049</id>
 		<name>Purity Dads</name>
+		<desc>All of these dads are creeps.</desc>
 		<picture>AD_PurityDads</picture>
 		<asset_bundle>44</asset_bundle>
 		<release_time>1531764000</release_time>
@@ -24494,6 +24525,7 @@
 	<unit>
 		<id>20071</id>
 		<name>Bullock</name>
+		<character>ad_bullock</character>
 		<picture>ad_bullock_legendary</picture>
 		<asset_bundle>18</asset_bundle>
 		<release_time>1576692000</release_time>
@@ -24618,6 +24650,129 @@
 			<skill id="berserk" x="6"/>
 		</upgrade>
 	</unit>	
+	<unit>
+		<id>20072</id>
+		<name>Roger Epstein Music</name>
+		<picture>AD_RogerEpsteinMusic</picture>
+		<asset_bundle>50</asset_bundle>
+		<release_time>1577988000</release_time>
+		<attack>9</attack>
+		<health>35</health>
+		<rarity>4</rarity>
+		<skill id="inspire" x="4"/>
+		<skill id="rally" x="6"/>
+		<skill id="strike" x="6"/>
+		<type>2</type>
+		<trait>musical</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>36</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>37</health>
+			<skill id="inspire" x="4"/>
+			<skill id="rally" x="7"/>
+			<skill id="strike" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>38</health>
+			<skill id="inspire" x="4"/>
+			<skill id="rally" x="7"/>
+			<skill id="strike" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>39</health>
+			<skill id="inspire" x="5"/>
+			<skill id="rally" x="7"/>
+			<skill id="strike" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>40</health>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>41</health>
+			<skill id="inspire" x="5"/>
+			<skill id="rally" x="8"/>
+			<skill id="strike" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>42</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>43</health>
+			<skill id="inspire" x="6"/>
+			<skill id="rally" x="8"/>
+			<skill id="strike" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>44</health>
+			<skill id="inspire" x="6"/>
+			<skill id="rally" x="9"/>
+			<skill id="strike" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>45</health>
+			<skill id="inspire" x="6"/>
+			<skill id="rally" x="9"/>
+			<skill id="strike" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>46</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>47</health>
+			<skill id="inspire" x="7"/>
+			<skill id="rally" x="10"/>
+			<skill id="strike" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>48</health>
+			<skill id="inspire" x="7"/>
+			<skill id="rally" x="10"/>
+			<skill id="strike" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>49</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>50</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>51</health>
+			<skill id="inspire" x="7"/>
+			<skill id="rally" x="11"/>
+			<skill id="strike" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>53</health>
+			<skill id="inspire" x="8"/>
+			<skill id="rally" x="11"/>
+			<skill id="strike" x="11"/>
+		</upgrade>
+	</unit>
 		
 	<!--  end american dad input -->		
 	<!--  stop at id 24000 -->
@@ -27445,6 +27600,38 @@
         <skill id='leech' p='30' v='12'  />
         <skill id='bunker' p='30' v='5' />
     </unit>
+    <unit>
+        <id>25186</id>
+        <name>Rastafarian Jingle Hayley</name>
+        <picture>AD_RastafarianJingleHayley</picture>
+        <asset_bundle>67</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>2</type>
+        <trait>musical</trait>
+        <attack_multiplier>0.69</attack_multiplier>
+        <health_multiplier>0.73</health_multiplier>
+        <skill id='burn' p='30' v='8'  />
+        <skill id='bodyguard' p='30' v='8'/>
+        <skill id='hijack' p='30' v='9'/>
+    </unit>
+    <unit>
+        <id>25187</id>
+        <name>Slick'd Steve</name>
+        <desc>I do a lot of "hand jiving" alone in my room.</desc>
+        <picture>AD_GreaserSteve</picture>
+        <asset_bundle>39</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>2</type>
+        <trait>musical</trait>
+        <attack_multiplier>0.73</attack_multiplier>
+        <health_multiplier>0.7</health_multiplier>
+        <skill id='shrapnel' p='30' v='6'  />
+        <skill id='hijack' p='30' v='8'/>
+        <skill id='enlarge' p='30' v='9' />
+    </unit>
+    
                                                                       
 	<!-- End american dad combo -->		
 	<!--  stop at id 26000 -->
@@ -32498,6 +32685,7 @@
 	<unit>
 		<id>30062</id>
 		<name>Finger Gun Gayle</name>
+		<desc>Don't shoot any of the cats!</desc>
 		<picture>BB_FingerGunGayle</picture>
 		<asset_bundle>44</asset_bundle>
 		<release_time>1531764000</release_time>
@@ -35658,6 +35846,127 @@
 			<skill id="invigorate" x="9"/>
 			<skill id="burn" x="6"/>
 			<skill id="leech" x="8"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>30087</id>
+		<name>3 Is More Than 4</name>
+		<picture>BB_3IsMoreThan4</picture>
+		<asset_bundle>50</asset_bundle>
+		<release_time>1577988000</release_time>
+		<attack>7</attack>
+		<health>44</health>
+		<rarity>4</rarity>
+		<skill id="bodyguard" x="4"/>
+		<skill id="enlarge" x="5"/>
+		<skill id="rally" x="6"/>
+		<type>3</type>
+		<trait>musical</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>45</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>46</health>
+			<attack>8</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>47</health>
+			<skill id="bodyguard" x="4"/>
+			<skill id="enlarge" x="5"/>
+			<skill id="rally" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>48</health>
+			<skill id="bodyguard" x="4"/>
+			<skill id="enlarge" x="6"/>
+			<skill id="rally" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>49</health>
+			<skill id="bodyguard" x="5"/>
+			<skill id="enlarge" x="6"/>
+			<skill id="rally" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<attack>9</attack>
+			<health>50</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>51</health>
+			<skill id="bodyguard" x="5"/>
+			<skill id="enlarge" x="6"/>
+			<skill id="rally" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>52</health>
+			<skill id="bodyguard" x="5"/>
+			<skill id="enlarge" x="7"/>
+			<skill id="rally" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>53</health>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<attack>10</attack>
+			<health>54</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>55</health>
+			<skill id="bodyguard" x="6"/>
+			<skill id="enlarge" x="7"/>
+			<skill id="rally" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>56</health>
+			<skill id="bodyguard" x="6"/>
+			<skill id="enlarge" x="7"/>
+			<skill id="rally" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>11</attack>
+			<skill id="bodyguard" x="6"/>
+			<skill id="enlarge" x="8"/>
+			<skill id="rally" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>57</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>58</health>
+			<skill id="bodyguard" x="6"/>
+			<skill id="enlarge" x="8"/>
+			<skill id="rally" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>59</health>
+			<skill id="bodyguard" x="6"/>
+			<skill id="enlarge" x="9"/>
+			<skill id="rally" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>60</health>
+			<skill id="bodyguard" x="7"/>
+			<skill id="enlarge" x="9"/>
+			<skill id="rally" x="10"/>
 		</upgrade>
 	</unit>
 	
@@ -39380,6 +39689,7 @@
 	<unit>
 		<id>40014</id>
 		<name>Pro-Pain!</name>
+		<linked_card_id>40079</linked_card_id>
 		<desc>Well that figures, those two idiots spelled it wrong.</desc>
 		<picture>Pro-Pain</picture>
 		<asset_bundle>11</asset_bundle>
@@ -42400,6 +42710,7 @@
 	<unit>
 		<id>40049</id>
 		<name>Heat Packing Priest</name>
+		<desc>Say your prayers!</desc>
 		<picture>KOTH_HispanicHeatPackingPriest</picture>
 		<asset_bundle>44</asset_bundle>
 		<release_time>1531764000</release_time>
@@ -46049,6 +46360,236 @@
 			<skill id="invigorate" x="9"/>
 			<skill id="enlarge" x="6"/>
 			<skill id="berserk" x="6"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>40078</id>
+		<name>CD Warehouse</name>
+		<linked_card_id>1400009</linked_card_id>
+		<picture>KOTH_CDWarehouse</picture>
+		<asset_bundle>50</asset_bundle>
+		<release_time>1577988000</release_time>
+		<attack>9</attack>
+		<health>32</health>
+		<rarity>4</rarity>
+		<skill id="counter" x="8"/>
+		<skill id="burn" x="4"/>
+		<skill id="weaken" x="8"/>
+		<type>4</type>
+		<trait>musical</trait>
+		<set>3</set>
+		<upgrade>
+			<level>2</level>
+			<health>33</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>34</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>35</health>
+			<skill id="counter" x="9"/>
+			<skill id="burn" x="4"/>
+			<skill id="weaken" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>36</health>
+			<skill id="counter" x="9"/>
+			<skill id="burn" x="4"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>37</health>
+			<skill id="counter" x="9"/>
+			<skill id="burn" x="5"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>39</health>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>40</health>
+			<skill id="counter" x="10"/>
+			<skill id="burn" x="5"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>41</health>
+			<skill id="counter" x="10"/>
+			<skill id="burn" x="5"/>
+			<skill id="weaken" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>42</health>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>43</health>
+			<skill id="counter" x="10"/>
+			<skill id="burn" x="6"/>
+			<skill id="weaken" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>44</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>46</health>
+			<skill id="counter" x="11"/>
+			<skill id="burn" x="6"/>
+			<skill id="weaken" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>47</health>
+			<skill id="counter" x="11"/>
+			<skill id="burn" x="6"/>
+			<skill id="weaken" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>48</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>49</health>
+			<skill id="counter" x="11"/>
+			<skill id="burn" x="7"/>
+			<skill id="weaken" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>50</health>
+			<skill id="counter" x="12"/>
+			<skill id="burn" x="7"/>
+			<skill id="weaken" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>52</health>
+			<skill id="counter" x="12"/>
+			<skill id="burn" x="7"/>
+			<skill id="weaken" x="12"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>40079</id>
+		<name>Pro-Pain!</name>
+		<desc>Well that figures, those two idiots spelled it wrong.</desc>
+		<picture>Pro-Pain</picture>
+		<asset_bundle>11</asset_bundle>
+		<release_time>1578592800</release_time>
+		<attack>8</attack>
+		<health>35</health>
+		<rarity>4</rarity>
+		<skill id="bodyguard" x="2"/>
+		<skill id="burn" x="1"/>
+		<type>4</type>
+		<trait>toy</trait>
+		<set>1</set>
+		<upgrade>
+			<level>2</level>
+			<health>36</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>37</health>
+			<skill id="bodyguard" x="2"/>
+			<skill id="burn" x="2"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>38</health>
+			<skill id="bodyguard" x="3"/>
+			<skill id="burn" x="2"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>39</health>
+			<attack>9</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>40</health>
+			<skill id="bodyguard" x="3"/>
+			<skill id="burn" x="3"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>42</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>43</health>
+			<skill id="bodyguard" x="4"/>
+			<skill id="burn" x="3"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>44</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>45</health>
+			<skill id="bodyguard" x="4"/>
+			<skill id="burn" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>46</health>
+			<skill id="bodyguard" x="5"/>
+			<skill id="burn" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>47</health>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>49</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>50</health>
+			<skill id="bodyguard" x="5"/>
+			<skill id="burn" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>51</health>
+			<skill id="bodyguard" x="6"/>
+			<skill id="burn" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>52</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>53</health>
+			<skill id="bodyguard" x="6"/>
+			<skill id="burn" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>55</health>
+			<skill id="bodyguard" x="7"/>
+			<skill id="burn" x="6"/>
 		</upgrade>
 	</unit>
 	
@@ -57426,6 +57967,126 @@
 			<skill id="hijack" x="6"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>50087</id>
+		<name>Robot Devil Band</name>
+		<picture>FR_RobotDevilBand</picture>
+		<asset_bundle>67</asset_bundle>
+		<release_time>1577988000</release_time>
+		<attack>9</attack>
+		<health>40</health>
+		<rarity>4</rarity>
+		<skill id="barrier" x="6" y="musical"/>
+		<skill id="rallyall" x="2" y="musical"/>
+		<skill id="leech" x="8"/>
+		<type>5</type>
+		<trait>musical</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>41</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>42</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>43</health>
+			<skill id="barrier" x="7" y="musical"/>
+			<skill id="rallyall" x="2" y="musical"/>
+			<skill id="leech" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>44</health>
+			<skill id="barrier" x="7" y="musical"/>
+			<skill id="rallyall" x="2" y="musical"/>
+			<skill id="leech" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>45</health>
+			<skill id="barrier" x="7" y="musical"/>
+			<skill id="rallyall" x="3" y="musical"/>
+			<skill id="leech" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<attack>11</attack>
+			<health>46</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>47</health>
+			<skill id="barrier" x="8" y="musical"/>
+			<skill id="rallyall" x="3" y="musical"/>
+			<skill id="leech" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>48</health>
+			<skill id="barrier" x="8" y="musical"/>
+			<skill id="rallyall" x="3" y="musical"/>
+			<skill id="leech" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>49</health>
+			<skill id="barrier" x="9" y="musical"/>
+			<skill id="rallyall" x="3" y="musical"/>
+			<skill id="leech" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>50</health>
+			<skill id="barrier" x="9" y="musical"/>
+			<skill id="rallyall" x="4" y="musical"/>
+			<skill id="leech" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>51</health>
+			<skill id="barrier" x="9" y="musical"/>
+			<skill id="rallyall" x="4" y="musical"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>13</attack>
+			<health>52</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>53</health>
+			<skill id="barrier" x="10" y="musical"/>
+			<skill id="rallyall" x="4" y="musical"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>54</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>55</health>
+			<skill id="barrier" x="11" y="musical"/>
+			<skill id="rallyall" x="4" y="musical"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<skill id="barrier" x="11" y="musical"/>
+			<skill id="rallyall" x="5" y="musical"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+	</unit>
 	
 	<!-- end futurama input -->
 	<!--  stop at id 54000 -->
@@ -60327,6 +60988,38 @@
         <skill id='bunker' p='30' v='6' />
         <skill id='enlarge' p='30' v='9' />
 		<skill id='outlast' p='30' v='10'/>
+    </unit>
+    <unit>
+    	<id>55188</id>
+        <name>Karaoke Zapp</name>
+        <desc>Leela! L-e-e-l-a, Leela! Le-le-le-le-leela!</desc>
+        <picture>fr_karaokeZapp</picture>
+        <asset_bundle>31</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>5</type>
+        <trait>musical</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.7</health_multiplier>
+        <skill id='outlast' p='30' v='11' />
+        <skill id='enlarge' p='30' v='9' />
+		<skill id='counter' p='30' v='13'/>
+    </unit>
+    <unit>
+    	<id>55189</id>
+        <name>Organ Hermes</name>
+        <desc>Requisition me a beat!</desc>
+        <picture>fr_organPlayingHermes</picture>
+        <asset_bundle>31</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>5</type>
+        <trait>musical</trait>
+        <attack_multiplier>0.74</attack_multiplier>
+        <health_multiplier>0.65</health_multiplier>
+        <skill id='leech' p='30' v='12' />
+        <skill id='burn' p='30' v='7' />
+		<skill id='poison' p='30' v='11'/>
     </unit>
                                                       							
 <!-- END Futurama Combos -->
