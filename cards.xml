@@ -16939,7 +16939,7 @@
 	<unit>
         <id>15153</id>
         <name>Wild Brian</name>
-        <desc></desc>
+        <desc>Careful. It looks like he might quote something pretentious.</desc>
         <picture>FG_WildBrian</picture>
         <asset_bundle>41</asset_bundle>
         <rarity>1</rarity>
@@ -36267,12 +36267,13 @@
 			<skill id="strike" x="11"/>
 		</upgrade>
 	</unit>
-	<!-- Orbo -->
+
 	<unit>
 		<id>30089</id>
-		<name>Orbo</name>
-		<character>bb_orbo</character>
-		<picture>BB_OrboLegendary</picture>
+		<name>Jimmy Jr.</name>
+		<desc>Don't tell me not to dance, Dad!</desc>
+		<character>bb_jimmyjr</character>
+		<picture>BB_JimmyJrLegendary</picture>
 		<asset_bundle>56</asset_bundle>
 		<attack>4</attack>
 		<health>42</health>
@@ -36281,7 +36282,7 @@
 		<skill id="heal" x="6"/>
 		<skill id="strike" x="6"/>
 		<type>3</type>
-		<set>9999</set>
+		<set>2</set>
 		<upgrade>
 			<level>2</level>
 			<health>43</health>
@@ -38667,7 +38668,7 @@
 	<unit>
         <id>35149</id>
         <name>Chunky Blast Offs</name>
-        <desc></desc>
+        <desc>Don't be nervous, you're gonna be great.</desc>
         <picture>BB_ChunkyBlastoffGene</picture>
         <asset_bundle>46</asset_bundle>
         <rarity>1</rarity>
@@ -38683,7 +38684,7 @@
 	<unit>
         <id>35150</id>
         <name>Burger Addict Teddy</name>
-        <desc></desc>
+        <desc>Stop shoving burgers into his heart!</desc>
         <picture>BB_BurgerAddictTeddy</picture>
         <asset_bundle>46</asset_bundle>
         <rarity>1</rarity>
@@ -38699,7 +38700,7 @@
 	<unit>
         <id>35151</id>
         <name>Burobu Addict</name>
-        <desc></desc>
+        <desc>There's only one way to win this fight.</desc>
         <picture>BB_BorobuAddictLouise</picture>
         <asset_bundle>46</asset_bundle>
         <rarity>1</rarity>
@@ -39283,11 +39284,10 @@
         <skill id='berserk' p='30' v='8' />
         <skill id='bunker' p='30' v='6' />
     </unit>
-    <!-- Orbo combos -->
     <unit>
         <id>35189</id>
-        <name>Zombie Orbo</name>
-        <picture>BB_ZombieOrbo</picture>
+        <name>Zombie Jimmy Jr.</name>
+        <picture>BB_ZombieJimmyJr</picture>
         <asset_bundle>55</asset_bundle>
         <rarity>1</rarity>
         <set>1002</set>
@@ -39301,8 +39301,8 @@
     </unit>
     <unit>
         <id>35190</id>
-        <name>Cyclist Orbo</name>
-        <picture>BB_CyclistOrbo</picture>
+        <name>Cyclist Jimmy Jr.</name>
+        <picture>BB_CyclistJimmyJr</picture>
         <asset_bundle>55</asset_bundle>
         <rarity>1</rarity>
         <set>1002</set>
@@ -39316,8 +39316,8 @@
     </unit>
     <unit>
         <id>35191</id>
-        <name>Love Potion Orbo</name>
-        <picture>BB_LovePotionOrbo</picture>
+        <name>Love Potion</name>
+        <picture>BB_LovePotionJimmyJr</picture>
         <asset_bundle>55</asset_bundle>
         <rarity>1</rarity>
         <set>1002</set>
@@ -39331,8 +39331,8 @@
     </unit>
     <unit>
         <id>35192</id>
-        <name>Slow Dance Orbo</name>
-        <picture>BB_SlowDancingOrbo</picture>
+        <name>Slow Dance Jimmy Jr.</name>
+        <picture>BB_SlowDancingJimmyJr</picture>
         <asset_bundle>55</asset_bundle>
         <rarity>1</rarity>
         <set>1002</set>
@@ -39346,8 +39346,8 @@
     </unit>
     <unit>
         <id>35193</id>
-        <name>Balloon Tosser Orbo</name>
-        <picture>BB_WaterBalloonOrbo</picture>
+        <name>Balloon Tosser</name>
+        <picture>BB_WaterBalloonJJ</picture>
         <asset_bundle>55</asset_bundle>
         <rarity>1</rarity>
         <set>1002</set>
@@ -49352,7 +49352,7 @@
  	<unit>
         <id>45136</id>
         <name>Cigarette Addicts</name>
-        <desc></desc> 
+        <desc>A carton a day keeps the doctor paid.</desc> 
         <picture>KOTH_CigaretteAddicts</picture>
         <asset_bundle>46</asset_bundle>
         <rarity>1</rarity>
@@ -49368,7 +49368,7 @@
  	<unit>
         <id>45137</id>
         <name>Crack Addicted Fish</name>
-        <desc></desc> 
+        <desc>Ho ho, wingo man!</desc> 
         <picture>KOTH_CrackAddictFish</picture>
         <asset_bundle>46</asset_bundle>
         <rarity>1</rarity>
@@ -54717,6 +54717,7 @@
 	<unit>
 		<id>50056</id>
 		<name>Hypnotoad</name>
+		<desc>ALL GLORY TO THE HYPNOTOAD</desc>
 		<picture>FR_hypnotoad</picture>
 		<asset_bundle>46</asset_bundle>
 		<release_time>1536170400</release_time>
@@ -54853,6 +54854,7 @@
 	<unit>
 		<id>50057</id>
 		<name>Refreshing Crack</name>
+		<desc>Come on, man! Don't hold out on me like this!</desc>
 		<picture>FR_RefreshingCrack</picture>
 		<asset_bundle>46</asset_bundle>
 		<release_time>1536170400</release_time>
@@ -61083,7 +61085,7 @@
 	<unit>
         <id>55142</id>
         <name>Klepto Bender</name>
-        <desc></desc> 
+        <desc>Shhhh. The secret is, every Bender is Klepto Bender.</desc> 
         <picture>FR_kleptoBender</picture>
         <asset_bundle>46</asset_bundle>
         <rarity>1</rarity>
@@ -61099,7 +61101,7 @@
 	<unit>
         <id>55143</id>
         <name>Trippy Farnsworth</name>
-        <desc></desc> 
+        <desc>Don't worry, bee happy!</desc> 
         <picture>FR_TrippyFarnsworth</picture>
         <asset_bundle>46</asset_bundle>
         <rarity>1</rarity>
@@ -61115,7 +61117,7 @@
 	<unit>
         <id>55144</id>
         <name>Trippy Zoidberg</name>
-        <desc></desc> 
+        <desc>Ain't got no cash, ain't got no style. Wait... this song hurts.</desc> 
         <picture>FR_TrippyZoidberg</picture>
         <asset_bundle>46</asset_bundle>
         <rarity>1</rarity>
@@ -61131,7 +61133,7 @@
 	<unit>
         <id>55145</id>
         <name>Space Honey</name>
-        <desc></desc> 
+        <desc>I feel funny. Ha-ha funny.</desc> 
         <picture>FR_SpaceHoney</picture>
         <asset_bundle>46</asset_bundle>
         <rarity>1</rarity>

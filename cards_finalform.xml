@@ -35353,6 +35353,105 @@
 	    <health>62</health>
 	  </upgrade>
 	</unit>
+	<unit>
+	  <id>130121</id>
+	  <combo_card_id>35193</combo_card_id>
+	  <attack>13</attack>
+	  <health>49</health>
+	  <name>Balloon Tosser</name>
+	  <picture>BB_WaterBalloonJJ</picture>
+	  <asset_bundle>55</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>3</type>
+	  <trait>armed</trait>
+	  <skill id="shrapnel" x="4"/>
+	  <skill id="berserk" x="6"/>
+	  <skill id="heal" x="6"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>50</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <skill id="shrapnel" x="5"/>
+	    <skill id="berserk" x="7"/>
+	    <skill id="heal" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>51</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>14</attack>
+	    <health>52</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <skill id="berserk" x="8"/>
+	    <skill id="heal" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <health>53</health>
+	    <skill id="shrapnel" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>54</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>15</attack>
+	    <skill id="berserk" x="9"/>
+	    <skill id="heal" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>55</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <health>56</health>
+	    <skill id="shrapnel" x="7"/>
+	    <skill id="berserk" x="10"/>
+	    <skill id="heal" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <attack>16</attack>
+	    <health>57</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>58</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <skill id="berserk" x="11"/>
+	    <skill id="heal" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>59</health>
+	    <skill id="shrapnel" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>17</attack>
+	    <health>60</health>
+	    <skill id="berserk" x="12"/>
+	    <skill id="heal" x="12"/>
+	  </upgrade>
+	</unit>
 	
 	<!-- end Bob's Burgers Final Forms -->
 	<!-- King of the Hill Final Forms -->
