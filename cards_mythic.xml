@@ -6662,4 +6662,144 @@
 			<skill id="strike" x="16"/>
 		</upgrade>
 	</unit>	
+	<unit>
+		<id>1500011</id>
+		<name>Clone Fight</name>
+		<desc>No, shoot her! She's the human!</desc>
+		<picture>FR_CloneFight</picture>
+		<asset_bundle>44</asset_bundle>
+		<item_name>Clone Fight Fragment</item_name>
+		<item_desc>Collect Clone Fight Fragments to craft and upgrade a Mythic Clone Fight card!</item_desc>	
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>19</item_bundle_id>	
+        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<attack>13</attack>
+		<health>58</health>
+		<rarity>5</rarity>
+		<skill id="burn" x="7"/>
+		<skill id="enlarge" x="9"/>
+		<skill id="weakenall" x="5"/>
+		<type>5</type>
+		<trait>fighter</trait>
+		<set>7002</set>
+		<upgrade>
+			<level>2</level>
+			<health>59</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<attack>14</attack>
+			<health>60</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>61</health>
+			<skill id="burn" x="7"/>
+			<skill id="enlarge" x="9"/>
+			<skill id="weakenall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>62</health>
+			<skill id="burn" x="8"/>
+			<skill id="enlarge" x="9"/>
+			<skill id="weakenall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>15</attack>
+			<health>63</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>64</health>
+			<skill id="burn" x="8"/>
+			<skill id="enlarge" x="10"/>
+			<skill id="weakenall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>65</health>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<attack>16</attack>
+			<skill id="burn" x="8"/>
+			<skill id="enlarge" x="10"/>
+			<skill id="weakenall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>66</health>
+			<skill id="burn" x="9"/>
+			<skill id="enlarge" x="10"/>
+			<skill id="weakenall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>67</health>
+			<attack>17</attack>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>68</health>
+			<skill id="burn" x="9"/>
+			<skill id="enlarge" x="10"/>
+			<skill id="weakenall" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>69</health>
+			<skill id="burn" x="9"/>
+			<skill id="enlarge" x="11"/>
+			<skill id="weakenall" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>70</health>
+			<attack>18</attack>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>71</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>72</health>
+			<skill id="burn" x="10"/>
+			<skill id="enlarge" x="11"/>
+			<skill id="weakenall" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>73</health>
+			<skill id="burn" x="10"/>
+			<skill id="enlarge" x="11"/>
+			<skill id="weakenall" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>19</attack>
+			<health>74</health>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>75</health>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>76</health>
+			<skill id="burn" x="10"/>
+			<skill id="enlarge" x="12"/>
+			<skill id="weakenall" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<attack>20</attack>
+			<skill id="burn" x="11"/>
+			<skill id="enlarge" x="12"/>
+			<skill id="weakenall" x="10"/>
+		</upgrade>
+	</unit>
+	
 </root>	
