@@ -3132,7 +3132,7 @@
 		<commander>1</commander>
 		<rarity>1</rarity>
 		<set>5000</set>
-		<type>3</type>
+		<type>5</type>
 		<health>15</health>
 		<upgrade>
 			<level>2</level>
@@ -5299,7 +5299,7 @@
 		<commander>1</commander>
 		<rarity>1</rarity>
 		<set>5000</set>
-		<type>3</type>
+		<type>1</type>
 		<health>15</health>
 		<upgrade>
 			<level>2</level>
@@ -6169,7 +6169,7 @@
 		<commander>1</commander>
 		<rarity>1</rarity>
 		<set>5000</set>
-		<type>3</type>
+		<type>2</type>
 		<health>15</health>
 		<upgrade>
 			<level>2</level>
