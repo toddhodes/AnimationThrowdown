@@ -777,7 +777,7 @@
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<attack>13</attack>
+			<skill id="shrapnel" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
