@@ -6,8 +6,11 @@ cards:
 	./get-cards
 
 deck:
+	@date
 	./get-deck
+	@date
 	./gen-cards | sort | uniq -c > Decks/CARDS
+	@date
 
 cm:
 	./gen-cm | sort -r > Combos/ComboMastery

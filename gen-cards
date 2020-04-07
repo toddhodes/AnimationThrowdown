@@ -27,7 +27,6 @@ for i in `cat units-w-levels`
 do   
   unit=`echo $i | cut -d- -f1`
   lvl=`echo $i | cut -d- -f2`
-  #cm=`echo $i | cut -d- -f3`
 
   unit=`egrep ^$unit cards-w-id-and-rarity | head -1`
   name=`echo $unit | cut -d" " -f3-`
@@ -44,14 +43,6 @@ do
 
   stars=`toStars $rarity $lvl`
 
-  cm_text=""
-  #case "$cm" in
-  #"1") cm_txt="(cm1)" ;;
-  #"2") cm_txt="(cm2)" ;;
-  #"3") cm_txt="(cm3)" ;;
-  #esac
-
   #echo "unit:$unit name:$name: lvl:$lvl rare:$rarity"
-  #echo "$color $name: $lvl $cm_text"
   echo "$color $name: $stars"
 done 
