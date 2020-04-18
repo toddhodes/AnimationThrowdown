@@ -1,4 +1,4 @@
-60500	Mastery Stone
+112800	Mastery Stone
 125	Spin Out Louise
 125	Drunk Peggy
 120	Yeti Fighter Leela
@@ -8,18 +8,21 @@
 110	Amy's Talking Tattoo
 105	Santa Bender
 105	Heavenly Hank
+100	Sledding Louise
 100	Santa Bill
 100	Road Kill
 100	Heckler Zoidberg
 100	Gun Safety Peter
 100	Free Weed Hayley
-100	Dance of Peace
+100	Drunk Peter
+100	Cyclist Jimmy Jr.
 100	Chamber of Understanding
+100	Bad Tina
 100	Alcohol Bath
+95	Trapeze Bob
 95	Ready for Santa
 95	Blueberry Picker
 90	Whale Hunter Amy
-90	The Gender Bender
 90	Dream Millionaire
 90	Criss Cross Applesauce
 85	Party All the Time
@@ -30,7 +33,6 @@
 85	Country Club Stan
 80	Supermodel Roger
 80	Prom Beer Joe
-80	Hail Science!
 80	Fake Son Gene
 75	Time for Hard Liquor
 75	Space Steve
@@ -41,14 +43,14 @@
 70	Pan Flute Stewie
 70	Mural Restorer
 70	I Get What I Want
-70	Honeybucket Student
-70	Freezerdome Gene
 70	Draw Me Tina
 70	Dancing Cans
 70	Castanet Zoidberg
+65	The Gender Bender
 65	Space Queen
 65	Paranoid Louise
 65	Laser Tag Joe
+65	Honeybucket Student
 65	Eyephone Fry
 65	Christmas Trap
 65	Cartel Klaus
@@ -59,11 +61,12 @@
 60	S and M Lois
 60	River Burned
 60	Power Choir Roger
+60	Mountain Climber Peter
 60	Michael Dangle-low
 60	Hip Hop Bob
 60	Fart in a Jar
 60	Emu Wrangler
-60	Catcher Luanne
+60	Devil Bobby
 55	Traumatized Dale
 55	Stan vs Mafia
 55	Shut Up and Take My Money
@@ -72,16 +75,17 @@
 55	Meg Portrait
 55	Knife Fight Stewie
 55	Country Club Steve
-55	Cough Syrup Drunk
 55	Billionaire Fry
 55	Bender in Love
 50	Wine Tasting Linda
 50	Heavy Metal Hayley
+50	Hail Science!
 50	Guinea Pig in Space
 50	Garbage Shot Linda
 50	Easter Bunny Peter
 50	Dream Guitar
 50	Devil Hank
+50	Cough Syrup Drunk
 50	Contact High Stewie
 50	Cigarette Addicts
 50	Brian Statue
@@ -91,14 +95,12 @@
 45	Nanny Cam
 45	Marionette Chris
 45	Lounge Singer Hayley
-45	Drunk Peter
 45	Diamond Ring Lois
 45	Delivery Boy
 45	Bender's Ducklings
 40	Victory Dance
 40	Sexpun T'Come 
-40	Fur Coat Lois
-40	Freezerdome Linda
+40	Serious Runner Brian
 40	Evening Beer Boomhauer
 40	Burgerboss Bob
 40	Bending School Grad
@@ -106,20 +108,23 @@
 35	Tree
 35	Married Brian
 35	Goddess of Beauty
+35	Freezerdome Linda
 35	Falconer Hayley
+35	Catcher Luanne
 35	Captain Leela
 35	Beer Bottle Toast
+35	Beefsquatch
 35	Alley Entertainment
 30	Zapp Figurines
 30	Topped Off Wine
 30	Tattooed Fat Guy
-30	Swole Francine
 30	Swing Dance Luanne
 30	Solid Gold Tuxedo
 30	Sing and Swing
 30	Roger Goes Down
+30	Paddlin' Peggy
+30	Laser Tag Brian
 30	Home School Peter
-30	Golf Club Amy
 30	Gaga Ball
 30	Fry's Macaroni Art
 30	Diarama Gene
@@ -128,6 +133,7 @@
 30	Cloud Painter
 30	Christian Rock
 30	Bob in the Wall
+30	Balloon Sniper
 25	Whiskey Drunk Brian
 25	Whiskey Bartender
 25	Space Cadet Chris
@@ -135,6 +141,7 @@
 25	Shiny Pebbles
 25	Sculptor Peter
 25	Q.T. McWhiskers
+25	Naked Tug of War
 25	Mission Doctor
 25	Master Robaire
 25	Martian Calendar
@@ -156,7 +163,6 @@
 20	Poppler Jingle Fry
 20	Party Crashers
 20	Oktoberfest Leela
-20	Nurse Tina
 20	Meg Meggy Meg
 20	Marionette Louise
 20	I Like Beer
@@ -173,6 +179,7 @@
 15	Tennis Francine
 15	Space Stan
 15	Old Steve
+15	Nurse Tina
 15	Leela's Harpoon
 15	Douchebag Chris
 15	Dolphin Rider Peter
@@ -184,7 +191,6 @@
 15	Baseball Bobby
 15	Anally Defaced
 10	Wheels Steve
-10	The Thinker Ape
 10	Smoke Bomb
 10	Slip 'n Slide Bob
 10	Scooty-Puff Jr
@@ -210,7 +216,6 @@
 5	Zoidberg vs Bot
 5	Water Polo Steve
 5	Umbriel
-5	Trapeze Bob
 5	Toga Bill
 5	Tina Tackle
 5	Taxidermy Artist
@@ -225,13 +230,13 @@
 5	Rich Hayley
 5	Ravenous Porcelain Babies
 5	RC Helicopter
+5	QB Boomhauer
 5	Postal Lois
 5	Pointillism
 5	Pawtucket Peter
 5	Party Beer Implant
 5	Paintball Hank
 5	Owl Stewie
-5	Naked Tug of War
 5	Mr. Deliver
 5	Model Lois
 5	Menstrual Cycle
@@ -268,4 +273,3 @@
 5	Bakaneko Fighter Louise
 5	Artsy Tina
 5	Art of War
-5	Action Delivery Force Zoidberg
