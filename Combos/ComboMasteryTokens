@@ -1,4 +1,4 @@
-112800	Mastery Stone
+103350	Mastery Stone
 125	Spin Out Louise
 125	Drunk Peggy
 120	Yeti Fighter Leela
@@ -8,20 +8,18 @@
 110	Amy's Talking Tattoo
 105	Santa Bender
 105	Heavenly Hank
-100	Sledding Louise
+100	Trapeze Bob
 100	Santa Bill
 100	Road Kill
 100	Heckler Zoidberg
 100	Gun Safety Peter
 100	Free Weed Hayley
 100	Drunk Peter
-100	Cyclist Jimmy Jr.
 100	Chamber of Understanding
-100	Bad Tina
-100	Alcohol Bath
-95	Trapeze Bob
 95	Ready for Santa
 95	Blueberry Picker
+95	Bad Tina
+95	Alcohol Bath
 90	Whale Hunter Amy
 90	Dream Millionaire
 90	Criss Cross Applesauce
@@ -46,6 +44,7 @@
 70	Draw Me Tina
 70	Dancing Cans
 70	Castanet Zoidberg
+65	Tree
 65	The Gender Bender
 65	Space Queen
 65	Paranoid Louise
@@ -101,11 +100,12 @@
 40	Victory Dance
 40	Sexpun T'Come 
 40	Serious Runner Brian
+40	Naked Tug of War
 40	Evening Beer Boomhauer
+40	Chicken Fight
 40	Burgerboss Bob
 40	Bending School Grad
 35	VR Gaming Bobby
-35	Tree
 35	Married Brian
 35	Goddess of Beauty
 35	Freezerdome Linda
@@ -123,7 +123,6 @@
 30	Sing and Swing
 30	Roger Goes Down
 30	Paddlin' Peggy
-30	Laser Tag Brian
 30	Home School Peter
 30	Gaga Ball
 30	Fry's Macaroni Art
@@ -141,11 +140,12 @@
 25	Shiny Pebbles
 25	Sculptor Peter
 25	Q.T. McWhiskers
-25	Naked Tug of War
 25	Mission Doctor
 25	Master Robaire
 25	Martian Calendar
 25	Laser Tag Stan
+25	Laser Tag Brian
+25	Hose to the Head
 25	Hipster Donald
 25	Greaser Stan
 25	Fart School Louise
@@ -245,7 +245,6 @@
 5	Kuchi Kopi Sculptor
 5	Kidney Killer
 5	K Pop Peter
-5	Hose to the Head
 5	Hatchet Boomhauer
 5	Groupie Francine
 5	Gargoyle Hunter
