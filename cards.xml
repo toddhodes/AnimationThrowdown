@@ -14733,6 +14733,7 @@
 	<unit>
 		<id>10085</id>
 		<name>Golden Goose</name>
+		<linked_card_id>1100012</linked_card_id>
 		<picture>FG_GoldenGooseStewie</picture>
 		<asset_bundle>34</asset_bundle>
 		<release_time>1586973600</release_time>
