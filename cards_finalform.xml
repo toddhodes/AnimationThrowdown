@@ -62751,4 +62751,115 @@
 	    <skill id="pierce" x="17"/>
 	  </upgrade>
 	</unit>
+	<unit>
+	  <id>150141</id>
+	  <combo_card_id>55179</combo_card_id>
+	  <attack>7</attack>
+	  <health>37</health>
+	  <name>War Horse</name>
+	  <picture>FR_WarHorseZapp</picture>
+	  <asset_bundle>55</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>5</type>
+	  <trait>animal</trait>
+	  <skill id="inspire" x="5"/>
+	  <skill id="poison" x="8"/>
+	  <skill id="bunker" x="4"/>
+	  <card_type>object</card_type>
+	  <hidden>1</hidden>
+	  <upgrade>
+	    <level>2</level>
+	    <health>38</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>40</health>
+	    <skill id="poison" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>8</attack>
+	    <health>41</health>
+	    <skill id="bunker" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>43</health>
+	    <skill id="inspire" x="6"/>
+	    <skill id="poison" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>9</attack>
+	    <health>45</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>46</health>
+	    <skill id="poison" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>10</attack>
+	    <health>48</health>
+	    <skill id="bunker" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>50</health>
+	    <skill id="inspire" x="7"/>
+	    <skill id="poison" x="12"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>11</attack>
+	    <health>51</health>
+	    <skill id="poison" x="13"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>53</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>12</attack>
+	    <health>55</health>
+	    <skill id="inspire" x="8"/>
+	    <skill id="poison" x="14"/>
+	    <skill id="bunker" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>56</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <attack>13</attack>
+	    <health>58</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>60</health>
+	    <skill id="poison" x="15"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>14</attack>
+	    <health>61</health>
+	    <skill id="inspire" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>63</health>
+	    <skill id="poison" x="16"/>
+	    <skill id="bunker" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>15</attack>
+	    <health>65</health>
+	    <skill id="poison" x="17"/>
+	  </upgrade>
+	</unit>	
 </root>	
