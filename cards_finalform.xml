@@ -37717,6 +37717,109 @@
 	    <health>66</health>
 	  </upgrade>
 	</unit>
+	<unit>
+	  <id>130130</id>
+	  <combo_card_id>35045</combo_card_id>
+	  <attack>7</attack>
+	  <health>35</health>
+	  <name>Laser Razor</name>
+	  <desc>You almost killed your mother. I hope you're happy.</desc>
+	  <picture>LaserRazor</picture>
+	  <asset_bundle>5</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>3</type>
+	  <trait>armed</trait>
+	  <skill id="strike" x="6"/>
+	  <skill id="berserk" x="4"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>36</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>38</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>8</attack>
+	    <health>40</health>
+	    <skill id="strike" x="7"/>
+	    <skill id="berserk" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>41</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>9</attack>
+	    <health>43</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>45</health>
+	    <skill id="strike" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>10</attack>
+	    <health>46</health>
+	    <skill id="berserk" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>48</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>11</attack>
+	    <health>50</health>
+	    <skill id="strike" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>52</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>12</attack>
+	    <health>53</health>
+	    <skill id="strike" x="10"/>
+	    <skill id="berserk" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>55</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <attack>13</attack>
+	    <health>57</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>58</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>14</attack>
+	    <health>60</health>
+	    <skill id="strike" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>62</health>
+	    <skill id="berserk" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>15</attack>
+	    <health>64</health>
+	    <skill id="strike" x="12"/>
+	  </upgrade>
+	</unit>	
 	<!-- end Bob's Burgers Final Forms -->
 	<!-- King of the Hill Final Forms -->
 	
