@@ -1,4 +1,4 @@
-89750	Mastery Stone
+89450	Mastery Stone
 130	Maracas Peter
 125	Spin Out Louise
 125	Drunk Peggy
@@ -9,6 +9,7 @@
 110	Amy's Talking Tattoo
 105	Santa Bender
 105	Heavenly Hank
+105	Betsy
 100	Trapeze Bob
 100	Santa Bill
 100	Road Kill
@@ -16,6 +17,7 @@
 100	Gun Safety Peter
 100	Free Weed Hayley
 100	Drunk Peter
+100	Devil Bobby
 100	Chamber of Understanding
 95	Ready for Santa
 95	Blueberry Picker
@@ -43,12 +45,14 @@
 70	Trash Can Drunk
 70	Spray Painter
 70	Senora Hill
+70	Pigeon Bill
 70	Pan Flute Stewie
 70	Mural Restorer
 70	I Get What I Want
 70	Draw Me Tina
 70	Dancing Cans
 70	Castanet Zoidberg
+70	Bending School Grad
 65	Tree
 65	The Gender Bender
 65	Space Queen
@@ -70,8 +74,6 @@
 60	Male Amy
 60	Hip Hop Bob
 60	Fart in a Jar
-60	Emu Wrangler
-60	Devil Bobby
 55	Traumatized Dale
 55	Stan vs Mafia
 55	Shut Up and Take My Money
@@ -107,10 +109,10 @@
 40	Strategist Zapp
 40	Serious Runner Brian
 40	Naked Tug of War
+40	Half-Horse Peter
 40	Evening Beer Boomhauer
 40	Chicken Fight
 40	Burgerboss Bob
-40	Bending School Grad
 35	VR Gaming Bobby
 35	Married Brian
 35	Goddess of Beauty
@@ -137,6 +139,7 @@
 30	Gaga Ball
 30	Fry's Macaroni Art
 30	Explorer Stan
+30	Emu Wrangler
 30	Diarama Gene
 30	Cute Witch of the North
 30	Coach Farnsworth
@@ -157,6 +160,7 @@
 25	Laser Tag Stan
 25	Laser Tag Brian
 25	Laser Razor
+25	Humplings
 25	Hose to the Head
 25	Hipster Donald
 25	Greaser Stan
@@ -191,9 +195,11 @@
 20	Assassin Bender
 15	Viking Peter
 15	Tennis Francine
+15	Teagle
 15	Space Stan
 15	Nurse Tina
 15	Leela's Harpoon
+15	Feed the Dodo
 15	Douchebag Chris
 15	Dolphin Rider Peter
 15	Diaper Doll Linda
@@ -285,7 +291,6 @@
 5	Body Paint Date
 5	Big Bad Brian
 5	Biathlon Meg
-5	Betsy
 5	Benderbrau
 5	Battle Axe Peggy
 5	Baseball Dale
