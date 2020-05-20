@@ -1,7 +1,7 @@
-89500	Mastery Stone
+95500	Mastery Stone
 130	Maracas Peter
 125	Spin Out Louise
-125	Drunk Peggy
+125	Betsy
 120	Yeti Fighter Leela
 120	Too High to Drive
 115	Belcher Date Night
@@ -9,15 +9,12 @@
 110	Amy's Talking Tattoo
 105	Santa Bender
 105	Heavenly Hank
-105	Betsy
 100	Trapeze Bob
 100	Santa Bill
 100	Road Kill
 100	Heckler Zoidberg
 100	Gun Safety Peter
 100	Free Weed Hayley
-100	Drunk Peter
-100	Devil Bobby
 100	Chamber of Understanding
 95	Ready for Santa
 95	Blueberry Picker
@@ -45,7 +42,6 @@
 70	Trash Can Drunk
 70	Spray Painter
 70	Senora Hill
-70	Pigeon Bill
 70	Pan Flute Stewie
 70	Mural Restorer
 70	I Get What I Want
@@ -81,6 +77,7 @@
 55	Quicky Kiss-it
 55	Meg Portrait
 55	Knife Fight Stewie
+55	Half-Horse Peter
 55	Country Club Steve
 55	Billionaire Fry
 55	Bender in Love
@@ -96,6 +93,7 @@
 50	Brian Statue
 45	VIP Cruise
 45	Tequila Roger
+45	Teagle
 45	Spaceship Pilot
 45	Rich Leela
 45	Nanny Cam
@@ -109,7 +107,6 @@
 40	Strategist Zapp
 40	Serious Runner Brian
 40	Naked Tug of War
-40	Half-Horse Peter
 40	Evening Beer Boomhauer
 40	Chicken Fight
 40	Burgerboss Bob
@@ -135,9 +132,11 @@
 30	Record Holder Stan
 30	Paddlin' Peggy
 30	One Art Please
+30	Meg Meggy Meg
 30	Home School Peter
 30	Gaga Ball
 30	Fry's Macaroni Art
+30	Feed the Dodo
 30	Explorer Stan
 30	Emu Wrangler
 30	Diarama Gene
@@ -153,18 +152,17 @@
 25	Sketch Artist Dale
 25	Shiny Pebbles
 25	Sculptor Peter
+25	Sailing Addict Linda
 25	Q.T. McWhiskers
 25	Mission Doctor
 25	Master Robaire
 25	Martian Calendar
 25	Laser Tag Stan
 25	Laser Tag Brian
-25	Laser Razor
 25	Humplings
 25	Hose to the Head
 25	Hipster Donald
 25	Greaser Stan
-25	Garage Rock Chris
 25	Fart School Louise
 25	Dojo Joe
 25	Dinner Wine Bob
@@ -181,7 +179,6 @@
 20	Poppler Jingle Fry
 20	Party Crashers
 20	Oktoberfest Leela
-20	Meg Meggy Meg
 20	Marionette Louise
 20	I Like Beer
 20	Hank Hill, Running Back
@@ -195,11 +192,9 @@
 20	Assassin Bender
 15	Viking Peter
 15	Tennis Francine
-15	Teagle
 15	Space Stan
 15	Nurse Tina
 15	Leela's Harpoon
-15	Feed the Dodo
 15	Douchebag Chris
 15	Dolphin Rider Peter
 15	Diaper Doll Linda
@@ -251,7 +246,6 @@
 5	Squirrel Death
 5	Spirit Bird
 5	Sketch Artist Peter
-5	Sailing Addict Linda
 5	Roach Coach Francine
 5	Rich Hayley
 5	Ravenous Porcelain Babies
