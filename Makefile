@@ -1,6 +1,6 @@
-.PHONY: all cards deck gen_cards cm clean
+.PHONY: all cards deck gen_cards gen_cm cm clean
 
-all: cards deck gen_cards cm
+all: cards deck gen_cards gen_cm
 
 cards:
 	./get-cards
@@ -14,9 +14,12 @@ gen_cards:
 	./gen-cards | sort | uniq -c > Decks/CARDS
 	@date
 
-cm: cards deck
-	./gen-cm | sort -r > Combos/ComboMastery
+gen_cm:
+	./gen-cm | sort -r > Combos/ComboMasteryLevels
 	./gen-cm-tokens | sort -rn > Combos/ComboMasteryTokens
+	./gen-cm-combined > Combos/ComboMastery
+
+cm: cards deck gen_cm
 
 clean:
 	@#rm	cards-w-id out units-w-levels-and-rarity
