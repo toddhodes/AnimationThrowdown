@@ -1,1 +1,1 @@
-grep -h "$@" Combos/ComboMastery Combos/ComboMasteryTokens Decks/CARDS
+grep -h "$@" Combos/ComboMastery Decks/CARDS
