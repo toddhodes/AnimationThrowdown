@@ -428,6 +428,7 @@
 	<unit>
 		<id>1100004</id>
 		<name>Neil Goldman</name>
+		<desc>Strange. These conventions usually have Segway parking.</desc>
 		<picture>FG_NeilGoldman</picture>
 		<asset_bundle>43</asset_bundle>		
 		<item_name>Neil Goldman Fragment</item_name>

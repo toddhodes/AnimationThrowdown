@@ -11554,6 +11554,7 @@
 	<unit>
 		<id>10057</id>
 		<name>Neil Goldman</name>
+		<desc>Strange. These conventions usually have Segway parking.</desc>
 		<picture>FG_NeilGoldman</picture>
 		<asset_bundle>43</asset_bundle>
 		<release_time>1526652000</release_time>
@@ -18444,6 +18445,21 @@
         <skill id='hijack' p='30' v='8'  />
         <skill id='enlarge' p='30' v='9'/>
         <skill id='pierce' p='30' v='13'/>
+    </unit>
+    <unit>
+        <id>15228</id>
+        <name>Music Teacher Lois</name>
+        <picture>FG_SubstituteMusicTeacher</picture>
+        <asset_bundle>73</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>1</type>
+        <trait>educated</trait>
+        <attack_multiplier>0.71</attack_multiplier>
+        <health_multiplier>0.73</health_multiplier>
+        <skill id='shrapnel' p='30' v='6'  />
+        <skill id='poison' p='30' v='13'/>
+        <skill id='weaken' p='30' v='12'/>
     </unit>
 	                                                             				
 	<!-- End Family Guy combo -->			
@@ -25729,6 +25745,131 @@
 			<skill id="barrier" x="9"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>20077</id>
+		<name>Headmistress Mahoney</name>
+		<picture>AD_HeadmistressMahoney</picture>
+		<asset_bundle>59</asset_bundle>
+		<release_time>1590602400</release_time>
+		<attack>8</attack>
+		<health>41</health>
+		<rarity>4</rarity>
+		<skill id="burn" x="4"/>
+		<skill id="rally" x="6"/>
+		<skill id="weaken" x="5"/>
+		<type>2</type>
+		<trait>educated</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>42</health>
+			<attack>9</attack>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>43</health>
+			<skill id="burn" x="4"/>
+			<skill id="rally" x="6"/>
+			<skill id="weaken" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>44</health>
+			<skill id="burn" x="4"/>
+			<skill id="rally" x="7"/>
+			<skill id="weaken" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>45</health>
+			<skill id="burn" x="5"/>
+			<skill id="rally" x="7"/>
+			<skill id="weaken" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>46</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>47</health>
+			<skill id="burn" x="5"/>
+			<skill id="rally" x="7"/>
+			<skill id="weaken" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>48</health>
+			<skill id="burn" x="5"/>
+			<skill id="rally" x="8"/>
+			<skill id="weaken" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>49</health>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>50</health>
+			<skill id="burn" x="5"/>
+			<skill id="rally" x="8"/>
+			<skill id="weaken" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>51</health>
+			<skill id="burn" x="5"/>
+			<skill id="rally" x="9"/>
+			<skill id="weaken" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>52</health>
+			<skill id="burn" x="6"/>
+			<skill id="rally" x="9"/>
+			<skill id="weaken" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>53</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>54</health>
+			<skill id="burn" x="6"/>
+			<skill id="rally" x="9"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>55</health>
+			<skill id="burn" x="6"/>
+			<skill id="rally" x="10"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>56</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>57</health>
+			<skill id="burn" x="6"/>
+			<skill id="rally" x="10"/>
+			<skill id="weaken" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>59</health>
+			<skill id="burn" x="7"/>
+			<skill id="rally" x="11"/>
+			<skill id="weaken" x="10"/>
+		</upgrade>
+	</unit>
 		
 	<!--  end american dad input -->		
 	<!--  stop at id 24000 -->
@@ -28710,6 +28851,38 @@
         <skill id='leech' p='30' v='13'  />
         <skill id='weakenall' p='30' v='6'/>
         <skill id='burn' p='30' v='7' />
+    </unit>
+    <unit>
+        <id>25196</id>
+        <name>Stuffington Roger</name>
+        <desc>I'd like all of my exams to be oral.</desc>
+        <picture>AD_StuffingtonStudentRoger</picture>
+        <asset_bundle>43</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>2</type>
+        <trait>educated</trait>
+        <attack_multiplier>0.71</attack_multiplier>
+        <health_multiplier>0.73</health_multiplier>
+        <skill id='hijack' p='30' v='8'  />
+        <skill id='burn' p='30' v='7'/>
+        <skill id='leech' p='30' v='13' />
+    </unit>
+    <unit>
+        <id>25197</id>
+        <name>Magazine Reader Francine</name>
+        <desc>Now this is living.</desc>
+        <picture>AD_MagFrancine</picture>
+        <asset_bundle>43</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>2</type>
+        <trait>educated</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.71</health_multiplier>
+        <skill id='inspire' p='30' v='8'  />
+        <skill id='pierce' p='30' v='12'/>
+        <skill id='poison' p='30' v='11' />
     </unit>
                                                                       
 	<!-- End american dad combo -->		
@@ -37801,6 +37974,129 @@
 			<skill id="hijack" x="8"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>30094</id>
+		<name>Beta House</name>
+		<picture>BB_BetaHouse</picture>
+		<asset_bundle>59</asset_bundle>
+		<release_time>1590602400</release_time>
+		<attack>7</attack>
+		<health>38</health>
+		<rarity>4</rarity>
+		<skill id="inspire" x="4"/>
+		<skill id="barrier" x="5"/>
+		<skill id="weaken" x="6"/>
+		<type>2</type>
+		<trait>educated</trait>
+		<set>3</set>
+		<upgrade>
+			<level>2</level>
+			<health>39</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<attack>8</attack>
+			<health>40</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>41</health>
+			<skill id="inspire" x="4"/>
+			<skill id="barrier" x="5"/>
+			<skill id="weaken" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>42</health>
+			<skill id="inspire" x="4"/>
+			<skill id="barrier" x="6"/>
+			<skill id="weaken" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>9</attack>
+			<skill id="inspire" x="5"/>
+			<skill id="barrier" x="6"/>
+			<skill id="weaken" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>43</health>
+			<skill id="inspire" x="5"/>
+			<skill id="barrier" x="6"/>
+			<skill id="weaken" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>44</health>
+			<skill id="inspire" x="5"/>
+			<skill id="barrier" x="7"/>
+			<skill id="weaken" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<attack>10</attack>
+			<health>45</health>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>46</health>
+			<skill id="inspire" x="5"/>
+			<skill id="barrier" x="7"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>47</health>
+			<skill id="inspire" x="5"/>
+			<skill id="barrier" x="8"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<attack>11</attack>
+			<skill id="inspire" x="6"/>
+			<skill id="barrier" x="8"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>48</health>
+			<skill id="inspire" x="6"/>
+			<skill id="barrier" x="8"/>
+			<skill id="weaken" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>49</health>
+			<skill id="inspire" x="6"/>
+			<skill id="barrier" x="9"/>
+			<skill id="weaken" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<attack>12</attack>
+			<health>50</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>51</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>52</health>
+			<skill id="inspire" x="7"/>
+			<skill id="barrier" x="9"/>
+			<skill id="weaken" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<skill id="inspire" x="7"/>
+			<skill id="barrier" x="10"/>
+			<skill id="weaken" x="11"/>
+		</upgrade>
+	</unit>
 		
 	<!-- End Bob's Burgers Input -->	
 	<!-- Bob's Burgers Combos -->
@@ -40843,7 +41139,40 @@
         <skill id='shrapnel' p='30' v='6' />
         <skill id='bunker' p='30' v='8' />
     </unit>
-                             	                          		
+    <unit>
+        <id>35199</id>
+        <name>History Report Gene</name>
+        <desc>This is what my grandparents sound like having sex.</desc>
+        <picture>History Report Gene</picture>
+        <asset_bundle>43</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>3</type>
+        <trait>educated</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.72</health_multiplier>
+        <skill id='bunker' p='30' v='8'/>
+        <skill id='rally' y='educated' p='30' v='12' />
+        <skill id='weaken' p='30' v='11' />
+    </unit> 
+    <unit>
+        <id>35200</id>
+        <name>Let's Go Fart</name>
+        <desc>C'mon and set it free!</desc>
+        <picture>BB_FartSchoolJJ</picture>
+        <asset_bundle>55</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>3</type>
+        <trait>educated</trait>
+        <trait>musical</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.72</health_multiplier>
+        <skill id='armored' p='30' v='12'/>
+        <skill id='weakenall' p='30' v='6' />
+        <skill id='healall' y='educated' p='30' v='6' />
+    </unit>
+                            	                          		
 	<!-- End Bob's Burgers combos -->					
 	<!-- King of the Hill -->
 
@@ -49601,6 +49930,133 @@
 			<skill id="bunker" x="7"/>
 			<skill id="strike" x="10"/>
 			<skill id="leech" x="12"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>40088</id>
+		<name>Standardized Tests</name>
+		<picture>KOTH_StandardizedTests</picture>
+		<asset_bundle>73</asset_bundle>
+		<release_time>1590602400</release_time>
+		<attack>11</attack>
+		<health>31</health>
+		<rarity>4</rarity>
+		<skill id="bodyguard" x="4"/>
+		<skill id="burn" x="4"/>
+		<skill id="strike" x="6"/>
+		<type>4</type>
+		<trait>educated</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>32</health>
+			<skill id="bodyguard" x="4"/>
+			<skill id="burn" x="4"/>
+			<skill id="strike" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>33</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>34</health>
+			<skill id="bodyguard" x="5"/>
+			<skill id="burn" x="4"/>
+			<skill id="strike" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>36</health>
+			<skill id="bodyguard" x="5"/>
+			<skill id="burn" x="4"/>
+			<skill id="strike" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>37</health>
+			<skill id="bodyguard" x="5"/>
+			<skill id="burn" x="5"/>
+			<skill id="strike" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>38</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>40</health>
+			<skill id="bodyguard" x="6"/>
+			<skill id="burn" x="5"/>
+			<skill id="strike" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>41</health>
+			<skill id="bodyguard" x="6"/>
+			<skill id="burn" x="5"/>
+			<skill id="strike" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>42</health>
+			<skill id="bodyguard" x="6"/>
+			<skill id="burn" x="5"/>
+			<skill id="strike" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>43</health>
+			<skill id="bodyguard" x="6"/>
+			<skill id="burn" x="6"/>
+			<skill id="strike" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>45</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>46</health>
+			<skill id="bodyguard" x="7"/>
+			<skill id="burn" x="6"/>
+			<skill id="strike" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>47</health>
+			<skill id="bodyguard" x="7"/>
+			<skill id="burn" x="6"/>
+			<skill id="strike" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>49</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>50</health>
+			<skill id="bodyguard" x="8"/>
+			<skill id="burn" x="6"/>
+			<skill id="strike" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>51</health>
+			<skill id="bodyguard" x="8"/>
+			<skill id="burn" x="6"/>
+			<skill id="strike" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>53</health>
+			<skill id="bodyguard" x="8"/>
+			<skill id="burn" x="7"/>
+			<skill id="strike" x="12"/>
 		</upgrade>
 	</unit>
 		
@@ -61821,6 +62277,138 @@
 			<skill id="leech" x="12"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>50093</id>
+		<name>Climate Change</name>
+		<picture>FR_ClimateChange</picture>
+		<asset_bundle>73</asset_bundle>
+		<release_time>1590602400</release_time>
+		<attack>11</attack>
+		<health>31</health>
+		<rarity>4</rarity>
+		<skill id="enlarge" x="4"/>
+		<skill id="rally" x="6" y="educated"/>
+		<skill id="strike" x="6"/>
+		<type>5</type>
+		<trait>educated</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>32</health>
+			<skill id="enlarge" x="4"/>
+			<skill id="rally" x="7" y="educated"/>
+			<skill id="strike" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>33</health>
+			<skill id="enlarge" x="4"/>
+			<skill id="rally" x="7" y="educated"/>
+			<skill id="strike" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>35</health>
+			<skill id="enlarge" x="5"/>
+			<skill id="rally" x="7" y="educated"/>
+			<skill id="strike" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>36</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>38</health>
+			<skill id="enlarge" x="5"/>
+			<skill id="rally" x="8" y="educated"/>
+			<skill id="strike" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>39</health>
+			<skill id="enlarge" x="5"/>
+			<skill id="rally" x="8" y="educated"/>
+			<skill id="strike" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>41</health>
+			<skill id="enlarge" x="5"/>
+			<skill id="rally" x="9" y="educated"/>
+			<skill id="strike" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>42</health>
+			<skill id="enlarge" x="5"/>
+			<skill id="rally" x="9" y="educated"/>
+			<skill id="strike" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>44</health>
+			<attack>13</attack>
+			<skill id="enlarge" x="6"/>
+			<skill id="rally" x="9" y="educated"/>
+			<skill id="strike" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>45</health>
+			<skill id="enlarge" x="6"/>
+			<skill id="rally" x="10" y="educated"/>
+			<skill id="strike" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>47</health>
+			<skill id="enlarge" x="6"/>
+			<skill id="rally" x="10" y="educated"/>
+			<skill id="strike" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>48</health>
+			<skill id="enlarge" x="7"/>
+			<skill id="rally" x="10" y="educated"/>
+			<skill id="strike" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>50</health>
+			<skill id="enlarge" x="7"/>
+			<skill id="rally" x="11" y="educated"/>
+			<skill id="strike" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>51</health>
+			<skill id="enlarge" x="7"/>
+			<skill id="rally" x="11" y="educated"/>
+			<skill id="strike" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>53</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>54</health>
+			<skill id="enlarge" x="7"/>
+			<skill id="rally" x="12" y="educated"/>
+			<skill id="strike" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>56</health>
+			<skill id="enlarge" x="8"/>
+			<skill id="rally" x="12" y="educated"/>
+			<skill id="strike" x="12"/>
+		</upgrade>
+	</unit>
 		
 	<!-- end futurama input -->
 	<!--  stop at id 54000 -->
@@ -64877,6 +65465,37 @@
         <skill id='poison' p='30' v='13' />
         <skill id='enlarge' p='30' v='9' />
 		<skill id='bunker' p='30' v='8'/>
+    </unit>
+    <unit>
+    	<id>55198</id>
+        <name>Mind Switcher Farnsworth</name>
+        <desc>Science cannot move forward without heaps of dead monkeys!</desc>
+        <picture>FR_MindSwitcherFarnsworth</picture>
+        <asset_bundle>43</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>5</type>
+        <trait>educated</trait>
+        <attack_multiplier>0.68</attack_multiplier>
+        <health_multiplier>0.75</health_multiplier>
+        <skill id='poison' p='30' v='13' />
+        <skill id='hijack' p='30' v='8' />
+		<skill id='outlast' p='30' v='10'/>
+    </unit>
+    <unit>
+    	<id>55199</id>
+        <name>PhD Amy</name>
+        <picture>FR_PhdAmy</picture>
+        <asset_bundle>59</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>5</type>
+        <trait>educated</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.72</health_multiplier>
+        <skill id='bodyguard' p='30' v='8' />
+        <skill id='bunker' p='30' v='8' />
+		<skill id='weaken' p='30' v='13'/>
     </unit>
                                                       							
 <!-- END Futurama Combos -->
