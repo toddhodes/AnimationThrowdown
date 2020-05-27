@@ -6,5 +6,6 @@ jq '.user_items | to_entries[] | (.value.number,.value.name,.value.desc)' user.j
    | grep Mastery \
    | cut -d\" -f2,4 \
    | tr \" "\t" \
-   | sed 's/\t/ | /'
+   | sed 's/\t/ | /' \
+   | sed 's/ $//'
 
