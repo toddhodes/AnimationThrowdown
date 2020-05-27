@@ -162,14 +162,14 @@
    5 L Doomsday Device: 6**
    1 L Doubles Ping Pong: 1
    1 L Doubles Ping Pong: 6**
-   6 L Down to the Bone: 6**
+   8 L Down to the Bone: 6**
    9 L Dr. Amy Wong: 6**
    1 L Dr. Banjo: 6**
    1 L Dr. Bobbenstein: 6**
    1 L Dr. Cahill: 1
    3 L Dr. Cahill: 6**
-   1 L Dr. Zoidberg: 1
-   2 L Dr. Zoidberg: 6**
+   1 L Dr. Zoidberg: 6*
+   3 L Dr. Zoidberg: 6**
    1 L Dream Guitar: 6**
    1 L Drunk at the Clam: 6**
    1 L Earl's Guitars: 2*
@@ -228,7 +228,7 @@
    4 L Giant Pandas: 6**
    1 L Gingerbread Sculptor: 6**
    1 L Goggles Cat: 2*
-   1 L Goggles Cat: 6**
+   2 L Goggles Cat: 6**
    1 L Golden Fiddle: 2*
    2 L Golden Fiddle: 6**
    1 L Golden Goose: 1
@@ -312,7 +312,7 @@
    1 L Katana Trisha Takanawa: 2*
    5 L Katana Trisha Takanawa: 6**
    1 L Katz: 2*
-   2 L Katz: 6**
+   6 L Katz: 6**
    1 L Kidyatas: 1
    1 L Kidyatas: 2*
    1 L Killaton: 6**
@@ -369,6 +369,7 @@
    1 L Miguel: 1**
    1 L Miguel: 2*
    1 L Miguel: 6**
+   1 L Military Tux Bill: 1
    6 L Military Tux Bill: 6**
    7 L Mint Julep: 6**
    1 L Mission Doctor: 6**
@@ -427,16 +428,15 @@
    1 L Party in the Beer Tank: 1**
    5 L Party in the Beer Tank: 6**
    1 L Pawtucket Patriot Ale: 1
-   1 L Pawtucket Patriot Ale: 1**
-   4 L Pawtucket Patriot Ale: 6**
+   5 L Pawtucket Patriot Ale: 6**
    2 L Pawtucket Peter: 6**
    2 L Peggy: 1**
    8 L Peggy: 6**
    1 L Pendlingtonton Academy: 1
    1 L Pendlingtonton Academy: 2*
    1 L Pendlingtonton Academy: 6**
-   5 L Personalized Beer Mug: 1**
-   4 L Personalized Beer Mug: 6**
+   3 L Personalized Beer Mug: 1**
+   6 L Personalized Beer Mug: 6**
    7 L Peter's Drawing: 6**
    9 L Peter: 6**
    8 L Pewterschmidt Mansion: 6**
@@ -532,8 +532,7 @@
    1 L Shakespeare Calculon: 1
    2 L Shakespeare Calculon: 1**
    4 L Shakespeare Calculon: 6**
-   1 L Sheldon: 1**
-   4 L Sheldon: 6**
+   5 L Sheldon: 6**
    5 L Ship Armory: 6**
    1 L Shoplift Addict: 2*
    1 L Shrimp Dress: 1
@@ -559,8 +558,7 @@
    1 L Softball Player Jerome: 1
    1 L Softball Player Jerome: 2*
    3 L Softball Player Jerome: 6**
-   1 L Spirit: 2*
-   1 L Spirit: 6**
+   4 L Spirit: 6**
    1 L SportsBot 5000: 1
    1 L SportsBot 5000: 6**
    2 L Spray on Army Fry: 6**
@@ -606,8 +604,7 @@
    7 L The Stingers: 6**
    2 L The Thinker Ape: 6*
    7 L The Thinker Ape: 6**
-   2 L Thunder Cocktails: 1**
-   8 L Thunder Cocktails: 6**
+  10 L Thunder Cocktails: 6**
    2 L Time for Hard Liquor: 6**
    9 L Tina: 6**
    1 L Toad Licking: 1
@@ -615,11 +612,11 @@
    1 L Toad Licking: 2*
    3 L Toad Licking: 6**
    5 L Tom Landry Baseball Team: 6**
+   1 L Tom Landry Middle School: 1
    4 L Tom Landry Middle School: 6**
    1 L Totally Normal Pants: 1
    2 L Totally Normal Pants: 6**
-   2 L Toxic Shock: 1**
-   1 L Toxic Shock: 2*
+   3 L Toxic Shock: 1**
    3 L Toxic Shock: 6**
    1 L Triple Mom Slap: 2*
    1 L Trippy Zoidberg: 2*
@@ -651,6 +648,7 @@
    1 L Winthrop Manor: 2*
    8 L Wireless Audio Transmitter: 6**
    9 L Witch Costume: 6**
+   1 L Wong Casino: 1
    3 L Wong Casino: 6**
    1 L Wongminster Mini Golf: 1
    1 L Wozniak Nerd Academy: 1**
@@ -666,7 +664,7 @@
    1 L Zapp Figurines: 1
    1 L Zapp Figurines: 2*
    2 L Zapp Figurines: 6**
-   1 M Amy: 1*
+   1 M Amy: 2*
    1 M Anti-Seizure Meds: 7
    1 M Bender: 1**
    1 M Bill: 6
