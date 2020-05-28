@@ -39,19 +39,19 @@
 3 | Fur Coat Lois
 3 | Freezerdome Gene
 3 | Fowl Fighter Teddy
-3 | Food Addict Leela | 5
+3 | Food Addict Leela
 3 | Fever Dreams
 3 | Emu Wrangler
 3 | Eggnog Roger
 3 | Drunk Peter
 3 | Drunk Peggy
-3 | Dojo Joe | 25
+3 | Dojo Joe
 3 | Devil Hank
 3 | Devil Bobby
 3 | Death Metal
 3 | Dance of Peace
 3 | Cyclist Jimmy Jr.
-3 | CrippleTron | 15
+3 | CrippleTron
 3 | Cranberry Bog
 3 | Country Club Stan
 3 | Count of Monty Hall
@@ -152,7 +152,7 @@
 2 | Paintball Hank | 5
 2 | Paddlin' Peggy | 30
 2 | Opera Singer Leela
-2 | Opera Francine
+2 | Opera Francine | 40
 2 | One Art Please | 30
 2 | Oktoberfest Leela | 20
 2 | Nurse Tina | 15
@@ -234,7 +234,7 @@
 2 | Dolphin Rider Peter | 15
 2 | Dinner Wine Bob | 25
 2 | Diarama Gene | 30
-2 | Diaper Doll Linda | 15
+2 | Diaper Doll Linda | 45
 2 | Diamond Ring Lois | 45
 2 | Dating Game Steve
 2 | Dancing Peggy | 10
@@ -346,7 +346,7 @@
 1 | Kidney Killer | 5
 1 | K Pop Peter | 5
 1 | Joystick Steve | 110
-1 | Humplings | 25
+1 | Humplings
 1 | Honeybucket Student | 65
 1 | Honey Mustache Stewie | 5
 1 | Hipster Donald | 25
@@ -358,6 +358,7 @@
 1 | Greaser Stan | 25
 1 | Gargoyle Hunter | 5
 1 | Garden Shovel Bobby
+1 | Frydo | 5
 1 | Freezerdome Linda | 35
 1 | Finch Leela | 5
 1 | Fart School Louise | 25
@@ -399,7 +400,7 @@
 1 | Anally Defaced | 15
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
- Mastery Stone | 87850
+ Mastery Stone | 87900
  Maracas Peter | 130
  Too High to Drive | 120
  Santa Bender | 105
@@ -442,7 +443,6 @@
  Nacho Addict Bender | 10
  Evil Stepsister | 10
  Dodgeball Meg | 10
- Frydo | 5
  Ecstacy Francine | 5
  Big Bad Brian | 5
  BenderIsGreat34 | 5
