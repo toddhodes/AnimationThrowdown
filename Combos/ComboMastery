@@ -2,6 +2,7 @@
 3 | Wingnut Amy
 3 | War Horse
 3 | Trapeze Bob
+3 | Time for Hard Liquor
 3 | The Thinker Ape
 3 | Tainted Alamo
 3 | Swole Joe
@@ -89,7 +90,6 @@
 2 | Tree | 65
 2 | Traumatized Dale | 55
 2 | Trash Can Drunk | 70
-2 | Time for Hard Liquor | 75
 2 | The Gender Bender | 65
 2 | The Equestranauts
 2 | The Billdozer
@@ -104,7 +104,7 @@
 2 | Summer Guy
 2 | Stressed Out Leela
 2 | Street Fighter Peter
-2 | Strategist Zapp | 40
+2 | Strategist Zapp | 90
 2 | Stickin' Hank
 2 | Stan vs Mafia | 55
 2 | Squirrel Death | 10
@@ -140,11 +140,12 @@
 2 | Propane Sculpture | 10
 2 | Prom Beer Joe | 80
 2 | Private Brian | 15
+2 | Principal Peter | 15
 2 | Power Choir Roger | 60
 2 | Positron Shooter Fry | 20
 2 | Pool Shark | 10
 2 | Pointillism | 5
-2 | Pirate Cannon Peter
+2 | Pirate Cannon Peter | 30
 2 | Patriotic Dale | 80
 2 | Party All the Time | 85
 2 | Pan Flute Stewie | 70
@@ -180,7 +181,7 @@
 2 | Leela Balloon Art
 2 | Laser Tag Stan | 25
 2 | Laser Razor
-2 | Lab Student Meg
+2 | Lab Student Meg | 30
 2 | Kuchi Kopi Sculptor | 5
 2 | Knife Fight Stewie | 55
 2 | Klepto Bender
@@ -198,7 +199,7 @@
 2 | Horse Rider Tina
 2 | Home Ec Teacher | 10
 2 | Hip Hop Bob | 60
-2 | High School Linda | 10
+2 | High School Linda | 20
 2 | High School Bill
 2 | Heckler Zoidberg | 100
 2 | Hatchet Boomhauer | 5
@@ -288,7 +289,7 @@
 2 | Balloon Sniper | 30
 2 | Balloon Fight
 2 | Bacon Weight | 20
-2 | Art of War | 45
+2 | Art of War | 50
 2 | Alley Entertainment | 35
 2 | Action Delivery Force Zoidberg
 2 | Action Delivery Force Leela
@@ -328,6 +329,7 @@
 1 | Quicky Kiss-it | 55
 1 | Poppler Jingle Fry | 20
 1 | Playlist Meg
+1 | Ping Pong Brian | 25
 1 | Pawtucket Peter | 5
 1 | Party Beer Implant | 5
 1 | Owl Stewie | 5
@@ -345,7 +347,7 @@
 1 | Laser Tag Brian | 25
 1 | Lady Bird
 1 | Kiss and Clarinet | 10
-1 | Kidney Killer | 5
+1 | Kidney Killer | 25
 1 | K Pop Peter | 5
 1 | Joystick Steve | 110
 1 | Honeybucket Student | 65
@@ -401,28 +403,31 @@
 1 | Anally Defaced | 15
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
- Mastery Stone | 91150
+ Mastery Stone | 80300
  Maracas Peter | 130
  Too High to Drive | 120
+ Home School Chris | 115
  Santa Bender | 105
  Heavenly Hank | 105
  Army Quagmire | 105
  Working Girl Tina | 85
  Money Retriever | 85
  Kawaii Klaus | 85
- Home School Chris | 85
  Frykowski | 80
  Senora Hill | 70
  I Get What I Want | 70
  Rambo Lois | 65
  Paranoid Louise | 65
  Space Walk | 60
+ Mind Switcher Farnsworth | 60
  Flag Defender | 60
  Klaus's Fish Wife | 50
+ ABC Quagmire | 50
  Tequila Roger | 45
  Spaceship Pilot | 45
  Delivery Boy | 45
  Evening Beer Boomhauer | 40
+ Cubert Farnsworth | 35
  Beefsquatch | 35
  Tuning Fork | 30
  Topped Off Wine | 30
@@ -430,15 +435,16 @@
  NRA Member | 30
  Christian Rock | 30
  Bob in the Wall | 30
- Ping Pong Brian | 25
  Delivery Marmoset | 25
  Sexy Lifeguard | 20
+ Sex Ed Peter | 20
  Rocker Bullock | 20
  Party Crashers | 20
+ Duh-Vinci Farnsworth | 20
  Douchebag Chris | 15
  Wheels Steve | 10
  Smoke Bomb | 10
- Sex Ed Peter | 10
+ Skydiving Peggy | 10
  Scooty-Puff Jr | 10
  Robot Devil's Hands | 10
  Nacho Addict Bender | 10
