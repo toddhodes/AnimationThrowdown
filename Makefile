@@ -3,19 +3,16 @@
 all: cards deck gen_cards gen_cm
 
 cards:
-	./get-cards
+	time ./get-cards
 
 deck:
-	@date
-	./get-deck
+	time ./get-deck
 
 gen_cards:
-	@date
-	./gen-cards | sort | uniq -c > Decks/CARDS
-	@date
+	time ./gen-cards | sort | uniq -c > Decks/CARDS
 
 gen_cm:
-	./gen-cm | sort -r > Combos/ComboMasteryLevels
+	time ./gen-cm | sort -r > Combos/ComboMasteryLevels
 	./gen-cm-tokens | sort -rn > Combos/ComboMasteryTokens
 	./gen-cm-combined > Combos/ComboMastery
 
