@@ -1,4 +1,4 @@
-80300 | Mastery Stone
+81350 | Mastery Stone
 130 | Maracas Peter
 125 | Spin Out Louise
 125 | Betsy
@@ -7,6 +7,7 @@
 115 | Home School Chris
 115 | Belcher Date Night
 110 | Joystick Steve
+110 | Bad Tina
 110 | Amy's Talking Tattoo
 105 | Santa Bender
 105 | Heavenly Hank
@@ -19,7 +20,6 @@
 100 | Chamber of Understanding
 95 | Ready for Santa
 95 | Blueberry Picker
-95 | Bad Tina
 95 | Alcohol Bath
 90 | Whale Hunter Amy
 90 | Strategist Zapp
@@ -62,13 +62,13 @@
 65 | Cartel Klaus
 60 | Space Walk
 60 | Softball Lois
+60 | Sex Ed Peter
 60 | Sewer Surfer Fry
 60 | Sewer Surfer Bender
 60 | S and M Lois
 60 | River Burned
 60 | Power Choir Roger
 60 | Mountain Climber Peter
-60 | Mind Switcher Farnsworth
 60 | Michael Dangle-low
 60 | Male Amy
 60 | Hip Hop Bob
@@ -115,14 +115,15 @@
 45 | Delivery Boy
 40 | Victory Dance
 40 | Serious Runner Brian
-40 | Principal Peter
 40 | Opera Francine
 40 | Naked Tug of War
 40 | Evening Beer Boomhauer
 40 | Chicken Fight
 40 | Burgerboss Bob
 35 | VR Gaming Bobby
+35 | Mind Switcher Farnsworth
 35 | Married Brian
+35 | High School Linda
 35 | Goddess of Beauty
 35 | Freezerdome Linda
 35 | Falconer Hayley
@@ -154,6 +155,7 @@
 30 | Fry's Macaroni Art
 30 | Feed the Dodo
 30 | Explorer Stan
+30 | Duh-Vinci Farnsworth
 30 | Doghouse Bobby
 30 | Diarama Gene
 30 | Cute Witch of the North
@@ -190,7 +192,6 @@
 20 | Talent Show Lois
 20 | Sledgehammer Dale
 20 | Sexy Lifeguard
-20 | Sex Ed Peter
 20 | Round House
 20 | Rocker Bullock
 20 | Positron Shooter Fry
@@ -199,10 +200,8 @@
 20 | Oktoberfest Leela
 20 | Marionette Louise
 20 | I Like Beer
-20 | High School Linda
 20 | Hank Hill, Running Back
 20 | Dummy Fight
-20 | Duh-Vinci Farnsworth
 20 | Clothes Made of Cash
 20 | Celebeartions
 20 | Cake Knife
@@ -237,6 +236,7 @@
 10 | Pool Shark
 10 | Painting Montage Joe
 10 | Old Steve
+10 | Obedience School Brian
 10 | Nacho Addict Bender
 10 | Mowing While Intoxicated
 10 | Meg's In Charge
