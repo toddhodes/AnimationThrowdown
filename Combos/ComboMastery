@@ -9,6 +9,7 @@
 3 | Swole Francine
 3 | Swimmer Dale
 3 | Swat Bob
+3 | Strategist Zapp
 3 | Space Honey
 3 | Softball Dale
 3 | Softball Boomhauer
@@ -27,6 +28,7 @@
 3 | Oil Receipts
 3 | Musical Linda
 3 | Music Video Stewie
+3 | Mission Doctor
 3 | Medicated Stewie
 3 | Max Jets
 3 | Lord Griffin
@@ -64,6 +66,7 @@
 3 | Boy Witch Steve
 3 | Blueberry Delivery Girl
 3 | Bloody Mary Mix
+3 | Bending School Grad
 3 | Bender's Ducklings
 3 | Baseball Chris
 3 | Badminton Roger
@@ -106,7 +109,6 @@
 2 | Summer Guy
 2 | Stressed Out Leela
 2 | Street Fighter Peter
-2 | Strategist Zapp
 2 | Stickin' Hank
 2 | Stan vs Mafia | 55
 2 | Squirrel Death | 10
@@ -148,6 +150,7 @@
 2 | Pool Shark | 10
 2 | Pointillism | 5
 2 | Pirate Cannon Peter | 30
+2 | PhD Amy | 45
 2 | Patriotic Dale | 80
 2 | Party All the Time | 85
 2 | Pan Flute Stewie | 70
@@ -167,7 +170,6 @@
 2 | Mowing While Intoxicated | 10
 2 | Mountain Climber Peter | 60
 2 | Mocktrial Louise
-2 | Mission Doctor | 70
 2 | Mind Switcher Farnsworth | 65
 2 | Military Tux Bill | 15
 2 | Mike Pulaski
@@ -196,7 +198,7 @@
 2 | I am Mona
 2 | I Like Beer | 20
 2 | Hunky Killer Louise | 50
-2 | Humplings
+2 | Humplings | 30
 2 | Hottyz Luanne
 2 | Hottyz Bill | 30
 2 | Hose to the Head
@@ -222,7 +224,7 @@
 2 | Fry in Robot Disguise
 2 | Free Weed Hayley | 100
 2 | Feed the Dodo | 30
-2 | Fart in a Jar | 60
+2 | Fart in a Jar | 75
 2 | Falconer Hayley | 35
 2 | Falcon Attack Quagmire
 2 | Fake Son Gene | 80
@@ -284,7 +286,6 @@
 2 | Blueberry Picker | 95
 2 | Billionaire Fry | 55
 2 | Bible Study
-2 | Bending School Grad | 70
 2 | Bender's Orphanarium | 20
 2 | Bender's Clowns | 10
 2 | Bender in Love | 55
@@ -408,14 +409,16 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 102500
+ Mastery Stone | 116600
  Maracas Peter | 130
  Zombie Jimmy Jr. | 125
  Too High to Drive | 120
+ Screen Repairer | 115
  Home School Chris | 115
  Santa Bender | 105
  Heavenly Hank | 105
  Army Quagmire | 105
+ Mind Switcher Amy | 90
  Working Girl Tina | 85
  Money Retriever | 85
  Kawaii Klaus | 85
@@ -448,6 +451,8 @@
  Sexy Lifeguard | 20
  Rocker Bullock | 20
  Party Crashers | 20
+ Hot Cocoa Gene | 20
+ History Report Gene | 15
  Douchebag Chris | 15
  Wheels Steve | 10
  Smoke Bomb | 10
@@ -455,6 +460,7 @@
  Scooty-Puff Jr | 10
  Running Back Hank | 10
  Robot Devil's Hands | 10
+ Reverse Stink Hold | 10
  Nacho Addict Bender | 10
  Evil Stepsister | 10
  Dodgeball Meg | 10
