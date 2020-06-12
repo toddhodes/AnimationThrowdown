@@ -120,6 +120,7 @@
 2 | Softball Bill
 2 | Slip 'n Slide Bob | 10
 2 | Sleighing Tonight
+2 | Shop Teacher Hank | 15
 2 | Sexy Dance Fighting
 2 | Sexpun T'Come | 90
 2 | Sewer Surfer Fry | 60
@@ -203,7 +204,7 @@
 2 | Hottyz Bill | 30
 2 | Hose to the Head
 2 | Horse Rider Tina
-2 | Home Ec Teacher | 10
+2 | Home Ec Teacher | 25
 2 | Hip Hop Bob | 60
 2 | High School Bill
 2 | Heckler Zoidberg | 100
@@ -231,7 +232,7 @@
 2 | Eyephone Fry | 65
 2 | Explorer Stan | 30
 2 | Dummy Fight | 20
-2 | Drunk Stan
+2 | Drunk Stan | 60
 2 | Dream Millionaire | 90
 2 | Dream Guitar | 50
 2 | Draw Me Tina | 70
@@ -286,7 +287,7 @@
 2 | Blueberry Picker | 95
 2 | Billionaire Fry | 55
 2 | Bible Study
-2 | Bender's Orphanarium | 20
+2 | Bender's Orphanarium | 25
 2 | Bender's Clowns | 10
 2 | Bender in Love | 55
 2 | Baseball Bobby | 15
@@ -309,7 +310,7 @@
 1 | Tennis Francine | 15
 1 | Taxidermy Artist | 5
 1 | Sword Fighter Francine | 5
-1 | Swim Teacher Bob
+1 | Swim Teacher Bob | 60
 1 | Street Hockey Brian | 5
 1 | Stewie Longlegs | 5
 1 | Steak Cows | 30
@@ -350,14 +351,15 @@
 1 | Little King Trashmouth | 5
 1 | Leela's Harpoon | 15
 1 | Laser Tag Brian | 25
-1 | Lady Bird
+1 | Lady Bird | 15
 1 | Kiss and Clarinet | 10
 1 | Kidney Killer | 25
 1 | K Pop Peter | 5
 1 | Joystick Steve | 110
 1 | Honeybucket Student | 65
 1 | Honey Mustache Stewie | 5
-1 | Home School Peter | 25
+1 | Home School Peter | 50
+1 | History Report Gene | 15
 1 | Hipster Donald | 25
 1 | Hayley Potter
 1 | Hangover Nightmare | 10
@@ -383,7 +385,7 @@
 1 | Crayon Drawing | 5
 1 | Cough Syrup Drunk | 50
 1 | Congo Jack | 5
-1 | Children's Author | 15
+1 | Children's Author | 40
 1 | Cheerleader Peggy | 5
 1 | Chamber of Understanding | 100
 1 | Cake Knife | 20
@@ -396,7 +398,7 @@
 1 | Body Paint Date | 5
 1 | Biathlon Meg | 5
 1 | Betsy | 125
-1 | Benderbrau | 5
+1 | Benderbrau | 50
 1 | Bender's Electric Eel | 55
 1 | Belcher Date Night | 115
 1 | Beer Bottle Toast | 35
@@ -409,7 +411,7 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 116600
+ Mastery Stone | 115650
  Maracas Peter | 130
  Zombie Jimmy Jr. | 125
  Too High to Drive | 120
@@ -433,13 +435,13 @@
  Sex Ed Peter | 60
  Flag Defender | 60
  Magician Jimmy Jr. | 55
+ Cubert Farnsworth | 55
  Klaus's Fish Wife | 50
  Tequila Roger | 45
  Spaceship Pilot | 45
  Delivery Boy | 45
  Slow Dance Jimmy Jr. | 40
  Evening Beer Boomhauer | 40
- Cubert Farnsworth | 35
  Beefsquatch | 35
  Tuning Fork | 30
  Topped Off Wine | 30
@@ -452,11 +454,11 @@
  Rocker Bullock | 20
  Party Crashers | 20
  Hot Cocoa Gene | 20
- History Report Gene | 15
  Douchebag Chris | 15
  Wheels Steve | 10
  Smoke Bomb | 10
  Skydiving Peggy | 10
+ Sharpshooter Bobby | 10
  Scooty-Puff Jr | 10
  Running Back Hank | 10
  Robot Devil's Hands | 10
