@@ -82,7 +82,7 @@
 2 | Wild Francine
 2 | Wild Brian
 2 | Whiskey Bartender | 25
-2 | Whale Hunter Amy | 90
+2 | Whale Hunter Amy
 2 | Water Nympho
 2 | Viking Peter | 15
 2 | Victory Dance | 40
@@ -151,7 +151,7 @@
 2 | Pool Shark | 10
 2 | Pointillism | 5
 2 | Pirate Cannon Peter | 30
-2 | PhD Amy | 45
+2 | PhD Amy | 60
 2 | Patriotic Dale | 80
 2 | Party All the Time | 85
 2 | Pan Flute Stewie | 70
@@ -173,7 +173,7 @@
 2 | Mocktrial Louise
 2 | Mind Switcher Farnsworth | 65
 2 | Military Tux Bill | 15
-2 | Mike Pulaski
+2 | Mike Pulaski | 30
 2 | Michael Dangle-low | 60
 2 | Meg Portrait | 55
 2 | Meatman Sculptor
@@ -194,12 +194,12 @@
 2 | Klepto Bender
 2 | Katz | 25
 2 | Karate Stewie
-2 | Jealous Bobby | 10
+2 | Jealous Bobby | 50
 2 | Ira | 10
 2 | I am Mona
 2 | I Like Beer | 20
 2 | Hunky Killer Louise | 50
-2 | Humplings | 30
+2 | Humplings | 45
 2 | Hottyz Luanne
 2 | Hottyz Bill | 30
 2 | Hose to the Head
@@ -300,12 +300,13 @@
 2 | Alley Entertainment | 35
 2 | Action Delivery Force Zoidberg
 2 | Action Delivery Force Leela
+1 | Zombie Jimmy Jr. | 120
 1 | Zoidberg vs Bot | 5
 1 | Yeti Fighter Leela | 120
 1 | Whiskey Drunk Brian | 25
 1 | Water Polo Steve | 5
 1 | Victorian Knife Lois | 70
-1 | Umbriel | 5
+1 | Umbriel | 25
 1 | Toga Bill | 5
 1 | Tina Tackle | 5
 1 | Tennis Francine | 15
@@ -326,6 +327,7 @@
 1 | Shut Up and Take My Money | 55
 1 | Shiny Pebbles | 25
 1 | Sailing Addict Linda | 25
+1 | Running Back Hank | 5
 1 | Round House | 20
 1 | Roach Coach Francine | 5
 1 | Rich Hayley | 5
@@ -341,6 +343,7 @@
 1 | Party Beer Implant | 5
 1 | Owl Stewie | 5
 1 | Old Steve | 10
+1 | NRA Member | 25
 1 | Mr. Deliver | 5
 1 | Model Lois | 5
 1 | Menstrual Cycle | 5
@@ -411,16 +414,15 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 115650
+ Mastery Stone | 120850
+ Screen Repairer | 130
  Maracas Peter | 130
- Zombie Jimmy Jr. | 125
  Too High to Drive | 120
- Screen Repairer | 115
+ Mind Switcher Amy | 120
  Home School Chris | 115
  Santa Bender | 105
  Heavenly Hank | 105
  Army Quagmire | 105
- Mind Switcher Amy | 90
  Working Girl Tina | 85
  Money Retriever | 85
  Kawaii Klaus | 85
@@ -446,7 +448,6 @@
  Tuning Fork | 30
  Topped Off Wine | 30
  Solid Gold Tuxedo | 30
- NRA Member | 30
  Christian Rock | 30
  Bob in the Wall | 30
  Delivery Marmoset | 25
@@ -465,7 +466,6 @@
  Nacho Addict Bender | 10
  Evil Stepsister | 10
  Dodgeball Meg | 10
- Running Back Hank | 5
  Ecstacy Francine | 5
  Big Bad Brian | 5
  BenderIsGreat34 | 5
