@@ -1,4 +1,5 @@
    5 E Boomhauer: 5**
+   1 E Cloud Painter: 5**
    1 E Life Drawing Hayley: 5
    1 E Private Brian: 5**
    1 E Roller Derby Hayley: 5**
@@ -21,6 +22,7 @@
    1 L Anti-Seizure Meds: 1
    1 L Anti-Seizure Meds: 2*
    2 L Anti-Seizure Meds: 6**
+   1 L Arcturan Kung Fu: 1
    1 L Arcturan Kung Fu: 6**
    1 L Ark Sketch: 2*
    6 L Ark Sketch: 6**
@@ -31,6 +33,9 @@
    9 L Bag of Nickels: 6**
    1 L Baked Evil Monkey: 2*
    8 L Baked Evil Monkey: 6**
+   1 L Ballet Meg: 1
+   1 L Ballet Meg: 2*
+   7 L Ballet Meg: 6**
    8 L Bandit: 6**
    1 L Barbados Slim: 2*
    5 L Baseball Chris: 6**
@@ -45,10 +50,11 @@
    9 L Bender: 6**
    1 L Bending School Grad: 2*
    3 L Bending School Grad: 6**
-   1 L Bending School: 1
+   1 L Bending School: 2*
    3 L Bending School: 6**
    1 L Bernadette Baker: 1
-   1 L Beta House: 6**
+   1 L Beta House: 1
+   2 L Beta House: 6**
    1 L Biathlon Meg: 2*
    1 L Biathlon Meg: 6**
    1 L Bible Study: 1
@@ -66,8 +72,7 @@
    9 L Bill Dauterive: 6**
    2 L Billionaire Fry: 6**
    1 L Blernsball: 1
-   1 L Blernsball: 2*
-   2 L Blernsball: 6**
+   3 L Blernsball: 6**
    4 L Bloody Mary Mix: 6**
    1 L Bob: 1**
    9 L Bob: 6**
@@ -81,8 +86,7 @@
    1 L Boomhauer: 1
    2 L Boomhauer: 6**
    1 L Booty Shaking Drunk: 2*
-   1 L Bouncy Fun Castle: 2*
-   4 L Bouncy Fun Castle: 6**
+   5 L Bouncy Fun Castle: 6**
    2 L Boy Witch Steve: 6**
    1 L Brau Beer: 1
    1 L Brau Beer: 2*
@@ -92,10 +96,8 @@
    1 L Brian The Home Invader Lewis: 1
    1 L Brian: 2*
    7 L Brian: 6**
-   1 L Buck's Stud: 2*
    4 L Buck's Stud: 6**
    2 L Buff Fry: 6**
-   1 L Bunny Costume: 2*
    1 L Burger Addict Teddy: 1
    1 L Burger Hermes: 2*
    1 L Burgerboss Bob: 1
@@ -111,8 +113,6 @@
    7 L Cat Guards: 6**
    1 L Cat Launcher: 2*
    8 L Cat with Gun: 6**
-   1 L Caulk Gun: 1
-   1 L Caulk Gun: 2*
    1 L Caulk Gun: 6**
    2 L Chicken Fight: 6**
    1 L Children's Author: 2*
@@ -155,7 +155,6 @@
    6 L Dating Game Steve: 6**
    8 L Dauterive Chateau: 6**
    8 L Deathball: 6**
-   1 L Deers with Guns: 1
    9 L Delivery Cycling: 6**
    9 L Diamond Crusher: 6**
    2 L Diaper Doll Linda: 6**
@@ -166,6 +165,7 @@
    1 L Dollar Beers: 1
    1 L Dollar Beers: 2*
    1 L Dollar Beers: 6**
+   1 L Doomsday Device: 1
    5 L Doomsday Device: 6**
    1 L Doubles Ping Pong: 1
    1 L Doubles Ping Pong: 6**
@@ -194,7 +194,6 @@
    1 L Explorer Stan: 1
    4 L Explorer Stan: 6**
    1 L Eyephone Fry: 1
-   1 L Fake Nose: 1
    9 L Fake Nose: 6**
    1 L Fake Son Gene: 6**
    1 L Falcon Attack Quagmire: 6**
@@ -203,8 +202,6 @@
    1 L Farnsworth's Cat: 6**
    1 L Fart School Jimmy Jr.: 2*
    3 L Fart School Jimmy Jr.: 6**
-   1 L Fart School for the Gifted: 1
-   2 L Fart School for the Gifted: 6**
    1 L Fashion Wrestling: 1
    1 L Fashion Wrestling: 6**
    8 L Feed the Dodo: 6**
@@ -250,6 +247,7 @@
    1 L Graffiti Mural: 2*
    3 L Graffiti Mural: 6**
    1 L Groin Kicker: 6**
+   1 L Gym Equipment: 1
    1 L Gym Equipment: 2*
    2 L Gym Equipment: 6**
    3 L Half Dog Gene: 6**
@@ -261,8 +259,8 @@
    1 L Hayley: 1
    1 L Hayley: 2*
    5 L Hayley: 6**
-   2 L Headmistress Mahoney: 1**
-   7 L Headmistress Mahoney: 6**
+   9 L Headmistress Mahoney: 6**
+   1 L Heat Packing Priest: 1
    2 L Heat Packing Priest: 6**
    1 L Heavy Metal Hayley: 1
    1 L Heavy Metal Hayley: 2*
@@ -278,12 +276,14 @@
    1 L High School Linda: 2*
    4 L High School Linda: 6**
    1 L Himalayan Observatory Monks: 1
+   1 L Himalayan Observatory Monks: 2*
    1 L Himalayan Observatory Monks: 6**
    3 L Hip Hop Bob: 6**
    1 L Holographic Washington: 6**
    1 L Home Ec Teacher: 1
    4 L Home Ec Teacher: 6**
    2 L Honey Mustache Stewie: 6**
+   1 L Horse Camp: 1
    3 L Horse Camp: 6**
    2 L Horse Rider Tina: 6**
    1 L Hose to the Head: 6**
@@ -296,8 +296,8 @@
    1 L Hypnotoad: 1
    5 L Hypnotoad: 6**
    4 L I am Mona: 6**
-   1 L Iraq Lobster: 1**
-   5 L Iraq Lobster: 6**
+   1 L Iraq Lobster: 2*
+   6 L Iraq Lobster: 6**
    1 L Jacked on Bots: 2*
    6 L Jacked on Bots: 6**
    6 L James Woods High School: 6**
@@ -308,8 +308,7 @@
    1 L Jimmy Jr. Horse Costume: 1
    4 L Jimmy Jr. Horse Costume: 6**
    8 L Jimmy Jr.: 6**
-   1 L Joe Swanson: 1**
-   8 L Joe Swanson: 6**
+   9 L Joe Swanson: 6**
    2 L Jose Servo: 6**
    1 L Josh Gedgie Boy Scientist: 2*
    7 L Josh Gedgie Boy Scientist: 6**
@@ -337,6 +336,7 @@
    3 L Knife Fight Stewie: 6**
    8 L Knife-wielding Seal: 6**
    1 L LARP Bartender Snot: 1
+   1 L Landship Play: 1
    1 L Langley Soft Drug Store: 2*
    3 L Langley Soft Drug Store: 6**
    7 L Laser Gun Stewie: 6**
@@ -344,7 +344,6 @@
    1 L Leela: 1**
    9 L Leela: 6**
    3 L Leon Petard: 1**
-   1 L Leon Petard: 2*
    3 L Leon Petard: 6**
    7 L Let's Go Fart: 6**
    1 L Lightspeed Briefs: 2*
@@ -356,12 +355,11 @@
    1 L Long Stick with Sharp Rock: 6**
    1 L Lord Griffin: 2*
    6 L Lord Griffin: 6**
-   1 L Louise: 1**
-   8 L Louise: 6**
-   1 L Luanne Platter: 1**
-   9 L Luanne Platter: 6**
+   9 L Louise: 6**
+  10 L Luanne Platter: 6**
    1 L Lulu: 1
    1 L Lulu: 2*
+  13 L Magazine Cover Zapp: 6**
    1 L Maltese Liquor: 6**
    1 L Marionette Louise: 1
    1 L Martian Calendar: 6*
@@ -370,17 +368,15 @@
    1 L Max Jets: 2*
    6 L Max Jets: 6**
    4 L Meatman Sculptor: 6**
-   1 L Medicated Eye Drops: 2*
-   5 L Medicated Eye Drops: 6**
+   6 L Medicated Eye Drops: 6**
    6 L Medicated Stewie: 6**
+   1 L Meg Griffin: 1**
   10 L Meg Griffin: 6**
    1 L Meg's In Charge: 1
    8 L Mexican Drug Dealer: 6**
   10 L Michael Dangle-low: 6**
    1 L Michael Savage: 2*
    1 L Michael Savage: 6**
-   1 L Miguel: 1
-   1 L Miguel: 1**
    2 L Miguel: 6**
    1 L Military Tux Bill: 1
    6 L Military Tux Bill: 6**
@@ -398,7 +394,7 @@
    1 L Mountain Climber Peter: 2*
    6 L Mountain Climber Peter: 6**
    1 L Mowing While Intoxicated: 6**
-   1 L Mr. Business: 1
+   1 L Mr. Business: 2*
    1 L Mr. Business: 6**
    7 L Mr. Fischoeder: 6**
    1 L Mr. Frond: 1**
@@ -408,21 +404,19 @@
    4 L Mr. Twilley: 6**
    1 L Ms. LaBonz: 1
    3 L Ms. LaBonz: 6**
+   5 L Museum of Really Modern Art: 6**
    3 L Music Teacher Lois: 6**
    1 L Music Video Stewie: 2*
    7 L Music Video Stewie: 6**
    1 L Musical Linda: 1
    3 L Musical Linda: 6**
-   1 L Mutilated Therapy Dolls: 1
-   1 L Mutilated Therapy Dolls: 2*
-   5 L Mutilated Therapy Dolls: 6**
+   6 L Mutilated Therapy Dolls: 6**
    1 L Nanny Cam: 1
    1 L Nanny Cam: 6**
    1 L Nanny Natalia: 1**
    4 L Nanny Natalia: 6**
    1 L Napkin Art: 1
-   1 L Napkin Art: 2*
-   2 L Napkin Art: 6**
+   3 L Napkin Art: 6**
    1 L New Brian: 1
    1 L New Brian: 2*
    4 L New Brian: 6**
@@ -442,6 +436,7 @@
    1 L Party All the Time: 1
    2 L Party All the Time: 6**
    6 L Party in the Beer Tank: 6**
+   1 L Pawtucket Patriot Ale: 1
    1 L Pawtucket Patriot Ale: 2*
    5 L Pawtucket Patriot Ale: 6**
    2 L Pawtucket Peter: 6**
@@ -450,6 +445,7 @@
    1 L Pendlingtonton Academy: 2*
    2 L Pendlingtonton Academy: 6**
    9 L Personalized Beer Mug: 6**
+   1 L Peter's Drawing: 2*
    7 L Peter's Drawing: 6**
    9 L Peter: 6**
    8 L Pewterschmidt Mansion: 6**
@@ -473,10 +469,8 @@
    2 L Principal Peter: 6**
    1 L Principal Shepard: 2*
    2 L Principal Shepard: 6**
-   1 L Pro-Pain!: 2*
-   2 L Pro-Pain!: 6**
-   2 L Professor Baxter: 1**
-   2 L Professor Baxter: 6**
+   3 L Pro-Pain!: 6**
+   4 L Professor Baxter: 6**
    1 L Professor Farnsworth: 2*
    3 L Professor Farnsworth: 6**
    1 L Professor Lerner: 2*
@@ -487,9 +481,8 @@
    4 L Push Ups: 6**
    1 L Quagmire: 1
    5 L Quagmire: 6**
-   1 L Quahog College: 1**
-   2 L Quahog College: 6**
-   1 L Quahog Martial Arts Academy: 1
+   3 L Quahog College: 6**
+   1 L Quahog Martial Arts Academy: 1**
    1 L Quahog Martial Arts Academy: 2*
    5 L Quahog Martial Arts Academy: 6**
    1 L Quahog Preschool: 1
@@ -497,6 +490,7 @@
    1 L Quahog Public Golf Course: 1
    1 L Quahog Public Golf Course: 2*
    1 L Queen of Catsteros: 1
+   1 L Queen of Catsteros: 2*
    1 L Queen of Catsteros: 6**
    1 L Rapper Klaus: 6
    2 L Rapper Klaus: 6**
@@ -516,7 +510,6 @@
    1 L Rodeo Bobby: 2*
    1 L Rodeo Bobby: 6**
    1 L Roger Epstein Music: 2*
-   1 L Roger's Closet: 2*
    3 L Roger's Closet: 6**
    9 L Roger's Sexy Shorts: 6**
    1 L Roger: 1**
@@ -524,38 +517,43 @@
    1 L Roller Disco Courtney: 1
    5 L Roller Disco Courtney: 6**
    9 L Rupert Recalls: 6**
-   1 L Rusty: 1
+   1 L Rusty: 2*
    6 L Rusty: 6**
    1 L Sacred Daggers: 2*
    2 L Sacred Daggers: 6**
-   1 L Sacrificial Robot Goat: 1**
-   6 L Sacrificial Robot Goat: 6**
+   7 L Sacrificial Robot Goat: 6**
    2 L Sandwitch: 6**
    2 L Santa Killer Steve: 6**
    1 L Scary Mask: 1
+   1 L Scary Mask: 2*
    5 L Scary Mask: 6**
+   1 L School of Arts and Crafts: 1
+   1 L School of Arts and Crafts: 2*
+   3 L School of Arts and Crafts: 6**
    1 L Scientific Rivals: 1
    2 L Sculptor Peter: 6**
    1 L Sensei Ed's Karate Dojo: 2*
    1 L Sewer Surfer Bender: 6**
    8 L Sewer Surfer Fry: 6**
    1 L Sexy Dance Fighting: 6**
+   1 L Shakespeare Calculon: 1
    1 L Shakespeare Calculon: 2*
    6 L Shakespeare Calculon: 6**
+   1 L Sheldon: 2*
    5 L Sheldon: 6**
    5 L Ship Armory: 6**
    1 L Shoplift Addict: 2*
-   3 L Shrimp Dress: 1**
-   2 L Shrimp Dress: 6**
+   5 L Shrimp Dress: 6**
    4 L Shrimpy Shrimps: 6**
    1 L Shuttlecock Ring: 1
+   1 L Ski Mask: 1
    1 L Ski Mask: 2*
    5 L Ski Mask: 6**
    1 L Sledding Louise: 1
    6 L Sledding Louise: 6**
    1 L Sleighing Tonight: 6**
    1 L Slurm Pop Art: 1
-   1 L Snot Rocket: 1
+   1 L Snot Rocket: 2*
    1 L Snot Rocket: 6**
    1 L Soda Celebration: 1
    1 L Soda Celebration: 6**
@@ -569,9 +567,10 @@
    1 L SportsBot 5000: 1
    1 L SportsBot 5000: 6**
    2 L Spray on Army Fry: 6**
+   1 L Spring Break Shots: 1
    3 L Spring Break Shots: 6**
-   2 L Stan: 1**
-   8 L Stan: 6**
+   1 L Stan: 1**
+   9 L Stan: 6**
    1 L Standardized Tests: 1
    4 L Standardized Tests: 6**
    1 L Staubach Elementary: 2*
@@ -585,6 +584,7 @@
    1 L Stop Hittin' Yourself: 6**
    1 L Student Lucky: 2*
    6 L Student Lucky: 6**
+   1 L Stuffington Academy: 1
    1 L Stuffington Academy: 6**
    1 L Stuffington Roger: 1
    1 L Stuffington Roger: 6**
@@ -608,6 +608,7 @@
    1 L That's My Parfait: 2*
    1 L That's My Parfait: 6**
    5 L The Bazooka Sharks: 6**
+   1 L The Borax Kid: 1
    1 L The Borax Kid: 2*
    5 L The Borax Kid: 6**
    1 L The Leg Room: 1
@@ -624,9 +625,9 @@
    3 L Toad Licking: 1**
    3 L Toad Licking: 6**
    5 L Tom Landry Baseball Team: 6**
-   1 L Tom Landry Middle School: 1**
+   1 L Tom Landry Middle School: 1
    1 L Tom Landry Middle School: 2*
-   4 L Tom Landry Middle School: 6**
+   5 L Tom Landry Middle School: 6**
    1 L Totally Normal Pants: 1
    2 L Totally Normal Pants: 6**
    1 L Toxic Shock: 2*
@@ -643,6 +644,7 @@
    5 L VIP Cruise: 6**
    1 L Viking Peter: 2*
    2 L Viking Peter: 6**
+   1 L Vitruvian Man: 1
    7 L Vitruvian Man: 1**
    2 L Vitruvian Man: 6**
    1 L Vodka Beer: 1**
@@ -650,6 +652,7 @@
    1 L Wagstaff Whaler: 2*
    2 L Wagstaff Whaler: 6**
    1 L Walking Man Exhibit: 1
+   1 L Walking Man Exhibit: 2*
    1 L Walking Man Exhibit: 6**
    7 L War Horse: 6**
    1 L Welcome Mojitos: 2*
@@ -665,7 +668,7 @@
    1 L Winthrop Manor: 2*
    8 L Wireless Audio Transmitter: 6**
    9 L Witch Costume: 6**
-   1 L Wong Casino: 1
+   1 L Wong Casino: 2*
    3 L Wong Casino: 6**
    1 L Wongminster Mini Golf: 1
    1 L Wozniak Nerd Academy: 1
@@ -685,7 +688,7 @@
    1 M Anti-Seizure Meds: 7
    1 M Bender: 1**
    1 M Beta House: 6
-   1 M Bill: 6
+   1 M Bill: 7
    1 M Bob: 1**
    1 M Bobby: 3*
    1 M Boomhauer: 1**
@@ -708,7 +711,7 @@
    1 M Heat Packing Priest: 1*
    1 M Hypnotoad: 3*
    1 M Jimmy Jr.: 5*
-   1 M Joe Swanson: 7
+   1 M Joe Swanson: 2*
    1 M Leela: 7**
    1 M Lois: 7
    1 M Louise: 7**
@@ -728,7 +731,7 @@
    1 M Stan: 6**
    1 M Steve: 6
    1 M Stewie: 7**
-   1 M Teddy: 4*
+   1 M Teddy: 5*
    1 M That's My Parfait: 4
    1 M The Bazooka Sharks: 4
    1 M Tina: 5*
