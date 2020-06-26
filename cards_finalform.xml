@@ -13035,6 +13035,117 @@
 	    <skill id="poison" x="16"/>
 	  </upgrade>
 	</unit>
+	<unit>
+	  <id>110136</id>
+	  <combo_card_id>15229</combo_card_id>
+	  <attack>10</attack>
+	  <health>33</health>
+	  <name>Comic Artist Peter</name>
+	  <desc>A career in the arts is easy and lucrative.</desc>
+	  <picture>FG_ComicArtistPeter</picture>
+	  <asset_bundle>40</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>1</type>
+	  <trait>artistic</trait>
+	  <skill id="burn" x="4"/>
+	  <skill id="outlast" x="5"/>
+	  <skill id="strike" x="8"/>
+	  <card_type>object</card_type>
+	  <hidden>1</hidden>
+	  <upgrade>
+	    <level>2</level>
+	    <health>34</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>36</health>
+	    <skill id="outlast" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>11</attack>
+	    <health>38</health>
+	    <skill id="burn" x="5"/>
+	    <skill id="strike" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>40</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>42</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <attack>12</attack>
+	    <health>43</health>
+	    <skill id="outlast" x="7"/>
+	    <skill id="strike" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <health>45</health>
+	    <skill id="burn" x="6"/>
+	    <skill id="strike" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>47</health>
+	    <skill id="outlast" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>13</attack>
+	    <health>49</health>
+	    <skill id="strike" x="12"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>51</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <health>53</health>
+	    <skill id="burn" x="7"/>
+	    <skill id="outlast" x="9"/>
+	    <skill id="strike" x="13"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <attack>14</attack>
+	    <health>54</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>56</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>58</health>
+	    <skill id="strike" x="14"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>15</attack>
+	    <health>60</health>
+	    <skill id="outlast" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>62</health>
+	    <skill id="burn" x="8"/>
+	    <skill id="strike" x="15"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>16</attack>
+	    <health>64</health>
+	    <skill id="outlast" x="11"/>
+	    <skill id="strike" x="16"/>
+	  </upgrade>
+	</unit>
 		
 <!-- end Family Guy Final Forms -->
 	
@@ -64489,4 +64600,119 @@
 	    <skill id="counter" x="17"/>
 	  </upgrade>
 	</unit>
+	<unit>
+	  <id>150146</id>
+	  <combo_card_id>55180</combo_card_id>
+	  <attack>8</attack>
+	  <health>32</health>
+	  <name>Strategist Zapp</name>
+	  <picture>FR_StrategistZapp</picture>
+	  <asset_bundle>55</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>5</type>
+	  <trait>educated</trait>
+	  <skill id="counter" x="7"/>
+	  <skill id="weaken" x="6"/>
+	  <skill id="leech" x="7"/>
+	  <card_type>object</card_type>
+	  <hidden>1</hidden>
+	  <upgrade>
+	    <level>2</level>
+	    <health>33</health>
+	    <skill id="weaken" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>35</health>
+	    <skill id="counter" x="8"/>
+	    <skill id="leech" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>9</attack>
+	    <health>37</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>39</health>
+	    <skill id="weaken" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>10</attack>
+	    <health>41</health>
+	    <skill id="counter" x="9"/>
+	    <skill id="leech" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>43</health>
+	    <skill id="weaken" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>11</attack>
+	    <health>45</health>
+	    <skill id="counter" x="10"/>
+	    <skill id="leech" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>47</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>12</attack>
+	    <health>48</health>
+	    <skill id="counter" x="11"/>
+	    <skill id="weaken" x="10"/>
+	    <skill id="leech" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>50</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>13</attack>
+	    <health>52</health>
+	    <skill id="counter" x="12"/>
+	    <skill id="weaken" x="11"/>
+	    <skill id="leech" x="12"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>54</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <attack>14</attack>
+	    <health>56</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>58</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>15</attack>
+	    <health>60</health>
+	    <skill id="counter" x="13"/>
+	    <skill id="weaken" x="12"/>
+	    <skill id="leech" x="13"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>62</health>
+	    <skill id="counter" x="14"/>
+	    <skill id="weaken" x="13"/>
+	    <skill id="leech" x="14"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>16</attack>
+	    <health>64</health>
+	  </upgrade>
+	</unit>	
 </root>	

@@ -1,4 +1,5 @@
-120900 | Mastery Stone
+147300 | Mastery Stone
+130 | Tattoo Stan
 130 | Screen Repairer
 130 | Maracas Peter
 125 | Spin Out Louise
@@ -8,6 +9,7 @@
 120 | Too High to Drive
 120 | Mind Switcher Amy
 115 | Home School Chris
+115 | Comic Artist Peter
 115 | Belcher Date Night
 110 | Joystick Steve
 110 | Amy's Talking Tattoo
@@ -19,6 +21,7 @@
 100 | Heckler Zoidberg
 100 | Gun Safety Peter
 100 | Free Weed Hayley
+100 | Cloud Painter
 100 | Chamber of Understanding
 100 | Bad Tina
 95 | Ready for Santa
@@ -34,7 +37,7 @@
 85 | Mascot Fighter Stan
 85 | Kawaii Klaus
 85 | Fry's Painting
-80 | Supermodel Roger
+85 | Anger Management Class
 80 | Prom Beer Joe
 80 | Patriotic Dale
 80 | Mathy Cathy
@@ -55,6 +58,7 @@
 70 | Draw Me Tina
 70 | Dancing Cans
 70 | Castanet Zoidberg
+70 | CIA Student
 65 | Tree
 65 | The Gender Bender
 65 | Space Queen
@@ -62,6 +66,7 @@
 65 | Paranoid Louise
 65 | Mind Switcher Farnsworth
 65 | Honeybucket Student
+65 | Hayley Potter
 65 | Eyephone Fry
 65 | Christmas Trap
 65 | Cartel Klaus
@@ -110,6 +115,7 @@
 50 | Cough Syrup Drunk
 50 | Contact High Stewie
 50 | Cigarette Addicts
+50 | Cadet Hill
 50 | Brian Statue
 50 | Benderbrau
 50 | Art of War
@@ -121,6 +127,7 @@
 45 | Nanny Cam
 45 | Marionette Chris
 45 | Lounge Singer Hayley
+45 | Ira
 45 | Humplings
 45 | Easter Bunny Peter
 45 | Diaper Doll Linda
@@ -128,7 +135,6 @@
 45 | Delivery Boy
 45 | ABC Quagmire
 40 | Victory Dance
-40 | Slow Dance Jimmy Jr.
 40 | Serious Runner Brian
 40 | Opera Francine
 40 | Naked Tug of War
@@ -141,6 +147,7 @@
 35 | Goddess of Beauty
 35 | Freezerdome Linda
 35 | Falconer Hayley
+35 | Children's Author
 35 | Catcher Luanne
 35 | Captain Leela
 35 | Bible Study
@@ -154,6 +161,7 @@
 30 | Swing Dance Luanne
 30 | Steak Cows
 30 | Solid Gold Tuxedo
+30 | Skating Roger
 30 | Sing and Swing
 30 | Rough Night Stan
 30 | Roger Goes Down
@@ -173,7 +181,6 @@
 30 | Diarama Gene
 30 | Cute Witch of the North
 30 | Coach Farnsworth
-30 | Cloud Painter
 30 | Christian Rock
 30 | Bob in the Wall
 30 | Balloon Sniper
@@ -187,6 +194,7 @@
 25 | Sailing Addict Linda
 25 | Q.T. McWhiskers
 25 | Ping Pong Brian
+25 | Painting Class Joe
 25 | NRA Member
 25 | Master Robaire
 25 | Martian Calendar
@@ -211,9 +219,9 @@
 20 | Rocker Bullock
 20 | Positron Shooter Fry
 20 | Poppler Jingle Fry
-20 | Polling Peggy
 20 | Party Crashers
 20 | Oktoberfest Leela
+20 | Mr. Deliver
 20 | Marionette Louise
 20 | I Like Beer
 20 | Hot Cocoa Gene
@@ -231,6 +239,7 @@
 15 | Shop Teacher Hank
 15 | Private Brian
 15 | Principal Peter
+15 | Polling Peggy
 15 | Nurse Tina
 15 | Military Tux Bill
 15 | Leela's Harpoon
@@ -238,7 +247,6 @@
 15 | History Report Gene
 15 | Douchebag Chris
 15 | Dolphin Rider Peter
-15 | Children's Author
 15 | Burobu Addict
 15 | Burger Addict Teddy
 15 | Baseball Bobby
@@ -246,15 +254,18 @@
 10 | Wheels Steve
 10 | Squirrel Death
 10 | Smoke Bomb
+10 | Slow Dance Jimmy Jr.
 10 | Slip 'n Slide Bob
 10 | Skydiving Peggy
 10 | Sharpshooter Bobby
+10 | Shark Killer
 10 | Scooty-Puff Jr
 10 | Robot Devil's Hands
 10 | Reverse Stink Hold
 10 | Raleigh St. Augustine
 10 | Propane Sculpture
 10 | Pool Shark
+10 | Pawtucket Peter
 10 | Painting Montage Joe
 10 | Old Steve
 10 | Obedience School Brian
@@ -263,7 +274,6 @@
 10 | Meg's In Charge
 10 | Life Drawing Hayley
 10 | Kiss and Clarinet
-10 | Ira
 10 | Hangover Nightmare
 10 | Guenter
 10 | Evil Stepsister
@@ -292,11 +302,9 @@
 5 | RC Helicopter
 5 | QB Boomhauer
 5 | Pointillism
-5 | Pawtucket Peter
 5 | Party Beer Implant
 5 | Paintball Hank
 5 | Owl Stewie
-5 | Mr. Deliver
 5 | Model Lois
 5 | Menstrual Cycle
 5 | Medieval Hank
@@ -321,6 +329,7 @@
 5 | Butt Toucher Tina
 5 | Brainwashed Hayley
 5 | Booty Shaking Drunk
+5 | Boombox Teddy
 5 | Body Paint Date
 5 | Big Bad Brian
 5 | Biathlon Meg

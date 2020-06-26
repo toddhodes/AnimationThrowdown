@@ -1,5 +1,6 @@
 3 | Wingnut Leela
 3 | Wingnut Amy
+3 | Whale Hunter Amy
 3 | War Horse
 3 | Trapeze Bob
 3 | Time for Hard Liquor
@@ -9,6 +10,7 @@
 3 | Swole Francine
 3 | Swimmer Dale
 3 | Swat Bob
+3 | Supermodel Roger
 3 | Strategist Zapp
 3 | Space Honey
 3 | Softball Dale
@@ -31,6 +33,7 @@
 3 | Mission Doctor
 3 | Medicated Stewie
 3 | Max Jets
+3 | Magazine Cover Zapp
 3 | Lord Griffin
 3 | Let's Go Fart
 3 | Lenore the Iguana
@@ -69,6 +72,7 @@
 3 | Bending School Grad
 3 | Bender's Ducklings
 3 | Baseball Chris
+3 | Ballet Meg
 3 | Badminton Roger
 3 | Ass-Kicker Hank
 3 | Another Lousy Millenium
@@ -82,7 +86,6 @@
 2 | Wild Francine
 2 | Wild Brian
 2 | Whiskey Bartender | 25
-2 | Whale Hunter Amy
 2 | Water Nympho
 2 | Viking Peter | 15
 2 | Victory Dance | 40
@@ -104,7 +107,6 @@
 2 | Talent Show Lois | 20
 2 | Swole Amy | 5
 2 | Swing Dance Luanne | 30
-2 | Supermodel Roger | 80
 2 | Super Dance Squad
 2 | Summer Guy
 2 | Stressed Out Leela
@@ -118,6 +120,7 @@
 2 | Space Cadet Chris | 25
 2 | Softball Lois | 60
 2 | Softball Bill
+2 | Slow Dance Jimmy Jr. | 10
 2 | Slip 'n Slide Bob | 10
 2 | Sleighing Tonight
 2 | Shop Teacher Hank | 15
@@ -152,10 +155,12 @@
 2 | Pointillism | 5
 2 | Pirate Cannon Peter | 30
 2 | PhD Amy | 60
+2 | Pawtucket Peter | 10
 2 | Patriotic Dale | 80
 2 | Party All the Time | 85
 2 | Pan Flute Stewie | 70
 2 | Painting Montage Joe | 10
+2 | Painting Class Joe | 25
 2 | Paintball Hank | 5
 2 | Paddlin' Peggy | 30
 2 | Opera Singer Leela
@@ -167,6 +172,7 @@
 2 | Nun Peggy
 2 | Nanny Cam | 45
 2 | Naked Tug of War | 40
+2 | Music Teacher Lois
 2 | Mural Restorer | 70
 2 | Mowing While Intoxicated | 10
 2 | Mountain Climber Peter | 60
@@ -195,7 +201,7 @@
 2 | Katz | 25
 2 | Karate Stewie
 2 | Jealous Bobby | 50
-2 | Ira | 10
+2 | Ira | 45
 2 | I am Mona
 2 | I Like Beer | 20
 2 | Hunky Killer Louise | 50
@@ -208,6 +214,7 @@
 2 | Hip Hop Bob | 60
 2 | High School Bill
 2 | Heckler Zoidberg | 100
+2 | Hayley Potter | 65
 2 | Hatchet Boomhauer | 5
 2 | Hank Hill, Running Back | 20
 2 | Half Dog Gene
@@ -258,7 +265,7 @@
 2 | Country Club Steve | 55
 2 | Contact High Stewie | 50
 2 | Coach Farnsworth | 30
-2 | Cloud Painter | 30
+2 | Cloud Painter | 100
 2 | Clothes Made of Cash | 20
 2 | Claw Machine | 5
 2 | Cigarette Addicts | 50
@@ -268,7 +275,7 @@
 2 | Christmas Punchout
 2 | Chris Painting
 2 | Chosen Brain Fry
-2 | Children's Author | 15
+2 | Children's Author | 35
 2 | Chicken Fight | 40
 2 | Chick-Chicken Chick Fight | 5
 2 | Chef Cat Munchies
@@ -279,7 +286,7 @@
 2 | Castanet Zoidberg | 70
 2 | Cartel Klaus | 65
 2 | Captain Leela | 35
-2 | CIA Student
+2 | CIA Student | 70
 2 | Burgers and Fries Louise | 20
 2 | Burgerboss Bob | 40
 2 | Buff Fry
@@ -337,14 +344,14 @@
 1 | RC Helicopter | 5
 1 | Quicky Kiss-it | 55
 1 | Poppler Jingle Fry | 20
+1 | Polling Peggy | 15
 1 | Playlist Meg
 1 | Ping Pong Brian | 25
-1 | Pawtucket Peter | 5
 1 | Party Beer Implant | 5
 1 | Owl Stewie | 5
 1 | Old Steve | 10
 1 | NRA Member | 25
-1 | Mr. Deliver | 5
+1 | Mr. Deliver | 20
 1 | Model Lois | 5
 1 | Menstrual Cycle | 5
 1 | Meg's In Charge | 10
@@ -365,7 +372,6 @@
 1 | Home School Peter | 50
 1 | History Report Gene | 15
 1 | Hipster Donald | 25
-1 | Hayley Potter
 1 | Hangover Nightmare | 10
 1 | Half-Horse Peter | 55
 1 | Guenter | 10
@@ -392,6 +398,7 @@
 1 | Cheerleader Peggy | 5
 1 | Chamber of Understanding | 100
 1 | Cake Knife | 20
+1 | Cadet Hill | 50
 1 | Butt Toucher Tina | 5
 1 | Burobu Addict | 15
 1 | Burger Hermes
@@ -414,12 +421,14 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 120900
+ Mastery Stone | 147300
+ Tattoo Stan | 130
  Screen Repairer | 130
  Maracas Peter | 130
  Too High to Drive | 120
  Mind Switcher Amy | 120
  Home School Chris | 115
+ Comic Artist Peter | 115
  Santa Bender | 105
  Heavenly Hank | 105
  Army Quagmire | 105
@@ -427,6 +436,7 @@
  Working Girl Tina | 85
  Money Retriever | 85
  Kawaii Klaus | 85
+ Anger Management Class | 85
  Mathy Cathy | 80
  Love Potion | 80
  Frykowski | 80
@@ -443,19 +453,18 @@
  Tequila Roger | 45
  Spaceship Pilot | 45
  Delivery Boy | 45
- Slow Dance Jimmy Jr. | 40
  Evening Beer Boomhauer | 40
  One Eyed Orphan | 35
  Beefsquatch | 35
  Tuning Fork | 30
  Topped Off Wine | 30
  Solid Gold Tuxedo | 30
+ Skating Roger | 30
  Christian Rock | 30
  Bob in the Wall | 30
  Delivery Marmoset | 25
  Sexy Lifeguard | 20
  Rocker Bullock | 20
- Polling Peggy | 20
  Party Crashers | 20
  Hot Cocoa Gene | 20
  Douchebag Chris | 15
@@ -463,6 +472,7 @@
  Smoke Bomb | 10
  Skydiving Peggy | 10
  Sharpshooter Bobby | 10
+ Shark Killer | 10
  Scooty-Puff Jr | 10
  Robot Devil's Hands | 10
  Reverse Stink Hold | 10
@@ -470,5 +480,6 @@
  Evil Stepsister | 10
  Dodgeball Meg | 10
  Ecstacy Francine | 5
+ Boombox Teddy | 5
  Big Bad Brian | 5
  BenderIsGreat34 | 5
