@@ -10,6 +10,7 @@
    1 L 3 Is More Than 4: 2*
    4 L 3 Is More Than 4: 6**
    9 L 3004 Olympics: 6**
+   1 L 4 Skore: 1
    1 L 4 Skore: 2*
    3 L 4 Skore: 6**
    1 L Absinthe: 6**
@@ -50,10 +51,11 @@
    9 L Bender: 6**
    1 L Bending School Grad: 2*
    3 L Bending School Grad: 6**
+   1 L Bending School: 1
    1 L Bending School: 2*
    3 L Bending School: 6**
    1 L Bernadette Baker: 1
-   1 L Beta House: 1
+   1 L Beta House: 2*
    2 L Beta House: 6**
    1 L Biathlon Meg: 2*
    1 L Biathlon Meg: 6**
@@ -72,6 +74,7 @@
    9 L Bill Dauterive: 6**
    2 L Billionaire Fry: 6**
    1 L Blernsball: 1
+   1 L Blernsball: 2*
    3 L Blernsball: 6**
    4 L Bloody Mary Mix: 6**
    1 L Bob: 1**
@@ -81,7 +84,7 @@
    1 L Boggle Contraband: 1
    1 L Boggle Contraband: 2*
    1 L Boggle Contraband: 6**
-   1 L Book of Spells: 1
+   1 L Book of Spells: 2*
    8 L Book of Spells: 6**
    1 L Boomhauer: 1
    2 L Boomhauer: 6**
@@ -131,8 +134,7 @@
    2 L Christobel's Painting: 6**
    1 L Class Spanker: 6*
    2 L Class Spanker: 6**
-   1 L Climate Change: 1
-   1 L Climate Change: 2*
+   1 L Climate Change: 1**
    8 L Climate Change: 6**
    2 L Clone Fight: 6**
    1 L Cognac Bender: 2*
@@ -149,7 +151,7 @@
   10 L Cuddles: 6**
    1 L Cupid Bobby: 6**
    7 L Cyclist Jimmy Jr.: 6**
-   6 L Dale: 6**
+   9 L Dale: 6**
    1 L Dancing Cans: 6**
    1 L Dating Game Steve: 6*
    6 L Dating Game Steve: 6**
@@ -200,6 +202,7 @@
    1 L Falconer Hayley: 6**
    6 L Fantasy Figurines: 6**
    1 L Farnsworth's Cat: 6**
+   1 L Fart School Jimmy Jr.: 1
    1 L Fart School Jimmy Jr.: 2*
    3 L Fart School Jimmy Jr.: 6**
    1 L Fashion Wrestling: 1
@@ -296,8 +299,7 @@
    1 L Hypnotoad: 1
    5 L Hypnotoad: 6**
    4 L I am Mona: 6**
-   1 L Iraq Lobster: 2*
-   6 L Iraq Lobster: 6**
+   7 L Iraq Lobster: 6**
    1 L Jacked on Bots: 2*
    6 L Jacked on Bots: 6**
    6 L James Woods High School: 6**
@@ -327,7 +329,6 @@
    1 L Kidyatas: 2*
    1 L Killaton: 1
    1 L Killaton: 6**
-   1 L Klaus Heisler: 1**
    9 L Klaus Heisler: 6**
    1 L Klepto Bender: 1
    1 L Klepto Bender: 6**
@@ -394,7 +395,6 @@
    1 L Mountain Climber Peter: 2*
    6 L Mountain Climber Peter: 6**
    1 L Mowing While Intoxicated: 6**
-   1 L Mr. Business: 2*
    1 L Mr. Business: 6**
    7 L Mr. Fischoeder: 6**
    1 L Mr. Frond: 1**
@@ -410,12 +410,12 @@
    7 L Music Video Stewie: 6**
    1 L Musical Linda: 1
    3 L Musical Linda: 6**
+   1 L Mutilated Therapy Dolls: 2*
    6 L Mutilated Therapy Dolls: 6**
    1 L Nanny Cam: 1
    1 L Nanny Cam: 6**
    1 L Nanny Natalia: 1**
    4 L Nanny Natalia: 6**
-   1 L Napkin Art: 1
    3 L Napkin Art: 6**
    1 L New Brian: 1
    1 L New Brian: 2*
@@ -436,9 +436,7 @@
    1 L Party All the Time: 1
    2 L Party All the Time: 6**
    6 L Party in the Beer Tank: 6**
-   1 L Pawtucket Patriot Ale: 1
-   1 L Pawtucket Patriot Ale: 2*
-   5 L Pawtucket Patriot Ale: 6**
+   6 L Pawtucket Patriot Ale: 6**
    2 L Pawtucket Peter: 6**
    1 L Peggy: 1**
    9 L Peggy: 6**
@@ -469,15 +467,14 @@
    2 L Principal Peter: 6**
    1 L Principal Shepard: 2*
    2 L Principal Shepard: 6**
+   1 L Pro-Pain!: 1
    3 L Pro-Pain!: 6**
    4 L Professor Baxter: 6**
    1 L Professor Farnsworth: 2*
    3 L Professor Farnsworth: 6**
-   1 L Professor Lerner: 2*
-   2 L Professor Lerner: 6**
    1 L Purity Dads: 6
    4 L Purity Dads: 6**
-   1 L Push Ups: 1
+   1 L Push Ups: 2*
    4 L Push Ups: 6**
    1 L Quagmire: 1
    5 L Quagmire: 6**
@@ -528,8 +525,7 @@
    1 L Scary Mask: 2*
    5 L Scary Mask: 6**
    1 L School of Arts and Crafts: 1
-   1 L School of Arts and Crafts: 2*
-   3 L School of Arts and Crafts: 6**
+   4 L School of Arts and Crafts: 6**
    1 L Scientific Rivals: 1
    2 L Sculptor Peter: 6**
    1 L Sensei Ed's Karate Dojo: 2*
@@ -539,6 +535,7 @@
    1 L Shakespeare Calculon: 1
    1 L Shakespeare Calculon: 2*
    6 L Shakespeare Calculon: 6**
+   1 L Sheldon: 1
    1 L Sheldon: 2*
    5 L Sheldon: 6**
    5 L Ship Armory: 6**
@@ -552,7 +549,7 @@
    1 L Sledding Louise: 1
    6 L Sledding Louise: 6**
    1 L Sleighing Tonight: 6**
-   1 L Slurm Pop Art: 1
+   1 L Slurm Pop Art: 2*
    1 L Snot Rocket: 2*
    1 L Snot Rocket: 6**
    1 L Soda Celebration: 1
@@ -582,6 +579,7 @@
    1 L Stickin' Khan: 1
    2 L Stickin' Khan: 6**
    1 L Stop Hittin' Yourself: 6**
+   7 L Strategist Zapp: 6**
    1 L Student Lucky: 2*
    6 L Student Lucky: 6**
    1 L Stuffington Academy: 1
@@ -598,8 +596,7 @@
   10 L Swole Joe: 6**
    4 L Synchronized Swimming: 6**
    7 L Talent Show Lois: 6**
-   1 L Tattoo Parlor: 2*
-   1 L Tattoo Parlor: 6**
+   2 L Tattoo Parlor: 6**
    1 L Teddy: 1
    1 L Teddy: 2*
    2 L Terrestial Cycling: 1**
@@ -625,11 +622,9 @@
    3 L Toad Licking: 1**
    3 L Toad Licking: 6**
    5 L Tom Landry Baseball Team: 6**
-   1 L Tom Landry Middle School: 1
-   1 L Tom Landry Middle School: 2*
-   5 L Tom Landry Middle School: 6**
-   1 L Totally Normal Pants: 1
-   2 L Totally Normal Pants: 6**
+   6 L Tom Landry Middle School: 6**
+   1 L Totally Normal Pants: 2*
+   3 L Totally Normal Pants: 6**
    1 L Toxic Shock: 2*
    6 L Toxic Shock: 6**
    1 L Triple Mom Slap: 1
@@ -644,7 +639,6 @@
    5 L VIP Cruise: 6**
    1 L Viking Peter: 2*
    2 L Viking Peter: 6**
-   1 L Vitruvian Man: 1
    7 L Vitruvian Man: 1**
    2 L Vitruvian Man: 6**
    1 L Vodka Beer: 1**
@@ -734,7 +728,7 @@
    1 M Teddy: 5*
    1 M That's My Parfait: 4
    1 M The Bazooka Sharks: 4
-   1 M Tina: 5*
+   1 M Tina: 6*
    1 M Wagstaff Whaler: 6
    1 M Wong Casino: 1
    1 M Zapp Brannigan: 4*
