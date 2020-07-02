@@ -5,6 +5,7 @@
 3 | Trapeze Bob
 3 | Time for Hard Liquor
 3 | The Thinker Ape
+3 | Tattoo Stan
 3 | Tainted Alamo
 3 | Swole Joe
 3 | Swole Francine
@@ -24,6 +25,7 @@
 3 | Red Rodriguez 2 Real
 3 | Rapper Klaus
 3 | Postal Lois
+3 | Pointillism
 3 | Pigeon Bill
 3 | Penguin Conservator
 3 | One Man Musical
@@ -33,6 +35,7 @@
 3 | Mission Doctor
 3 | Medicated Stewie
 3 | Max Jets
+3 | Martian Calendar
 3 | Magazine Cover Zapp
 3 | Lord Griffin
 3 | Let's Go Fart
@@ -66,6 +69,7 @@
 3 | Cognac Bender
 3 | Claw-Plach Fry
 3 | Class Spanker
+3 | Brian Statue
 3 | Boy Witch Steve
 3 | Blueberry Delivery Girl
 3 | Bloody Mary Mix
@@ -104,7 +108,6 @@
 2 | Tennis Stan
 2 | Teagle | 45
 2 | Tattooed Fat Guy | 30
-2 | Tattoo Stan
 2 | Talent Show Lois | 20
 2 | Swole Amy | 5
 2 | Swing Dance Luanne | 30
@@ -153,7 +156,6 @@
 2 | Power Choir Roger | 60
 2 | Positron Shooter Fry | 20
 2 | Pool Shark | 10
-2 | Pointillism | 5
 2 | Pirate Cannon Peter | 30
 2 | PhD Amy | 60
 2 | Pawtucket Peter | 25
@@ -161,7 +163,7 @@
 2 | Party All the Time | 85
 2 | Pan Flute Stewie | 70
 2 | Painting Montage Joe | 10
-2 | Painting Class Joe | 25
+2 | Painting Class Joe | 90
 2 | Paintball Hank | 5
 2 | Paddlin' Peggy | 30
 2 | Opera Singer Leela
@@ -174,7 +176,7 @@
 2 | Nanny Cam | 45
 2 | Naked Tug of War | 40
 2 | Music Teacher Lois
-2 | Mural Restorer | 70
+2 | Mural Restorer | 100
 2 | Mowing While Intoxicated | 10
 2 | Mountain Climber Peter | 60
 2 | Mocktrial Louise
@@ -186,7 +188,6 @@
 2 | Meatman Sculptor
 2 | Masked Hero
 2 | Mascot Fighter Stan | 85
-2 | Martian Calendar | 25
 2 | Marionette Louise | 20
 2 | Marionette Chris | 45
 2 | Male Amy | 60
@@ -310,7 +311,7 @@
 2 | Action Delivery Force Zoidberg
 2 | Action Delivery Force Leela
 1 | Zombie Jimmy Jr. | 120
-1 | Zoidberg vs Bot | 5
+1 | Zoidberg vs Bot | 35
 1 | Yeti Fighter Leela | 120
 1 | Whiskey Drunk Brian | 25
 1 | Water Polo Steve | 5
@@ -375,7 +376,7 @@
 1 | Home School Peter | 50
 1 | History Report Gene | 40
 1 | Hipster Donald | 25
-1 | Hangover Nightmare | 10
+1 | Hangover Nightmare | 60
 1 | Half-Horse Peter | 55
 1 | Guenter | 10
 1 | Groupie Francine | 5
@@ -420,11 +421,11 @@
 1 | Bakaneko Fighter Louise | 5
 1 | Assassin Bender | 20
 1 | Artsy Tina | 5
-1 | Anally Defaced | 15
+1 | Anally Defaced | 75
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 155450
+ Mastery Stone | 181150
  Screen Repairer | 130
  Maracas Peter | 130
  Flag Defender | 130
@@ -434,6 +435,7 @@
  Santa Bender | 105
  Heavenly Hank | 105
  Army Quagmire | 105
+ Arts and Crafts Bob | 100
  Magazine Reader Francine | 90
  Working Girl Tina | 85
  Money Retriever | 85
@@ -442,6 +444,7 @@
  Mathy Cathy | 80
  Love Potion | 80
  Frykowski | 80
+ Zoidberg's Scream | 70
  Senora Hill | 70
  I Get What I Want | 70
  Rambo Lois | 65
@@ -451,6 +454,7 @@
  Magician Jimmy Jr. | 55
  Cubert Farnsworth | 55
  Klaus's Fish Wife | 50
+ Girl Next Door Stewie | 50
  Tequila Roger | 45
  Spaceship Pilot | 45
  Delivery Boy | 45
@@ -482,6 +486,7 @@
  Nacho Addict Bender | 10
  Evil Stepsister | 10
  Dodgeball Meg | 10
+ Cheerleader Lois | 10
  Ecstacy Francine | 5
  Boombox Teddy | 5
  Big Bad Brian | 5
