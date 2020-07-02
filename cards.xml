@@ -29023,6 +29023,21 @@
         <skill id='pierce' p='30' v='12'/>
         <skill id='poison' p='30' v='11' />
     </unit>
+    <unit>
+        <id>25198</id>
+        <name>Klaus's Comic</name>
+        <picture>AD_ComicStrip</picture>
+        <asset_bundle>78</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>2</type>
+        <trait>artistic</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.73</health_multiplier>
+        <skill id='bodyguard' p='30' v='8'  />
+        <skill id='burn' p='30' v='7'/>
+        <skill id='poison' p='30' v='14' />
+    </unit>
                                                                       
 	<!-- End american dad combo -->		
 	<!--  stop at id 26000 -->

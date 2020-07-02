@@ -25345,7 +25345,115 @@
 	    <skill id="leech" x="16"/>
 	  </upgrade>
 	</unit>
-
+	<unit>
+	  <id>120127</id>
+	  <combo_card_id>25198</combo_card_id>
+	  <attack>10</attack>
+	  <health>38</health>
+	  <name>Klaus's Comic</name>
+	  <picture>AD_ComicStrip</picture>
+	  <asset_bundle>78</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>2</type>
+	  <trait>artistic</trait>
+	  <skill id="bodyguard" x="5"/>
+	  <skill id="burn" x="4"/>
+	  <skill id="poison" x="8"/>
+	  <card_type>object</card_type>
+	  <hidden>1</hidden>
+	  <upgrade>
+	    <level>2</level>
+	    <health>39</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>40</health>
+	    <skill id="poison" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>11</attack>
+	    <health>41</health>
+	    <skill id="burn" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>43</health>
+	    <skill id="bodyguard" x="6"/>
+	    <skill id="poison" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>44</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <attack>12</attack>
+	    <health>45</health>
+	    <skill id="poison" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <health>47</health>
+	    <skill id="burn" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>48</health>
+	    <skill id="bodyguard" x="7"/>
+	    <skill id="poison" x="12"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>13</attack>
+	    <health>49</health>
+	    <skill id="poison" x="13"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>50</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <health>52</health>
+	    <skill id="bodyguard" x="8"/>
+	    <skill id="burn" x="7"/>
+	    <skill id="poison" x="14"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <attack>14</attack>
+	    <health>53</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>54</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>56</health>
+	    <skill id="poison" x="15"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>15</attack>
+	    <health>57</health>
+	    <skill id="bodyguard" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>58</health>
+	    <skill id="burn" x="8"/>
+	    <skill id="poison" x="16"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>16</attack>
+	    <health>60</health>
+	    <skill id="poison" x="17"/>
+	  </upgrade>
+	</unit>
 
 	<!-- end American Dad Final Forms -->
 	<!-- Bob's Burgers Final Forms -->
