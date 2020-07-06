@@ -42,6 +42,7 @@
 3 | Lenore the Iguana
 3 | Laser Tag Joe
 3 | Laser Gun Stewie
+3 | Knife Fight Stewie
 3 | Karate Bender
 3 | Jose Servo
 3 | High School Linda
@@ -112,7 +113,7 @@
 2 | Swole Amy | 5
 2 | Swing Dance Luanne | 30
 2 | Super Dance Squad
-2 | Summer Guy
+2 | Summer Guy | 60
 2 | Stressed Out Leela
 2 | Street Fighter Peter
 2 | Stickin' Hank
@@ -125,7 +126,7 @@
 2 | Softball Lois | 100
 2 | Softball Bill
 2 | Slow Dance Jimmy Jr. | 10
-2 | Slip 'n Slide Bob | 10
+2 | Slip 'n Slide Bob | 60
 2 | Sleighing Tonight
 2 | Shop Teacher Hank | 15
 2 | Sexy Dance Fighting
@@ -198,7 +199,6 @@
 2 | Laser Razor
 2 | Lab Student Meg | 30
 2 | Kuchi Kopi Sculptor | 5
-2 | Knife Fight Stewie | 55
 2 | Klepto Bender
 2 | Katz | 25
 2 | Karate Stewie
@@ -261,7 +261,7 @@
 2 | Cupid Bobby | 25
 2 | Criss Cross Applesauce | 90
 2 | Crate Trained Steve
-2 | Crack Addicted Fish | 10
+2 | Crack Addicted Fish | 55
 2 | Crack Addict Stan
 2 | Coyote Fighter Chris
 2 | Country Club Steve | 55
@@ -293,19 +293,19 @@
 2 | Burgers and Fries Louise | 20
 2 | Burgerboss Bob | 40
 2 | Buff Fry
-2 | Brian Statue | 50
 2 | Boy Crazy | 25
 2 | Blueberry Picker | 95
-2 | Billionaire Fry | 55
+2 | Billionaire Fry | 75
 2 | Bible Study | 35
 2 | Bender's Orphanarium | 25
 2 | Bender's Clowns | 10
 2 | Bender in Love | 55
 2 | Baseball Bobby | 15
-2 | Balloon Sniper | 30
-2 | Balloon Fight
+2 | Balloon Sniper | 45
+2 | Balloon Fight | 15
 2 | Bad Tina | 100
 2 | Bacon Weight | 20
+2 | Arts and Crafts Bob | 70
 2 | Art of War | 50
 2 | Alley Entertainment | 35
 2 | Action Delivery Force Zoidberg
@@ -343,7 +343,7 @@
 1 | Rich Hayley | 5
 1 | Ready for Santa | 95
 1 | Ravenous Porcelain Babies | 5
-1 | Raleigh St. Augustine | 10
+1 | Raleigh St. Augustine | 50
 1 | RC Helicopter | 5
 1 | Quicky Kiss-it | 55
 1 | Poppler Jingle Fry | 20
@@ -425,7 +425,7 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 181150
+ Mastery Stone | 176350
  Screen Repairer | 130
  Maracas Peter | 130
  Flag Defender | 130
@@ -435,7 +435,6 @@
  Santa Bender | 105
  Heavenly Hank | 105
  Army Quagmire | 105
- Arts and Crafts Bob | 100
  Magazine Reader Francine | 90
  Working Girl Tina | 85
  Money Retriever | 85
@@ -464,13 +463,17 @@
  American Giggolo | 35
  Tuning Fork | 30
  Topped Off Wine | 30
+ The Carnival With Rupert | 30
  Solid Gold Tuxedo | 30
  Skating Roger | 30
+ Sexy Lifeguard | 30
+ Salmon Fry | 30
+ Mustache Maker | 30
  Christian Rock | 30
  Bob in the Wall | 30
+ Tropical Drinks | 25
  Steve Crossing the Alps | 25
  Delivery Marmoset | 25
- Sexy Lifeguard | 20
  Rocker Bullock | 20
  Party Crashers | 20
  Hot Cocoa Gene | 20
