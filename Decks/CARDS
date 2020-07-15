@@ -48,9 +48,7 @@
    9 L Bender: 6**
    1 L Bending School Grad: 2*
    3 L Bending School Grad: 6**
-   1 L Bending School: 1
-   1 L Bending School: 2*
-   3 L Bending School: 6**
+   4 L Bending School: 6**
    1 L Bernadette Baker: 1
    1 L Beta House: 2*
    2 L Beta House: 6**
@@ -68,6 +66,7 @@
    6 L Big Mountain Fudge Cake: 6**
   10 L Bill Dauterive: 6**
    2 L Billionaire Fry: 6**
+   1 L Blernsball: 1
    1 L Blernsball: 2*
    4 L Blernsball: 6**
    4 L Bloody Mary Mix: 6**
@@ -267,6 +266,7 @@
    1 L Home Ec Teacher: 1
    4 L Home Ec Teacher: 6**
    2 L Honey Mustache Stewie: 6**
+   1 L Horse Camp: 1
    3 L Horse Camp: 6**
    2 L Horse Rider Tina: 6**
    1 L Hose to the Head: 6**
@@ -282,11 +282,11 @@
    1 L Jacked on Bots: 2*
    6 L Jacked on Bots: 6**
    1 L James Woods High School: 1
-   1 L James Woods High School: 2*
-   6 L James Woods High School: 6**
+   7 L James Woods High School: 6**
    1 L Jealous Bobby: 1
    2 L Jealous Bobby: 6**
    7 L Jelly Bean Schnapps: 6**
+   1 L Jerome's Mother: 2*
    5 L Jerome's Mother: 6**
    1 L Jimmy Jr. Horse Costume: 1
    4 L Jimmy Jr. Horse Costume: 6**
@@ -394,7 +394,7 @@
    1 L Mutilated Therapy Dolls: 2*
    6 L Mutilated Therapy Dolls: 6**
    1 L Nanny Cam: 1
-   1 L Nanny Cam: 6**
+   5 L Nanny Cam: 6**
    1 L Nanny Natalia: 2*
    5 L Nanny Natalia: 6**
    2 L Napkin Art: 6**
@@ -419,8 +419,7 @@
    2 L Party All the Time: 6**
    6 L Party in the Beer Tank: 6**
    1 L Pawtucket Patriot Ale: 1
-   1 L Pawtucket Patriot Ale: 2*
-   6 L Pawtucket Patriot Ale: 6**
+   7 L Pawtucket Patriot Ale: 6**
    2 L Pawtucket Peter: 6**
   10 L Peggy: 6**
    1 L Pendlingtonton Academy: 2*
@@ -444,20 +443,20 @@
    4 L Power Gym: 6**
    1 L Prescription Weed: 2*
    4 L Prescription Weed: 6**
+   1 L President Polar Bear: 1
+   1 L President Polar Bear: 2*
    1 L Presidential Fitness Toshi: 1
    5 L Presidential Fitness Toshi: 6**
    2 L Principal Peter: 6**
    1 L Principal Shepard: 2*
    2 L Principal Shepard: 6**
-   1 L Pro-Pain!: 1
-   4 L Pro-Pain!: 6**
+   5 L Pro-Pain!: 6**
    4 L Professor Baxter: 6**
    1 L Professor Farnsworth: 1
    7 L Professor Farnsworth: 6**
    4 L Purity Dads: 6**
    5 L Push Ups: 6**
-   1 L Quagmire: 1
-   5 L Quagmire: 6**
+   9 L Quagmire: 6**
    1 L Quahog College: 1
    3 L Quahog College: 6**
    1 L Quahog Martial Arts Academy: 2*
@@ -489,6 +488,7 @@
    1 L Rodeo Bobby: 2*
    1 L Rodeo Bobby: 6**
    1 L Roger Epstein Music: 2*
+   1 L Roger's Closet: 1
    3 L Roger's Closet: 6**
    9 L Roger's Sexy Shorts: 6**
   10 L Roger: 6**
@@ -523,6 +523,8 @@
    1 L Shrimpy Shrimps: 1
    4 L Shrimpy Shrimps: 6**
    1 L Shuttlecock Ring: 2*
+   1 L Signature Cocktail: 1
+   1 L Signature Cocktail: 6**
    1 L Ski Mask: 1
    1 L Ski Mask: 2*
    5 L Ski Mask: 6**
@@ -600,6 +602,7 @@
    6 L Tom Landry Middle School: 6**
    1 L Totally Normal Pants: 2*
    3 L Totally Normal Pants: 6**
+   1 L Toxic Shock: 1
    1 L Toxic Shock: 2*
    6 L Toxic Shock: 6**
    1 L Triple Mom Slap: 1
@@ -622,7 +625,7 @@
    3 L Wagstaff Whaler: 6**
    1 L Walking Man Exhibit: 1
    1 L Walking Man Exhibit: 2*
-   1 L Walking Man Exhibit: 6**
+   2 L Walking Man Exhibit: 6**
    7 L War Horse: 6**
    1 L Whale Hunter Amy: 6**
    1 L Whiskey Bartender: 1
@@ -690,7 +693,7 @@
    1 M Peter's Drawing: 6
    1 M Peter: 7*
    1 M Professor Farnsworth: 1**
-   1 M Quagmire: 4*
+   1 M Quagmire: 7*
    1 M Reverend Ping Ping: 5
    1 M Roger: 4**
    1 M Rupert Recalls: 6
@@ -703,6 +706,6 @@
    1 M The Bazooka Sharks: 4
    1 M Tina: 7*
    1 M Wagstaff Whaler: 6
-   1 M Walking Man Exhibit: 4
+   1 M Walking Man Exhibit: 6
    1 M Wong Casino: 1
    1 M Zapp Brannigan: 5*

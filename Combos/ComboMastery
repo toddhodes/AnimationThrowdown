@@ -2,6 +2,7 @@
 3 | Wingnut Amy
 3 | Whale Hunter Amy
 3 | War Horse
+3 | Unsharp Scissors Zapp
 3 | Trapeze Bob
 3 | Time for Hard Liquor
 3 | The Thinker Ape
@@ -30,6 +31,7 @@
 3 | Penguin Conservator
 3 | One Man Musical
 3 | Oil Receipts
+3 | Nanny Cam
 3 | Musical Linda
 3 | Music Video Stewie
 3 | Mission Doctor
@@ -87,7 +89,7 @@
 2 | Zapp Figurines | 30
 2 | Yacht Dreams
 2 | Wine Tasting Linda | 50
-2 | Wine & Paint Quagmire
+2 | Wine & Paint Quagmire | 90
 2 | Will of a Housewife
 2 | Wild Francine
 2 | Wild Brian
@@ -98,7 +100,7 @@
 2 | VR Gaming Bobby | 35
 2 | VIP Cruise | 45
 2 | Upgraded Hermes
-2 | Unsharp Scissors Zapp
+2 | Umbriel
 2 | Two Butt Goat
 2 | Trippy Zoidberg | 20
 2 | Tree | 65
@@ -145,7 +147,7 @@
 2 | Rooftop Drunk
 2 | Roger Goes Down | 30
 2 | Road Kill | 100
-2 | River Burned | 60
+2 | River Burned
 2 | Rich Leela | 45
 2 | Record Holder Stan | 30
 2 | Rapture Stan
@@ -238,7 +240,7 @@
 2 | Feed the Dodo | 30
 2 | Fart in a Jar | 75
 2 | Falconer Hayley | 35
-2 | Falcon Attack Quagmire
+2 | Falcon Attack Quagmire | 70
 2 | Fake Son Gene | 80
 2 | Eyephone Fry | 65
 2 | Explorer Stan | 30
@@ -301,6 +303,7 @@
 2 | Bender's Orphanarium | 25
 2 | Bender's Clowns | 60
 2 | Bender in Love | 55
+2 | Beer Bottle Toast | 10
 2 | Baseball Bobby | 15
 2 | Balloon Sniper | 45
 2 | Balloon Fight | 15
@@ -373,6 +376,7 @@
 1 | Kidney Killer | 25
 1 | K Pop Peter | 5
 1 | Joystick Steve | 110
+1 | Hot Cocoa Gene | 15
 1 | Honeybucket Student | 65
 1 | Honey Mustache Stewie | 5
 1 | Home School Peter | 50
@@ -416,7 +420,6 @@
 1 | Benderbrau | 50
 1 | Bender's Electric Eel | 55
 1 | Belcher Date Night | 115
-1 | Beer Bottle Toast | 35
 1 | Battle Axe Peggy | 5
 1 | Baseball Dale | 5
 1 | Bakaneko Fighter Louise | 5
@@ -426,7 +429,7 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 129200
+ Mastery Stone | 140250
  Screen Repairer | 130
  Maracas Peter | 130
  Flag Defender | 130
@@ -435,7 +438,6 @@
  Home School Chris | 115
  Santa Bender | 105
  Heavenly Hank | 105
- Army Quagmire | 105
  Magazine Reader Francine | 90
  Working Girl Tina | 85
  Money Retriever | 85
@@ -444,6 +446,7 @@
  Mathy Cathy | 80
  Love Potion | 80
  Frykowski | 80
+ Vengeance Quagmire | 70
  Senora Hill | 70
  I Get What I Want | 70
  Rambo Lois | 65
@@ -478,7 +481,6 @@
  Smoke Bomb | 20
  Rocker Bullock | 20
  Party Crashers | 20
- Hot Cocoa Gene | 15
  Douchebag Chris | 15
  Wheels Steve | 10
  Skydiving Peggy | 10
@@ -492,6 +494,7 @@
  Keyboardist Dale | 10
  Karaoke Zapp | 10
  Gut Punch Zapp | 10
+ Griffin and Quagmire | 10
  Evil Stepsister | 10
  Dodgeball Meg | 10
  Cheerleader Lois | 10
