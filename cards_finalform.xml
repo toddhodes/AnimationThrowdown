@@ -50656,6 +50656,117 @@
 	    <health>62</health>
 	  </upgrade>
 	</unit>
+	<unit>
+	  <id>140118</id>
+	  <combo_card_id>45142</combo_card_id>
+	  <attack>8</attack>
+	  <health>33</health>
+	  <name>Steak Cows</name>
+	  <picture>KOTH_SteakCows</picture>
+	  <asset_bundle>47</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>4</type>
+	  <trait>animal</trait>
+	  <skill id="hijack" x="5"/>
+	  <skill id="inspire" x="4"/>
+	  <skill id="leech" x="7"/>
+	  <card_type>object</card_type>
+	  <hidden>1</hidden>
+	  <upgrade>
+	    <level>2</level>
+	    <health>34</health>
+	    <skill id="leech" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>36</health>
+	    <skill id="inspire" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>9</attack>
+	    <health>38</health>
+	    <skill id="leech" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>40</health>
+	    <skill id="hijack" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>10</attack>
+	    <health>41</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>43</health>
+	    <skill id="leech" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>11</attack>
+	    <health>45</health>
+	    <skill id="inspire" x="6"/>
+	    <skill id="leech" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>47</health>
+	    <skill id="hijack" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>12</attack>
+	    <health>48</health>
+	    <skill id="leech" x="12"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>50</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>13</attack>
+	    <health>52</health>
+	    <skill id="hijack" x="8"/>
+	    <skill id="inspire" x="7"/>
+	    <skill id="leech" x="13"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>54</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <attack>14</attack>
+	    <health>55</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>57</health>
+	    <skill id="leech" x="14"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>15</attack>
+	    <health>59</health>
+	    <skill id="hijack" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>61</health>
+	    <skill id="inspire" x="8"/>
+	    <skill id="leech" x="15"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>16</attack>
+	    <health>63</health>
+	    <skill id="leech" x="16"/>
+	  </upgrade>
+	</unit>	
 	<!-- end King of the Hill Final Forms -->
 	<!-- Futurama Final Forms -->
 	

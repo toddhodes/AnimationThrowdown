@@ -1489,7 +1489,7 @@
 		<picture>chris_mythic</picture>
 		<asset_bundle>26</asset_bundle>
 		<item_name>Chris Fragment</item_name>		
-		<item_desc>Collect Chris Fragments to craft and upgrade a Mythic Lois card!</item_desc>	
+		<item_desc>Collect Chris Fragments to craft and upgrade a Mythic Chris card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>18</item_bundle_id>	
         <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
