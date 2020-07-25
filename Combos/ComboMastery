@@ -63,6 +63,7 @@
 3 | Eggnog Roger
 3 | Drunk Peter
 3 | Drunk Peggy
+3 | Dream Millionaire
 3 | Dojo Joe
 3 | Devil Hank
 3 | Devil Bobby
@@ -77,6 +78,7 @@
 3 | Cognac Bender
 3 | Claw-Plach Fry
 3 | Class Spanker
+3 | Burger Hermes
 3 | Brian Statue
 3 | Boy Witch Steve
 3 | Blueberry Delivery Girl
@@ -99,7 +101,7 @@
 2 | Wild Brian
 2 | Whiskey Drunk Brian
 2 | Water Nympho
-2 | Viking Peter | 15
+2 | Viking Peter | 55
 2 | Victory Dance | 40
 2 | VR Gaming Bobby | 35
 2 | VIP Cruise | 45
@@ -180,8 +182,7 @@
 2 | Obedience School Brian | 10
 2 | Nurse Tina | 15
 2 | Nun Peggy
-2 | Nanny Cam | 45
-2 | Naked Tug of War | 40
+2 | Naked Tug of War | 100
 2 | Music Teacher Lois
 2 | Mural Restorer | 100
 2 | Mowing While Intoxicated | 10
@@ -249,7 +250,6 @@
 2 | Explorer Stan | 30
 2 | Dummy Fight | 20
 2 | Drunk Stan | 60
-2 | Dream Millionaire | 90
 2 | Dream Guitar | 50
 2 | Draw Me Tina | 70
 2 | Draw Me Gene
@@ -272,7 +272,7 @@
 2 | Crack Addict Stan
 2 | Coyote Fighter Chris
 2 | Country Club Steve | 55
-2 | Comic Artist Peter | 85
+2 | Comic Artist Peter | 100
 2 | Coach Farnsworth | 30
 2 | Cloud Painter | 100
 2 | Clothes Made of Cash | 20
@@ -296,16 +296,18 @@
 2 | Castanet Zoidberg | 70
 2 | Cartel Klaus | 65
 2 | Captain Leela | 35
+2 | Cadet Hill | 25
 2 | CIA Student | 70
 2 | Burgers and Fries Louise | 20
 2 | Burgerboss Bob | 100
+2 | Burger Addict Teddy | 45
 2 | Buff Fry
 2 | Boy Crazy | 25
 2 | Blueberry Picker | 95
 2 | Billionaire Fry | 75
 2 | Bible Study | 35
 2 | Bender's Orphanarium | 25
-2 | Bender's Clowns | 60
+2 | Bender's Clowns | 100
 2 | Bender in Love | 55
 2 | Beer Bottle Toast | 10
 2 | Baseball Bobby | 15
@@ -371,12 +373,14 @@
 1 | Medieval Hank | 5
 1 | Master Robaire | 25
 1 | Married Brian | 85
+1 | Magician Jimmy Jr. | 50
 1 | Little King Trashmouth | 5
 1 | Leela's Harpoon | 15
 1 | Laser Tag Brian | 25
 1 | Lady Bird | 15
 1 | Kiss and Clarinet | 10
 1 | Kidney Killer | 25
+1 | Keyboardist Dale | 5
 1 | K Pop Peter | 5
 1 | Joystick Steve | 110
 1 | Hot Cocoa Gene | 15
@@ -402,7 +406,7 @@
 1 | Drunk at the Clam | 5
 1 | Dog Meg
 1 | Dog Bone Stan | 5
-1 | Date Wine Zoidberg | 75
+1 | Date Wine Zoidberg | 125
 1 | DJ Buttercup | 10
 1 | Crayon Drawing | 5
 1 | Cough Syrup Drunk | 50
@@ -410,7 +414,6 @@
 1 | Cheerleader Peggy | 5
 1 | Chamber of Understanding | 100
 1 | Cake Knife | 20
-1 | Cadet Hill | 25
 1 | Butt Toucher Tina | 5
 1 | Burobu Addict | 15
 1 | Brainwashed Hayley | 5
@@ -423,6 +426,7 @@
 1 | Belcher Date Night | 115
 1 | Battle Axe Peggy | 5
 1 | Baseball Dale | 5
+1 | Baseball Beers | 95
 1 | Bakaneko Fighter Louise | 5
 1 | Assassin Bender | 20
 1 | Artsy Tina | 5
@@ -431,10 +435,13 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 169600
+ Mastery Stone | 178250
  Screen Repairer | 130
  Maracas Peter | 130
  Flag Defender | 130
+ Evening Beer Boomhauer | 130
+ Beefsquatch | 130
+ Army Quagmire | 130
  Too High to Drive | 120
  Mind Switcher Amy | 120
  Home School Chris | 115
@@ -442,12 +449,14 @@
  Heavenly Hank | 105
  Magazine Reader Francine | 90
  Working Girl Tina | 85
+ Never Have I Ever | 85
  Money Retriever | 85
  Kawaii Klaus | 85
  Anger Management Class | 85
  Mathy Cathy | 80
  Love Potion | 80
  Frykowski | 80
+ Beer Funnel Peter | 80
  Nacho Addict Bender | 75
  Martini Peggy | 75
  Zinc Saucier | 70
@@ -458,12 +467,12 @@
  Paranoid Louise | 65
  Space Walk | 60
  Sex Ed Peter | 60
- Magician Jimmy Jr. | 55
  Cubert Farnsworth | 55
  Klaus's Fish Wife | 50
  Girl Next Door Stewie | 50
  Spaceship Pilot | 45
  Delivery Boy | 45
+ Pick Up Lines | 40
  One Eyed Orphan | 35
  American Giggolo | 35
  Tuning Fork | 30
@@ -472,15 +481,17 @@
  Solid Gold Tuxedo | 30
  Skating Roger | 30
  Sexy Lifeguard | 30
- Salmon Fry | 30
  Mustache Maker | 30
  Junk Food Bill | 30
+ Dodgeball Louise | 30
  Christian Rock | 30
  Bob in the Wall | 30
  ADD Luanne | 30
+ 71 Ounce Beef Bobby | 30
  Steve Crossing the Alps | 25
  Delivery Marmoset | 25
  Smoke Bomb | 20
+ Sister Peter | 20
  Rocker Bullock | 20
  Party Crashers | 20
  Douchebag Chris | 15
@@ -492,7 +503,6 @@
  Robot Devil's Hands | 10
  Reverse Stink Hold | 10
  Klaus's Comic | 10
- Keyboardist Dale | 10
  Karaoke Zapp | 10
  Gut Punch Zapp | 10
  Griffin and Quagmire | 10
