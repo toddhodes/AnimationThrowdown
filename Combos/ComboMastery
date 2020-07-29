@@ -3,6 +3,7 @@
 3 | Whiskey Bartender
 3 | Whale Hunter Amy
 3 | War Horse
+3 | Viking Peter
 3 | Unsharp Scissors Zapp
 3 | Trapeze Bob
 3 | Time for Hard Liquor
@@ -78,6 +79,7 @@
 3 | Cognac Bender
 3 | Claw-Plach Fry
 3 | Class Spanker
+3 | Cham-Pag-En Zapp
 3 | Burger Hermes
 3 | Brian Statue
 3 | Boy Witch Steve
@@ -101,7 +103,6 @@
 2 | Wild Brian
 2 | Whiskey Drunk Brian
 2 | Water Nympho
-2 | Viking Peter | 55
 2 | Victory Dance | 40
 2 | VR Gaming Bobby | 35
 2 | VIP Cruise | 45
@@ -178,7 +179,7 @@
 2 | Opera Singer Leela
 2 | Opera Francine | 40
 2 | One Art Please | 30
-2 | Oktoberfest Leela | 20
+2 | Oktoberfest Leela | 60
 2 | Obedience School Brian | 10
 2 | Nurse Tina | 15
 2 | Nun Peggy
@@ -311,6 +312,7 @@
 2 | Bender in Love | 55
 2 | Beer Bottle Toast | 10
 2 | Baseball Bobby | 15
+2 | Baseball Beers | 95
 2 | Balloon Sniper | 45
 2 | Balloon Fight | 15
 2 | Bad Tina | 100
@@ -356,6 +358,7 @@
 1 | Raleigh St. Augustine | 50
 1 | RC Helicopter | 5
 1 | Quicky Kiss-it | 55
+1 | Princess Little Piddles | 35
 1 | Poppler Jingle Fry | 20
 1 | Polling Peggy | 35
 1 | Playlist Meg
@@ -363,6 +366,7 @@
 1 | Party Beer Implant | 5
 1 | Owl Stewie | 5
 1 | Old Steve | 10
+1 | Never Have I Ever | 80
 1 | NRA Member | 25
 1 | Mr. Deliver | 20
 1 | Motivational Poster
@@ -393,6 +397,7 @@
 1 | Guenter | 10
 1 | Groupie Francine | 5
 1 | Greaser Stan | 25
+1 | Girl Next Door Stewie | 45
 1 | Gargoyle Hunter | 5
 1 | Garden Shovel Bobby
 1 | Frydo | 5
@@ -426,7 +431,6 @@
 1 | Belcher Date Night | 115
 1 | Battle Axe Peggy | 5
 1 | Baseball Dale | 5
-1 | Baseball Beers | 95
 1 | Bakaneko Fighter Louise | 5
 1 | Assassin Bender | 20
 1 | Artsy Tina | 5
@@ -435,7 +439,7 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 178250
+ Mastery Stone | 171950
  Screen Repairer | 130
  Maracas Peter | 130
  Flag Defender | 130
@@ -447,9 +451,9 @@
  Home School Chris | 115
  Santa Bender | 105
  Heavenly Hank | 105
+ Evening Beer Dale | 105
  Magazine Reader Francine | 90
  Working Girl Tina | 85
- Never Have I Ever | 85
  Money Retriever | 85
  Kawaii Klaus | 85
  Anger Management Class | 85
@@ -469,10 +473,10 @@
  Sex Ed Peter | 60
  Cubert Farnsworth | 55
  Klaus's Fish Wife | 50
- Girl Next Door Stewie | 50
  Spaceship Pilot | 45
  Delivery Boy | 45
  Pick Up Lines | 40
+ Counting Klaus | 40
  One Eyed Orphan | 35
  American Giggolo | 35
  Tuning Fork | 30
@@ -482,6 +486,7 @@
  Skating Roger | 30
  Sexy Lifeguard | 30
  Mustache Maker | 30
+ Modest Painting | 30
  Junk Food Bill | 30
  Dodgeball Louise | 30
  Christian Rock | 30
@@ -499,6 +504,7 @@
  Skydiving Peggy | 10
  Sharpshooter Bobby | 10
  Shark Killer | 10
+ Secret Asian Man | 10
  Scooty-Puff Jr | 10
  Robot Devil's Hands | 10
  Reverse Stink Hold | 10
