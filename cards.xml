@@ -64014,97 +64014,113 @@
 		<asset_bundle>67</asset_bundle>
 		<release_time>1596045600</release_time>
 		<attack>11</attack>
-		<health>46</health>
+		<health>33</health>
 		<rarity>4</rarity>
 		<skill id="inspire" x="4"/>
-		<skill id="heal" x="5"/>
+		<skill id="heal" x="4"/>
 		<skill id="leech" x="6"/>
 		<type>5</type>
 		<trait>rich</trait>
 		<set>3</set>
 		<upgrade>
 			<level>2</level>
-			<attack>12</attack>
+			<health>34</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
+			<health>35</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>36</health>
+			<skill id="inspire" x="4"/>
+			<skill id="heal" x="5"/>
+			<skill id="leech" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>37</health>
 			<skill id="inspire" x="4"/>
 			<skill id="heal" x="5"/>
 			<skill id="leech" x="7"/>
 		</upgrade>
 		<upgrade>
-			<level>4</level>
-			<skill id="inspire" x="4"/>
-			<skill id="heal" x="6"/>
-			<skill id="leech" x="7"/>
-		</upgrade>
-		<upgrade>
-			<level>5</level>
-			<skill id="inspire" x="5"/>
-			<skill id="heal" x="6"/>
-			<skill id="leech" x="7"/>
-		</upgrade>
-		<upgrade>
 			<level>6</level>
 			<attack>13</attack>
+			<skill id="inspire" x="5"/>
+			<skill id="heal" x="5"/>
+			<skill id="leech" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
+			<health>38</health>
 			<skill id="inspire" x="5"/>
 			<skill id="heal" x="6"/>
-			<skill id="leech" x="8"/>
+			<skill id="leech" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
+			<health>39</health>
 			<skill id="inspire" x="5"/>
-			<skill id="heal" x="7"/>
+			<skill id="heal" x="6"/>
 			<skill id="leech" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
+			<health>40</health>
+			<skill id="inspire" x="6"/>
+			<skill id="heal" x="6"/>
+			<skill id="leech" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>41</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>42</health>
 			<skill id="inspire" x="6"/>
 			<skill id="heal" x="7"/>
 			<skill id="leech" x="8"/>
 		</upgrade>
 		<upgrade>
-			<level>10</level>
-			<attack>14</attack>
+			<level>12</level>
+			<health>43</health>
 			<skill id="inspire" x="6"/>
 			<skill id="heal" x="7"/>
-			<skill id="leech" x="9"/>
-		</upgrade>
-		<upgrade>
-			<level>11</level>
-			<skill id="inspire" x="6"/>
-			<skill id="heal" x="8"/>
-			<skill id="leech" x="9"/>
-		</upgrade>
-		<upgrade>
-			<level>12</level>
-			<skill id="inspire" x="7"/>
-			<skill id="heal" x="8"/>
 			<skill id="leech" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
 			<attack>15</attack>
+			<skill id="inspire" x="7"/>
+			<skill id="heal" x="7"/>
+			<skill id="leech" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
+			<health>44</health>
+			<skill id="inspire" x="7"/>
+			<skill id="heal" x="8"/>
+			<skill id="leech" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>45</health>
 			<skill id="inspire" x="7"/>
 			<skill id="heal" x="8"/>
 			<skill id="leech" x="10"/>
 		</upgrade>
 		<upgrade>
-			<level>15</level>
+			<level>16</level>
+			<health>46</health>
 			<attack>16</attack>
 		</upgrade>
 		<upgrade>
-			<level>16</level>
-			<health>47</health>
-		</upgrade>
-		<upgrade>
 			<level>17</level>
+			<health>47</health>
 			<skill id="inspire" x="7"/>
 			<skill id="heal" x="9"/>
 			<skill id="leech" x="10"/>
