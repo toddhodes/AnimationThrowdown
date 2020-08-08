@@ -13583,7 +13583,117 @@
 	    <skill id="pierce" x="16"/>
 	  </upgrade>
 	</unit>
-			
+	<unit>
+	<id>110141</id>
+	<combo_card_id>15119</combo_card_id>
+	<attack>10</attack>
+	<health>35</health>
+	<name>Teen LaQueefa</name>
+	<desc>She'd be in the history books, if anyone kept track of this nonsense.</desc>
+	<picture>fg_teenlaqueefa</picture>
+	<asset_bundle>22</asset_bundle>
+	<rarity>4</rarity>
+	<set>3001</set>
+	<type>1</type>
+	<trait>athletic</trait>
+	<skill id="inspire" x="4" y="athletic"/>
+	<skill id="weaken" x="5"/>
+	<skill id="poison" x="6"/>
+	<card_type>object</card_type>
+	<hidden>1</hidden>
+	<upgrade>
+		<level>2</level>
+		<health>36</health>
+		<skill id="poison" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>38</health>
+		<skill id="weaken" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<attack>11</attack>
+		<health>39</health>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>41</health>
+		<skill id="inspire" x="5" y="athletic"/>
+		<skill id="poison" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<attack>12</attack>
+		<health>42</health>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>44</health>
+		<skill id="weaken" x="7"/>
+		<skill id="poison" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>45</health>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<attack>13</attack>
+		<health>47</health>
+		<skill id="inspire" x="6" y="athletic"/>
+		<skill id="weaken" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>48</health>
+		<skill id="poison" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<attack>14</attack>
+		<health>50</health>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>51</health>
+		<skill id="inspire" x="7" y="athletic"/>
+		<skill id="weaken" x="9"/>
+		<skill id="poison" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>53</health>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<attack>15</attack>
+		<health>54</health>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>56</health>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<attack>16</attack>
+		<health>57</health>
+		<skill id="weaken" x="10"/>
+		<skill id="poison" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>59</health>
+		<skill id="inspire" x="8" y="athletic"/>
+		<skill id="poison" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<attack>17</attack>
+		<health>61</health>
+		<skill id="weaken" x="11"/>
+	</upgrade>
+	</unit>		
 <!-- end Family Guy Final Forms -->
 	
 	<!-- American Dad Final Forms -->
