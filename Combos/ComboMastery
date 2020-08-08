@@ -37,6 +37,7 @@
 3 | One Man Musical
 3 | Oil Receipts
 3 | Nanny Cam
+3 | Naked Tug of War
 3 | Musical Linda
 3 | Music Video Stewie
 3 | Mission Doctor
@@ -79,6 +80,7 @@
 3 | Cognac Bender
 3 | Claw-Plach Fry
 3 | Class Spanker
+3 | Chef Cat Munchies
 3 | Cham-Pag-En Zapp
 3 | Burger Hermes
 3 | Brian Statue
@@ -117,6 +119,7 @@
 2 | The Equestranauts
 2 | The Billdozer
 2 | Tennis Stan
+2 | Teen La Queefa
 2 | Teagle | 45
 2 | Tattooed Fat Guy | 30
 2 | Talent Show Lois | 20
@@ -149,7 +152,7 @@
 2 | Santa Bill | 100
 2 | Sandwitch | 75
 2 | Salmon Fry | 40
-2 | S and M Peter | 55
+2 | S and M Peter | 100
 2 | S and M Lois | 60
 2 | Rough Night Stan | 30
 2 | Roger Goes Down | 30
@@ -172,7 +175,7 @@
 2 | Patriotic Dale | 100
 2 | Party All the Time | 85
 2 | Pan Flute Stewie | 70
-2 | Painting Montage Joe | 10
+2 | Painting Montage Joe | 60
 2 | Painting Class Joe | 90
 2 | Paintball Hank | 5
 2 | Paddlin' Peggy | 30
@@ -183,7 +186,6 @@
 2 | Obedience School Brian | 10
 2 | Nurse Tina | 15
 2 | Nun Peggy
-2 | Naked Tug of War | 100
 2 | Music Teacher Lois
 2 | Mural Restorer | 100
 2 | Mowing While Intoxicated | 10
@@ -195,7 +197,7 @@
 2 | Michael Dangle-low | 60
 2 | Meg Portrait | 55
 2 | Meatman Sculptor
-2 | Masked Hero
+2 | Masked Hero | 100
 2 | Mascot Fighter Stan | 85
 2 | Marionette Louise | 20
 2 | Marionette Chris | 45
@@ -235,12 +237,13 @@
 2 | Golfer Amy
 2 | Golf Club Amy
 2 | Goddess of Beauty | 35
+2 | Ghost Boomhauer
 2 | Garbage Shot Linda | 50
 2 | Garage Rock Chris
 2 | Gaga Ball | 30
 2 | Fry's Painting | 85
 2 | Fry's Macaroni Art | 30
-2 | Fry in Robot Disguise
+2 | Fry in Robot Disguise | 10
 2 | Free Weed Hayley | 100
 2 | Feed the Dodo | 30
 2 | Fart in a Jar | 75
@@ -288,9 +291,7 @@
 2 | Children's Author | 35
 2 | Chicken Fight | 40
 2 | Chick-Chicken Chick Fight | 5
-2 | Chef Cat Munchies
 2 | Champagne Toast Fry | 45
-2 | Cham-Pag-En Zapp | 10
 2 | Censor Stan
 2 | Celebeartions | 20
 2 | Catcher Luanne | 35
@@ -358,7 +359,7 @@
 1 | Raleigh St. Augustine | 50
 1 | RC Helicopter | 5
 1 | Quicky Kiss-it | 55
-1 | Princess Little Piddles | 35
+1 | Princess Little Piddles | 75
 1 | Poppler Jingle Fry | 20
 1 | Polling Peggy | 35
 1 | Playlist Meg
@@ -421,7 +422,7 @@
 1 | Cake Knife | 20
 1 | Butt Toucher Tina | 5
 1 | Burobu Addict | 15
-1 | Brainwashed Hayley | 5
+1 | Brainwashed Hayley | 25
 1 | Booty Shaking Drunk | 5
 1 | Body Paint Date | 5
 1 | Biathlon Meg | 5
@@ -439,19 +440,22 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 171950
+ Mastery Stone | 194950
  Screen Repairer | 130
  Maracas Peter | 130
  Flag Defender | 130
  Evening Beer Boomhauer | 130
  Beefsquatch | 130
  Army Quagmire | 130
+ Armadillo Boomhauer | 130
  Too High to Drive | 120
  Mind Switcher Amy | 120
  Home School Chris | 115
+ Furry Bullock | 115
  Santa Bender | 105
  Heavenly Hank | 105
  Evening Beer Dale | 105
+ Maxi Paddy | 100
  Magazine Reader Francine | 90
  Working Girl Tina | 85
  Money Retriever | 85
@@ -467,6 +471,7 @@
  Vengeance Quagmire | 70
  Senora Hill | 70
  I Get What I Want | 70
+ Bondage Klaus | 70
  Rambo Lois | 65
  Paranoid Louise | 65
  Space Walk | 60
@@ -476,7 +481,6 @@
  Spaceship Pilot | 45
  Delivery Boy | 45
  Pick Up Lines | 40
- Counting Klaus | 40
  One Eyed Orphan | 35
  American Giggolo | 35
  Tuning Fork | 30
@@ -488,6 +492,7 @@
  Mustache Maker | 30
  Modest Painting | 30
  Junk Food Bill | 30
+ Emcee Stewie | 30
  Dodgeball Louise | 30
  Christian Rock | 30
  Bob in the Wall | 30
@@ -501,6 +506,7 @@
  Party Crashers | 20
  Douchebag Chris | 15
  Wheels Steve | 10
+ Stan's Grill | 10
  Skydiving Peggy | 10
  Sharpshooter Bobby | 10
  Shark Killer | 10
@@ -515,6 +521,7 @@
  Evil Stepsister | 10
  Dodgeball Meg | 10
  Cheerleader Lois | 10
+ Prom Luanne | 5
  Ecstacy Francine | 5
  Charts and Graphs | 5
  Boombox Teddy | 5
