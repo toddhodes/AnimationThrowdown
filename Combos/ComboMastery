@@ -4,6 +4,8 @@
 3 | Whale Hunter Amy
 3 | War Horse
 3 | Viking Peter
+3 | VIP Cruise
+3 | VIP Chris
 3 | Unsharp Scissors Zapp
 3 | Trapeze Bob
 3 | Time for Hard Liquor
@@ -56,11 +58,13 @@
 3 | High School Linda
 3 | Heavy Metal Hayley
 3 | Gingerbread Sculptor
+3 | Ghost Boomhauer
 3 | Fur Coat Lois
 3 | Freezerdome Gene
 3 | Fowl Fighter Teddy
 3 | Food Addict Leela
 3 | Fever Dreams
+3 | Fart in a Jar
 3 | Emu Wrangler
 3 | Eggnog Roger
 3 | Drunk Peter
@@ -107,7 +111,6 @@
 2 | Water Nympho
 2 | Victory Dance | 40
 2 | VR Gaming Bobby | 35
-2 | VIP Cruise | 45
 2 | Upgraded Hermes
 2 | Umbriel
 2 | Two Butt Goat
@@ -157,7 +160,7 @@
 2 | Rough Night Stan | 30
 2 | Roger Goes Down | 30
 2 | Road Kill | 100
-2 | Rich Leela | 45
+2 | Rich Leela | 100
 2 | Record Holder Stan | 30
 2 | Rapture Stan
 2 | QB Boomhauer | 5
@@ -237,7 +240,6 @@
 2 | Golfer Amy
 2 | Golf Club Amy
 2 | Goddess of Beauty | 35
-2 | Ghost Boomhauer
 2 | Garbage Shot Linda | 50
 2 | Garage Rock Chris
 2 | Gaga Ball | 30
@@ -246,13 +248,13 @@
 2 | Fry in Robot Disguise | 10
 2 | Free Weed Hayley | 100
 2 | Feed the Dodo | 30
-2 | Fart in a Jar | 75
 2 | Falconer Hayley | 35
 2 | Falcon Attack Quagmire | 70
 2 | Fake Son Gene | 80
 2 | Eyephone Fry | 65
 2 | Explorer Stan | 30
 2 | Dummy Fight | 20
+2 | Duke
 2 | Drunk Stan | 60
 2 | Dream Guitar | 50
 2 | Draw Me Tina | 70
@@ -275,13 +277,14 @@
 2 | Crack Addicted Fish | 55
 2 | Crack Addict Stan
 2 | Coyote Fighter Chris
-2 | Country Club Steve | 55
+2 | Country Club Steve | 85
+2 | Counting Klaus | 10
 2 | Comic Artist Peter | 100
 2 | Coach Farnsworth | 30
 2 | Cloud Painter | 100
 2 | Clothes Made of Cash | 20
 2 | Claw Machine | 5
-2 | Cigarette Addicts | 50
+2 | Cigarette Addicts
 2 | Church Wine Drunk | 55
 2 | Chunky Blast Offs
 2 | Christmas Trap | 65
@@ -407,7 +410,6 @@
 1 | Fart School Louise | 25
 1 | Empty Bowl Painting | 5
 1 | Easter Bunny Peter | 45
-1 | Duke | 25
 1 | Duh-Vinci Farnsworth | 60
 1 | Drunk at the Clam | 5
 1 | Dog Meg
@@ -431,7 +433,7 @@
 1 | Bender's Electric Eel | 55
 1 | Belcher Date Night | 115
 1 | Battle Axe Peggy | 5
-1 | Baseball Dale | 5
+1 | Baseball Dale | 25
 1 | Bakaneko Fighter Louise | 5
 1 | Assassin Bender | 20
 1 | Artsy Tina | 5
@@ -440,8 +442,10 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 194950
+ Mastery Stone | 208250
  Screen Repairer | 130
+ Rich Bobby | 130
+ Maxi Paddy | 130
  Maracas Peter | 130
  Flag Defender | 130
  Evening Beer Boomhauer | 130
@@ -451,11 +455,11 @@
  Too High to Drive | 120
  Mind Switcher Amy | 120
  Home School Chris | 115
+ High Roller Stewie | 115
  Furry Bullock | 115
  Santa Bender | 105
  Heavenly Hank | 105
- Evening Beer Dale | 105
- Maxi Paddy | 100
+ Bondage Klaus | 100
  Magazine Reader Francine | 90
  Working Girl Tina | 85
  Money Retriever | 85
@@ -471,7 +475,6 @@
  Vengeance Quagmire | 70
  Senora Hill | 70
  I Get What I Want | 70
- Bondage Klaus | 70
  Rambo Lois | 65
  Paranoid Louise | 65
  Space Walk | 60
@@ -518,6 +521,7 @@
  Karaoke Zapp | 10
  Gut Punch Zapp | 10
  Griffin and Quagmire | 10
+ Freshman Chris | 10
  Evil Stepsister | 10
  Dodgeball Meg | 10
  Cheerleader Lois | 10
