@@ -25,6 +25,7 @@
 3 | Sledding Louise
 3 | Skiing Leela
 3 | Shoplift Addict
+3 | Shop Teacher Hank
 3 | Santa Killer Steve
 3 | Santa Killer Hayley
 3 | Rooftop Drunk
@@ -55,6 +56,7 @@
 3 | Knife Fight Stewie
 3 | Karate Bender
 3 | Jose Servo
+3 | Home Ec Teacher
 3 | High School Linda
 3 | Heavy Metal Hayley
 3 | Gingerbread Sculptor
@@ -84,6 +86,7 @@
 3 | Cognac Bender
 3 | Claw-Plach Fry
 3 | Class Spanker
+3 | Cigarette Addicts
 3 | Chef Cat Munchies
 3 | Cham-Pag-En Zapp
 3 | Burger Hermes
@@ -144,7 +147,6 @@
 2 | Slow Dance Jimmy Jr. | 10
 2 | Slip 'n Slide Bob | 60
 2 | Sleighing Tonight
-2 | Shop Teacher Hank | 15
 2 | Sexy Dance Fighting
 2 | Sexpun T'Come | 90
 2 | Sewer Surfer Fry | 60
@@ -186,7 +188,7 @@
 2 | Opera Francine | 40
 2 | One Art Please | 30
 2 | Oktoberfest Leela | 60
-2 | Obedience School Brian | 10
+2 | Obedience School Brian
 2 | Nurse Tina | 15
 2 | Nun Peggy
 2 | Music Teacher Lois
@@ -196,7 +198,7 @@
 2 | Mocktrial Louise
 2 | Mind Switcher Farnsworth | 65
 2 | Military Tux Bill | 15
-2 | Mike Pulaski | 30
+2 | Mike Pulaski | 60
 2 | Michael Dangle-low | 60
 2 | Meg Portrait | 55
 2 | Meatman Sculptor
@@ -210,7 +212,7 @@
 2 | Leela Balloon Art
 2 | Laser Tag Stan | 25
 2 | Laser Razor
-2 | Lab Student Meg | 30
+2 | Lab Student Meg | 100
 2 | Kuchi Kopi Sculptor | 5
 2 | Klepto Bender
 2 | Katz | 25
@@ -225,7 +227,6 @@
 2 | Hottyz Bill | 30
 2 | Hose to the Head
 2 | Horse Rider Tina
-2 | Home Ec Teacher | 70
 2 | Hip Hop Bob | 60
 2 | High School Bill
 2 | Heckler Zoidberg | 100
@@ -284,7 +285,6 @@
 2 | Cloud Painter | 100
 2 | Clothes Made of Cash | 20
 2 | Claw Machine | 5
-2 | Cigarette Addicts
 2 | Church Wine Drunk | 55
 2 | Chunky Blast Offs
 2 | Christmas Trap | 65
@@ -400,14 +400,15 @@
 1 | Half-Horse Peter | 55
 1 | Guenter | 10
 1 | Groupie Francine | 5
-1 | Greaser Stan | 25
+1 | Greaser Stan | 120
 1 | Girl Next Door Stewie | 45
 1 | Gargoyle Hunter | 5
 1 | Garden Shovel Bobby
 1 | Frydo | 5
 1 | Freezerdome Linda | 35
 1 | Finch Leela | 5
-1 | Fart School Louise | 25
+1 | Fart School Louise | 95
+1 | Evening Beer Dale | 100
 1 | Empty Bowl Painting | 5
 1 | Easter Bunny Peter | 45
 1 | Duh-Vinci Farnsworth | 60
@@ -442,7 +443,7 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 208250
+ Mastery Stone | 216900
  Screen Repairer | 130
  Rich Bobby | 130
  Maxi Paddy | 130
@@ -452,6 +453,7 @@
  Beefsquatch | 130
  Army Quagmire | 130
  Armadillo Boomhauer | 130
+ Zac Sawyer | 120
  Too High to Drive | 120
  Mind Switcher Amy | 120
  Home School Chris | 115
@@ -465,6 +467,7 @@
  Money Retriever | 85
  Kawaii Klaus | 85
  Anger Management Class | 85
+ Robot House | 80
  Mathy Cathy | 80
  Love Potion | 80
  Frykowski | 80
@@ -479,6 +482,7 @@
  Paranoid Louise | 65
  Space Walk | 60
  Sex Ed Peter | 60
+ Summer Lovin | 55
  Cubert Farnsworth | 55
  Klaus's Fish Wife | 50
  Spaceship Pilot | 45
@@ -495,6 +499,7 @@
  Mustache Maker | 30
  Modest Painting | 30
  Junk Food Bill | 30
+ Freshman Chris | 30
  Emcee Stewie | 30
  Dodgeball Louise | 30
  Christian Rock | 30
@@ -510,6 +515,7 @@
  Douchebag Chris | 15
  Wheels Steve | 10
  Stan's Grill | 10
+ Spray on Army Fry | 10
  Skydiving Peggy | 10
  Sharpshooter Bobby | 10
  Shark Killer | 10
@@ -521,7 +527,7 @@
  Karaoke Zapp | 10
  Gut Punch Zapp | 10
  Griffin and Quagmire | 10
- Freshman Chris | 10
+ Fowl Fighter Linda | 10
  Evil Stepsister | 10
  Dodgeball Meg | 10
  Cheerleader Lois | 10
