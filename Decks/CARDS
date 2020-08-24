@@ -1,11 +1,13 @@
    1 E Army Quagmire: 5**
    1 E Life Drawing Hayley: 5
    1 E Private Brian: 5**
+   1 E Roger Goes Down: 5**
    1 E Roller Derby Hayley: 5**
    1 E S and M Lois: 5*
    1 E Sexpun T'Come: 5**
    1 E Shop Teacher Hank: 5**
    9 L $300 Haircut: 6**
+   1 L 3 Is More Than 4: 1
    1 L 3 Is More Than 4: 2*
    4 L 3 Is More Than 4: 6**
    9 L 3004 Olympics: 6**
@@ -53,9 +55,7 @@
    1 L Bending School: 2*
    4 L Bending School: 6**
    9 L Bernadette Baker: 6**
-   1 L Beta House: 1
-   1 L Beta House: 2*
-   2 L Beta House: 6**
+   3 L Beta House: 6**
    1 L Biathlon Meg: 2*
    1 L Biathlon Meg: 6**
    1 L Bible Study: 1
@@ -112,8 +112,10 @@
    1 L Capoeira Reginald: 2*
    1 L Capoeira Reginald: 6**
    3 L Cartel Klaus: 6**
+   1 L Cat Guards: 1
    7 L Cat Guards: 6**
    8 L Cat with Gun: 6**
+   1 L Caulk Gun: 1
    1 L Caulk Gun: 6**
    8 L Cham-Pag-En Zapp: 6**
    9 L Champagne Toast Fry: 6**
@@ -199,6 +201,7 @@
    1 L Fake Son Gene: 6**
    1 L Falcon Attack Quagmire: 6**
    1 L Falconer Hayley: 6**
+   1 L Fantasy Figurines: 1
    6 L Fantasy Figurines: 6**
    1 L Farnsworth's Cat: 6**
    1 L Fart School Jimmy Jr.: 2*
@@ -210,7 +213,7 @@
    7 L Fever Dreams: 6**
    1 L Film Scissors: 1
    3 L Film Scissors: 6**
-   1 L Finger Gun Gayle: 1
+   1 L Finger Gun Gayle: 2*
    1 L Finger Gun Gayle: 6**
    5 L Fischoeder Mansion: 6**
    9 L Float Kickers: 6**
@@ -234,8 +237,7 @@
    1 L Giant Pandas: 2*
    4 L Giant Pandas: 6**
    1 L Gingerbread Sculptor: 6**
-   1 L Goggles Cat: 2*
-   2 L Goggles Cat: 6**
+   3 L Goggles Cat: 6**
    1 L Golden Fiddle: 2*
    2 L Golden Fiddle: 6**
    3 L Golden Goose: 6**
@@ -253,8 +255,7 @@
   10 L Hank Hill: 6**
    3 L Hatchet Boomhauer: 6**
    1 L Hayley Potter: 6**
-   1 L Hayley: 1
-   1 L Hayley: 2*
+   2 L Hayley: 6*
    5 L Hayley: 6**
    9 L Headmistress Mahoney: 6**
    1 L Heat Packing Priest: 1
@@ -291,9 +292,11 @@
    1 L Human Horn: 2*
    5 L Hypnotoad: 6**
    4 L I am Mona: 6**
+   1 L Iraq Lobster: 1
    1 L Iraq Lobster: 2*
    7 L Iraq Lobster: 6**
    7 L Jacked on Bots: 6**
+   1 L James Woods High School: 1
    1 L James Woods High School: 2*
    7 L James Woods High School: 6**
    6 L Jar of Change: 6**
@@ -424,9 +427,7 @@
    1 L Oil Receipts: 1
    5 L Oil Receipts: 6**
    1 L Oktober Brau: 2*
-   1 L Oliver North's Gold: 1*
-   1 L Oliver North's Gold: 2*
-   7 L Oliver North's Gold: 6**
+   8 L Oliver North's Gold: 6**
    1 L One Art Please: 1
    3 L One Art Please: 6**
    1 L One Man Musical: 2*
@@ -469,6 +470,8 @@
    1 L President Polar Bear: 6**
    1 L Presidential Fitness Toshi: 1
    5 L Presidential Fitness Toshi: 6**
+   1 L Prince Faisal: 1
+   1 L Prince Faisal: 6**
    2 L Principal Peter: 6**
    1 L Principal Shepard: 2*
    2 L Principal Shepard: 6**
@@ -495,6 +498,7 @@
    1 L Rapture Stan: 6**
    2 L Red Rodriguez 2 Real: 6**
    1 L Red Shirt Blue Shirt: 2*
+   1 L Reverend Ping Ping: 2*
    2 L Reverend Ping Ping: 6**
    6 L Rex: 6**
    1 L Rifle Club: 1
@@ -524,6 +528,7 @@
    1 L Scary Mask: 1
    1 L Scary Mask: 2*
    5 L Scary Mask: 6**
+   1 L School of Arts and Crafts: 2*
    8 L School of Arts and Crafts: 6**
    1 L Scientific Rivals: 1
    2 L Sculptor Peter: 6**
@@ -542,6 +547,7 @@
    1 L Shrimpy Shrimps: 1
    4 L Shrimpy Shrimps: 6**
    1 L Shuttlecock Ring: 2*
+   1 L Signature Cocktail: 1
    2 L Signature Cocktail: 6**
    1 L Ski Mask: 2*
    5 L Ski Mask: 6**
@@ -657,15 +663,13 @@
    1 L Winthrop Manor: 2*
    8 L Wireless Audio Transmitter: 6**
    9 L Witch Costume: 6**
-   1 L Wong Casino: 1
+   1 L Wong Casino: 2*
    5 L Wong Casino: 6**
    1 L Wongminster Mini Golf: 1
    1 L Wozniak Nerd Academy: 1
    6 L Wozniak Nerd Academy: 6**
    1 L Yacht Dreams: 6**
-   1 L Zapp Brannigan Portrait: 1
-   1 L Zapp Brannigan Portrait: 2*
-   5 L Zapp Brannigan Portrait: 6**
+   6 L Zapp Brannigan Portrait: 6**
   10 L Zapp Brannigan: 6**
    1 L Zapp Figurines: 1
    1 L Zapp Figurines: 2*
@@ -681,7 +685,7 @@
    1 M Brau Beer: 6
    1 M Brian: 5*
    1 M Bullock: 2*
-   1 M CD Warehouse: 2
+   1 M CD Warehouse: 3
    1 M Chris: 1*
    1 M Clone Fight: 5
    1 M Cuddles: 6
@@ -700,16 +704,16 @@
    1 M Joe Swanson: 6*
    1 M Klaus: 6
    1 M Leela: 7**
-   1 M Lois: 2*
+   1 M Lois: 4*
    1 M Louise: 7**
-   1 M Meg: 3*
+   1 M Meg: 5*
    1 M Mr. Fischoeder: 7
    1 M Neil Goldman: 2*
    1 M Nibbler on the Roof: 7
    1 M Peggy: 7**
    1 M Peter's Drawing: 6
    1 M Peter: 4**
-   1 M Poker Winnings: 2
+   1 M Poker Winnings: 5
    1 M Professor Farnsworth: 1**
    1 M Quagmire: 1**
    1 M Reverend Ping Ping: 5

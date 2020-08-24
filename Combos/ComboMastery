@@ -39,6 +39,7 @@
 3 | Penguin Conservator
 3 | One Man Musical
 3 | Oil Receipts
+3 | Obedience School Brian
 3 | Nanny Cam
 3 | Naked Tug of War
 3 | Musical Linda
@@ -56,6 +57,7 @@
 3 | Knife Fight Stewie
 3 | Karate Bender
 3 | Jose Servo
+3 | Jealous Bobby
 3 | Home Ec Teacher
 3 | High School Linda
 3 | Heavy Metal Hayley
@@ -73,6 +75,7 @@
 3 | Drunk Peggy
 3 | Dream Millionaire
 3 | Dojo Joe
+3 | Diaper Doll Linda
 3 | Devil Hank
 3 | Devil Bobby
 3 | Death Metal
@@ -160,7 +163,7 @@
 2 | S and M Peter | 100
 2 | S and M Lois | 60
 2 | Rough Night Stan | 30
-2 | Roger Goes Down | 30
+2 | Roger Goes Down | 35
 2 | Road Kill | 100
 2 | Rich Leela | 100
 2 | Record Holder Stan | 30
@@ -188,7 +191,6 @@
 2 | Opera Francine | 40
 2 | One Art Please | 30
 2 | Oktoberfest Leela | 60
-2 | Obedience School Brian
 2 | Nurse Tina | 15
 2 | Nun Peggy
 2 | Music Teacher Lois
@@ -198,7 +200,7 @@
 2 | Mocktrial Louise
 2 | Mind Switcher Farnsworth | 65
 2 | Military Tux Bill | 15
-2 | Mike Pulaski | 60
+2 | Mike Pulaski | 70
 2 | Michael Dangle-low | 60
 2 | Meg Portrait | 55
 2 | Meatman Sculptor
@@ -217,7 +219,6 @@
 2 | Klepto Bender
 2 | Katz | 25
 2 | Karate Stewie
-2 | Jealous Bobby | 50
 2 | Ira | 45
 2 | I am Mona
 2 | I Like Beer | 20
@@ -227,7 +228,7 @@
 2 | Hottyz Bill | 30
 2 | Hose to the Head
 2 | Horse Rider Tina
-2 | Hip Hop Bob | 60
+2 | Hip Hop Bob | 65
 2 | High School Bill
 2 | Heckler Zoidberg | 100
 2 | Hayley Potter | 65
@@ -266,7 +267,6 @@
 2 | Doghouse Bobby | 30
 2 | Dinner Wine Bob | 25
 2 | Diarama Gene | 30
-2 | Diaper Doll Linda | 45
 2 | Diamond Ring Lois | 45
 2 | Dating Game Steve
 2 | Dancing Peggy | 10
@@ -425,10 +425,10 @@
 1 | Cake Knife | 20
 1 | Butt Toucher Tina | 5
 1 | Burobu Addict | 15
-1 | Brainwashed Hayley | 25
+1 | Brainwashed Hayley
 1 | Booty Shaking Drunk | 5
 1 | Body Paint Date | 5
-1 | Biathlon Meg | 5
+1 | Biathlon Meg | 75
 1 | Betsy | 125
 1 | Benderbrau | 50
 1 | Bender's Electric Eel | 55
@@ -443,7 +443,7 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 216900
+ Mastery Stone | 198800
  Screen Repairer | 130
  Rich Bobby | 130
  Maxi Paddy | 130
@@ -496,8 +496,10 @@
  Solid Gold Tuxedo | 30
  Skating Roger | 30
  Sexy Lifeguard | 30
+ Santa Addict Meg | 30
  Mustache Maker | 30
  Modest Painting | 30
+ Meg's Evil Monkey | 30
  Junk Food Bill | 30
  Freshman Chris | 30
  Emcee Stewie | 30
@@ -508,6 +510,7 @@
  71 Ounce Beef Bobby | 30
  Steve Crossing the Alps | 25
  Delivery Marmoset | 25
+ Soda Bar Drunk | 20
  Smoke Bomb | 20
  Sister Peter | 20
  Rocker Bullock | 20
@@ -515,7 +518,6 @@
  Douchebag Chris | 15
  Wheels Steve | 10
  Stan's Grill | 10
- Spray on Army Fry | 10
  Skydiving Peggy | 10
  Sharpshooter Bobby | 10
  Shark Killer | 10
@@ -523,6 +525,7 @@
  Scooty-Puff Jr | 10
  Robot Devil's Hands | 10
  Reverse Stink Hold | 10
+ Nude Painting Bullock | 10
  Klaus's Comic | 10
  Karaoke Zapp | 10
  Gut Punch Zapp | 10
@@ -531,6 +534,7 @@
  Evil Stepsister | 10
  Dodgeball Meg | 10
  Cheerleader Lois | 10
+ Arlen Men's Choir | 10
  Prom Luanne | 5
  Ecstacy Francine | 5
  Charts and Graphs | 5
