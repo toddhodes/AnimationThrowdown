@@ -15189,7 +15189,8 @@
 	</unit>
 	<unit>
 		<id>10088</id>
-		<name>Karaoke Principle</name>
+		<name>Karaoke Principal</name>
+		<linked_card_id>1100013</linked_card_id>
 		<picture>FG_KaraokePrincipal</picture>
 		<asset_bundle>67</asset_bundle>
 		<release_time>1597860000</release_time>

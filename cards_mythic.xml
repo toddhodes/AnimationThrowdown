@@ -1795,6 +1795,156 @@
 			<skill id="poison" x="18"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>1100013</id>
+		<name>Karaoke Principal</name>
+		<picture>FG_KaraokePrincipal</picture>
+		<asset_bundle>67</asset_bundle>
+		<item_name>Karaoke Principal Fragment</item_name>		
+		<item_desc>Collect Karaoke Principal Fragments to craft and upgrade a Mythic Karaoke Principal card!</item_desc>	
+        <item_icon>inventory_upgrade_50_inventory</item_icon>
+        <item_bundle_id>18</item_bundle_id>	
+        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<attack>14</attack>
+		<health>57</health>
+		<rarity>5</rarity>
+		<skill id="inspire" x="8"/>
+		<skill id="outlast" x="9"/>
+		<skill id="rally" x="10"/>
+		<type>1</type>
+		<trait>musical</trait>
+		<set>7002</set>
+		<upgrade>
+			<level>2</level>
+			<health>58</health>
+			<skill id="inspire" x="8"/>
+			<skill id="outlast" x="10"/>
+			<skill id="rally" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>59</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>60</health>
+			<skill id="inspire" x="9"/>
+			<skill id="outlast" x="10"/>
+			<skill id="rally" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>61</health>
+			<skill id="inspire" x="9"/>
+			<skill id="outlast" x="11"/>
+			<skill id="rally" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>62</health>
+			<skill id="inspire" x="10"/>
+			<skill id="outlast" x="11"/>
+			<skill id="rally" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>63</health>
+			<skill id="inspire" x="10"/>
+			<skill id="outlast" x="11"/>
+			<skill id="rally" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>65</health>
+			<attack>16</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>66</health>
+			<skill id="inspire" x="11"/>
+			<skill id="outlast" x="12"/>
+			<skill id="rally" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>67</health>
+			<skill id="inspire" x="11"/>
+			<skill id="outlast" x="13"/>
+			<skill id="rally" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>68</health>
+			<skill id="inspire" x="11"/>
+			<skill id="outlast" x="13"/>
+			<skill id="rally" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>69</health>
+			<attack>17</attack>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>70</health>
+			<skill id="inspire" x="12"/>
+			<skill id="outlast" x="14"/>
+			<skill id="rally" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>71</health>
+			<skill id="inspire" x="12"/>
+			<skill id="outlast" x="14"/>
+			<skill id="rally" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>73</health>
+			<skill id="inspire" x="12"/>
+			<skill id="outlast" x="15"/>
+			<skill id="rally" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>74</health>
+			<attack>18</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>75</health>
+			<skill id="inspire" x="13"/>
+			<skill id="outlast" x="15"/>
+			<skill id="rally" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>76</health>
+			<skill id="inspire" x="13"/>
+			<skill id="outlast" x="16"/>
+			<skill id="rally" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>77</health>
+			<attack>19</attack>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>78</health>
+			<skill id="inspire" x="14"/>
+			<skill id="outlast" x="16"/>
+			<skill id="rally" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>80</health>
+			<skill id="inspire" x="14"/>
+			<skill id="outlast" x="17"/>
+			<skill id="rally" x="16"/>
+		</upgrade>
+	</unit>	
 	<!-- AD Mythics -->
 	<unit>
 		<id>1200001</id>
