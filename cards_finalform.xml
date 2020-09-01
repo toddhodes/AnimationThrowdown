@@ -51738,7 +51738,7 @@
 	  <set>3001</set>
 	  <type>4</type>
 	  <trait>musical</trait>
-	  <skill id="heal" x="7" y="music"/>
+	  <skill id="heal" x="7" y="musical"/>
 	  <skill id="strike" x="7"/>
 	  <skill id="enlarge" x="5"/>
 	  <card_type>object</card_type>
@@ -51749,7 +51749,7 @@
 	  <upgrade>
 	    <level>3</level>
 	    <health>49</health>
-	    <skill id="heal" x="8" y="music"/>
+	    <skill id="heal" x="8" y="musical"/>
 	    <skill id="strike" x="8"/>
 	    <skill id="enlarge" x="6"/>
 	  </upgrade>
@@ -51765,7 +51765,7 @@
 	    <level>6</level>
 	    <attack>12</attack>
 	    <health>52</health>
-	    <skill id="heal" x="9" y="music"/>
+	    <skill id="heal" x="9" y="musical"/>
 	    <skill id="strike" x="9"/>
 	  </upgrade>
 	  <upgrade>
@@ -51775,7 +51775,7 @@
 	  <upgrade>
 	    <level>8</level>
 	    <health>53</health>
-	    <skill id="heal" x="10" y="music"/>
+	    <skill id="heal" x="10" y="musical"/>
 	    <skill id="strike" x="10"/>
 	  </upgrade>
 	  <upgrade>
@@ -51787,7 +51787,7 @@
 	    <level>10</level>
 	    <attack>13</attack>
 	    <health>55</health>
-	    <skill id="heal" x="11" y="music"/>
+	    <skill id="heal" x="11" y="musical"/>
 	    <skill id="strike" x="11"/>
 	  </upgrade>
 	  <upgrade>
@@ -51797,7 +51797,7 @@
 	  <upgrade>
 	    <level>12</level>
 	    <health>57</health>
-	    <skill id="heal" x="12" y="music"/>
+	    <skill id="heal" x="12" y="musical"/>
 	    <skill id="strike" x="12"/>
 	    <skill id="enlarge" x="9"/>
 	  </upgrade>
@@ -51817,14 +51817,14 @@
 	  <upgrade>
 	    <level>16</level>
 	    <health>60</health>
-	    <skill id="heal" x="13" y="music"/>
+	    <skill id="heal" x="13" y="musical"/>
 	    <skill id="strike" x="13"/>
 	    <skill id="enlarge" x="10"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>17</level>
 	    <health>62</health>
-	    <skill id="heal" x="14" y="music"/>
+	    <skill id="heal" x="14" y="musical"/>
 	    <skill id="strike" x="14"/>
 	  </upgrade>
 	  <upgrade>

@@ -54638,7 +54638,7 @@
         <trait>musical</trait>
         <attack_multiplier>0.71</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
-        <skill id='heal' y='music' p='30' v='12' />
+        <skill id='heal' y='musical' p='30' v='12' />
         <skill id='strike' p='30' v='12' />
         <skill id='enlarge' p='30' v='9' />
     </unit>
