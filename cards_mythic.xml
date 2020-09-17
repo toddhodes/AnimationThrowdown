@@ -3575,6 +3575,158 @@
 			<skill id="weaken" x="18"/>
 		</upgrade>
 	</unit>	
+<unit>
+	<id>1200012</id>
+	<name>Mini Car Racing</name>
+	<picture>AD_MiniCarRacing</picture>
+	<asset_bundle>64</asset_bundle>
+	<item_name>Mini Car Racing Fragment</item_name>
+	<item_desc>Collect Mini Car Racing Fragments to craft and upgrade a Mythic Mini Car Racing card!</item_desc>	
+	<item_icon>inventory_upgrade_50_inventory</item_icon>
+    <item_bundle_id>19</item_bundle_id>
+	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+	<attack>16</attack>
+	<health>51</health>
+	<rarity>5</rarity>
+	<skill id="enlarge" x="8"/>
+	<skill id="heal" x="10" y="toy"/>
+	<skill id="barrier" x="10"/>
+	<type>2</type>
+	<trait>toy</trait>
+	<set>7002</set>
+	<upgrade>
+		<level>2</level>
+		<health>52</health>
+		<skill id="enlarge" x="8"/>
+		<skill id="heal" x="11" y="toy"/>
+		<skill id="barrier" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>53</health>
+		<skill id="enlarge" x="8"/>
+		<skill id="heal" x="12" y="toy"/>
+		<skill id="barrier" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>54</health>
+		<attack>17</attack>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>56</health>
+		<skill id="enlarge" x="9"/>
+		<skill id="heal" x="12" y="toy"/>
+		<skill id="barrier" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>57</health>
+		<skill id="enlarge" x="9"/>
+		<skill id="heal" x="12" y="toy"/>
+		<skill id="barrier" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>58</health>
+		<skill id="enlarge" x="9"/>
+		<skill id="heal" x="13" y="toy"/>
+		<skill id="barrier" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>60</health>
+		<skill id="enlarge" x="9"/>
+		<skill id="heal" x="14" y="toy"/>
+		<skill id="barrier" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>61</health>
+		<attack>18</attack>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>62</health>
+		<skill id="enlarge" x="9"/>
+		<skill id="heal" x="15" y="toy"/>
+		<skill id="barrier" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>64</health>
+		<skill id="enlarge" x="10"/>
+		<skill id="heal" x="15" y="toy"/>
+		<skill id="barrier" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>65</health>
+		<skill id="enlarge" x="10"/>
+		<skill id="heal" x="16" y="toy"/>
+		<skill id="barrier" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>66</health>
+		<skill id="enlarge" x="10"/>
+		<skill id="heal" x="17" y="toy"/>
+		<skill id="barrier" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>67</health>
+		<attack>19</attack>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>69</health>
+		<skill id="enlarge" x="11"/>
+		<skill id="heal" x="17" y="toy"/>
+		<skill id="barrier" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>70</health>
+		<skill id="enlarge" x="11"/>
+		<skill id="heal" x="17" y="toy"/>
+		<skill id="barrier" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>71</health>
+		<skill id="enlarge" x="11"/>
+		<skill id="heal" x="18" y="toy"/>
+		<skill id="barrier" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<health>73</health>
+		<skill id="enlarge" x="11"/>
+		<skill id="heal" x="19" y="toy"/>
+		<skill id="barrier" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>19</level>
+		<health>74</health>
+		<attack>20</attack>
+	</upgrade>
+	<upgrade>
+		<level>20</level>
+		<health>75</health>
+		<skill id="enlarge" x="11"/>
+		<skill id="heal" x="20" y="toy"/>
+		<skill id="barrier" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>21</level>
+		<health>77</health>
+		<skill id="enlarge" x="12"/>
+		<skill id="heal" x="20" y="toy"/>
+		<skill id="barrier" x="14"/>
+	</upgrade>
+</unit>	
 	<!-- BB Mythics -->	
 	<unit>
 		<id>1300001</id>

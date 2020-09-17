@@ -11347,7 +11347,7 @@
 	  <combo_card_id>15216</combo_card_id>
 	  <attack>10</attack>
 	  <health>32</health>
-	  <name>Nanny Cam</name>
+	  <name>Nanny Cam Dino</name>
 	  <picture>FG_NannyCam</picture>
 	  <asset_bundle>64</asset_bundle>
 	  <rarity>4</rarity>
@@ -13694,6 +13694,115 @@
 		<skill id="weaken" x="11"/>
 	</upgrade>
 	</unit>		
+	<unit>
+	  <id>110142</id>
+	  <combo_card_id>15234</combo_card_id>
+	  <attack>10</attack>
+	  <health>36</health>
+	  <name>Stewie's Tricycle</name>
+	  <picture>FG_StewiesBigWheel</picture>
+	  <asset_bundle>81</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>1</type>
+	  <trait>toy</trait>
+	  <skill id="bodyguard" x="5"/>
+	  <skill id="counter" x="8"/>
+	  <skill id="heal" x="6"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>37</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>39</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <health>41</health>
+	    <skill id="counter" x="9"/>
+	    <skill id="heal" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <attack>11</attack>
+	    <health>43</health>
+	    <skill id="bodyguard" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>44</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>46</health>
+	    <skill id="counter" x="10"/>
+	    <skill id="heal" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>12</attack>
+	    <health>48</health>
+	    <skill id="counter" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>50</health>
+	    <skill id="bodyguard" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <health>51</health>
+	    <skill id="counter" x="12"/>
+	    <skill id="heal" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>53</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>13</attack>
+	    <health>55</health>
+	    <skill id="bodyguard" x="8"/>
+	    <skill id="counter" x="13"/>
+	    <skill id="heal" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>57</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>58</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <attack>14</attack>
+	    <health>60</health>
+	    <skill id="counter" x="14"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <health>62</health>
+	    <skill id="bodyguard" x="9"/>
+	    <skill id="heal" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>64</health>
+	    <skill id="counter" x="15"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>15</attack>
+	    <health>66</health>
+	    <skill id="counter" x="16"/>
+	    <skill id="heal" x="12"/>
+	  </upgrade>
+	</unit>
+
 <!-- end Family Guy Final Forms -->
 	
 	<!-- American Dad Final Forms -->
@@ -26107,6 +26216,220 @@
 	    <health>64</health>
 	    <skill id="enlarge" x="11"/>
 	    <skill id="counter" x="16"/>
+	  </upgrade>
+	</unit>
+	<unit>
+	  <id>120129</id>
+	  <combo_card_id>25207</combo_card_id>
+	  <attack>9</attack>
+	  <health>38</health>
+	  <name>Computer Game Wine Roger</name>
+	  <picture>AD_ComputerGameWine</picture>
+	  <asset_bundle>51</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>2</type>
+	  <trait>toy</trait>
+	  <trait>drunk</trait>
+	  <skill id="hijack" x="5"/>
+	  <skill id="weaken" x="8"/>
+	  <skill id="poison" x="8"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>39</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>41</health>
+	    <skill id="poison" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <health>43</health>
+	    <skill id="weaken" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <attack>10</attack>
+	    <health>45</health>
+	    <skill id="hijack" x="6"/>
+	    <skill id="poison" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>46</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>48</health>
+	    <skill id="weaken" x="10"/>
+	    <skill id="poison" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>11</attack>
+	    <health>50</health>
+	    <skill id="weaken" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>52</health>
+	    <skill id="hijack" x="7"/>
+	    <skill id="poison" x="12"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <health>53</health>
+	    <skill id="weaken" x="12"/>
+	    <skill id="poison" x="13"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>55</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>12</attack>
+	    <health>57</health>
+	    <skill id="hijack" x="8"/>
+	    <skill id="weaken" x="13"/>
+	    <skill id="poison" x="14"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>59</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>60</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <attack>13</attack>
+	    <health>62</health>
+	    <skill id="weaken" x="14"/>
+	    <skill id="poison" x="15"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <health>64</health>
+	    <skill id="hijack" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>66</health>
+	    <skill id="weaken" x="15"/>
+	    <skill id="poison" x="16"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>14</attack>
+	    <health>68</health>
+	    <skill id="weaken" x="16"/>
+	    <skill id="poison" x="17"/>
+	  </upgrade>
+	</unit>
+	<unit>
+	  <id>120130</id>
+	  <combo_card_id>25208</combo_card_id>
+	  <attack>11</attack>
+	  <health>33</health>
+	  <name>Jellybean Phone Klaus</name>
+	  <picture>AD_JellyBeanPhone</picture>
+	  <asset_bundle>81</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>2</type>
+	  <trait>toy</trait>
+	  <skill id="bunker" x="5"/>
+	  <skill id="bodyguard" x="5"/>
+	  <skill id="inspire" x="5"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>34</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>36</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <health>37</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <attack>12</attack>
+	    <health>39</health>
+	    <skill id="bunker" x="6"/>
+	    <skill id="bodyguard" x="6"/>
+	    <skill id="inspire" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>41</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>42</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>13</attack>
+	    <health>44</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>46</health>
+	    <skill id="bunker" x="7"/>
+	    <skill id="bodyguard" x="7"/>
+	    <skill id="inspire" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <health>47</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>49</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>14</attack>
+	    <health>51</health>
+	    <skill id="bunker" x="8"/>
+	    <skill id="bodyguard" x="8"/>
+	    <skill id="inspire" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>52</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>54</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <attack>15</attack>
+	    <health>56</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <health>57</health>
+	    <skill id="bunker" x="9"/>
+	    <skill id="bodyguard" x="9"/>
+	    <skill id="inspire" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>59</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>16</attack>
+	    <health>61</health>
 	  </upgrade>
 	</unit>
 
@@ -39895,6 +40218,98 @@
 	    <skill id="heal" x="12"/>
 	  </upgrade>
 	</unit>
+	<unit>
+	  <id>130140</id>
+	  <combo_card_id>35209</combo_card_id>
+	  <attack>6</attack>
+	  <health>35</health>
+	  <name>Walkie Talkie Teddy</name>
+	  <picture>BB_WalkieTalkieTeddy</picture>
+	  <asset_bundle>81</asset_bundle>
+	  <rarity>3</rarity>
+	  <set>3001</set>
+	  <type>3</type>
+	  <trait>toy</trait>
+	  <skill id="inspire" x="3"/>
+	  <skill id="armored" x="3"/>
+	  <skill id="rally" x="3"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>36</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>37</health>
+	    <skill id="rally" x="4"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>7</attack>
+	    <health>38</health>
+	    <skill id="inspire" x="4"/>
+	    <skill id="armored" x="4"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>39</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>8</attack>
+	    <health>40</health>
+	    <skill id="rally" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>41</health>
+	    <skill id="inspire" x="5"/>
+	    <skill id="armored" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>9</attack>
+	    <health>42</health>
+	    <skill id="rally" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>43</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <health>44</health>
+	    <skill id="inspire" x="6"/>
+	    <skill id="armored" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <attack>10</attack>
+	    <health>45</health>
+	    <skill id="rally" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <health>46</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <attack>11</attack>
+	    <health>47</health>
+	    <skill id="inspire" x="7"/>
+	    <skill id="armored" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>48</health>
+	    <skill id="rally" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <attack>12</attack>
+	    <health>50</health>
+	  </upgrade>
+	</unit>
 
 	<!-- end Bob's Burgers Final Forms -->
 	<!-- King of the Hill Final Forms -->
@@ -51832,6 +52247,222 @@
 	    <attack>16</attack>
 	    <health>64</health>
 	    <skill id="enlarge" x="11"/>
+	  </upgrade>
+	</unit>
+	<unit>
+	  <id>140122</id>
+	  <combo_card_id>45185</combo_card_id>
+	  <attack>10</attack>
+	  <health>35</health>
+	  <name>Walkman Boomhauer</name>
+	  <picture>KOTH_WalkmanBoomhauer</picture>
+	  <asset_bundle>81</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>4</type>
+	  <trait>toy</trait>
+	  <skill id="enlarge" x="5"/>
+	  <skill id="pierce" x="8"/>
+	  <skill id="burn" x="4"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>36</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>38</health>
+	    <skill id="enlarge" x="6"/>
+	    <skill id="pierce" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <health>39</health>
+	    <skill id="burn" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <attack>11</attack>
+	    <health>41</health>
+	    <skill id="pierce" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>43</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>44</health>
+	    <skill id="enlarge" x="7"/>
+	    <skill id="pierce" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>12</attack>
+	    <health>46</health>
+	    <skill id="burn" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>48</health>
+	    <skill id="enlarge" x="8"/>
+	    <skill id="pierce" x="12"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <health>49</health>
+	    <skill id="pierce" x="13"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>51</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>13</attack>
+	    <health>53</health>
+	    <skill id="enlarge" x="9"/>
+	    <skill id="pierce" x="14"/>
+	    <skill id="burn" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>54</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>56</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <attack>14</attack>
+	    <health>58</health>
+	    <skill id="pierce" x="15"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <health>60</health>
+	    <skill id="enlarge" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>63</health>
+	    <skill id="pierce" x="16"/>
+	    <skill id="burn" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>15</attack>
+	    <health>65</health>
+	    <skill id="enlarge" x="11"/>
+	    <skill id="pierce" x="17"/>
+	  </upgrade>
+	</unit>
+	<unit>
+	  <id>140123</id>
+	  <combo_card_id>45184</combo_card_id>
+	  <attack>10</attack>
+	  <health>33</health>
+	  <name>Video Game Addict Hank</name>
+	  <picture>KOTH_VideoGameAddictHank</picture>
+	  <asset_bundle>46</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>4</type>
+	  <trait>toy</trait>
+	  <trait>addicted</trait>
+	  <skill id="shrapnel" x="5"/>
+	  <skill id="leech" x="7"/>
+	  <skill id="armored" x="5"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>34</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>36</health>
+	    <skill id="leech" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>11</attack>
+	    <health>38</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>40</health>
+	    <skill id="shrapnel" x="6"/>
+	    <skill id="armored" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>42</health>
+	    <skill id="leech" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <attack>12</attack>
+	    <health>43</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <health>45</health>
+	    <skill id="leech" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>47</health>
+	    <skill id="shrapnel" x="7"/>
+	    <skill id="armored" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>13</attack>
+	    <health>49</health>
+	    <skill id="leech" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>51</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <health>53</health>
+	    <skill id="shrapnel" x="8"/>
+	    <skill id="leech" x="12"/>
+	    <skill id="armored" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <attack>14</attack>
+	    <health>54</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>56</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>58</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>15</attack>
+	    <health>60</health>
+	    <skill id="shrapnel" x="9"/>
+	    <skill id="leech" x="13"/>
+	    <skill id="armored" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>62</health>
+	    <skill id="leech" x="14"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>16</attack>
+	    <health>64</health>
 	  </upgrade>
 	</unit>
 	<!-- end King of the Hill Final Forms -->
@@ -67074,6 +67705,110 @@
 	    <health>68</health>
 	    <skill id="bunker" x="12"/>
 	    <skill id="barrierall" x="6" y="musical"/>
+	  </upgrade>
+	</unit>
+	<unit>
+	  <id>150153</id>
+	  <combo_card_id>55206</combo_card_id>
+	  <attack>13</attack>
+	  <health>28</health>
+	  <name>Video Game Leela</name>
+	  <desc>Up up down down left right left right kick kick kick!</desc>
+	  <picture>FR_VideoGameLeela</picture>
+	  <asset_bundle>38</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>5</type>
+	  <trait>toy</trait>
+	  <skill id="berserk" x="5"/>
+	  <skill id="strike" x="5"/>
+	  <skill id="burn" x="3"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>29</health>
+	    <skill id="burn" x="4"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>30</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>14</attack>
+	    <health>32</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>33</health>
+	    <skill id="berserk" x="6"/>
+	    <skill id="strike" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <attack>15</attack>
+	    <health>35</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>36</health>
+	    <skill id="burn" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <health>37</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <attack>16</attack>
+	    <health>39</health>
+	    <skill id="berserk" x="7"/>
+	    <skill id="strike" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <health>40</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <attack>17</attack>
+	    <health>42</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <health>43</health>
+	    <skill id="berserk" x="8"/>
+	    <skill id="strike" x="8"/>
+	    <skill id="burn" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>44</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <attack>18</attack>
+	    <health>46</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>47</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>19</attack>
+	    <health>49</health>
+	    <skill id="berserk" x="9"/>
+	    <skill id="strike" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>50</health>
+	    <skill id="burn" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <health>52</health>
 	  </upgrade>
 	</unit>
 </root>	
