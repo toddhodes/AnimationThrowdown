@@ -4,6 +4,7 @@
 3 | Whale Hunter Amy
 3 | War Horse
 3 | Viking Peter
+3 | Video Game Addict Hank
 3 | VIP Cruise
 3 | VIP Chris
 3 | Unsharp Scissors Zapp
@@ -38,6 +39,7 @@
 3 | Pointillism
 3 | Pigeon Bill
 3 | Penguin Conservator
+3 | Opera Francine
 3 | One Man Musical
 3 | Oil Receipts
 3 | Obedience School Brian
@@ -48,6 +50,7 @@
 3 | Mission Doctor
 3 | Medicated Stewie
 3 | Max Jets
+3 | Masked Hero
 3 | Martian Calendar
 3 | Magazine Cover Zapp
 3 | Lord Griffin
@@ -56,6 +59,7 @@
 3 | Laser Tag Joe
 3 | Laser Gun Stewie
 3 | Knife Fight Stewie
+3 | Kiss and Clarinet
 3 | Karate Bender
 3 | Jose Servo
 3 | Jealous Bobby
@@ -70,10 +74,13 @@
 3 | Food Addict Leela
 3 | Fever Dreams
 3 | Fart in a Jar
+3 | Fart School Louise
+3 | Evening Beer Dale
 3 | Emu Wrangler
 3 | Eggnog Roger
 3 | Drunk Peter
 3 | Drunk Peggy
+3 | Drummer Roger
 3 | Dream Millionaire
 3 | Dojo Joe
 3 | Diaper Doll Linda
@@ -98,12 +105,14 @@
 3 | Boy Witch Steve
 3 | Blueberry Delivery Girl
 3 | Bloody Mary Mix
+3 | Biathlon Meg
 3 | Bending School Grad
 3 | Bender's Ducklings
 3 | Baseball Chris
 3 | Ballet Meg
 3 | Badminton Roger
 3 | Ass-Kicker Hank
+3 | Antique Robots
 3 | Another Lousy Millenium
 3 | Action Delivery Force Hermes
 3 | 5 AM Wine
@@ -116,6 +125,8 @@
 2 | Wild Brian
 2 | Whiskey Drunk Brian
 2 | Water Nympho
+2 | Walkie Talkie Teddy | 55
+2 | Video Game Leela | 10
 2 | Victory Dance | 40
 2 | VR Gaming Bobby | 35
 2 | Upgraded Hermes
@@ -189,8 +200,7 @@
 2 | Painting Class Joe | 95
 2 | Paintball Hank | 5
 2 | Paddlin' Peggy | 30
-2 | Opera Singer Leela
-2 | Opera Francine | 40
+2 | Opera Singer Leela | 30
 2 | One Art Please | 30
 2 | Oktoberfest Leela | 60
 2 | Nurse Tina | 15
@@ -207,7 +217,6 @@
 2 | Meg Portrait | 55
 2 | Meg Meggy Meg | 5
 2 | Meatman Sculptor
-2 | Masked Hero | 100
 2 | Mascot Fighter Stan | 85
 2 | Marionette Louise | 20
 2 | Marionette Chris | 45
@@ -226,7 +235,7 @@
 2 | I am Mona
 2 | I Like Beer | 20
 2 | Hunky Killer Louise | 50
-2 | Humplings | 45
+2 | Humplings | 70
 2 | Hottyz Luanne
 2 | Hottyz Bill | 30
 2 | Hose to the Head
@@ -253,6 +262,7 @@
 2 | Fry's Macaroni Art | 30
 2 | Fry in Robot Disguise | 10
 2 | Free Weed Hayley | 100
+2 | Finch Leela | 10
 2 | Feed the Dodo | 30
 2 | Falconer Hayley | 35
 2 | Falcon Attack Quagmire | 70
@@ -311,15 +321,17 @@
 2 | Burgerboss Bob | 100
 2 | Burger Addict Teddy | 45
 2 | Buff Fry
-2 | Brainwashed Hayley
+2 | Brainwashed Hayley | 15
 2 | Boy Crazy | 25
 2 | Blueberry Picker | 95
 2 | Billionaire Fry | 75
 2 | Bible Study | 35
+2 | BenderIsGreat34 | 5
 2 | Bender's Orphanarium | 25
 2 | Bender's Clowns | 100
 2 | Bender in Love | 55
 2 | Beer Bottle Toast | 10
+2 | Bedtime Doll Hayley
 2 | Baseball Bobby | 15
 2 | Baseball Beers | 95
 2 | Balloon Sniper | 45
@@ -360,14 +372,13 @@
 1 | Sailing Addict Linda | 25
 1 | Running Back Hank | 5
 1 | Round House | 20
-1 | Roach Coach Francine | 5
+1 | Roach Coach Francine | 55
 1 | Rich Hayley | 5
 1 | Ready for Santa | 95
 1 | Ravenous Porcelain Babies | 5
 1 | Raleigh St. Augustine | 50
 1 | RC Helicopter | 5
 1 | Quicky Kiss-it | 55
-1 | Princess Little Piddles | 75
 1 | Poppler Jingle Fry | 20
 1 | Polling Peggy | 35
 1 | Playlist Meg
@@ -381,6 +392,7 @@
 1 | Motivational Poster
 1 | Model Lois | 5
 1 | Menstrual Cycle | 5
+1 | Meg's Voodoo Doll | 80
 1 | Meg's In Charge | 10
 1 | Medieval Hank | 5
 1 | Master Robaire | 25
@@ -390,7 +402,6 @@
 1 | Leela's Harpoon | 15
 1 | Laser Tag Brian | 25
 1 | Lady Bird | 15
-1 | Kiss and Clarinet | 10
 1 | Kidney Killer | 25
 1 | Keyboardist Dale | 5
 1 | K Pop Peter | 5
@@ -410,9 +421,6 @@
 1 | Garden Shovel Bobby
 1 | Frydo | 5
 1 | Freezerdome Linda | 35
-1 | Finch Leela | 5
-1 | Fart School Louise | 95
-1 | Evening Beer Dale | 100
 1 | Empty Bowl Painting | 5
 1 | Easter Bunny Peter | 45
 1 | Duh-Vinci Farnsworth | 60
@@ -433,7 +441,6 @@
 1 | Booty Shaking Drunk | 5
 1 | Boombox Teddy
 1 | Body Paint Date | 5
-1 | Biathlon Meg | 75
 1 | Betsy | 125
 1 | Benderbrau | 50
 1 | Bender's Electric Eel | 55
@@ -449,7 +456,7 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 230950
+ Mastery Stone | 254200
  Screen Repairer | 130
  Rich Bobby | 130
  Maxi Paddy | 130
@@ -468,6 +475,7 @@
  Furry Bullock | 115
  Santa Bender | 105
  Heavenly Hank | 105
+ Francine Roger | 100
  Bondage Klaus | 100
  Magazine Reader Francine | 90
  Working Girl Tina | 85
@@ -484,6 +492,7 @@
  Zinc Saucier | 70
  Vengeance Quagmire | 70
  Senora Hill | 70
+ Roach Coach Stan | 70
  I Get What I Want | 70
  Rambo Lois | 65
  Paranoid Louise | 65
@@ -497,6 +506,8 @@
  Spaceship Pilot | 45
  Delivery Boy | 45
  Pick Up Lines | 40
+ Gut Punch Zapp | 40
+ Garden Dance Bob | 40
  One Eyed Orphan | 35
  American Giggolo | 35
  Tuning Fork | 30
@@ -515,19 +526,24 @@
  Freshman Chris | 30
  Freezer Burn | 30
  Emcee Stewie | 30
+ Drunk Hank | 30
  Dodgeball Louise | 30
  Cinderella Lois | 30
  Christian Rock | 30
  Bob in the Wall | 30
  ADD Luanne | 30
  71 Ounce Beef Bobby | 30
+ Tractor Boy | 25
  Steve Crossing the Alps | 25
+ King Roger | 25
  Delivery Marmoset | 25
  Soda Bar Drunk | 20
  Sister Peter | 20
  Rocker Bullock | 20
  Party Crashers | 20
  Musical Peter | 15
+ Male Leela | 15
+ Karaoke Zapp | 15
  Douchebag Chris | 15
  Wheels Steve | 10
  Stan's Grill | 10
@@ -538,9 +554,8 @@
  Robot Devil's Hands | 10
  Reverse Stink Hold | 10
  Nude Painting Bullock | 10
+ Model Builder Roger | 10
  Klaus's Comic | 10
- Karaoke Zapp | 10
- Gut Punch Zapp | 10
  Fowl Fighter Linda | 10
  Evil Stepsister | 10
  Dodgeball Meg | 10
@@ -548,5 +563,6 @@
  Arlen Men's Choir | 10
  Prom Luanne | 5
  Ecstacy Francine | 5
+ Corporate Training | 5
  Charts and Graphs | 5
  Big Bad Brian | 5
