@@ -1,3 +1,4 @@
+3 | Zombie Jimmy Jr.
 3 | Wingnut Leela
 3 | Wingnut Amy
 3 | Whiskey Bartender
@@ -9,6 +10,7 @@
 3 | VIP Chris
 3 | Unsharp Scissors Zapp
 3 | Trapeze Bob
+3 | Toy Farnsworth Ad
 3 | Time for Hard Liquor
 3 | The Thinker Ape
 3 | Tattoo Stan
@@ -18,7 +20,9 @@
 3 | Swimmer Dale
 3 | Swat Bob
 3 | Supermodel Roger
+3 | Street Fighter Peter
 3 | Strategist Zapp
+3 | Stewie's Tricycle
 3 | Steak Cows
 3 | Space Honey
 3 | Softball Dale
@@ -29,6 +33,7 @@
 3 | Shop Teacher Hank
 3 | Santa Killer Steve
 3 | Santa Killer Hayley
+3 | Santa Bill
 3 | Rooftop Drunk
 3 | Roller Skating Ballad Gene
 3 | River Burned
@@ -41,6 +46,7 @@
 3 | Penguin Conservator
 3 | Opera Francine
 3 | One Man Musical
+3 | Oktoberfest Leela
 3 | Oil Receipts
 3 | Obedience School Brian
 3 | Nanny Cam Dino
@@ -87,6 +93,7 @@
 3 | Devil Hank
 3 | Devil Bobby
 3 | Death Metal
+3 | Dating Game Steve
 3 | Dance of Peace
 3 | Cyclist Jimmy Jr.
 3 | CrippleTron
@@ -100,14 +107,17 @@
 3 | Cigarette Addicts
 3 | Chef Cat Munchies
 3 | Cham-Pag-En Zapp
+3 | Burgerboss Bob
 3 | Burger Hermes
 3 | Brian Statue
 3 | Boy Witch Steve
+3 | Boob Tube | 30
 3 | Blueberry Delivery Girl
 3 | Bloody Mary Mix
 3 | Biathlon Meg
 3 | Bending School Grad
 3 | Bender's Ducklings
+3 | Bedtime Doll Hayley
 3 | Baseball Chris
 3 | Ballet Meg
 3 | Badminton Roger
@@ -137,7 +147,8 @@
 2 | Traumatized Dale | 55
 2 | Trash Can Drunk | 70
 2 | The Gender Bender | 65
-2 | The Equestranauts
+2 | The Equestranauts | 30
+2 | The Carnival With Rupert | 95
 2 | The Billdozer
 2 | Tennis Stan
 2 | Teen La Queefa
@@ -145,11 +156,10 @@
 2 | Tattooed Fat Guy | 30
 2 | Talent Show Lois | 80
 2 | Swole Amy | 5
-2 | Swing Dance Luanne | 30
+2 | Swing Dance Luanne | 75
 2 | Super Dance Squad
 2 | Summer Guy | 60
 2 | Stressed Out Leela
-2 | Street Fighter Peter
 2 | Stickin' Hank
 2 | Stan vs Mafia | 55
 2 | Squirrel Death | 40
@@ -169,7 +179,6 @@
 2 | Serious Runner Brian | 40
 2 | Sculptor Peter | 25
 2 | Scientific Rivals
-2 | Santa Bill | 100
 2 | Sandwitch | 75
 2 | Salmon Fry | 40
 2 | S and M Peter | 100
@@ -202,7 +211,7 @@
 2 | Paddlin' Peggy | 30
 2 | Opera Singer Leela | 30
 2 | One Art Please | 30
-2 | Oktoberfest Leela | 60
+2 | Oktoberfest Hermes | 15
 2 | Nurse Tina | 15
 2 | Nun Peggy
 2 | Music Teacher Lois
@@ -240,7 +249,7 @@
 2 | Hottyz Bill | 30
 2 | Hose to the Head
 2 | Horse Rider Tina
-2 | Hip Hop Bob | 80
+2 | Hip Hop Bob | 85
 2 | High School Bill
 2 | Heckler Zoidberg | 100
 2 | Hayley Potter | 65
@@ -267,7 +276,7 @@
 2 | Falconer Hayley | 35
 2 | Falcon Attack Quagmire | 70
 2 | Fake Son Gene | 80
-2 | Eyephone Fry | 65
+2 | Eyephone Fry | 100
 2 | Explorer Stan | 30
 2 | Dummy Fight | 20
 2 | Duke
@@ -275,14 +284,13 @@
 2 | Dream Guitar | 50
 2 | Draw Me Tina | 70
 2 | Draw Me Gene
-2 | Dr. Bobbenstein | 10
+2 | Dr. Bobbenstein | 20
 2 | Down to the Bone | 55
 2 | Dolphin Rider Peter | 15
 2 | Doghouse Bobby | 30
 2 | Dinner Wine Bob | 30
 2 | Diarama Gene | 30
 2 | Diamond Ring Lois | 45
-2 | Dating Game Steve
 2 | Dancing Peggy | 10
 2 | Dancing Cans | 70
 2 | Cute Witch of the North | 30
@@ -293,7 +301,7 @@
 2 | Crack Addict Stan
 2 | Coyote Fighter Chris
 2 | Country Club Steve | 85
-2 | Counting Klaus | 10
+2 | Counting Klaus | 30
 2 | Comic Artist Peter | 100
 2 | Coach Farnsworth | 30
 2 | Cloud Painter | 100
@@ -318,7 +326,6 @@
 2 | Cadet Hill | 25
 2 | CIA Student | 70
 2 | Burgers and Fries Louise | 20
-2 | Burgerboss Bob | 100
 2 | Burger Addict Teddy | 45
 2 | Buff Fry
 2 | Brainwashed Hayley | 15
@@ -331,7 +338,6 @@
 2 | Bender's Clowns | 100
 2 | Bender in Love | 55
 2 | Beer Bottle Toast | 10
-2 | Bedtime Doll Hayley
 2 | Baseball Bobby | 15
 2 | Baseball Beers | 95
 2 | Balloon Sniper | 45
@@ -340,6 +346,7 @@
 2 | Bacon Weight | 20
 2 | Arts and Crafts Bob | 70
 2 | Art of War | 50
+2 | Arlen Men's Choir | 75
 2 | Alley Entertainment | 35
 2 | Action Delivery Force Zoidberg
 2 | Action Delivery Force Leela
@@ -362,6 +369,8 @@
 1 | Spin Out Louise | 125
 1 | Space Queen | 65
 1 | Snake Hunter | 50
+1 | Smoke Bomb | 45
+1 | Slick'd Steve | 125
 1 | Sledgehammer Dale | 20
 1 | Sketch Artist Peter | 5
 1 | Sketch Artist Dale | 25
@@ -406,6 +415,7 @@
 1 | Keyboardist Dale | 5
 1 | K Pop Peter | 5
 1 | Joystick Steve | 110
+1 | Jellybean Phone Klaus | 5
 1 | Hot Cocoa Gene | 15
 1 | Honeybucket Student | 65
 1 | Honey Mustache Stewie | 5
@@ -428,7 +438,7 @@
 1 | Dog Meg
 1 | Dog Bone Stan | 5
 1 | Date Wine Zoidberg | 125
-1 | DJ Buttercup | 10
+1 | DJ Buttercup | 120
 1 | Crayon Drawing | 5
 1 | Cough Syrup Drunk | 50
 1 | Congo Jack | 5
@@ -456,7 +466,7 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 254200
+ Mastery Stone | 319950
  Screen Repairer | 130
  Rich Bobby | 130
  Maxi Paddy | 130
@@ -466,6 +476,7 @@
  Beefsquatch | 130
  Army Quagmire | 130
  Armadillo Boomhauer | 130
+ Kawaii Klaus | 125
  Zac Sawyer | 120
  Too High to Drive | 120
  Mind Switcher Amy | 120
@@ -480,7 +491,6 @@
  Magazine Reader Francine | 90
  Working Girl Tina | 85
  Money Retriever | 85
- Kawaii Klaus | 85
  Anger Management Class | 85
  Robot House | 80
  More Forever | 80
@@ -501,9 +511,9 @@
  Line Dancer Amy | 60
  Summer Lovin | 55
  Cubert Farnsworth | 55
- Smoke Bomb | 50
  Klaus's Fish Wife | 50
  Spaceship Pilot | 45
+ Oktoberfest Amy | 45
  Delivery Boy | 45
  Pick Up Lines | 40
  Gut Punch Zapp | 40
@@ -512,7 +522,6 @@
  American Giggolo | 35
  Tuning Fork | 30
  Topped Off Wine | 30
- The Carnival With Rupert | 30
  Solid Gold Tuxedo | 30
  Skating Roger | 30
  Sharpshooter Bobby | 30
@@ -527,6 +536,7 @@
  Freezer Burn | 30
  Emcee Stewie | 30
  Drunk Hank | 30
+ Dog Lois | 30
  Dodgeball Louise | 30
  Cinderella Lois | 30
  Christian Rock | 30
@@ -535,12 +545,15 @@
  71 Ounce Beef Bobby | 30
  Tractor Boy | 25
  Steve Crossing the Alps | 25
+ Spray on Army Fry | 25
+ Oktoberfest Fry | 25
  King Roger | 25
  Delivery Marmoset | 25
  Soda Bar Drunk | 20
  Sister Peter | 20
  Rocker Bullock | 20
  Party Crashers | 20
+ Klaus's Comic | 20
  Musical Peter | 15
  Male Leela | 15
  Karaoke Zapp | 15
@@ -555,12 +568,10 @@
  Reverse Stink Hold | 10
  Nude Painting Bullock | 10
  Model Builder Roger | 10
- Klaus's Comic | 10
  Fowl Fighter Linda | 10
  Evil Stepsister | 10
  Dodgeball Meg | 10
  Cheerleader Lois | 10
- Arlen Men's Choir | 10
  Prom Luanne | 5
  Ecstacy Francine | 5
  Corporate Training | 5
