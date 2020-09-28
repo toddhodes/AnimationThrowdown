@@ -1,11 +1,18 @@
 
 for i in `cat ids-with-cm`
 do   
-  unit=`echo $i | cut -d- -f1`
-  cm=`echo $i | cut -d- -f2`
+  #unit=`echo $i | cut -d- -f1`
+  unit=${i%%-*}
+
+  #cm=`echo $i | cut -d- -f2`
+  end=${i#*-}
+  cm=${end%%-*}
 
   unit=`egrep ^$unit cards-w-id-and-rarity | head -1`
-  name=`echo $unit | cut -d" " -f3-`
+
+  #name=`echo $unit | cut -d" " -f3-`
+  secondtwo=${unit#* *}
+  name=${secondtwo#* *}
 
   echo "$cm | $name"
 done 
