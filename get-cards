@@ -11,7 +11,7 @@ xml sel -T -t -m /root/unit -v "id" -o " " -v "rarity" -o " " -v name -n cards_m
 xml sel -T -t -m /root/unit -v "id" -o " " -v "rarity" -o " " -v name -n cards.xml >> $t
 xml sel -T -t -m /root/unit -v "id" -o " " -v "rarity" -o " " -v name -n cards_finalform.xml >> $t
 ##  note! local copy only, downloaded from cartoon-battle or reddit
-xml sel -T -t -m /root/unit -v "id" -o " " -v "rarity" -o " " -v name -n cards_extra_downloaded.xml >> $t
+#xml sel -T -t -m /root/unit -v "id" -o " " -v "rarity" -o " " -v name -n cards_extra_downloaded.xml >> $t
 
 cat $t | sort | uniq | sed 's/ $//' > $tmp
 cat $tmp > $t
