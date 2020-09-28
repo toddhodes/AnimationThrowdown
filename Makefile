@@ -1,4 +1,6 @@
 .PHONY: all cards deck gen_cards gen_cm cm clean
+export TIMEFORMAT=.	%Rs real	%Us user	 %Ss sys
+
 
 all: cards deck gen_cards gen_cm
 
@@ -13,8 +15,8 @@ gen_cards:
 
 gen_cm:
 	time ./gen-cm | sort -r > Combos/ComboMasteryLevels
-	time ./gen-cm-tokens | sort -rn > Combos/ComboMasteryTokens
-	time ./gen-cm-combined > Combos/ComboMastery
+	./gen-cm-tokens | sort -rn > Combos/ComboMasteryTokens
+	./gen-cm-combined > Combos/ComboMastery
 
 cm: cards deck gen_cm
 
