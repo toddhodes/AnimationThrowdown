@@ -25,12 +25,18 @@ function toStars() {
 
 for i in `cat units-w-levels`
 do   
-  unit=`echo $i | cut -d- -f1`
-  lvl=`echo $i | cut -d- -f2`
+  #unit=`echo $i | cut -d- -f1`
+  unit=${i%%-*}
+  #lvl=`echo $i | cut -d- -f2`
+  end=${i#*-}
+  lvl=${end%%-*}
 
   unit=`egrep ^$unit cards-w-id-and-rarity | head -1`
-  name=`echo $unit | cut -d" " -f3-`
-  rarity=`echo $unit | cut -d" " -f2`
+  #name=`echo $unit | cut -d" " -f3-`
+  #rarity=`echo $unit | cut -d" " -f2`
+  secondtwo=${unit#* *}
+  name=${secondtwo#* *}
+  rarity=${secondtwo%% *}
 
   color="?"
   case $rarity in
