@@ -23,15 +23,29 @@ function toStars() {
    echo $i$stars
 }
 
+
+echo "" > vars
+cat cards-w-id-and-rarity | while read i
+do
+  unit=${i%% *}
+  key=unit_${unit}
+  escaped=${i//\$/\\$}
+  echo $key="\"$escaped\"" >> vars
+done
+source vars
+
 for i in `cat units-w-levels`
-do   
+do
   #unit=`echo $i | cut -d- -f1`
   unit=${i%%-*}
   #lvl=`echo $i | cut -d- -f2`
   end=${i#*-}
   lvl=${end%%-*}
 
-  unit=`egrep ^$unit cards-w-id-and-rarity | head -1`
+  #unit=`egrep ^$unit cards-w-id-and-rarity | head -1`
+  key=unit_${unit}
+  unit="${!key}"
+
   #name=`echo $unit | cut -d" " -f3-`
   #rarity=`echo $unit | cut -d" " -f2`
   secondtwo=${unit#* *}
@@ -51,4 +65,5 @@ do
 
   #echo "unit:$unit name:$name: lvl:$lvl rare:$rarity"
   echo "$color $name: $stars"
+
 done 
