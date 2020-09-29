@@ -1,16 +1,16 @@
 
 for i in `cat ids-with-cm`
 do   
-  #unit=`echo $i | cut -d- -f1`
-  unit=${i%%-*}
 
-  #cm=`echo $i | cut -d- -f2`
-  end=${i#*-}
-  cm=${end%%-*}
+  ## 15001-3
+
+  unit=${i%%-*}
+  cm=${i#*-}
 
   unit=`egrep ^$unit cards-w-id-and-rarity | head -1`
 
-  #name=`echo $unit | cut -d" " -f3-`
+  ## 10003 2 Toad Licking
+
   secondtwo=${unit#* *}
   name=${secondtwo#* *}
 

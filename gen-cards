@@ -24,9 +24,14 @@ function toStars() {
 }
 
 
+echo "caching cards map"
 echo "" > vars
 cat cards-w-id-and-rarity | while read i
 do
+
+  ## 10003 2 Toad Licking
+  ##   -> unit_10003="10003 2 Toad Licking"
+
   unit=${i%% *}
   key=unit_${unit}
   escaped=${i//\$/\\$}
@@ -36,18 +41,16 @@ source vars
 
 for i in `cat units-w-levels`
 do
-  #unit=`echo $i | cut -d- -f1`
+
+  ## 10001-18-null
+
   unit=${i%%-*}
-  #lvl=`echo $i | cut -d- -f2`
   end=${i#*-}
   lvl=${end%%-*}
 
-  #unit=`egrep ^$unit cards-w-id-and-rarity | head -1`
   key=unit_${unit}
   unit="${!key}"
 
-  #name=`echo $unit | cut -d" " -f3-`
-  #rarity=`echo $unit | cut -d" " -f2`
   secondtwo=${unit#* *}
   name=${secondtwo#* *}
   rarity=${secondtwo%% *}
