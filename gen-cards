@@ -24,7 +24,7 @@ function toStars() {
 }
 
 
-echo "caching cards map"
+# caching cards map
 echo "" > vars
 cat cards-w-id-and-rarity | while read i
 do
