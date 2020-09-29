@@ -111,7 +111,7 @@
 3 | Burger Hermes
 3 | Brian Statue
 3 | Boy Witch Steve
-3 | Boob Tube | 30
+3 | Boob Tube
 3 | Blueberry Delivery Girl
 3 | Bloody Mary Mix
 3 | Biathlon Meg
@@ -151,12 +151,12 @@
 2 | The Carnival With Rupert | 95
 2 | The Billdozer
 2 | Tennis Stan
-2 | Teen La Queefa
+2 | Teen LaQueefa
 2 | Teagle | 45
 2 | Tattooed Fat Guy | 30
 2 | Talent Show Lois | 80
 2 | Swole Amy | 5
-2 | Swing Dance Luanne | 75
+2 | Swing Dance Luanne | 90
 2 | Super Dance Squad
 2 | Summer Guy | 60
 2 | Stressed Out Leela
@@ -211,7 +211,7 @@
 2 | Paddlin' Peggy | 30
 2 | Opera Singer Leela | 30
 2 | One Art Please | 30
-2 | Oktoberfest Hermes | 15
+2 | Oktoberfest Hermes | 45
 2 | Nurse Tina | 15
 2 | Nun Peggy
 2 | Music Teacher Lois
@@ -365,6 +365,7 @@
 1 | Swim Teacher Bob | 60
 1 | Street Hockey Brian | 5
 1 | Stewie Longlegs | 5
+1 | Spray on Army Fry
 1 | Spirit Bird | 5
 1 | Spin Out Louise | 125
 1 | Space Queen | 65
@@ -394,6 +395,7 @@
 1 | Ping Pong Brian | 25
 1 | Party Beer Implant | 5
 1 | Owl Stewie | 5
+1 | Organ Hermes | 125
 1 | Old Steve | 10
 1 | Never Have I Ever | 80
 1 | NRA Member | 25
@@ -466,13 +468,15 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 319950
+ Mastery Stone | 333100
  Screen Repairer | 130
  Rich Bobby | 130
  Maxi Paddy | 130
  Maracas Peter | 130
+ Love Potion | 130
  Flag Defender | 130
  Evening Beer Boomhauer | 130
+ DJ Klaus | 130
  Beefsquatch | 130
  Army Quagmire | 130
  Armadillo Boomhauer | 130
@@ -508,14 +512,15 @@
  Paranoid Louise | 65
  Space Walk | 60
  Sex Ed Peter | 60
+ Oktoberfest Amy | 60
  Line Dancer Amy | 60
  Summer Lovin | 55
  Cubert Farnsworth | 55
  Klaus's Fish Wife | 50
  Spaceship Pilot | 45
- Oktoberfest Amy | 45
  Delivery Boy | 45
  Pick Up Lines | 40
+ Oktoberfest Fry | 40
  Gut Punch Zapp | 40
  Garden Dance Bob | 40
  One Eyed Orphan | 35
@@ -545,8 +550,6 @@
  71 Ounce Beef Bobby | 30
  Tractor Boy | 25
  Steve Crossing the Alps | 25
- Spray on Army Fry | 25
- Oktoberfest Fry | 25
  King Roger | 25
  Delivery Marmoset | 25
  Soda Bar Drunk | 20

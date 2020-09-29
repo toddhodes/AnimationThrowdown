@@ -109,10 +109,9 @@
    1 L Burgerboss Bob: 1
    4 L Butterscotch Cookies: 6**
    8 L Buzzsaw: 6**
-   1 L CD Warehouse: 1
-   1 L CD Warehouse: 2*
-   2 L CD Warehouse: 6**
+   3 L CD Warehouse: 6**
    1 L CIA Student: 6**
+   1 L Candy Cane Gun: 2*
    2 L Candy Cane Gun: 6**
    1 L Capoeira Reginald: 1
    2 L Capoeira Reginald: 6**
@@ -120,6 +119,7 @@
    1 L Cat Guards: 1
    7 L Cat Guards: 6**
    8 L Cat with Gun: 6**
+   1 L Caulk Gun: 2*
    8 L Cham-Pag-En Zapp: 6**
    9 L Champagne Toast Fry: 6**
    1 L Chicken Fight: 1
@@ -138,6 +138,7 @@
    1 L Class Spanker: 6*
    2 L Class Spanker: 6**
    9 L Climate Change: 6**
+   1 L Clone Fight: 1
    1 L Clone Fight: 2*
    3 L Clone Fight: 6**
    1 L Cognac Bender: 2*
@@ -196,13 +197,14 @@
    1 L Ecstacy Francine: 6
    1 L Eggnog Roger: 1
   24 L Eggnog Roger: 6**
+   1 L Equestranaut Costume: 1
    1 L Equestranaut Costume: 2*
    3 L Equestranaut Costume: 6**
   10 L Eugene Belcher: 6**
    5 L Exercising Minh: 6**
    1 L Explorer Stan: 1
    4 L Explorer Stan: 6**
-   1 L Eyephone Fry: 1
+   1 L Eyephone Fry: 2*
    9 L Fake Nose: 6**
    1 L Fake Son Gene: 6**
    1 L Falcon Attack Quagmire: 6**
@@ -211,9 +213,8 @@
    1 L Fantasy Figurines: 2*
    6 L Fantasy Figurines: 6**
    1 L Farnsworth's Cat: 6**
-   1 L Fart School Jimmy Jr.: 1
-   1 L Fart School Jimmy Jr.: 2*
-   5 L Fart School Jimmy Jr.: 6**
+   6 L Fart School Jimmy Jr.: 6**
+   1 L Fart School for the Gifted: 1
    1 L Fashion Wrestling: 6**
    8 L Feed the Dodo: 6**
    1 L Fever Dreams: 2*
@@ -225,6 +226,7 @@
    1 L Finger Gun Gayle: 2*
    1 L Finger Gun Gayle: 6**
    5 L Fischoeder Mansion: 6**
+   1 L Flag Football: 1
    9 L Float Kickers: 6**
    1 L Flower Boys: 2*
    4 L Flower Boys: 6**
@@ -329,9 +331,9 @@
    1 L K Pop Cleveland: 6**
    8 L K Pop Joe: 6**
    2 L K Pop Peter: 6**
-   1 L K Pop Video: 1
+   1 L K Pop Video: 2*
    5 L K Pop Video: 6**
-   1 L Karaoke Morbo: 6**
+   4 L Karaoke Morbo: 6**
    3 L Karaoke Principal: 6**
    1 L Karate Stewie: 2*
    1 L Katana Trisha Takanawa: 2*
@@ -349,6 +351,7 @@
    1 L Knife Fight Stewie: 1
    1 L Knife Fight Stewie: 2*
    3 L Knife Fight Stewie: 6**
+   1 L Knife-wielding Seal: 1
    8 L Knife-wielding Seal: 6**
    1 L LARP Bartender Snot: 1
    1 L Landship Play: 1
@@ -370,6 +373,7 @@
    2 L Long Stick with Sharp Rock: 6**
    7 L Lord Griffin: 6**
   10 L Louise: 6**
+   1 L Lovey Bears: 2*
    7 L Lovey Bears: 6**
   10 L Luanne Platter: 6**
    1 L Lulu: 1
@@ -442,8 +446,9 @@
    4 L Obedience School Brian: 6**
    1 L Oil Receipts: 1
    5 L Oil Receipts: 6**
-   5 L Oktober Brau: 6**
-   9 L Oktoberfest Leela: 6**
+   6 L Oktober Brau: 6**
+   1 L Oktoberfest Leela: 1
+  10 L Oktoberfest Leela: 6**
    1 L Oliver North's Gold: 1
    8 L Oliver North's Gold: 6**
    1 L One Art Please: 1
@@ -495,10 +500,11 @@
    1 L Principal Shepard: 2*
    2 L Principal Shepard: 6**
    1 L Pro-Pain!: 1
-   1 L Pro-Pain!: 6*
-   7 L Pro-Pain!: 6**
+   8 L Pro-Pain!: 6**
+   1 L Professor Baxter: 1
   10 L Professor Farnsworth: 6**
    4 L Purity Dads: 6**
+   1 L Push Ups: 1
    5 L Push Ups: 6**
   10 L Quagmire: 6**
    1 L Quahog College: 2*
@@ -517,6 +523,7 @@
    1 L Rastafarian Jingle Hayley: 1
    9 L Recall Replacement: 6**
    7 L Red Rodriguez 2 Real: 6**
+   1 L Reverend Ping Ping: 1
    1 L Reverend Ping Ping: 2*
    2 L Reverend Ping Ping: 6**
    6 L Rex: 6**
@@ -564,7 +571,7 @@
    1 L Shrimpy Shrimps: 1
    4 L Shrimpy Shrimps: 6**
    1 L Shuttlecock Ring: 6**
-   1 L Signature Cocktail: 1
+   1 L Signature Cocktail: 2*
    2 L Signature Cocktail: 6**
    6 L Ski Mask: 6**
    1 L Sledding Louise: 1
@@ -671,9 +678,7 @@
    6 L Viking Peter: 6**
    9 L Vitruvian Man: 6**
    9 L Vodka Beer: 6**
-   1 L Wagstaff Whaler: 1
-   1 L Wagstaff Whaler: 2*
-   3 L Wagstaff Whaler: 6**
+   4 L Wagstaff Whaler: 6**
    1 L Walking Man Exhibit: 2*
    4 L Walking Man Exhibit: 6**
    7 L War Horse: 6**
@@ -752,12 +757,12 @@
    1 M Signature Cocktail: 7
    1 M Soda Celebration: 5*
    1 M Stan: 7**
-   1 M Steve: 4*
+   1 M Steve: 5*
    1 M Stewie: 7**
    1 M Teddy: 5*
    1 M That's My Parfait: 4
    1 M The Bazooka Sharks: 4
-   1 M Tina: 7*
+   1 M Tina: 1**
    1 M Wagstaff Whaler: 6
    1 M Walking Man Exhibit: 6
    1 M Wong Casino: 4
