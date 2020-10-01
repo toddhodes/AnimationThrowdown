@@ -231,6 +231,7 @@
 2 | Marionette Louise | 20
 2 | Marionette Chris | 45
 2 | Male Amy | 60
+2 | Magician Jimmy Jr. | 35
 2 | Lounge Singer Hayley | 100
 2 | Life Drawing Hayley | 10
 2 | Leela Balloon Art
@@ -408,7 +409,6 @@
 1 | Medieval Hank | 5
 1 | Master Robaire | 25
 1 | Married Brian | 85
-1 | Magician Jimmy Jr. | 35
 1 | Little King Trashmouth | 5
 1 | Leela's Harpoon | 15
 1 | Laser Tag Brian | 25
@@ -419,7 +419,7 @@
 1 | Joystick Steve | 110
 1 | Jellybean Phone Klaus | 5
 1 | Hot Cocoa Gene | 15
-1 | Honeybucket Student | 65
+1 | Honeybucket Student | 125
 1 | Honey Mustache Stewie | 5
 1 | Home School Peter | 50
 1 | History Report Gene | 40
@@ -428,7 +428,7 @@
 1 | Guenter | 10
 1 | Groupie Francine | 5
 1 | Griffin and Quagmire | 5
-1 | Girl Next Door Stewie | 45
+1 | Girl Next Door Stewie | 20
 1 | Gargoyle Hunter | 5
 1 | Garden Shovel Bobby
 1 | Frydo | 5
@@ -468,7 +468,7 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 333100
+ Mastery Stone | 315200
  Screen Repairer | 130
  Rich Bobby | 130
  Maxi Paddy | 130
@@ -525,6 +525,7 @@
  Garden Dance Bob | 40
  One Eyed Orphan | 35
  American Giggolo | 35
+ Workout Klaus | 30
  Tuning Fork | 30
  Topped Off Wine | 30
  Solid Gold Tuxedo | 30
