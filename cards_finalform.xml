@@ -26746,6 +26746,110 @@
 	    <health>67</health>
 	  </upgrade>
 	</unit>
+	<unit>
+	  <id>120132</id>
+	  <combo_card_id>25203</combo_card_id>
+	  <attack>10</attack>
+	  <health>42</health>
+	  <name>Good Boy Witch Snot</name>
+	  <picture>AD_GoodBoyWitchSnot</picture>
+	  <asset_bundle>54</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>2</type>
+	  <trait>disguised</trait>
+	  <skill id="berserk" x="5"/>
+	  <skill id="enlarge" x="5"/>
+	  <skill id="hijack" x="3"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>43</health>
+	    <skill id="hijack" x="4"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>44</health>
+	    <skill id="enlarge" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <health>46</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <attack>11</attack>
+	    <health>47</health>
+	    <skill id="berserk" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>49</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>50</health>
+	    <skill id="enlarge" x="7"/>
+	    <skill id="hijack" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>12</attack>
+	    <health>51</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>53</health>
+	    <skill id="berserk" x="7"/>
+	    <skill id="enlarge" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <health>54</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>56</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>13</attack>
+	    <health>57</health>
+	    <skill id="berserk" x="8"/>
+	    <skill id="enlarge" x="9"/>
+	    <skill id="hijack" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>58</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>60</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <attack>14</attack>
+	    <health>61</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <health>63</health>
+	    <skill id="berserk" x="9"/>
+	    <skill id="enlarge" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>64</health>
+	    <skill id="hijack" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>15</attack>
+	    <health>66</health>
+	    <skill id="enlarge" x="11"/>
+	  </upgrade>
+	</unit>
 
 	<!-- end American Dad Final Forms -->
 	<!-- Bob's Burgers Final Forms -->

@@ -27091,6 +27091,133 @@
 			<skill id="barrier" x="10"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>20082</id>
+		<name>Snot</name>
+		<character>ad_snot</character>
+		<picture>ad_snot_legendary</picture>
+		<asset_bundle>54</asset_bundle>
+		<release_time>1602266400</release_time>
+		<attack>6</attack>
+		<health>34</health>
+		<rarity>4</rarity>
+		<skill id="bunker" x="3"/>
+		<skill id="leech" x="6"/>
+		<skill id="poison" x="6"/>
+		<type>2</type>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>35</health>
+			<skill id="bunker" x="3"/>
+			<skill id="leech" x="7"/>
+			<skill id="poison" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>37</health>
+			<skill id="bunker" x="3"/>
+			<skill id="leech" x="7"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>39</health>
+			<attack>7</attack>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>41</health>
+			<skill id="bunker" x="4"/>
+			<skill id="leech" x="7"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>42</health>
+			<skill id="bunker" x="4"/>
+			<skill id="leech" x="8"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>44</health>
+			<skill id="bunker" x="4"/>
+			<skill id="leech" x="8"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>46</health>
+			<attack>8</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>48</health>
+			<skill id="bunker" x="4"/>
+			<skill id="leech" x="9"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>49</health>
+			<skill id="bunker" x="5"/>
+			<skill id="leech" x="9"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>51</health>
+			<skill id="bunker" x="5"/>
+			<skill id="leech" x="10"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>53</health>
+			<attack>9</attack>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>55</health>
+			<skill id="bunker" x="6"/>
+			<skill id="leech" x="10"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>56</health>
+			<skill id="bunker" x="6"/>
+			<skill id="leech" x="10"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>58</health>
+			<skill id="bunker" x="6"/>
+			<skill id="leech" x="11"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>60</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>62</health>
+			<skill id="bunker" x="6"/>
+			<skill id="leech" x="12"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>64</health>
+			<skill id="bunker" x="7"/>
+			<skill id="leech" x="12"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+	</unit>
 			
 	<!--  end american dad input -->		
 	<!--  stop at id 24000 -->
@@ -30152,8 +30279,8 @@
     </unit>
     <unit>
         <id>25201</id>
-        <name>Orchestra Orbo</name>
-        <picture>AD_OrchestraOrbo</picture>
+        <name>Orchestra Snot</name>
+        <picture>AD_OrchestraSnot</picture>
         <asset_bundle>54</asset_bundle>
         <rarity>1</rarity>
         <set>1002</set>
@@ -30167,8 +30294,8 @@
     </unit>
     <unit>
         <id>25202</id>
-        <name>Karate Orbo</name>
-        <picture>AD_KarateOrbo</picture>
+        <name>Karate Snot</name>
+        <picture>AD_KarateSnot</picture>
         <asset_bundle>54</asset_bundle>
         <rarity>1</rarity>
         <set>1002</set>
@@ -30182,8 +30309,8 @@
     </unit>
     <unit>
         <id>25203</id>
-        <name>Good Boy Witch Orbo</name>
-        <picture>AD_GoodBoyWitchOrbo</picture>
+        <name>Good Boy Witch Snot</name>
+        <picture>AD_GoodBoyWitchSnot</picture>
         <asset_bundle>54</asset_bundle>
         <rarity>1</rarity>
         <set>1002</set>
@@ -30197,8 +30324,8 @@
     </unit>
     <unit>
     	<id>25204</id>
-        <name>Panty Addict Orbo</name>
-        <picture>AD_PantyAddictOrbo</picture>
+        <name>Panty Addict Snot</name>
+        <picture>AD_PantyAddictSnot</picture>
         <asset_bundle>54</asset_bundle>
         <rarity>1</rarity>
         <set>1002</set>
@@ -30212,8 +30339,8 @@
     </unit>
     <unit>
     	<id>25205</id>
-        <name>Torah Orbo</name>
-        <picture>AD_TorahOrbo</picture>
+        <name>Torah Snot</name>
+        <picture>AD_TorahSnot</picture>
         <asset_bundle>48</asset_bundle>
         <rarity>1</rarity>
         <set>1002</set>
@@ -30227,9 +30354,9 @@
     </unit>
     <unit>
     	<id>25206</id>
-        <name>Toy Blocks Orbo</name>
-        <picture>AD_ToyBlocksOrbo</picture>
-        <asset_bundle>54</asset_bundle>
+        <name>Toy Blocks Snot</name>
+        <picture>AD_ToyBlocksSnot</picture>
+        <asset_bundle>55</asset_bundle>
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
@@ -40124,8 +40251,8 @@
 	<unit>
 		<id>30100</id>
 		<name>Costume Construction</name>
-		<picture></picture>
-		<asset_bundle></asset_bundle>
+		<picture>BB_CostumeConstruction</picture>
+		<asset_bundle>82</asset_bundle>
 		<release_time>1601402400</release_time>
 		<attack>8</attack>
 		<health>42</health>
@@ -40135,7 +40262,7 @@
 		<skill id="strike" x="5"/>
 		<type>3</type>
 		<trait>disguised</trait>
-		<set>9999</set>
+		<set>2</set>
 		<upgrade>
 			<level>2</level>
 			<health>43</health>
@@ -52752,8 +52879,8 @@
 	<unit>
 		<id>40092</id>
 		<name>Fashion Board</name>
-		<picture></picture>
-		<asset_bundle></asset_bundle>
+		<picture>KOTH_FashionBoard</picture>
+		<asset_bundle>82</asset_bundle>
 		<release_time>1601402400</release_time>
 		<attack>13</attack>
 		<health>28</health>
@@ -52763,7 +52890,7 @@
 		<skill id="burn" x="3"/>
 		<type>4</type>
 		<trait>disguised</trait>
-		<set>9999</set>
+		<set>2</set>
 		<upgrade>
 			<level>2</level>
 			<health>29</health>
@@ -65950,6 +66077,7 @@
 	<unit>
 		<id>50099</id>
 		<name>Replacement Shell</name>
+		<linked_card_id>1500013</linked_card_id>
 		<picture>FR_ReplacementShell</picture>
 		<asset_bundle>48</asset_bundle>
 		<release_time>1601402400</release_time>
