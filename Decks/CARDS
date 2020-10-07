@@ -11,7 +11,7 @@
    1 L 3 Is More Than 4: 1
    6 L 3 Is More Than 4: 6**
    9 L 3004 Olympics: 6**
-   1 L 4 Skore: 1
+   1 L 4 Skore: 2*
    4 L 4 Skore: 6**
    1 L Absinthe: 6**
    8 L Action Delivery Force Hermes: 6**
@@ -20,6 +20,7 @@
    9 L Alien Bagpipes: 6**
    4 L Alpha House: 6**
    3 L Another Lousy Millennium: 6**
+   1 L Anti-Seizure Meds: 1
    4 L Anti-Seizure Meds: 6**
    1 L Antique Robots: 2*
    5 L Antique Robots: 6**
@@ -49,7 +50,8 @@
    2 L Battle Axe Peggy: 6**
    9 L Bazonga Bazooka: 6**
    5 L Bazooka Shark Bomber: 6**
-   1 L Bedtime Stories: 1
+   3 L Bedtime Doll Hayley: 6**
+   1 L Bedtime Stories: 2*
    1 L Beer Festival: 1
    8 L Beer Festival: 6**
    3 L Bender's Clowns: 6**
@@ -86,9 +88,7 @@
    9 L Bobby: 6**
    1 L Bobsled Hermes: 1
    2 L Boggle Contraband: 6**
-   1 L Book of Spells: 1
-   1 L Book of Spells: 2*
-   8 L Book of Spells: 6**
+   9 L Book of Spells: 6**
   10 L Boomhauer: 6**
    1 L Booty Shaking Drunk: 2*
    1 L Bouncy Fun Castle: 1
@@ -127,7 +127,7 @@
    2 L Chicken Fight: 6**
    1 L Children's Author: 2*
    3 L Children's Author: 6**
-   1 L Chip: 1
+   1 L Chip: 2*
    7 L Chip: 6**
   10 L Chris Griffin: 6**
    1 L Chris Painting: 6**
@@ -144,6 +144,7 @@
    3 L Clone Fight: 6**
    1 L Cognac Bender: 2*
    7 L Cognac Bender: 6**
+   3 L Computer Game Wine Roger: 6**
    1 L Concert Keg: 1
    4 L Concert Keg: 6**
    4 L Contact High Stewie: 6**
@@ -187,7 +188,7 @@
    1 L Dr. Banjo: 2*
    1 L Dr. Banjo: 6**
    1 L Dr. Bobbenstein: 6**
-   1 L Dr. Cahill: 1
+   1 L Dr. Cahill: 2*
    3 L Dr. Cahill: 6**
    1 L Dr. Zoidberg: 6
    6 L Dr. Zoidberg: 6**
@@ -214,6 +215,7 @@
    1 L Fantasy Figurines: 2*
    6 L Fantasy Figurines: 6**
    1 L Farnsworth's Cat: 6**
+   1 L Fart School Jimmy Jr.: 1
    6 L Fart School Jimmy Jr.: 6**
    1 L Fart School for the Gifted: 1
    1 L Fashion Wrestling: 6**
@@ -246,6 +248,7 @@
    3 L Furry Convention: 6**
    1 L Garden Dance Bob: 1
    1 L Garden Dance Bob: 6**
+   1 L Ghost Boy: 1
    1 L Ghost Boy: 2*
    7 L Ghost Boy: 6**
    1 L Giant Pandas: 2*
@@ -268,8 +271,7 @@
   10 L Hank Hill: 6**
    3 L Hatchet Boomhauer: 6**
    1 L Hayley Potter: 6**
-   2 L Hayley: 6*
-   5 L Hayley: 6**
+  10 L Hayley: 6**
    9 L Headmistress Mahoney: 6**
    1 L Heat Packing Priest: 1
    2 L Heat Packing Priest: 6**
@@ -278,6 +280,8 @@
    6 L Heavy Metal Hayley: 6**
    5 L Henry Haber Debater: 6**
   10 L Hermes Conrad: 6**
+   1 L Hibachi Hat: 1
+   1 L Hibachi Hat: 2*
    2 L Hibachi Hat: 6**
    1 L High School Bill: 1
    5 L High School Bill: 6**
@@ -304,8 +308,10 @@
    1 L Human Horn: 2*
    5 L Hypnotoad: 6**
    4 L I am Mona: 6**
+   1 L Iraq Lobster: 1
    1 L Iraq Lobster: 2*
    8 L Iraq Lobster: 6**
+   1 L Jacked on Bots: 1
    1 L Jacked on Bots: 2*
    7 L Jacked on Bots: 6**
    1 L James Woods High School: 1
@@ -360,6 +366,7 @@
    7 L Laser Gun Stewie: 6**
    5 L Laser Tag Joe: 6**
   10 L Leela: 6**
+   1 L Leon Petard: 1
    6 L Leon Petard: 6**
    1 L Let's Go Fart: 1
   14 L Let's Go Fart: 6**
@@ -371,12 +378,15 @@
    2 L Long Stick with Sharp Rock: 6**
    7 L Lord Griffin: 6**
   10 L Louise: 6**
+   1 L Lovey Bears: 1
    1 L Lovey Bears: 2*
    7 L Lovey Bears: 6**
   10 L Luanne Platter: 6**
    1 L Lulu: 1
    1 L Lulu: 2*
   13 L Magazine Cover Zapp: 6**
+   1 L Magician Jimmy Jr.: 2*
+   2 L Magician Jimmy Jr.: 6**
    1 L Maltese Liquor: 6**
    1 L Marionette Louise: 1
    1 L Martian Calendar: 1
@@ -402,7 +412,7 @@
    1 L Mind Switcher Farnsworth: 2*
    4 L Mind Switcher Farnsworth: 6**
    1 L Mini Car Racing: 2*
-   1 L Mini Car Racing: 6**
+   2 L Mini Car Racing: 6**
    9 L Mint Julep: 6**
    1 L Mission Doctor: 1
    1 L Mission Doctor: 6*
@@ -416,6 +426,7 @@
    1 L Mr. Fischoeder: 2*
    7 L Mr. Fischoeder: 6**
    6 L Mr. Frond: 6**
+   1 L Mr. Twilley: 1
    5 L Mr. Twilley: 6**
    1 L Ms. LaBonz: 1
    3 L Ms. LaBonz: 6**
@@ -459,6 +470,7 @@
    1 L Party All the Time: 1
    2 L Party All the Time: 6**
    9 L Party in the Beer Tank: 6**
+   1 L Pawtucket Patriot Ale: 1
    1 L Pawtucket Patriot Ale: 2*
    8 L Pawtucket Patriot Ale: 6**
    2 L Pawtucket Peter: 6**
@@ -466,6 +478,7 @@
    1 L Pendlingtonton Academy: 2*
    3 L Pendlingtonton Academy: 6**
    9 L Personalized Beer Mug: 6**
+   1 L Peter's Drawing: 1
    1 L Peter's Drawing: 2*
    7 L Peter's Drawing: 6**
    9 L Peter: 6**
@@ -478,14 +491,10 @@
    2 L Pirate Cannon Peter: 6**
    9 L Planet Express Ship: 6**
   10 L Pointillism: 6**
-   1 L Poker Winnings: 1
-   1 L Poker Winnings: 2*
-   1 L Poker Winnings: 6**
+   2 L Poker Winnings: 6**
    7 L Postal Lois: 6**
    2 L Power Choir Roger: 6**
-   1 L Power Gym: 1
-   1 L Power Gym: 2*
-   4 L Power Gym: 6**
+   5 L Power Gym: 6**
    1 L Prescription Weed: 2*
    4 L Prescription Weed: 6**
    1 L President Polar Bear: 2*
@@ -521,6 +530,7 @@
    1 L Rastafarian Jingle Hayley: 1
    9 L Recall Replacement: 6**
    7 L Red Rodriguez 2 Real: 6**
+   1 L Replacement Shell: 6**
    1 L Reverend Ping Ping: 1
    1 L Reverend Ping Ping: 2*
    2 L Reverend Ping Ping: 6**
@@ -534,6 +544,7 @@
    1 L Rodeo Bobby: 2*
    1 L Rodeo Bobby: 6**
    1 L Roger Epstein Music: 6**
+   1 L Roger's Closet: 1
    3 L Roger's Closet: 6**
    9 L Roger's Sexy Shorts: 6**
   10 L Roger: 6**
@@ -559,7 +570,7 @@
    1 L Sewer Surfer Bender: 6**
    8 L Sewer Surfer Fry: 6**
    1 L Sexy Dance Fighting: 6**
-   1 L Shakespeare Calculon: 1
+   1 L Shakespeare Calculon: 2*
    8 L Shakespeare Calculon: 6**
    7 L Sheldon: 6**
    5 L Ship Armory: 6**
@@ -648,6 +659,7 @@
    5 L Toad Licking: 6**
    5 L Tom Landry Baseball Team: 6**
    1 L Tom Landry Middle School: 1
+   1 L Tom Landry Middle School: 2*
    6 L Tom Landry Middle School: 6**
    9 L Totally Normal Pants: 6**
    1 L Toxic Shock: 2*
@@ -660,6 +672,7 @@
    7 L Troubadour Jeff: 6**
    9 L Turnin Jeff: 6**
    1 L Two Butt Goat: 1
+   1 L Unlabeled Pills: 1
    1 L Unlabeled Pills: 6**
    1 L Unsharp Scissors Zapp: 6**
    1 L Upgraded Hermes: 2*
@@ -678,6 +691,7 @@
    4 L Wagstaff Whaler: 6**
    1 L Walking Man Exhibit: 2*
    4 L Walking Man Exhibit: 6**
+   1 L Walkman Boomhauer: 2*
    7 L War Horse: 6**
    1 L Whale Hunter Amy: 6**
    1 L Whiskey Bartender: 2*
@@ -691,12 +705,10 @@
    3 L Winthrop Manor: 6**
    9 L Wireless Audio Transmitter: 6**
    9 L Witch Costume: 6**
-   1 L Wong Casino: 1
-   1 L Wong Casino: 2*
-   5 L Wong Casino: 6**
+   6 L Wong Casino: 6**
    1 L Wongminster Mini Golf: 1
    9 L Wood Chuck: 6**
-   1 L Wozniak Nerd Academy: 1
+   1 L Wozniak Nerd Academy: 2*
    6 L Wozniak Nerd Academy: 6**
    1 L Yacht Dreams: 6**
    6 L Zapp Brannigan Portrait: 6**
@@ -724,7 +736,7 @@
    1 M Film Scissors: 6
    1 M Fry: 7
    1 M Gene: 4*
-   1 M Golden Goose: 4
+   1 M Golden Goose: 3*
    1 M Gym Equipment: 1*
    1 M Hank: 1*
    1 M Hayley: 3**
@@ -738,7 +750,7 @@
    1 M Lois: 6*
    1 M Louise: 7**
    1 M Meg: 6*
-   1 M Mini Car Racing: 2
+   1 M Mini Car Racing: 7
    1 M Mr. Fischoeder: 7
    1 M Neil Goldman: 2*
    1 M Nibbler on the Roof: 7
@@ -758,7 +770,7 @@
    1 M Stewie: 7**
    1 M Teddy: 5*
    1 M That's My Parfait: 4
-   1 M The Bazooka Sharks: 4
+   1 M The Bazooka Sharks: 6
    1 M Tina: 1**
    1 M Wagstaff Whaler: 6
    1 M Walking Man Exhibit: 6

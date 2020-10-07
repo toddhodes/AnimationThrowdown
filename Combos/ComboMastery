@@ -126,7 +126,7 @@
 3 | Another Lousy Millenium
 3 | Action Delivery Force Hermes
 3 | 5 AM Wine
-2 | Zapp Figurines | 30
+2 | Zapp Figurines | 75
 2 | Yacht Dreams
 2 | Wine Tasting Linda | 50
 2 | Wine & Paint Quagmire | 90
@@ -138,7 +138,7 @@
 2 | Walkie Talkie Teddy | 55
 2 | Video Game Leela | 10
 2 | Victory Dance | 40
-2 | VR Gaming Bobby | 35
+2 | VR Gaming Bobby | 60
 2 | Upgraded Hermes
 2 | Umbriel
 2 | Two Butt Goat
@@ -159,7 +159,7 @@
 2 | Swing Dance Luanne | 90
 2 | Super Dance Squad
 2 | Summer Guy | 60
-2 | Stressed Out Leela
+2 | Stressed Out Leela | 30
 2 | Stickin' Hank
 2 | Stan vs Mafia | 55
 2 | Squirrel Death | 100
@@ -203,7 +203,7 @@
 2 | Pirate Cannon Peter | 30
 2 | PhD Amy | 60
 2 | Pawtucket Peter | 100
-2 | Patriotic Dale | 100
+2 | Patriotic Dale
 2 | Party All the Time | 85
 2 | Pan Flute Stewie | 70
 2 | Painting Montage Joe | 60
@@ -213,7 +213,7 @@
 2 | Opera Singer Leela | 30
 2 | One Art Please | 30
 2 | Oktoberfest Hermes | 45
-2 | Nurse Tina | 15
+2 | Nurse Tina | 85
 2 | Nun Peggy
 2 | Music Teacher Lois
 2 | Mural Restorer | 100
@@ -224,6 +224,7 @@
 2 | Military Tux Bill | 15
 2 | Mike Pulaski | 70
 2 | Michael Dangle-low | 60
+2 | Meg's Voodoo Doll | 55
 2 | Meg Portrait | 55
 2 | Meg Meggy Meg | 5
 2 | Meatman Sculptor
@@ -231,7 +232,7 @@
 2 | Marionette Louise | 20
 2 | Marionette Chris | 45
 2 | Male Amy | 60
-2 | Magician Jimmy Jr. | 35
+2 | Magician Jimmy Jr. | 45
 2 | Lounge Singer Hayley | 100
 2 | Life Drawing Hayley | 10
 2 | Leela Balloon Art
@@ -266,6 +267,7 @@
 2 | Golfer Amy
 2 | Golf Club Amy
 2 | Goddess of Beauty | 35
+2 | Girl Next Door Stewie | 20
 2 | Garbage Shot Linda | 50
 2 | Garage Rock Chris
 2 | Gaga Ball | 30
@@ -282,7 +284,7 @@
 2 | Explorer Stan | 30
 2 | Dummy Fight | 20
 2 | Duke
-2 | Drunk Stan | 60
+2 | Drunk Stan | 100
 2 | Dream Guitar | 50
 2 | Draw Me Tina | 70
 2 | Draw Me Gene
@@ -299,11 +301,12 @@
 2 | Cupid Bobby | 25
 2 | Criss Cross Applesauce | 90
 2 | Crate Trained Steve
-2 | Crack Addicted Fish | 55
+2 | Crack Addicted Fish | 65
 2 | Crack Addict Stan
 2 | Coyote Fighter Chris
 2 | Country Club Steve | 85
 2 | Counting Klaus | 30
+2 | Computer Game Wine Roger | 20
 2 | Comic Artist Peter | 100
 2 | Coach Farnsworth | 30
 2 | Cloud Painter | 100
@@ -404,7 +407,6 @@
 1 | Motivational Poster
 1 | Model Lois | 5
 1 | Menstrual Cycle | 5
-1 | Meg's Voodoo Doll | 80
 1 | Meg's In Charge | 10
 1 | Medieval Hank | 5
 1 | Master Robaire | 25
@@ -428,7 +430,6 @@
 1 | Guenter | 10
 1 | Groupie Francine | 5
 1 | Griffin and Quagmire | 5
-1 | Girl Next Door Stewie | 20
 1 | Gargoyle Hunter | 5
 1 | Garden Shovel Bobby
 1 | Frydo | 5
@@ -468,7 +469,7 @@
 1 | Amy's Talking Tattoo | 110
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 315200
+ Mastery Stone | 324450
  Screen Repairer | 130
  Rich Bobby | 130
  Maxi Paddy | 130
@@ -514,6 +515,7 @@
  Sex Ed Peter | 60
  Oktoberfest Amy | 60
  Line Dancer Amy | 60
+ Jouster Peggy | 60
  Summer Lovin | 55
  Cubert Farnsworth | 55
  Klaus's Fish Wife | 50
@@ -521,6 +523,8 @@
  Delivery Boy | 45
  Pick Up Lines | 40
  Oktoberfest Fry | 40
+ Male Leela | 40
+ Joy of Painting | 40
  Gut Punch Zapp | 40
  Garden Dance Bob | 40
  One Eyed Orphan | 35
@@ -552,6 +556,7 @@
  Tractor Boy | 25
  Steve Crossing the Alps | 25
  King Roger | 25
+ Homecoming King Chris | 25
  Delivery Marmoset | 25
  Soda Bar Drunk | 20
  Sister Peter | 20
@@ -559,17 +564,19 @@
  Party Crashers | 20
  Klaus's Comic | 20
  Musical Peter | 15
- Male Leela | 15
  Karaoke Zapp | 15
  Douchebag Chris | 15
  Wheels Steve | 10
+ Walkman Boomhauer | 10
  Stan's Grill | 10
+ Sower of Revenge | 10
  Sniper Stewie | 10
  Skydiving Peggy | 10
  Secret Asian Man | 10
  Scooty-Puff Jr | 10
  Robot Devil's Hands | 10
  Reverse Stink Hold | 10
+ Paintball Boomhauer | 10
  Nude Painting Bullock | 10
  Model Builder Roger | 10
  Fowl Fighter Linda | 10
