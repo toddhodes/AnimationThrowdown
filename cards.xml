@@ -27094,6 +27094,7 @@
 	<unit>
 		<id>20082</id>
 		<name>Snot</name>
+		<desc>A little dab of Hawaiian Breeze behind my ear not only smells great, it's also the closest I'll ever get to the Caribbean.</desc>
 		<character>ad_snot</character>
 		<picture>ad_snot_legendary</picture>
 		<asset_bundle>54</asset_bundle>
