@@ -278,7 +278,7 @@
 2 | Gaga Ball | 30
 2 | Fry's Painting | 85
 2 | Fry's Macaroni Art | 30
-2 | Fry in Robot Disguise | 10
+2 | Fry in Robot Disguise | 15
 2 | Free Weed Hayley | 100
 2 | Finch Leela | 10
 2 | Feed the Dodo | 30
@@ -372,6 +372,7 @@
 1 | Taxidermy Artist | 5
 1 | Sword Fighter Francine | 5
 1 | Swim Teacher Bob | 60
+1 | Sub Hub Hayley | 15
 1 | Street Hockey Brian | 5
 1 | Stewie Longlegs | 5
 1 | Spirit Bird | 5
@@ -426,10 +427,10 @@
 1 | K Pop Peter | 5
 1 | Joystick Steve | 110
 1 | Jellybean Phone Klaus | 5
-1 | Hot Cocoa Gene | 15
+1 | Hot Cocoa Gene | 25
 1 | Honeybucket Student | 125
 1 | Honey Mustache Stewie | 5
-1 | Homecoming King Chris | 20
+1 | Homecoming King Chris | 10
 1 | Home School Peter | 50
 1 | History Report Gene | 40
 1 | Hipster Donald | 25
@@ -443,7 +444,7 @@
 1 | Freezerdome Linda | 35
 1 | Empty Bowl Painting | 5
 1 | Easter Bunny Peter | 45
-1 | Duh-Vinci Farnsworth | 60
+1 | Duh-Vinci Farnsworth | 100
 1 | Drunk at the Clam | 25
 1 | Dog Meg
 1 | Dog Bone Stan | 5
@@ -468,7 +469,7 @@
 1 | Battle Axe Peggy | 5
 1 | Baseball Dale | 25
 1 | Balloon Tosser | 75
-1 | Bakaneko Fighter Louise | 5
+1 | Bakaneko Fighter Louise | 25
 1 | Assassin Bender | 20
 1 | Artsy Tina | 5
 1 | Appetizer Addict Brian | 10
@@ -476,7 +477,7 @@
 1 | Amy's Talking Tattoo | 125
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 381300
+ Mastery Stone | 408400
  Screen Repairer | 130
  Rich Bobby | 130
  Nun Francine | 130
@@ -490,7 +491,6 @@
  Beefsquatch | 130
  Army Quagmire | 130
  Armadillo Boomhauer | 130
- Kawaii Klaus | 125
  Evil Stepsister | 125
  Zac Sawyer | 120
  Too High to Drive | 120
@@ -508,12 +508,14 @@
  Working Girl Tina | 85
  Were-Car | 85
  Money Retriever | 85
+ Deer Daddy Steve | 85
  Anger Management Class | 85
  Robot House | 80
  More Forever | 80
  Mathy Cathy | 80
  Frykowski | 80
  Beer Funnel Peter | 80
+ Ancient Cave Writing | 80
  Nacho Addict Bender | 75
  Martini Peggy | 75
  Zinc Saucier | 70
@@ -543,6 +545,7 @@
  Workout Klaus | 30
  Tuning Fork | 30
  Topped Off Wine | 30
+ Stevie Wonderbra | 30
  Solid Gold Tuxedo | 30
  Skating Roger | 30
  Sharpshooter Bobby | 30
