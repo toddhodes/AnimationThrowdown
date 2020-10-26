@@ -19181,6 +19181,21 @@
         <skill id='bunker' p='30' v='8'/>
         <skill id='bodyguard' p='30' v='8' />
     </unit>
+    <unit>
+        <id>15237</id>
+        <name>Crime Addict Joe</name>
+        <picture>FG_crimeAddictJoe</picture>
+        <asset_bundle>82</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>1</type>
+        <trait>addicted</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.73</health_multiplier>
+        <skill id='shrapnel' p='50' v='7'  />
+        <skill id='leech' p='30' v='13'/>
+        <skill id='berserk' p='30' v='7' />
+    </unit>
 	                                                             				
 	<!-- End Family Guy combo -->			
 	<!-- American Dad Input -->
@@ -27219,6 +27234,129 @@
 			<skill id="poison" x="11"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>20083</id>
+		<name>Barry's Meds</name>
+		<picture>AD_BarrysMeds</picture>
+		<asset_bundle>53</asset_bundle>
+		<release_time>1603216800</release_time>
+		<attack>7</attack>
+		<health>44</health>
+		<rarity>4</rarity>
+		<skill id="enlarge" x="4"/>
+		<skill id="barrier" x="5"/>
+		<skill id="rally" x="5"/>
+		<type>2</type>
+		<trait>addicted</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>45</health>
+			<attack>8</attack>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>46</health>
+			<skill id="enlarge" x="5"/>
+			<skill id="barrier" x="5"/>
+			<skill id="rally" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>47</health>
+			<skill id="enlarge" x="5"/>
+			<skill id="barrier" x="5"/>
+			<skill id="rally" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>48</health>
+			<skill id="enlarge" x="5"/>
+			<skill id="barrier" x="6"/>
+			<skill id="rally" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>49</health>
+			<attack>9</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>50</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>51</health>
+			<skill id="enlarge" x="6"/>
+			<skill id="barrier" x="6"/>
+			<skill id="rally" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>52</health>
+			<skill id="enlarge" x="6"/>
+			<skill id="barrier" x="6"/>
+			<skill id="rally" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>53</health>
+			<skill id="enlarge" x="6"/>
+			<skill id="barrier" x="7"/>
+			<skill id="rally" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>54</health>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>55</health>
+			<skill id="enlarge" x="7"/>
+			<skill id="barrier" x="7"/>
+			<skill id="rally" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>56</health>
+			<skill id="enlarge" x="7"/>
+			<skill id="barrier" x="7"/>
+			<skill id="rally" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>57</health>
+			<skill id="enlarge" x="7"/>
+			<skill id="barrier" x="8"/>
+			<skill id="rally" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>58</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>59</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>60</health>
+			<skill id="enlarge" x="8"/>
+			<skill id="barrier" x="8"/>
+			<skill id="rally" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>61</health>
+			<skill id="enlarge" x="8"/>
+			<skill id="barrier" x="9"/>
+			<skill id="rally" x="9"/>
+		</upgrade>
+	</unit>
 			
 	<!--  end american dad input -->		
 	<!--  stop at id 24000 -->
@@ -30413,6 +30551,51 @@
         <skill id='hijack' p='30' v='8'  />
         <skill id='leech' p='30' v='12' />
         <skill id='healall' y='disguised' p='30' v='6' />
+    </unit>
+    <unit>
+    	<id>25210</id>
+        <name>Pot Brownies Klaus</name>
+        <picture>AD_PotBrowniesKlaus</picture>
+        <asset_bundle>82</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>2</type>
+        <trait>addicted</trait>
+        <attack_multiplier>0.69</attack_multiplier>
+        <health_multiplier>0.73</health_multiplier>
+        <skill id='armored' p='30' v='8'  />
+        <skill id='weakenall' p='30' v='6' />
+        <skill id='hijack' p='50' v='8' />
+    </unit>
+    <unit>
+    	<id>25211</id>
+        <name>Bong Rips Francine</name>
+        <picture>AD_BongFrancine</picture>
+        <asset_bundle>82</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>2</type>
+        <trait>addicted</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.75</health_multiplier>
+        <skill id='poison' p='30' v='12'  />
+        <skill id='heal' p='30' v='11' />
+        <skill id='bunker' p='30' v='8' />
+    </unit>
+    <unit>
+    	<id>25212</id>
+        <name>Adrenaline Steve</name>
+        <picture>AD_AdrenalineSteve</picture>
+        <asset_bundle>70</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>2</type>
+        <trait>addicted</trait>
+        <attack_multiplier>0.64</attack_multiplier>
+        <health_multiplier>0.75</health_multiplier>
+        <skill id='bodyguard' p='30' v='8'  />
+        <skill id='armored' p='30' v='10' />
+        <skill id='hijack' p='35' v='8' />
     </unit>
     
                                                                       
@@ -40374,6 +40557,258 @@
 			<skill id="inspire" x="8"/>
 			<skill id="rally" x="10" y="disguised"/>
 			<skill id="strike" x="9"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>30101</id>
+		<name>Candy Tornado</name>
+		<desc>This is amaaaazing.</desc>
+		<picture>bb_candytornado</picture>
+		<asset_bundle>18</asset_bundle>
+		<release_time>1603216800</release_time>
+		<attack>7</attack>
+		<health>44</health>
+		<rarity>4</rarity>
+		<skill id="invigorate" x="4"/>
+		<skill id="pierce" x="5"/>
+		<skill id="poison" x="6"/>
+		<type>3</type>
+		<trait>addicted</trait>
+		<set>3</set>
+		<upgrade>
+			<level>2</level>
+			<health>45</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<attack>8</attack>
+			<skill id="invigorate" x="4"/>
+			<skill id="pierce" x="5"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>46</health>
+			<skill id="invigorate" x="4"/>
+			<skill id="pierce" x="6"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<attack>9</attack>
+			<skill id="invigorate" x="5"/>
+			<skill id="pierce" x="6"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>47</health>
+			<skill id="invigorate" x="5"/>
+			<skill id="pierce" x="6"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>48</health>
+			<skill id="invigorate" x="5"/>
+			<skill id="pierce" x="7"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<attack>10</attack>
+			<health>49</health>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<skill id="invigorate" x="6"/>
+			<skill id="pierce" x="7"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>11</attack>
+			<skill id="invigorate" x="6"/>
+			<skill id="pierce" x="8"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>50</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="pierce" x="8"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>51</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="pierce" x="9"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<attack>12</attack>
+			<skill id="invigorate" x="7"/>
+			<skill id="pierce" x="9"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>52</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<skill id="invigorate" x="7"/>
+			<skill id="pierce" x="10"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>53</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>54</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="pierce" x="10"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<skill id="invigorate" x="8"/>
+			<skill id="pierce" x="11"/>
+			<skill id="poison" x="12"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>30102</id>
+		<name>Chunky Blastoffs Candy</name>
+		<desc>The chunkiest!</desc>
+		<picture>bb_chunkyblastoffs</picture>
+		<asset_bundle>18</asset_bundle>
+		<release_time>1603216800</release_time>
+		<attack>9</attack>
+		<health>40</health>
+		<rarity>4</rarity>
+		<skill id="outlast" x="4"/>
+		<skill id="bunker" x="4"/>
+		<skill id="poison" x="7"/>
+		<type>3</type>
+		<trait>addicted</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>41</health>
+			<skill id="outlast" x="4"/>
+			<skill id="bunker" x="4"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>42</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>43</health>
+			<skill id="outlast" x="5"/>
+			<skill id="bunker" x="4"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>44</health>
+			<skill id="outlast" x="5"/>
+			<skill id="bunker" x="5"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>45</health>
+			<skill id="outlast" x="5"/>
+			<skill id="bunker" x="5"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<attack>11</attack>
+			<health>46</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>47</health>
+			<skill id="outlast" x="6"/>
+			<skill id="bunker" x="5"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>48</health>
+			<skill id="outlast" x="6"/>
+			<skill id="bunker" x="5"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>49</health>
+			<skill id="outlast" x="6"/>
+			<skill id="bunker" x="6"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<attack>12</attack>
+			<health>50</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>51</health>
+			<skill id="outlast" x="6"/>
+			<skill id="bunker" x="6"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>52</health>
+			<skill id="outlast" x="7"/>
+			<skill id="bunker" x="6"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>13</attack>
+			<skill id="outlast" x="7"/>
+			<skill id="bunker" x="7"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>53</health>
+			<skill id="outlast" x="7"/>
+			<skill id="bunker" x="7"/>
+			<skill id="poison" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>54</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>55</health>
+			<skill id="outlast" x="8"/>
+			<skill id="bunker" x="7"/>
+			<skill id="poison" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>58</health>
+			<skill id="outlast" x="8"/>
+			<skill id="bunker" x="8"/>
+			<skill id="poison" x="13"/>
 		</upgrade>
 	</unit>
 	 	
@@ -53001,6 +53436,128 @@
 			<skill id="burn" x="7"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>40093</id>
+		<name>Ice Cream Addict</name>
+		<picture>KOTH_IceCreamAddict</picture>
+		<asset_bundle>82</asset_bundle>
+		<release_time>1603216800</release_time>
+		<attack>6</attack>
+		<health>48</health>
+		<rarity>4</rarity>
+		<skill id="inspire" x="4"/>
+		<skill id="heal" x="6"/>
+		<skill id="hijack" x="4"/>
+		<type>4</type>
+		<trait>addicted</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>49</health>
+			<attack>7</attack>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>50</health>
+			<skill id="inspire" x="4"/>
+			<skill id="heal" x="7"/>
+			<skill id="hijack" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>51</health>
+			<skill id="inspire" x="5"/>
+			<skill id="heal" x="7"/>
+			<skill id="hijack" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>52</health>
+			<skill id="inspire" x="5"/>
+			<skill id="heal" x="7"/>
+			<skill id="hijack" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>8</attack>
+			<health>53</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>54</health>
+			<skill id="inspire" x="5"/>
+			<skill id="heal" x="8"/>
+			<skill id="hijack" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>55</health>
+			<attack>9</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<skill id="inspire" x="6"/>
+			<skill id="heal" x="8"/>
+			<skill id="hijack" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>56</health>
+			<skill id="inspire" x="6"/>
+			<skill id="heal" x="9"/>
+			<skill id="hijack" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>57</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>58</health>
+			<skill id="inspire" x="7"/>
+			<skill id="heal" x="9"/>
+			<skill id="hijack" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>59</health>
+			<skill id="inspire" x="7"/>
+			<skill id="heal" x="9"/>
+			<skill id="hijack" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>60</health>
+			<skill id="inspire" x="7"/>
+			<skill id="heal" x="10"/>
+			<skill id="hijack" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<attack>11</attack>
+			<health>61</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>62</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>63</health>
+			<skill id="inspire" x="7"/>
+			<skill id="heal" x="11"/>
+			<skill id="hijack" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>64</health>
+			<skill id="inspire" x="8"/>
+			<skill id="heal" x="11"/>
+			<skill id="hijack" x="8"/>
+		</upgrade>
+	</unit>
 	
 	
 	<!-- End King of the Hill Input -->	
@@ -55886,6 +56443,52 @@
         <health_multiplier>0.72</health_multiplier>
         <skill id='enlarge' p='30' v='9' />
         <skill id='pierce' p='30' v='14' />
+        <skill id='burn' p='30' v='7' />
+    </unit>
+    <unit>
+        <id>45186</id>
+        <name>Just Mow a Lawn</name>
+        <desc>I love the smell of grass in the morning.</desc>
+        <picture>KOTH_JustMowALawn</picture>
+        <asset_bundle>46</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>4</type>
+        <trait>addicted</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.75</health_multiplier>
+        <skill id='inspire' p='30' v='8' />
+        <skill id='invigorate' p='30' v='10' />
+        <skill id='rally' p='30' v='11' />
+    </unit>
+    <unit>
+        <id>45187</id>
+        <name>More Time More Drugs</name>
+        <picture>KOTH_MoreTimeDrugs</picture>
+        <asset_bundle>53</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>4</type>
+        <trait>addicted</trait>
+        <attack_multiplier>0.71</attack_multiplier>
+        <health_multiplier>0.74</health_multiplier>
+        <skill id='burn' p='30' v='8' />
+        <skill id='bunker' p='30' v='8' />
+        <skill id='counter' p='30' v='11' />
+    </unit>
+    <unit>
+        <id>45188</id>
+        <name>Steak Addict Bobby</name>
+        <picture>KOTH_SteakAddictBobby</picture>
+        <asset_bundle>53</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>4</type>
+        <trait>addicted</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.73</health_multiplier>
+        <skill id='heal' p='30' v='11' />
+        <skill id='strike' p='30' v='12' />
         <skill id='burn' p='30' v='7' />
     </unit>
     
@@ -69436,6 +70039,36 @@
         <skill id='bunker' p='30' v='5' />
 		<skill id='counter' p='30' v='14'/>
     </unit>
+    <unit>
+    	<id>55209</id>
+        <name>Chocolate Addict Zapp</name>
+        <picture>FR_ChocolateAddictZapp</picture>
+        <asset_bundle>82</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>5</type>
+        <trait>addicted</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.71</health_multiplier>
+        <skill id='counter' p='30' v='11' />
+        <skill id='poison' p='30' v='11' />
+		<skill id='pierce' p='30' v='12'/>
+    </unit>
+    <unit>
+    	<id>55210</id>
+        <name>Groovy Fry</name>
+        <picture>FR_GroovyFry</picture>
+        <asset_bundle>70</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>5</type>
+        <trait>addicted</trait>
+        <attack_multiplier>0.71</attack_multiplier>
+        <health_multiplier>0.74</health_multiplier>
+        <skill id='bodyguard' p='30' v='9' />
+        <skill id='strike' p='30' v='10' />
+		<skill id='enlarge' p='30' v='8'/>
+    </unit>
                                                       							
 <!-- END Futurama Combos -->
 
@@ -72176,6 +72809,12 @@
 	<unit_type>
 		<id>6</id>
 		<name>Generic</name>
+		<cardBack>cardBack</cardBack>
+        <logo>genericLogo</logo>
+	</unit_type>
+	<unit_type>
+		<id>7</id>
+		<name>RM</name>
 		<cardBack>cardBack</cardBack>
         <logo>genericLogo</logo>
 	</unit_type>
