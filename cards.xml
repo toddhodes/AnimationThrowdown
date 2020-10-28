@@ -40562,6 +40562,7 @@
 	<unit>
 		<id>30101</id>
 		<name>Candy Tornado</name>
+		<linked_card_id>1300013</linked_card_id>
 		<desc>This is amaaaazing.</desc>
 		<picture>bb_candytornado</picture>
 		<asset_bundle>18</asset_bundle>
@@ -69204,7 +69205,7 @@
         <trait>artistic</trait>
         <attack_multiplier>0.7</attack_multiplier>
         <health_multiplier>0.7</health_multiplier>
-        <skill id='strike' p='28' v='10' />
+        <skill id='strike' p='28' v='10'  />
         <skill id='berserk' p='32' v='7'  />
 		<skill id='weaken' p='30' v='11' />
     </unit>   
@@ -72814,7 +72815,7 @@
 	</unit_type>
 	<unit_type>
 		<id>7</id>
-		<name>RM</name>
+		<name>Orbo</name>
 		<cardBack>cardBack</cardBack>
         <logo>genericLogo</logo>
 	</unit_type>
@@ -73601,6 +73602,11 @@
 		<visible>1</visible>
 	</cardSet>
 	<cardSet>
+		<id>4</id>
+		<name>Orbo Cards</name>
+		<visible>1</visible>
+	</cardSet>
+	<cardSet>
 		<id>1001</id>
 		<name>Standard Set Combo</name>
 		<visible>1</visible>
@@ -73608,6 +73614,11 @@
 	<cardSet>
 		<id>1002</id>
 		<name>Expansion 1 Combo</name>
+		<visible>1</visible>
+	</cardSet>
+	<cardSet>
+		<id>1003</id>
+		<name>Orbo Combo</name>
 		<visible>1</visible>
 	</cardSet>
 	<cardSet>
@@ -73629,6 +73640,11 @@
 		<id>3004</id>
 		<name>Hidden FF</name>
 		<visible>1</visible>
+	</cardSet>
+	<cardSet>
+		<id>3005</id>
+		<name>Orbo FF</name>
+		<visible>1</visible>
 	</cardSet>			
 	<cardSet>
 		<id>5000</id>
@@ -73638,6 +73654,11 @@
 	<cardSet>
 		<id>5001</id>
 		<name>Premium Leaders</name>
+		<visible>1</visible>
+	</cardSet>
+	<cardSet>
+		<id>5002</id>
+		<name>Orbo Leaders</name>
 		<visible>1</visible>
 	</cardSet>	
 	<cardSet>
@@ -73658,6 +73679,11 @@
 	<cardSet>
 		<id>7002</id>
 		<name>Object Mythic</name>
+		<visible>1</visible>
+	</cardSet>
+	<cardSet>
+		<id>7003</id>
+		<name>Orbo Mythic</name>
 		<visible>1</visible>
 	</cardSet>	
 	<cardSet>
