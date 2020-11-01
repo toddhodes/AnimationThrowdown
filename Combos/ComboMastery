@@ -83,6 +83,7 @@
 3 | Ghost Boomhauer
 3 | Fur Coat Lois
 3 | Freezerdome Gene
+3 | Free Weed Hayley
 3 | Fowl Fighter Teddy
 3 | Food Addict Leela
 3 | Fever Dreams
@@ -117,6 +118,7 @@
 3 | Cham-Pag-En Zapp
 3 | Burgerboss Bob
 3 | Burger Hermes
+3 | Burger Addict Teddy
 3 | Brian Statue
 3 | Boy Witch Steve
 3 | Boob Tube
@@ -151,7 +153,7 @@
 2 | Upgraded Hermes
 2 | Umbriel
 2 | Two Butt Goat
-2 | Trippy Zoidberg | 20
+2 | Trippy Zoidberg | 60
 2 | Tree | 65
 2 | Traumatized Dale | 100
 2 | Trash Can Drunk | 70
@@ -187,7 +189,7 @@
 2 | Sexpun T'Come | 90
 2 | Sewer Surfer Fry | 60
 2 | Sewer Surfer Bender | 60
-2 | Serious Runner Brian | 40
+2 | Serious Runner Brian | 50
 2 | Sculptor Peter | 25
 2 | Scientific Rivals
 2 | Sandwitch | 75
@@ -207,6 +209,7 @@
 2 | Private Brian | 15
 2 | Principal Peter | 30
 2 | Power Choir Roger | 85
+2 | Pot Brownies Klaus | 40
 2 | Positron Shooter Fry | 20
 2 | Pool Shark | 10
 2 | Pirate Cannon Peter | 30
@@ -250,6 +253,7 @@
 2 | Klepto Bender
 2 | Katz | 25
 2 | Karate Stewie
+2 | Junk Food Bill | 50
 2 | Ira | 45
 2 | I am Mona
 2 | I Like Beer | 20
@@ -282,7 +286,6 @@
 2 | Fry's Painting | 85
 2 | Fry's Macaroni Art | 30
 2 | Fry in Robot Disguise | 15
-2 | Free Weed Hayley | 100
 2 | Finch Leela | 10
 2 | Feed the Dodo | 30
 2 | Falconer Hayley | 35
@@ -333,12 +336,11 @@
 2 | Celebeartions | 20
 2 | Catcher Luanne | 35
 2 | Castanet Zoidberg | 70
-2 | Cartel Klaus | 65
+2 | Cartel Klaus | 75
 2 | Captain Leela | 35
 2 | Cadet Hill | 25
 2 | CIA Student | 70
 2 | Burgers and Fries Louise | 20
-2 | Burger Addict Teddy
 2 | Buff Fry
 2 | Brainwashed Hayley | 15
 2 | Boy Crazy | 25
@@ -368,6 +370,7 @@
 1 | Water Polo Steve | 5
 1 | Victorian Knife Lois | 125
 1 | Tropical Drinks | 20
+1 | Toy Blocks Snot | 80
 1 | Toga Bill | 5
 1 | Tina Tackle | 5
 1 | Tequila Roger | 40
@@ -455,12 +458,13 @@
 1 | Crayon Drawing | 125
 1 | Cough Syrup Drunk | 50
 1 | Congo Jack | 5
+1 | Chef Cat Binge
 1 | Cheerleader Peggy | 5
 1 | Chamber of Understanding | 100
 1 | Cake Knife | 20
 1 | Butt Toucher Tina | 5
 1 | Butt Fever | 115
-1 | Burobu Addict | 20
+1 | Burobu Addict | 60
 1 | Booty Shaking Drunk | 5
 1 | Boombox Teddy
 1 | Body Paint Date | 5
@@ -479,12 +483,11 @@
 1 | Amy's Talking Tattoo | 125
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 428550
+ Mastery Stone | 435200
  Zac Sawyer | 130
  Screen Repairer | 130
  Rich Bobby | 130
  Nun Francine | 130
- Nacho Addict Bender | 130
  Maxi Paddy | 130
  Maracas Peter | 130
  Love Potion | 130
@@ -495,6 +498,7 @@
  Beefsquatch | 130
  Army Quagmire | 130
  Armadillo Boomhauer | 130
+ Nacho Addict Bender | 125
  Evil Stepsister | 125
  Too High to Drive | 120
  Slurm Queen | 120
@@ -537,6 +541,7 @@
  Line Dancer Amy | 60
  Summer Lovin | 55
  Cubert Farnsworth | 55
+ Soda Bar Drunk | 50
  Klaus's Fish Wife | 50
  Spaceship Pilot | 45
  Delivery Boy | 45
@@ -557,11 +562,11 @@
  Sharpshooter Bobby | 30
  Sexy Lifeguard | 30
  Sexy Cat | 30
- Santa Addict Meg | 30
+ Rocker Bullock | 30
  Mustache Maker | 30
  Modest Painting | 30
+ Merlot Klaus | 30
  Meg's Evil Monkey | 30
- Junk Food Bill | 30
  Freshman Chris | 30
  Freezer Burn | 30
  Emcee Stewie | 30
@@ -573,15 +578,15 @@
  Bob in the Wall | 30
  ADD Luanne | 30
  71 Ounce Beef Bobby | 30
+ $300 Knife | 30
  Tractor Boy | 25
  Steve Crossing the Alps | 25
  King Roger | 25
  Delivery Marmoset | 25
- Soda Bar Drunk | 20
  Sister Peter | 20
- Rocker Bullock | 20
  Party Crashers | 20
  Klaus's Comic | 20
+ Rabid Dale | 15
  Musical Peter | 15
  Karaoke Zapp | 15
  Douchebag Chris | 15
