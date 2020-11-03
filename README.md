@@ -127,8 +127,8 @@ The `Mastery Stone` line lists your Mastery Stones, the currency used to purchas
  Zac Sawyer | 130
  Screen Repairer | 130
  Rich Bobby | 130
- Nun Francine | 130
- Maxi Paddy | 130
+ Nun Francine | 80
+ Maxi Paddy | 65
  Prom Luanne | 5
  Ecstacy Francine | 5
  Corporate Training | 5
