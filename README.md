@@ -11,8 +11,8 @@ These scripts get your deck card inventory, and Combo Mastery, and output it as 
 To do API calls to kongregate, you need your player ID and password hash.  You can get these
 by turning on the "Developer Console" in your web browser, and investigating some of the traffic
 while playing the game. This is the *same info* you use to register with Zbot; the user ID is your
-player ID, visible in your player detail card.  Asking about this in Line as if you're using ZBot is
-the easiest way to get help on this.
+player ID, visible in your player detail card.  Asking about this in the Line message 
+app (see `https://line.me/`) as if you're using ZBot is the easiest way to get help on this.
 
 Once you have these, add them to a file called `.at_creds` in your home directory (`~/.at_creds`),
 formatted as follows:
