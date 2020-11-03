@@ -46,6 +46,7 @@ In the directory where you cloned this, simply run
 make
 ```
 
+and that's it!  It does the rest for you.  If this doesn't work for you, email me, happy to help.
 
 ### Sample output
 
