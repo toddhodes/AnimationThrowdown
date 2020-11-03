@@ -64,7 +64,7 @@ how CM level and CM stones are shown combined together:
 
 * Decks/CARDS:
 
-First column is number of cards with that exact level fusing.  Second column is Rare/Epic/Legendary/Mythic.  Third Column is card name.  Fourth colum is the level of fusing.  e.g., this shows 6 max-fused Zapp Brannigan Portrait item cards, and, 10 max-fused legnedary Zapp character cards.
+First column is number of cards with that exact level fusing.  Second column is Rare/Epic/Legendary/Mythic.  Third Column is card name.  Fourth column is the level of fusing.  e.g., this shows 6 max-fused Zapp Brannigan Portrait item cards, and, 10 max-fused legnedary Zapp character cards.
 
 ```
    1 E Free Weed Hayley: 5*
