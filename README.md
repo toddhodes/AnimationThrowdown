@@ -47,14 +47,13 @@ make
 
 ## Sample output
 
-
-## Sample output
-
-Here's sample output:
+Here's some sample output; you can see my complete card set and combo masteries here:
 
 https://raw.githubusercontent.com/toddhodes/AnimationThrowdown/master/Decks/CARDS
 
-Decks/CARDS:
+https://raw.githubusercontent.com/toddhodes/AnimationThrowdown/master/Combos/ComboMastery
+
+* Decks/CARDS:
 
 ```
    1 E Free Weed Hayley: 5**
@@ -75,7 +74,7 @@ Decks/CARDS:
 ```
 
 
-Combos/comboMastery:
+* Combos/comboMastery:
 
 ```
 3 | Zombie Jimmy Jr.
