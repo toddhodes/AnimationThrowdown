@@ -53632,7 +53632,117 @@
 	    <health>66</health>
 	  </upgrade>
 	</unit>
-
+	<unit>
+	<id>140126</id>
+	<combo_card_id>45050</combo_card_id>
+	<attack>8</attack>
+	<health>34</health>
+	<name>The Billdozer</name>
+	<desc>OL #72</desc>
+	<picture>Billdozer</picture>
+	<asset_bundle>10</asset_bundle>
+	<rarity>4</rarity>
+	<set>3001</set>
+	<type>4</type>
+	<trait>athletic</trait>
+	<trait>educated</trait>
+	<skill id="armored" x="5"/>
+	<skill id="barrier" x="6" y="athletic"/>
+	<skill id="berserk" x="3"/>
+	<card_type>object</card_type>
+	<upgrade>
+		<level>2</level>
+		<health>35</health>
+		<skill id="armored" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>37</health>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<attack>9</attack>
+		<health>39</health>
+		<skill id="barrier" x="7" y="athletic"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>41</health>
+		<skill id="armored" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<attack>10</attack>
+		<health>42</health>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>44</health>
+		<skill id="armored" x="8"/>
+		<skill id="barrier" x="8" y="athletic"/>
+		<skill id="berserk" x="4"/>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<attack>11</attack>
+		<health>46</health>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>48</health>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<attack>12</attack>
+		<health>49</health>
+		<skill id="armored" x="9"/>
+		<skill id="barrier" x="9" y="athletic"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>51</health>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<attack>13</attack>
+		<health>53</health>
+		<skill id="armored" x="10"/>
+		<skill id="barrier" x="10" y="athletic"/>
+		<skill id="berserk" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>55</health>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<attack>14</attack>
+		<health>56</health>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>58</health>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<attack>15</attack>
+		<health>60</health>
+		<skill id="armored" x="11"/>
+		<skill id="barrier" x="11" y="athletic"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>62</health>
+		<skill id="armored" x="12"/>
+		<skill id="berserk" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<attack>16</attack>
+		<health>64</health>
+		<skill id="barrier" x="12" y="athletic"/>
+	</upgrade>
+	</unit>
 	<!-- end King of the Hill Final Forms -->
 	<!-- Futurama Final Forms -->
 	
