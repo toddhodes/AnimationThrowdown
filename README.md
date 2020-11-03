@@ -64,10 +64,7 @@ how CM level and CM stones are shown combined together:
 
 * Decks/CARDS:
 
-First column is number of cards with that exact level fusing.  
-Second column is Rare/Epic/Legendary/Mythic.  
-Third Colum is card name.  Fourth colum is the level of fusing.  
-e.g., this shows 6 max-fused Zapp Brannigan Portrait item cards, and, 10 max-fused legnedary Zapp character cards.
+First column is number of cards with that exact level fusing.  Second column is Rare/Epic/Legendary/Mythic.  Third Column is card name.  Fourth colum is the level of fusing.  e.g., this shows 6 max-fused Zapp Brannigan Portrait item cards, and, 10 max-fused legnedary Zapp character cards.
 
 ```
    1 E Free Weed Hayley: 5*
@@ -90,9 +87,7 @@ e.g., this shows 6 max-fused Zapp Brannigan Portrait item cards, and, 10 max-fus
 
 * Combos/ComboMastery:
 
-First column is Combo Mastery level, 1-3 (blank when only stones). 
-Second column is the combo name.  
-Third column is the number of item mastery stones available for that particular combo; it takes 5 for CM1, 25 more for CM2, and 100 more for CM3.  Thus an available but unresearched CM3 would list 130.
+First column is Combo Mastery level, 1-3 (blank when only stones). Second column is the combo name.  Third column is the number of item mastery stones available for that particular combo; it takes 5 for CM1, 25 more for CM2, and 100 more for CM3.  Thus an available but unresearched CM3 would list 130.
 
 ```
 3 | Zombie Jimmy Jr.
