@@ -79,7 +79,7 @@ Here edited samples:
 ```
 
 
-* Combos/comboMastery:
+* Combos/ComboMastery:
 
 ```
 3 | Zombie Jimmy Jr.
