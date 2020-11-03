@@ -89,7 +89,7 @@ First column is number of cards with that exact level fusing.  Second column is 
 
 First column is Combo Mastery level, 1-3 (blank when only stones). Second column is the combo name.  Third column is the number of item mastery stones available for that particular combo; it takes 5 for CM1, 25 more for CM2, and 100 more for CM3.  Thus an available but unresearched CM3 would list 130.  
 
-The ` Mastery Stone ` line lists your Mastery Stones, the currency used to purchase stones from the Shop's Mastery tab.
+The ` Mastery Stone` line lists your Mastery Stones, the currency used to purchase stones from the Shop's Mastery tab.
 
 ```
 3 | Zombie Jimmy Jr.
