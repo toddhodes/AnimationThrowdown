@@ -42,6 +42,7 @@
 3 | Rapper Klaus
 3 | Princess Little Piddles
 3 | Prince Charming Peter
+3 | Pot Brownies Klaus
 3 | Postal Lois
 3 | Pointillism
 3 | Pigeon Bill
@@ -72,6 +73,7 @@
 3 | Knife Fight Stewie
 3 | Kiss and Clarinet
 3 | Karate Bender
+3 | Junk Food Bill
 3 | Jouster Peggy
 3 | Jose Servo
 3 | Jealous Bobby
@@ -209,7 +211,6 @@
 2 | Private Brian | 15
 2 | Principal Peter | 30
 2 | Power Choir Roger | 85
-2 | Pot Brownies Klaus | 40
 2 | Positron Shooter Fry | 20
 2 | Pool Shark | 10
 2 | Pirate Cannon Peter | 30
@@ -225,6 +226,7 @@
 2 | One Art Please | 30
 2 | Oktoberfest Hermes | 45
 2 | Nurse Tina | 85
+2 | Nacho Addict Bender | 100
 2 | Music Teacher Lois
 2 | Mural Restorer | 100
 2 | Mowing While Intoxicated | 10
@@ -253,7 +255,6 @@
 2 | Klepto Bender
 2 | Katz | 25
 2 | Karate Stewie
-2 | Junk Food Bill | 50
 2 | Ira | 45
 2 | I am Mona
 2 | I Like Beer | 20
@@ -402,7 +403,7 @@
 1 | Rich Hayley | 5
 1 | Ready for Santa | 95
 1 | Ravenous Porcelain Babies | 5
-1 | Raleigh St. Augustine | 50
+1 | Raleigh St. Augustine | 125
 1 | RC Helicopter | 5
 1 | Quicky Kiss-it | 55
 1 | Poppler Jingle Fry | 20
@@ -483,7 +484,7 @@
 1 | Amy's Talking Tattoo | 125
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 435200
+ Mastery Stone | 454400
  Zac Sawyer | 130
  Screen Repairer | 130
  Rich Bobby | 130
@@ -498,7 +499,6 @@
  Beefsquatch | 130
  Army Quagmire | 130
  Armadillo Boomhauer | 130
- Nacho Addict Bender | 125
  Evil Stepsister | 125
  Too High to Drive | 120
  Slurm Queen | 120
@@ -513,10 +513,10 @@
  Francine Roger | 100
  Bondage Klaus | 100
  Professor of Emerald Laboratory | 95
- Psych Meds | 90
  Magazine Reader Francine | 90
  Working Girl Tina | 85
  Were-Car | 85
+ Psych Meds | 85
  Money Retriever | 85
  Deer Daddy Steve | 85
  Anger Management Class | 85
