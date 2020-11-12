@@ -60,6 +60,7 @@
 3 | Musical Linda
 3 | Music Video Stewie
 3 | Mission Doctor
+3 | Michael Dangle-low
 3 | Medicated Stewie
 3 | Max Jets
 3 | Masked Hero
@@ -235,7 +236,6 @@
 2 | Mind Switcher Farnsworth | 100
 2 | Military Tux Bill | 15
 2 | Mike Pulaski | 70
-2 | Michael Dangle-low | 60
 2 | Meg's Voodoo Doll | 55
 2 | Meg Portrait | 55
 2 | Meg Meggy Meg | 5
@@ -307,7 +307,7 @@
 2 | Diarama Gene | 30
 2 | Diamond Ring Lois | 45
 2 | Dancing Peggy | 10
-2 | Dancing Cans | 70
+2 | Dancing Cans
 2 | Cute Witch of the North | 30
 2 | Cupid Bobby | 25
 2 | Criss Cross Applesauce | 90
@@ -406,6 +406,7 @@
 1 | Raleigh St. Augustine | 125
 1 | RC Helicopter | 5
 1 | Quicky Kiss-it | 55
+1 | Psych Meds | 85
 1 | Poppler Jingle Fry | 20
 1 | Polling Peggy | 35
 1 | Playlist Meg
@@ -484,7 +485,7 @@
 1 | Amy's Talking Tattoo | 125
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 454400
+ Mastery Stone | 429300
  Zac Sawyer | 130
  Screen Repairer | 130
  Rich Bobby | 130
@@ -513,10 +514,9 @@
  Francine Roger | 100
  Bondage Klaus | 100
  Professor of Emerald Laboratory | 95
- Magazine Reader Francine | 90
+ Magazine Reader Francine | 95
  Working Girl Tina | 85
  Were-Car | 85
- Psych Meds | 85
  Money Retriever | 85
  Deer Daddy Steve | 85
  Anger Management Class | 85
@@ -544,6 +544,7 @@
  Soda Bar Drunk | 50
  Klaus's Fish Wife | 50
  Spaceship Pilot | 45
+ Ecstacy Francine | 45
  Delivery Boy | 45
  Pick Up Lines | 40
  Oktoberfest Fry | 40
@@ -557,6 +558,7 @@
  Tuning Fork | 30
  Topped Off Wine | 30
  Stevie Wonderbra | 30
+ Squirrel Suit Hayley | 30
  Solid Gold Tuxedo | 30
  Skating Roger | 30
  Sharpshooter Bobby | 30
@@ -586,6 +588,7 @@
  Sister Peter | 20
  Party Crashers | 20
  Klaus's Comic | 20
+ Karate Francine | 20
  Rabid Dale | 15
  Musical Peter | 15
  Karaoke Zapp | 15
@@ -607,8 +610,8 @@
  Fowl Fighter Linda | 10
  Dodgeball Meg | 10
  Cheerleader Lois | 10
+ Bong Rips Francine | 10
  Sherlock Zoidberg | 5
  Prom Luanne | 5
- Ecstacy Francine | 5
  Corporate Training | 5
  Charts and Graphs | 5
