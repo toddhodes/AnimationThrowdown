@@ -11,6 +11,7 @@
 3 | Unsharp Scissors Zapp
 3 | Trapeze Bob
 3 | Toy Farnsworth Ad
+3 | Toy Blocks Snot
 3 | Time for Hard Liquor
 3 | The Thinker Ape
 3 | Tattoo Stan
@@ -46,6 +47,7 @@
 3 | Postal Lois
 3 | Pointillism
 3 | Pigeon Bill
+3 | Peter with a Knife
 3 | Penguin Conservator
 3 | Patriotic Dale
 3 | Panty Addict Snot
@@ -81,6 +83,7 @@
 3 | Home Ec Teacher
 3 | High School Linda
 3 | Heavy Metal Hayley
+3 | Hatchet Boomhauer
 3 | Good Boy Witch Snot
 3 | Gingerbread Sculptor
 3 | Ghost Boomhauer
@@ -106,6 +109,7 @@
 3 | Devil Bobby
 3 | Death Metal
 3 | Dating Game Steve
+3 | Dancing Cans
 3 | Dance of Peace
 3 | Cyclist Jimmy Jr.
 3 | CrippleTron
@@ -127,6 +131,7 @@
 3 | Boob Tube
 3 | Blueberry Delivery Girl
 3 | Bloody Mary Mix
+3 | Bill's Vegetable Knife | 25
 3 | Biathlon Meg
 3 | Bending School Grad
 3 | Bender's Ducklings
@@ -228,6 +233,7 @@
 2 | Oktoberfest Hermes | 45
 2 | Nurse Tina | 85
 2 | Nacho Addict Bender | 100
+2 | NRA Member
 2 | Music Teacher Lois
 2 | Mural Restorer | 100
 2 | Mowing While Intoxicated | 10
@@ -242,7 +248,7 @@
 2 | Meatman Sculptor
 2 | Mascot Fighter Stan | 85
 2 | Marionette Louise | 20
-2 | Marionette Chris | 45
+2 | Marionette Chris | 65
 2 | Male Amy | 60
 2 | Magician Jimmy Jr. | 45
 2 | Lounge Singer Hayley | 100
@@ -269,7 +275,6 @@
 2 | High School Bill
 2 | Heckler Zoidberg | 100
 2 | Hayley Potter | 65
-2 | Hatchet Boomhauer | 100
 2 | Hank Hill, Running Back | 20
 2 | Hangover Nightmare | 35
 2 | Half Dog Gene
@@ -307,7 +312,6 @@
 2 | Diarama Gene | 30
 2 | Diamond Ring Lois | 45
 2 | Dancing Peggy | 10
-2 | Dancing Cans
 2 | Cute Witch of the North | 30
 2 | Cupid Bobby | 25
 2 | Criss Cross Applesauce | 90
@@ -355,6 +359,7 @@
 2 | Beer Bottle Toast | 10
 2 | Baseball Bobby | 15
 2 | Baseball Beers | 95
+2 | Balloon Tosser | 50
 2 | Balloon Sniper | 45
 2 | Balloon Fight | 15
 2 | Bad Tina | 100
@@ -371,7 +376,6 @@
 1 | Water Polo Steve | 5
 1 | Victorian Knife Lois | 125
 1 | Tropical Drinks | 20
-1 | Toy Blocks Snot | 80
 1 | Toga Bill | 5
 1 | Tina Tackle | 5
 1 | Tequila Roger | 40
@@ -416,7 +420,6 @@
 1 | Organ Hermes | 125
 1 | Old Steve | 10
 1 | Never Have I Ever | 80
-1 | NRA Member | 25
 1 | Mr. Deliver | 20
 1 | Motivational Poster
 1 | Model Lois | 5
@@ -476,16 +479,15 @@
 1 | Belcher Date Night | 115
 1 | Battle Axe Peggy | 5
 1 | Baseball Dale | 25
-1 | Balloon Tosser | 75
 1 | Bakaneko Fighter Louise | 25
 1 | Assassin Bender | 20
 1 | Artsy Tina | 5
 1 | Appetizer Addict Brian | 10
-1 | Anally Defaced | 75
+1 | Anally Defaced | 125
 1 | Amy's Talking Tattoo | 125
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 429300
+ Mastery Stone | 421800
  Zac Sawyer | 130
  Screen Repairer | 130
  Rich Bobby | 130
@@ -508,6 +510,7 @@
  Home School Chris | 115
  High Roller Stewie | 115
  Furry Bullock | 115
+ Robot House | 110
  Santa Bender | 105
  Heavenly Hank | 105
  Santa Addict Meg | 100
@@ -520,7 +523,6 @@
  Money Retriever | 85
  Deer Daddy Steve | 85
  Anger Management Class | 85
- Robot House | 80
  More Forever | 80
  Mathy Cathy | 80
  Frykowski | 80
@@ -542,6 +544,7 @@
  Summer Lovin | 55
  Cubert Farnsworth | 55
  Soda Bar Drunk | 50
+ Robot Devil's Hands | 50
  Klaus's Fish Wife | 50
  Spaceship Pilot | 45
  Ecstacy Francine | 45
@@ -555,6 +558,7 @@
  One Eyed Orphan | 35
  American Giggolo | 35
  Workout Klaus | 30
+ Withdrawal Steve | 30
  Tuning Fork | 30
  Topped Off Wine | 30
  Stevie Wonderbra | 30
@@ -570,7 +574,6 @@
  Merlot Klaus | 30
  Meg's Evil Monkey | 30
  Freshman Chris | 30
- Freezer Burn | 30
  Emcee Stewie | 30
  Drunk Hank | 30
  Dog Lois | 30
@@ -584,6 +587,7 @@
  Tractor Boy | 25
  Steve Crossing the Alps | 25
  King Roger | 25
+ Freezer Burn | 25
  Delivery Marmoset | 25
  Sister Peter | 20
  Party Crashers | 20
@@ -602,9 +606,7 @@
  Skydiving Peggy | 10
  Secret Asian Man | 10
  Scooty-Puff Jr | 10
- Robot Devil's Hands | 10
  Reverse Stink Hold | 10
- Paintball Boomhauer | 10
  Nude Painting Bullock | 10
  Model Builder Roger | 10
  Fowl Fighter Linda | 10
