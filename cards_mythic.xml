@@ -4022,6 +4022,163 @@
 		<skill id="pierce" x="20"/>
 	</upgrade>
 </unit>
+<unit>
+	<id>1200015</id>
+	<name>Snot</name>
+	<desc>A little dab of Hawaiian Breeze behind my ear not only smells great, it's also the closest I'll ever get to the Caribbean.</desc>
+	<character>ad_snot</character>
+	<picture>ad_snot_epic</picture>
+	<asset_bundle>54</asset_bundle>
+	<item_name>Snot Fragment</item_name>
+	<item_desc>Collect Snot Fragments to craft and upgrade a Mythic Snot card.</item_desc>
+	<item_icon>inventory_upgrade_50_inventory</item_icon>
+	<item_bundle_id>19</item_bundle_id>
+	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<release_time>1606154400</release_time>
+	<attack>11</attack>
+	<health>64</health>
+	<rarity>5</rarity>
+	<skill id="bunker" x="7"/>
+	<skill id="leech" x="13"/>
+	<skill id="poison" x="12"/>
+	<type>2</type>
+	<set>7001</set>
+	<upgrade>
+		<level>2</level>
+		<health>65</health>
+		<skill id="bunker" x="8"/>
+		<skill id="leech" x="13"/>
+		<skill id="poison" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>66</health>
+		<skill id="bunker" x="8"/>
+		<skill id="leech" x="14"/>
+		<skill id="poison" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>67</health>
+		<skill id="bunker" x="8"/>
+		<skill id="leech" x="14"/>
+		<skill id="poison" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>69</health>
+		<skill id="bunker" x="9"/>
+		<skill id="leech" x="14"/>
+		<skill id="poison" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>70</health>
+		<skill id="bunker" x="9"/>
+		<skill id="leech" x="15"/>
+		<skill id="poison" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>71</health>
+		<skill id="bunker" x="9"/>
+		<skill id="leech" x="15"/>
+		<skill id="poison" x="14"/>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>72</health>
+		<skill id="bunker" x="10"/>
+		<skill id="leech" x="15"/>
+		<skill id="poison" x="14"/>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>74</health>
+		<skill id="bunker" x="10"/>
+		<skill id="leech" x="16"/>
+		<skill id="poison" x="14"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>75</health>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>76</health>
+		<skill id="bunker" x="11"/>
+		<skill id="leech" x="16"/>
+		<skill id="poison" x="14"/>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>77</health>
+		<skill id="bunker" x="11"/>
+		<skill id="leech" x="17"/>
+		<skill id="poison" x="14"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>79</health>
+		<skill id="bunker" x="11"/>
+		<skill id="leech" x="17"/>
+		<skill id="poison" x="15"/>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>80</health>
+		<skill id="bunker" x="12"/>
+		<skill id="leech" x="17"/>
+		<skill id="poison" x="15"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>81</health>
+		<skill id="bunker" x="12"/>
+		<skill id="leech" x="18"/>
+		<skill id="poison" x="15"/>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>82</health>
+		<skill id="bunker" x="12"/>
+		<skill id="leech" x="18"/>
+		<skill id="poison" x="16"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>84</health>
+		<skill id="bunker" x="13"/>
+		<skill id="leech" x="18"/>
+		<skill id="poison" x="16"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<health>85</health>
+		<skill id="bunker" x="13"/>
+		<skill id="leech" x="19"/>
+		<skill id="poison" x="16"/>
+	</upgrade>
+	<upgrade>
+		<level>19</level>
+		<health>86</health>
+		<attack>12</attack>
+	</upgrade>
+	<upgrade>
+		<level>20</level>
+		<health>87</health>
+		<skill id="bunker" x="14"/>
+		<skill id="leech" x="19"/>
+		<skill id="poison" x="16"/>
+	</upgrade>
+	<upgrade>
+		<level>21</level>
+		<health>89</health>
+		<skill id="bunker" x="14"/>
+		<skill id="leech" x="20"/>
+		<skill id="poison" x="17"/>
+	</upgrade>
+</unit>
 
 	<!-- BB Mythics -->	
 	<unit>
