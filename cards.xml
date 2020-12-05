@@ -15671,6 +15671,136 @@
 			<skill id="weakenall" x="4"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>10091</id>
+		<name>Biscuit</name>
+		<picture>FG_Biscuit</picture>
+		<asset_bundle>56</asset_bundle>
+		<release_time>1606932000</release_time>
+		<attack>11</attack>
+		<health>34</health>
+		<rarity>4</rarity>
+		<skill id="invigorate" x="4"/>
+		<skill id="strike" x="6"/>
+		<skill id="poison" x="7"/>
+		<type>1</type>
+		<trait>animal</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>35</health>
+			<skill id="invigorate" x="4"/>
+			<skill id="strike" x="6"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>36</health>
+			<skill id="invigorate" x="5"/>
+			<skill id="strike" x="6"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>37</health>
+			<skill id="invigorate" x="5"/>
+			<skill id="strike" x="7"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>38</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>39</health>
+			<skill id="invigorate" x="5"/>
+			<skill id="strike" x="7"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>41</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="strike" x="8"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>42</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>43</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="strike" x="8"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>44</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="strike" x="8"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>45</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="strike" x="9"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>46</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="strike" x="9"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>48</health>
+			<attack>14</attack>
+			<skill id="invigorate" x="8"/>
+			<skill id="strike" x="9"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>49</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="strike" x="10"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>50</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="strike" x="10"/>
+			<skill id="poison" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>51</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>52</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="strike" x="10"/>
+			<skill id="poison" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>54</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="strike" x="11"/>
+			<skill id="poison" x="13"/>
+		</upgrade>
+	</unit>
 					
 	<!-- End Family Guy Input -->	
 	<!--  stop at id 14000 -->
@@ -19226,6 +19356,38 @@
         <skill id='bodyguard' p='30' v='9'  />
         <skill id='bunker' p='30' v='8'/>
         <skill id='weakenall' p='50' v='5' />
+    </unit>
+    <unit>
+        <id>15240</id>
+        <name>Turkey Dunk Peter</name>
+        <desc>I'm just going to dunk the turkey once, I know I can jam it.</desc>
+        <picture>fg_TurkeyDunkPeter</picture>
+        <asset_bundle>22</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>1</type>
+        <trait>animal</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.74</health_multiplier>
+        <skill id='weaken' p='30' v='11'  />
+        <skill id='counter' p='30' v='13'/>
+        <skill id='enlarge' p='30' v='8' />
+    </unit>
+    <unit>
+        <id>15241</id>
+        <name>Quagmire's Cat James</name>
+        <desc>What a cute pussy... cat.</desc>
+        <picture>FG_QuagmiresCat</picture>
+        <asset_bundle>41</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>1</type>
+        <trait>animal</trait>
+        <attack_multiplier>0.74</attack_multiplier>
+        <health_multiplier>0.69</health_multiplier>
+        <skill id='strike' p='30' v='11'  />
+        <skill id='leech' p='30' v='12'/>
+        <skill id='pierce' p='30' v='11' />
     </unit>
 	                                                             				
 	<!-- End Family Guy combo -->			
@@ -30911,6 +31073,36 @@
         <skill id='leech' p='30' v='12' />
         <skill id='pierce' p='30' v='12' />
     </unit>
+    <unit>
+    	<id>25215</id>
+        <name>Snot and Dreidal</name>
+        <picture>AD_Dreidel</picture>
+        <asset_bundle>56</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>2</type>
+        <trait>animal</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.72</health_multiplier>
+        <skill id='hijack' p='30' v='8'  />
+        <skill id='heal' p='30' v='9' />
+        <skill id='enlarge' p='30' v='8' />
+    </unit>
+    <unit>
+    	<id>25216</id>
+        <name>Nacho Bartiromo</name>
+        <picture>AD_Nacho Bartiromo</picture>
+        <asset_bundle>56</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>2</type>
+        <trait>animal</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.72</health_multiplier>
+        <skill id='healall' y='animal' p='50' v='5'  />
+        <skill id='weaken' p='30' v='9' />
+        <skill id='burn' p='30' v='8' />
+    </unit>
     
                                                                       
 	<!-- End american dad combo -->		
@@ -41254,6 +41446,129 @@
 			<skill id="rally" x="11" y="armed"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>30104</id>
+		<name>Kiki</name>
+		<picture>BB_Kiki</picture>
+		<asset_bundle>56</asset_bundle>
+		<release_time>1606932000</release_time>
+		<attack>12</attack>
+		<health>30</health>
+		<rarity>4</rarity>
+		<skill id="inspire" x="4"/>
+		<skill id="burn" x="4"/>
+		<skill id="bunker" x="4"/>
+		<type>3</type>
+		<trait>animal</trait>
+		<set>3</set>
+		<upgrade>
+			<level>2</level>
+			<health>31</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>32</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>33</health>
+			<skill id="inspire" x="5"/>
+			<skill id="burn" x="4"/>
+			<skill id="bunker" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>34</health>
+			<skill id="inspire" x="5"/>
+			<skill id="burn" x="4"/>
+			<skill id="bunker" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>35</health>
+			<skill id="inspire" x="5"/>
+			<skill id="burn" x="5"/>
+			<skill id="bunker" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>36</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>37</health>
+			<skill id="inspire" x="6"/>
+			<skill id="burn" x="5"/>
+			<skill id="bunker" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>38</health>
+			<skill id="inspire" x="6"/>
+			<skill id="burn" x="5"/>
+			<skill id="bunker" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<skill id="inspire" x="6"/>
+			<skill id="burn" x="6"/>
+			<skill id="bunker" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>39</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>40</health>
+			<skill id="inspire" x="7"/>
+			<skill id="burn" x="6"/>
+			<skill id="bunker" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>41</health>
+			<skill id="inspire" x="7"/>
+			<skill id="burn" x="6"/>
+			<skill id="bunker" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>42</health>
+			<skill id="inspire" x="7"/>
+			<skill id="burn" x="7"/>
+			<skill id="bunker" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>43</health>
+			<attack>16</attack>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>44</health>
+			<skill id="inspire" x="8"/>
+			<skill id="burn" x="7"/>
+			<skill id="bunker" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>45</health>
+			<skill id="inspire" x="8"/>
+			<skill id="burn" x="7"/>
+			<skill id="bunker" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>46</health>
+			<skill id="inspire" x="8"/>
+			<skill id="burn" x="8"/>
+			<skill id="bunker" x="8"/>
+		</upgrade>
+	</unit>
 	 	 
 	<!-- End Bob's Burgers Input -->	
 	<!-- Bob's Burgers Combos -->
@@ -44496,6 +44811,38 @@
         <skill id='enlarge' p='30' v='9'/>
         <skill id='weaken' p='30' v='12' />
         <skill id='burn' p='30' v='8' />
+    </unit>
+    <unit>
+        <id>35212</id>
+        <name>Conventional Turkey Gene</name>
+        <desc>I'm putting the sexy back in Sexy Thanksgiving.</desc>
+        <picture>bb_geneturkey</picture>
+        <asset_bundle>18</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>3</type>
+        <trait>animal</trait>
+        <attack_multiplier>0.71</attack_multiplier>
+        <health_multiplier>0.74</health_multiplier>
+        <skill id='leech' p='30' v='12'/>
+        <skill id='bunker' p='30' v='6' />
+        <skill id='armored' p='30' v='6' />
+    </unit>
+    <unit>
+        <id>35213</id>
+        <name>Bob's Pigeon Bath</name>
+        <desc>Hello! Guilty as charged.</desc>
+        <picture>BB_PigeonBath</picture>
+        <asset_bundle>41</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>3</type>
+        <trait>animal</trait>
+        <attack_multiplier>0.73</attack_multiplier>
+        <health_multiplier>0.7</health_multiplier>
+        <skill id='shrapnel' p='30' v='7'/>
+        <skill id='counter' p='30' v='12' />
+        <skill id='hijack' p='30' v='8' />
     </unit>
                             	                          		
 	<!-- End Bob's Burgers combos -->					
@@ -53999,6 +54346,134 @@
 			<skill id="inspire" x="8"/>
 			<skill id="heal" x="11"/>
 			<skill id="hijack" x="8"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>40094</id>
+		<name>Buster</name>
+		<desc>Fetch boy.</desc>
+		<picture>KOTH_Buster</picture>
+		<asset_bundle>41</asset_bundle>
+		<release_time>1606932000</release_time>
+		<attack>9</attack>
+		<health>40</health>
+		<rarity>4</rarity>
+		<skill id="invigorate" x="5"/>
+		<skill id="burn" x="4"/>
+		<skill id="pierce" x="6"/>
+		<type>4</type>
+		<trait>animal</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>41</health>
+			<skill id="invigorate" x="5"/>
+			<skill id="burn" x="4"/>
+			<skill id="pierce" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>42</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>43</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="burn" x="4"/>
+			<skill id="pierce" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>44</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="burn" x="5"/>
+			<skill id="pierce" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>45</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="burn" x="5"/>
+			<skill id="pierce" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<attack>11</attack>
+			<health>46</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>47</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="burn" x="5"/>
+			<skill id="pierce" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>48</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="burn" x="5"/>
+			<skill id="pierce" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>49</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="burn" x="6"/>
+			<skill id="pierce" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<attack>12</attack>
+			<health>50</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>51</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="burn" x="6"/>
+			<skill id="pierce" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>52</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="burn" x="6"/>
+			<skill id="pierce" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>13</attack>
+			<skill id="invigorate" x="8"/>
+			<skill id="burn" x="7"/>
+			<skill id="pierce" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>53</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="burn" x="7"/>
+			<skill id="pierce" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>54</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>55</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="burn" x="7"/>
+			<skill id="pierce" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>56</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="burn" x="8"/>
+			<skill id="pierce" x="12"/>
 		</upgrade>
 	</unit>
 	
@@ -67381,6 +67856,134 @@
 			<skill id="shrapnel" x="6"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>50101</id>
+		<name>Bigfoot</name>
+		<picture>FR_Bigfoot</picture>
+		<asset_bundle>73</asset_bundle>
+		<release_time>1606932000</release_time>
+		<attack>8</attack>
+		<health>42</health>
+		<rarity>4</rarity>
+		<skill id="armored" x="1"/>
+		<skill id="counter" x="6"/>
+		<skill id="enlarge" x="4"/>
+		<type>5</type>
+		<trait>animal</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>43</health>
+			<skill id="armored" x="1"/>
+			<skill id="counter" x="7"/>
+			<skill id="enlarge" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>44</health>
+			<attack>9</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>45</health>
+			<skill id="armored" x="2"/>
+			<skill id="counter" x="7"/>
+			<skill id="enlarge" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>46</health>
+			<skill id="armored" x="2"/>
+			<skill id="counter" x="7"/>
+			<skill id="enlarge" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>47</health>
+			<skill id="armored" x="2"/>
+			<skill id="counter" x="8"/>
+			<skill id="enlarge" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>48</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>49</health>
+			<skill id="armored" x="2"/>
+			<skill id="counter" x="9"/>
+			<skill id="enlarge" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>50</health>
+			<skill id="armored" x="3"/>
+			<skill id="counter" x="9"/>
+			<skill id="enlarge" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>51</health>
+			<attack>11</attack>
+			<skill id="armored" x="3"/>
+			<skill id="counter" x="9"/>
+			<skill id="enlarge" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>52</health>
+			<skill id="armored" x="3"/>
+			<skill id="counter" x="9"/>
+			<skill id="enlarge" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>53</health>
+			<skill id="armored" x="4"/>
+			<skill id="counter" x="9"/>
+			<skill id="enlarge" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>54</health>
+			<skill id="armored" x="4"/>
+			<skill id="counter" x="9"/>
+			<skill id="enlarge" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>55</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>56</health>
+			<skill id="armored" x="4"/>
+			<skill id="counter" x="10"/>
+			<skill id="enlarge" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>57</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>58</health>
+			<skill id="armored" x="5"/>
+			<skill id="counter" x="10"/>
+			<skill id="enlarge" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>60</health>
+			<skill id="armored" x="6"/>
+			<skill id="counter" x="10"/>
+			<skill id="enlarge" x="8"/>
+		</upgrade>
+	</unit>
 	 
 	<!-- end futurama input -->
 	<!--  stop at id 54000 -->
@@ -73408,12 +74011,6 @@
 		<cardBack>cardBack</cardBack>
         <logo>genericLogo</logo>
 	</unit_type>
-<!-- 	<unit_type>
-		<id>7</id>
-		<name>Orbo</name>
-		<cardBack>cardBack</cardBack>
-        <logo>genericLogo</logo>
-	</unit_type> -->
 	<!-- Card Traits -->
 
 	<unit_trait>
@@ -74197,11 +74794,6 @@
 		<visible>1</visible>
 	</cardSet>
 	<cardSet>
-		<id>5</id>
-		<name>Orbo Cards</name>
-		<visible>1</visible>
-	</cardSet>
-	<cardSet>
 		<id>1001</id>
 		<name>Standard Set Combo</name>
 		<visible>1</visible>
@@ -74209,11 +74801,6 @@
 	<cardSet>
 		<id>1002</id>
 		<name>Expansion 1 Combo</name>
-		<visible>1</visible>
-	</cardSet>
-	<cardSet>
-		<id>1005</id>
-		<name>Orbo Combo</name>
 		<visible>1</visible>
 	</cardSet>
 	<cardSet>
@@ -74235,11 +74822,6 @@
 		<id>3004</id>
 		<name>Hidden FF</name>
 		<visible>1</visible>
-	</cardSet>
-	<cardSet>
-		<id>3005</id>
-		<name>Orbo FF</name>
-		<visible>1</visible>
 	</cardSet>			
 	<cardSet>
 		<id>5000</id>
@@ -74251,11 +74833,6 @@
 		<name>Premium Leaders</name>
 		<visible>1</visible>
 	</cardSet>
-	<cardSet>
-		<id>5005</id>
-		<name>Orbo Leaders</name>
-		<visible>1</visible>
-	</cardSet>	
 	<cardSet>
 		<id>6000</id>
 		<name>Defense Cards</name>
@@ -74274,11 +74851,6 @@
 	<cardSet>
 		<id>7002</id>
 		<name>Object Mythic</name>
-		<visible>1</visible>
-	</cardSet>
-	<cardSet>
-		<id>7005</id>
-		<name>Orbo Mythic</name>
 		<visible>1</visible>
 	</cardSet>	
 	<cardSet>
