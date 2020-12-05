@@ -153,7 +153,7 @@
 2 | Will of a Housewife
 2 | Wild Francine
 2 | Wild Brian
-2 | Whiskey Drunk Brian
+2 | Whiskey Drunk Brian | 50
 2 | Water Nympho
 2 | Walkie Talkie Teddy | 55
 2 | Video Game Leela | 10
@@ -232,7 +232,8 @@
 2 | Opera Singer Leela | 30
 2 | One Art Please | 30
 2 | Oktoberfest Hermes | 45
-2 | Nurse Tina | 85
+2 | Nurse Tina | 100
+2 | Nasal Spray Peter | 40
 2 | Nacho Addict Bender | 100
 2 | NRA Member
 2 | Music Teacher Lois
@@ -243,6 +244,7 @@
 2 | Mind Switcher Farnsworth | 100
 2 | Military Tux Bill | 15
 2 | Mike Pulaski | 70
+2 | Merlot Klaus
 2 | Meg's Voodoo Doll | 55
 2 | Meg Portrait | 55
 2 | Meg Meggy Meg | 5
@@ -255,13 +257,14 @@
 2 | Lounge Singer Hayley | 100
 2 | Life Drawing Hayley | 10
 2 | Leela Balloon Art
-2 | Laser Tag Stan | 25
+2 | Laser Tag Stan | 100
 2 | Laser Razor
 2 | Lab Student Meg | 100
 2 | Kuchi Kopi Sculptor | 5
 2 | Klepto Bender
 2 | Katz | 25
 2 | Karate Stewie
+2 | K Pop Peter
 2 | Ira | 45
 2 | I am Mona
 2 | I Like Beer | 20
@@ -290,7 +293,7 @@
 2 | Garbage Shot Linda | 50
 2 | Garage Rock Chris
 2 | Gaga Ball | 30
-2 | Fry's Painting | 85
+2 | Fry's Painting | 100
 2 | Fry's Macaroni Art | 30
 2 | Fry in Robot Disguise | 15
 2 | Freezer Burn
@@ -303,7 +306,7 @@
 2 | Dummy Fight | 20
 2 | Duke
 2 | Drunk Stan | 100
-2 | Drunk Bullock | 25
+2 | Drunk Bullock | 55
 2 | Dream Guitar | 50
 2 | Draw Me Tina | 70
 2 | Draw Me Gene
@@ -317,7 +320,7 @@
 2 | Dancing Peggy | 10
 2 | Cute Witch of the North | 30
 2 | Cupid Bobby | 25
-2 | Criss Cross Applesauce | 90
+2 | Criss Cross Applesauce | 100
 2 | Crate Trained Steve
 2 | Crack Addicted Fish | 65
 2 | Crack Addict Stan
@@ -339,9 +342,9 @@
 2 | Children's Author | 35
 2 | Chicken Fight | 40
 2 | Chick-Chicken Chick Fight | 5
-2 | Champagne Toast Fry | 45
+2 | Champagne Toast Fry | 100
 2 | Censor Stan
-2 | Celebeartions | 20
+2 | Celebeartions | 60
 2 | Catcher Luanne | 35
 2 | Castanet Zoidberg | 70
 2 | Cartel Klaus | 75
@@ -370,7 +373,7 @@
 2 | Arts and Crafts Bob | 100
 2 | Art of War | 50
 2 | Arlen Men's Choir | 100
-2 | Angry Bullock | 30
+2 | Angry Bullock | 60
 2 | Alley Entertainment | 35
 2 | Action Delivery Force Zoidberg
 2 | Action Delivery Force Leela
@@ -420,6 +423,7 @@
 1 | Playlist Meg
 1 | Ping Pong Brian | 25
 1 | Party Beer Implant | 5
+1 | Paintball Boomhauer | 125
 1 | Owl Stewie | 5
 1 | Organ Hermes | 125
 1 | Old Steve | 10
@@ -432,15 +436,15 @@
 1 | Medieval Hank | 5
 1 | Master Robaire | 25
 1 | Married Brian | 85
+1 | Lobster Wedding | 35
 1 | Little King Trashmouth | 5
 1 | Leela's Harpoon | 15
-1 | Laser Tag Brian | 25
+1 | Laser Tag Brian | 125
 1 | Lady Bird | 15
 1 | Kitchen Knife Snot
 1 | Kidney Killer | 25
 1 | Keyboardist Dale | 5
 1 | Kawaii Klaus | 120
-1 | K Pop Peter | 5
 1 | Joystick Steve | 110
 1 | Jellybean Phone Klaus | 5
 1 | Hot Cocoa Gene | 25
@@ -491,8 +495,9 @@
 1 | Amy's Talking Tattoo | 125
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 441000
+ Mastery Stone | 317400
  Zac Sawyer | 130
+ Skiing Zoidberg | 130
  Screen Repairer | 130
  Rich Bobby | 130
  Nun Francine | 130
@@ -522,6 +527,7 @@
  Bondage Klaus | 100
  Professor of Emerald Laboratory | 95
  Magazine Reader Francine | 95
+ Responsible Cocaine User Bullock | 90
  Working Girl Tina | 85
  Were-Car | 85
  Money Retriever | 85
@@ -532,7 +538,6 @@
  Frykowski | 80
  Beer Funnel Peter | 80
  Ancient Cave Writing | 80
- Responsible Cocaine User Bullock | 75
  Martini Peggy | 75
  Zinc Saucier | 70
  Vengeance Quagmire | 70
@@ -551,15 +556,16 @@
  Soda Bar Drunk | 50
  Robot Devil's Hands | 50
  Klaus's Fish Wife | 50
+ Cowpoke | 50
  Spaceship Pilot | 45
  Ecstacy Francine | 45
  Delivery Boy | 45
  Pick Up Lines | 40
  Oktoberfest Fry | 40
  Male Leela | 40
- Lobster Wedding | 40
  Gut Punch Zapp | 40
  Garden Dance Bob | 40
+ Elf Fight Francine | 40
  One Eyed Orphan | 35
  American Giggolo | 35
  Workout Klaus | 30
@@ -576,9 +582,9 @@
  Rocker Bullock | 30
  Mustache Maker | 30
  Modest Painting | 30
- Merlot Klaus | 30
  Meg's Evil Monkey | 30
  Karate Snot | 30
+ Gatsby Brian | 30
  Freshman Chris | 30
  Emcee Stewie | 30
  Drunk Hank | 30
