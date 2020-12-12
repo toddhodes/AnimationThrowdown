@@ -76,6 +76,7 @@
 3 | Knife Fight Stewie
 3 | Kiss and Clarinet
 3 | Karate Bender
+3 | K Pop Peter
 3 | Junk Food Bill
 3 | Jouster Peggy
 3 | Jose Servo
@@ -122,6 +123,7 @@
 3 | Class Spanker
 3 | Cigarette Addicts
 3 | Chef Cat Munchies
+3 | Champagne Toast Fry
 3 | Cham-Pag-En Zapp
 3 | Butt Fever
 3 | Burgerboss Bob
@@ -226,7 +228,7 @@
 2 | Party All the Time | 85
 2 | Pan Flute Stewie | 70
 2 | Painting Montage Joe | 60
-2 | Painting Class Joe | 95
+2 | Painting Class Joe | 100
 2 | Paintball Hank | 5
 2 | Paddlin' Peggy | 30
 2 | Opera Singer Leela | 30
@@ -262,9 +264,9 @@
 2 | Lab Student Meg | 100
 2 | Kuchi Kopi Sculptor | 5
 2 | Klepto Bender
+2 | Klaus's Fish Wife | 20
 2 | Katz | 25
 2 | Karate Stewie
-2 | K Pop Peter
 2 | Ira | 45
 2 | I am Mona
 2 | I Like Beer | 20
@@ -340,16 +342,15 @@
 2 | Chris Painting
 2 | Chosen Brain Fry
 2 | Children's Author | 35
-2 | Chicken Fight | 40
+2 | Chicken Fight | 45
 2 | Chick-Chicken Chick Fight | 5
-2 | Champagne Toast Fry | 100
 2 | Censor Stan
 2 | Celebeartions | 60
 2 | Catcher Luanne | 35
 2 | Castanet Zoidberg | 70
 2 | Cartel Klaus | 75
 2 | Captain Leela | 35
-2 | Cadet Hill | 25
+2 | Cadet Hill | 35
 2 | CIA Student | 70
 2 | Burgers and Fries Louise | 20
 2 | Buff Fry
@@ -365,13 +366,13 @@
 2 | Beer Bottle Toast | 10
 2 | Baseball Bobby | 15
 2 | Baseball Beers | 95
-2 | Balloon Tosser | 50
+2 | Balloon Tosser | 85
 2 | Balloon Sniper | 45
 2 | Balloon Fight | 15
 2 | Bad Tina | 100
 2 | Bacon Weight | 55
 2 | Arts and Crafts Bob | 100
-2 | Art of War | 50
+2 | Art of War | 100
 2 | Arlen Men's Choir | 100
 2 | Angry Bullock | 60
 2 | Alley Entertainment | 35
@@ -399,7 +400,7 @@
 1 | Snake Hunter | 50
 1 | Smoke Bomb | 45
 1 | Slick'd Steve | 125
-1 | Sledgehammer Dale | 20
+1 | Sledgehammer Dale | 35
 1 | Sketch Artist Peter | 5
 1 | Sketch Artist Dale | 25
 1 | Sing and Swing | 30
@@ -436,7 +437,7 @@
 1 | Medieval Hank | 5
 1 | Master Robaire | 25
 1 | Married Brian | 85
-1 | Lobster Wedding | 35
+1 | Lobster Wedding | 60
 1 | Little King Trashmouth | 5
 1 | Leela's Harpoon | 15
 1 | Laser Tag Brian | 125
@@ -458,7 +459,7 @@
 1 | Groupie Francine | 5
 1 | Griffin and Quagmire | 5
 1 | Gargoyle Hunter | 5
-1 | Garden Shovel Bobby
+1 | Garden Shovel Bobby | 50
 1 | Frydo | 5
 1 | Freezerdome Linda | 35
 1 | Empty Bowl Painting | 5
@@ -488,14 +489,14 @@
 1 | Battle Axe Peggy | 5
 1 | Baseball Dale | 25
 1 | Bakaneko Fighter Louise | 25
-1 | Assassin Bender | 20
+1 | Assassin Bender | 50
 1 | Artsy Tina | 5
 1 | Appetizer Addict Brian | 10
 1 | Anally Defaced | 125
 1 | Amy's Talking Tattoo | 125
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 317400
+ Mastery Stone | 310700
  Zac Sawyer | 130
  Skiing Zoidberg | 130
  Screen Repairer | 130
@@ -555,9 +556,9 @@
  Cubert Farnsworth | 55
  Soda Bar Drunk | 50
  Robot Devil's Hands | 50
- Klaus's Fish Wife | 50
  Cowpoke | 50
  Spaceship Pilot | 45
+ Space Pistol Fry | 45
  Ecstacy Francine | 45
  Delivery Boy | 45
  Pick Up Lines | 40
@@ -627,5 +628,6 @@
  Bong Rips Francine | 10
  Sherlock Zoidberg | 5
  Prom Luanne | 5
+ Frank the Snake | 5
  Corporate Training | 5
  Charts and Graphs | 5
