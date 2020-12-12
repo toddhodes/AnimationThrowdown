@@ -41449,6 +41449,7 @@
 	<unit>
 		<id>30104</id>
 		<name>Kiki</name>
+		<linked_card_id>1300014</linked_card_id>
 		<picture>BB_Kiki</picture>
 		<asset_bundle>56</asset_bundle>
 		<release_time>1606932000</release_time>
