@@ -39,10 +39,12 @@
 3 | Roller Skating Ballad Gene
 3 | River Burned
 3 | Ricky Spanish
+3 | Responsible Cocaine User Bullock
 3 | Red Rodriguez 2 Real
 3 | Rapper Klaus
 3 | Princess Little Piddles
 3 | Prince Charming Peter
+3 | Power Choir Roger
 3 | Pot Brownies Klaus
 3 | Postal Lois
 3 | Pointillism
@@ -143,6 +145,7 @@
 3 | Ballet Meg
 3 | Badminton Roger
 3 | Ass-Kicker Hank
+3 | Art of War
 3 | Antique Robots
 3 | Another Lousy Millenium
 3 | Action Delivery Force Hermes
@@ -212,22 +215,21 @@
 2 | Road Kill | 100
 2 | Rich Leela | 100
 2 | Record Holder Stan | 30
-2 | Rapture Stan
+2 | Rapture Stan | 55
 2 | QB Boomhauer | 5
 2 | Q.T. McWhiskers | 25
 2 | Propane Sculpture | 10
 2 | Prom Beer Joe | 85
 2 | Private Brian | 15
 2 | Principal Peter | 30
-2 | Power Choir Roger | 85
 2 | Positron Shooter Fry | 20
-2 | Pool Shark | 10
+2 | Pool Shark | 100
 2 | Pirate Cannon Peter | 30
 2 | PhD Amy | 60
 2 | Pawtucket Peter | 100
 2 | Party All the Time | 85
 2 | Pan Flute Stewie | 70
-2 | Painting Montage Joe | 60
+2 | Painting Montage Joe | 100
 2 | Painting Class Joe | 100
 2 | Paintball Hank | 5
 2 | Paddlin' Peggy | 30
@@ -248,7 +250,7 @@
 2 | Mike Pulaski | 70
 2 | Merlot Klaus
 2 | Meg's Voodoo Doll | 55
-2 | Meg Portrait | 55
+2 | Meg Portrait | 100
 2 | Meg Meggy Meg | 5
 2 | Meatman Sculptor
 2 | Mascot Fighter Stan | 85
@@ -257,6 +259,7 @@
 2 | Male Amy | 60
 2 | Magician Jimmy Jr. | 45
 2 | Lounge Singer Hayley | 100
+2 | Lobster Wedding | 60
 2 | Life Drawing Hayley | 10
 2 | Leela Balloon Art
 2 | Laser Tag Stan | 100
@@ -303,7 +306,7 @@
 2 | Feed the Dodo | 30
 2 | Falconer Hayley | 35
 2 | Falcon Attack Quagmire | 70
-2 | Fake Son Gene | 80
+2 | Fake Son Gene | 90
 2 | Eyephone Fry | 100
 2 | Dummy Fight | 20
 2 | Duke
@@ -372,7 +375,6 @@
 2 | Bad Tina | 100
 2 | Bacon Weight | 55
 2 | Arts and Crafts Bob | 100
-2 | Art of War | 100
 2 | Arlen Men's Choir | 100
 2 | Angry Bullock | 60
 2 | Alley Entertainment | 35
@@ -437,7 +439,6 @@
 1 | Medieval Hank | 5
 1 | Master Robaire | 25
 1 | Married Brian | 85
-1 | Lobster Wedding | 60
 1 | Little King Trashmouth | 5
 1 | Leela's Harpoon | 15
 1 | Laser Tag Brian | 125
@@ -448,7 +449,7 @@
 1 | Kawaii Klaus | 120
 1 | Joystick Steve | 110
 1 | Jellybean Phone Klaus | 5
-1 | Hot Cocoa Gene | 25
+1 | Hot Cocoa Gene | 35
 1 | Honeybucket Student | 125
 1 | Honey Mustache Stewie | 5
 1 | Home School Peter | 50
@@ -489,14 +490,14 @@
 1 | Battle Axe Peggy | 5
 1 | Baseball Dale | 25
 1 | Bakaneko Fighter Louise | 25
-1 | Assassin Bender | 50
+1 | Assassin Bender | 125
 1 | Artsy Tina | 5
 1 | Appetizer Addict Brian | 10
 1 | Anally Defaced | 125
 1 | Amy's Talking Tattoo | 125
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 310700
+ Mastery Stone | 301950
  Zac Sawyer | 130
  Skiing Zoidberg | 130
  Screen Repairer | 130
@@ -528,7 +529,6 @@
  Bondage Klaus | 100
  Professor of Emerald Laboratory | 95
  Magazine Reader Francine | 95
- Responsible Cocaine User Bullock | 90
  Working Girl Tina | 85
  Were-Car | 85
  Money Retriever | 85
@@ -546,9 +546,11 @@
  Roach Coach Stan | 70
  Joy of Painting | 70
  I Get What I Want | 70
+ Top of the Pecking Order | 65
  Rambo Lois | 65
  Paranoid Louise | 65
  Space Walk | 60
+ Skydiver Quagmire | 60
  Sex Ed Peter | 60
  Oktoberfest Amy | 60
  Line Dancer Amy | 60
@@ -587,9 +589,9 @@
  Karate Snot | 30
  Gatsby Brian | 30
  Freshman Chris | 30
+ Finch Hermes | 30
  Emcee Stewie | 30
  Drunk Hank | 30
- Dog Lois | 30
  Dodgeball Louise | 30
  Cinderella Lois | 30
  Christian Rock | 30
@@ -600,6 +602,7 @@
  Tractor Boy | 25
  Steve Crossing the Alps | 25
  King Roger | 25
+ Dog Lois | 25
  Delivery Marmoset | 25
  Torah Snot | 20
  Sister Peter | 20
@@ -609,6 +612,7 @@
  Rabid Dale | 15
  Musical Peter | 15
  Karaoke Zapp | 15
+ Farnsworth on Skiis | 15
  Douchebag Chris | 15
  Wheels Steve | 10
  Walkman Boomhauer | 10
@@ -630,4 +634,5 @@
  Prom Luanne | 5
  Frank the Snake | 5
  Corporate Training | 5
+ Conventional Turkey Gene | 5
  Charts and Graphs | 5
