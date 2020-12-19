@@ -1,25 +1,26 @@
 
 --------------- burobu clash
 
+Medicated Stewie 22/108 to 27/99 to  31/92  (hypno / weed / monkey)
+payback 21 / 22/ 22
+bomb 19 / 20 / 20
+acid 23 / 24 / 24
+
+= 132 + 38 / / 150 + 40 dmg
+
 Marionette Chris 25/93
 payback 25
 leech 36
 
-attack 100
-
-Medicated Stewie 22/108 or 31/92
-payback 21 / 22
-bomb 19 / 20
-acid 23 / 24
-
-attack 132 + 38 / 150 + 40
+= 100 dmg
 
 The Equestranauts 24/83
 payback 19
 cheer-BB 19
 cripple-all 11
 
-attack 86
+= 86 dmg
+
 
 
 --------------- snow clash
@@ -29,12 +30,11 @@ wall 29
 gas 39
 +attack 22
 
-136 dmg
+= 136 dmg
 
----
 count of monty hall cm3  24 / 120
 leech 36
 payback 33
 motivate-rich 36
 
-114 dmg
+= 114 dmg
