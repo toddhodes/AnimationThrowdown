@@ -10,6 +10,7 @@
    1 E Sexpun T'Come: 5**
    1 E Shop Teacher Hank: 5**
    1 E Space Honey: 5**
+   1 E Umbriel: 5**
    1 E Victorian Knife Lois: 5**
    9 L $300 Haircut: 6**
    1 L 3 Is More Than 4: 1
@@ -88,10 +89,15 @@
    1 L Big Boy Karate: 1
    6 L Big Boy Karate: 6**
    7 L Big Mountain Fudge Cake: 6**
+   1 L Bigfoot: 1
+   1 L Bigfoot: 2*
+   4 L Bigfoot: 6**
    9 L Bill Dauterive: 6**
    7 L Bill's Vegetable Knife: 6**
    2 L Billionaire Fry: 6**
    1 L Biscuit: 1
+   1 L Biscuit: 2*
+   7 L Biscuit: 6**
    1 L Blernsball: 2*
    8 L Blernsball: 6**
    4 L Bloody Mary Mix: 6**
@@ -130,6 +136,7 @@
    4 L CD Warehouse: 6**
    1 L CIA Student: 6**
    1 L Cadet Hill: 2*
+   1 L Candy Cane Gun: 1
    3 L Candy Cane Gun: 6**
    3 L Candy Tornado: 6**
    1 L Capoeira Reginald: 1
@@ -139,8 +146,7 @@
    7 L Cat Guards: 6**
    8 L Cat with Gun: 6**
    1 L Caulk Gun: 1
-   1 L Caulk Gun: 2*
-   1 L Caulk Gun: 6**
+   2 L Caulk Gun: 6**
    8 L Cham-Pag-En Zapp: 6**
    9 L Champagne Toast Fry: 6**
    1 L Chef Cat Binge: 6**
@@ -249,13 +255,14 @@
    1 L Fashion Board: 1
    1 L Fashion Wrestling: 1
    1 L Fashion Wrestling: 6**
-   8 L Feed the Dodo: 6**
+  13 L Feed the Dodo: 6**
    1 L Fever Dreams: 2*
    7 L Fever Dreams: 6**
    1 L Film Scissors: 1
    1 L Film Scissors: 2*
    4 L Film Scissors: 6**
    1 L Finger Gun Gayle: 1
+   1 L Finger Gun Gayle: 2*
    2 L Finger Gun Gayle: 6**
    1 L Firefighter Zoidberg: 1
    1 L Firefighter Zoidberg: 2*
@@ -372,8 +379,7 @@
    8 L K Pop Joe: 6**
    2 L K Pop Peter: 6**
    1 L K Pop Video: 1
-   1 L K Pop Video: 2*
-   6 L K Pop Video: 6**
+   7 L K Pop Video: 6**
    1 L Karaoke Morbo: 2*
    4 L Karaoke Morbo: 6**
    1 L Karaoke Principal: 1
@@ -438,7 +444,7 @@
    6 L Max Jets: 6**
    4 L Meatman Sculptor: 6**
    9 L Medicated Eye Drops: 6**
-   6 L Medicated Stewie: 6**
+   9 L Medicated Stewie: 6**
    9 L Meg Griffin: 6**
    1 L Meg's In Charge: 1
    9 L Mexican Drug Dealer: 6**
@@ -514,6 +520,7 @@
    1 L Party All the Time: 1
    2 L Party All the Time: 6**
    9 L Party in the Beer Tank: 6**
+   1 L Pawtucket Opie: 1
    9 L Pawtucket Patriot Ale: 6**
    2 L Pawtucket Peter: 6**
    9 L Peggy: 6**
@@ -536,9 +543,7 @@
    2 L Pirate Cannon Peter: 6**
    9 L Planet Express Ship: 6**
   10 L Pointillism: 6**
-   1 L Poker Winnings: 1
-   1 L Poker Winnings: 2*
-   2 L Poker Winnings: 6**
+   3 L Poker Winnings: 6**
    7 L Postal Lois: 6**
    9 L Pot Brownies Klaus: 6**
    2 L Power Choir Roger: 6**
@@ -565,9 +570,7 @@
    9 L Quagmire: 6**
    1 L Quahog College: 1
    4 L Quahog College: 6**
-   1 L Quahog Martial Arts Academy: 1
-   1 L Quahog Martial Arts Academy: 2*
-   8 L Quahog Martial Arts Academy: 6**
+   9 L Quahog Martial Arts Academy: 6**
    1 L Quahog Preschool: 1
    1 L Quahog Preschool: 6**
    1 L Quahog Public Golf Course: 1
@@ -622,6 +625,7 @@
    8 L Sewer Surfer Fry: 6**
    1 L Sexy Dance Fighting: 6**
    9 L Shakespeare Calculon: 6**
+   1 L Sheldon: 1
    1 L Sheldon: 2*
    7 L Sheldon: 6**
    8 L Ship Armory: 6**
@@ -632,6 +636,7 @@
    1 L Shrimpy Shrimps: 1
    4 L Shrimpy Shrimps: 6**
    1 L Shuttlecock Ring: 6**
+   1 L Signature Cocktail: 1
    1 L Signature Cocktail: 2*
    3 L Signature Cocktail: 6**
    6 L Ski Mask: 6**
@@ -641,9 +646,8 @@
    1 L Sleighing Tonight: 6**
    1 L Slurm Pop Art: 2*
    1 L Snot Rocket: 6**
-   1 L Snot: 6
-   2 L Snot: 6*
-   5 L Snot: 6**
+   9 L Snot and Dreidal: 6**
+  10 L Snot: 6**
    1 L Soda Celebration: 1
    4 L Soda Celebration: 6**
    1 L Softball Dale: 1
@@ -704,6 +708,7 @@
    1 L That's My Parfait: 6**
    5 L The Bazooka Sharks: 6**
    9 L The Borax Kid: 6**
+   1 L The Leg Room: 1
    3 L The Leg Room: 6**
    1 L The Stingers: 1
    1 L The Stingers: 2*
@@ -727,6 +732,7 @@
    9 L Troubadour Jeff: 6**
    9 L Turnin Jeff: 6**
    1 L Two Butt Goat: 1
+   1 L Unlabeled Pills: 1
    1 L Unlabeled Pills: 2*
    3 L Unlabeled Pills: 6**
    1 L Unsharp Scissors Zapp: 6**
@@ -770,7 +776,7 @@
    1 L Wizard Greyfarn: 2*
    5 L Wizard Greyfarn: 6**
    7 L Wizard Mop: 6**
-   1 L Wong Casino: 1
+   1 L Wong Casino: 2*
    6 L Wong Casino: 6**
    1 L Wongminster Mini Golf: 1
    9 L Wood Chuck: 6**
@@ -799,7 +805,7 @@
    1 M Chris: 2*
    1 M Clone Fight: 5
    1 M Cuddles: 6
-   1 M Dale: 7*
+   1 M Dale: 1**
    1 M Dr. Zoidberg: 6*
    1 M Film Scissors: 7
    1 M Francine: 6
@@ -812,9 +818,9 @@
    1 M Heat Packing Priest: 1*
    1 M Hypnotoad: 3*
    1 M Jimmy Jr.: 4**
-   1 M Joe Swanson: 6*
+   1 M Joe Swanson: 1**
    1 M Karaoke Principal: 2*
-   1 M Kiki: 1
+   1 M Kiki: 4
    1 M Klaus: 4*
    1 M Leela: 7**
    1 M Lois: 1**

@@ -174,7 +174,7 @@
 2 | Trash Can Drunk | 70
 2 | Tin Man Bender | 80
 2 | The Gender Bender | 65
-2 | The Equestranauts | 75
+2 | The Equestranauts | 80
 2 | The Carnival With Rupert | 100
 2 | The Billdozer
 2 | Tennis Stan
@@ -218,7 +218,7 @@
 2 | Record Holder Stan | 30
 2 | Rapture Stan | 55
 2 | QB Boomhauer | 5
-2 | Q.T. McWhiskers | 25
+2 | Q.T. McWhiskers | 45
 2 | Propane Sculpture | 10
 2 | Prom Beer Joe | 85
 2 | Private Brian | 15
@@ -304,7 +304,6 @@
 2 | Fry in Robot Disguise | 15
 2 | Freezer Burn
 2 | Finch Leela | 10
-2 | Feed the Dodo | 30
 2 | Falconer Hayley | 35
 2 | Falcon Attack Quagmire | 70
 2 | Fake Son Gene | 90
@@ -322,7 +321,7 @@
 2 | Doghouse Bobby | 30
 2 | Dinner Wine Bob | 30
 2 | Diarama Gene | 30
-2 | Diamond Ring Lois | 45
+2 | Diamond Ring Lois | 65
 2 | Dancing Peggy | 10
 2 | Cute Witch of the North | 30
 2 | Cupid Bobby | 25
@@ -397,7 +396,7 @@
 1 | Sub Hub Hayley | 15
 1 | Street Hockey Brian | 5
 1 | Stewie Longlegs | 5
-1 | Spirit Bird | 5
+1 | Spirit Bird | 105
 1 | Spin Out Louise | 125
 1 | Space Queen | 65
 1 | Snake Hunter | 50
@@ -407,7 +406,7 @@
 1 | Sketch Artist Peter | 5
 1 | Sketch Artist Dale | 25
 1 | Sing and Swing | 30
-1 | Shut Up and Take My Money | 55
+1 | Shut Up and Take My Money | 60
 1 | Shiny Pebbles | 45
 1 | Shark Killer | 5
 1 | Sailing Addict Linda | 25
@@ -464,11 +463,13 @@
 1 | Garden Shovel Bobby | 50
 1 | Frydo | 5
 1 | Freezerdome Linda | 35
+1 | Finch Hermes | 25
 1 | Empty Bowl Painting | 5
 1 | Easter Bunny Peter | 45
 1 | Duh-Vinci Farnsworth | 100
 1 | Drunk at the Clam | 25
 1 | Dog Meg
+1 | Dog Lois | 25
 1 | Dog Bone Stan | 5
 1 | Date Wine Zoidberg | 125
 1 | DJ Buttercup | 120
@@ -480,7 +481,7 @@
 1 | Chamber of Understanding | 100
 1 | Cake Knife | 20
 1 | Butt Toucher Tina | 5
-1 | Burobu Addict | 60
+1 | Burobu Addict | 75
 1 | Booty Shaking Drunk | 5
 1 | Boombox Teddy
 1 | Body Paint Date | 5
@@ -498,7 +499,7 @@
 1 | Amy's Talking Tattoo | 125
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 301950
+ Mastery Stone | 320550
  Zac Sawyer | 130
  Skiing Zoidberg | 130
  Screen Repairer | 130
@@ -556,6 +557,7 @@
  Oktoberfest Amy | 60
  Line Dancer Amy | 60
  Summer Lovin | 55
+ Solid Gold Tuxedo | 55
  Cubert Farnsworth | 55
  Soda Bar Drunk | 50
  Robot Devil's Hands | 50
@@ -578,7 +580,6 @@
  Topped Off Wine | 30
  Stevie Wonderbra | 30
  Squirrel Suit Hayley | 30
- Solid Gold Tuxedo | 30
  Skating Roger | 30
  Sharpshooter Bobby | 30
  Sexy Lifeguard | 30
@@ -590,7 +591,6 @@
  Karate Snot | 30
  Gatsby Brian | 30
  Freshman Chris | 30
- Finch Hermes | 30
  Emcee Stewie | 30
  Drunk Hank | 30
  Dodgeball Louise | 30
@@ -603,7 +603,6 @@
  Tractor Boy | 25
  Steve Crossing the Alps | 25
  King Roger | 25
- Dog Lois | 25
  Delivery Marmoset | 25
  Torah Snot | 20
  Sister Peter | 20
