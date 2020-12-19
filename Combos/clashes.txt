@@ -1,40 +1,47 @@
 
---------------- burobu clash
+--------------- new year clash -----------------
 
-Medicated Stewie 22/108 to 27/99 to  31/92  (hypno / weed / monkey)
-payback 21 / 22/ 22
-bomb 19 / 20 / 20
-acid 23 / 24 / 24
+Falconer Haley
+ALM
+Cham-Pag-En Zapp
 
-= 132 + 38 / / 150 + 40 dmg
+
+--------------- burobu clash -----------------
+
+Medicated Stewie 22/108 to 27/99 to 28/98
+(hypno | leon / weed)
+payback          21 | 22
+acid             23 | 24
+bomb             19 | 20
+
+= 132 / 146 / 148 (+ 38/40) dmg
 
 Marionette Chris 25/93
 payback 25
-leech 36
+leech   36
 
 = 100 dmg
 
 The Equestranauts 24/83
-payback 19
-cheer-BB 19
+payback     19
+cheer-BB    19
 cripple-all 11
 
 = 86 dmg
 
 
-
---------------- snow clash
+--------------- fresh snow clash -----------------
 
 Responsible cocaine user bullock cm3  29 / 103  
-wall 29
-gas 39
+wall    29
+gas     39
 +attack 22
 
 = 136 dmg
 
 count of monty hall cm3  24 / 120
-leech 36
-payback 33
+leech         36
+payback       33
 motivate-rich 36
 
 = 114 dmg
