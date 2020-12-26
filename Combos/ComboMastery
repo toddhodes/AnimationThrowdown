@@ -28,6 +28,7 @@
 3 | Space Honey
 3 | Softball Dale
 3 | Softball Boomhauer
+3 | Snot and Dreidal
 3 | Sledding Louise
 3 | Skiing Leela
 3 | Shoplift Addict
@@ -166,7 +167,7 @@
 2 | Victory Dance | 40
 2 | VR Gaming Bobby | 60
 2 | Upgraded Hermes
-2 | Umbriel
+2 | Umbriel | 100
 2 | Two Butt Goat
 2 | Trippy Zoidberg | 60
 2 | Tree | 65
@@ -310,7 +311,7 @@
 2 | Eyephone Fry | 100
 2 | Dummy Fight | 20
 2 | Duke
-2 | Drunk Stan | 100
+2 | Drunk Stan
 2 | Drunk Bullock | 55
 2 | Dream Guitar | 50
 2 | Draw Me Tina | 70
@@ -340,7 +341,7 @@
 2 | Claw Machine | 5
 2 | Church Wine Drunk | 55
 2 | Chunky Blast Offs
-2 | Christmas Trap | 65
+2 | Christmas Trap | 100
 2 | Christmas Punchout
 2 | Chris Painting
 2 | Chosen Brain Fry
@@ -475,6 +476,7 @@
 1 | DJ Buttercup | 120
 1 | Crayon Drawing | 125
 1 | Cough Syrup Drunk | 50
+1 | Conventional Turkey Gene
 1 | Congo Jack | 5
 1 | Chef Cat Binge
 1 | Cheerleader Peggy | 5
@@ -487,7 +489,7 @@
 1 | Body Paint Date | 5
 1 | Betsy | 125
 1 | Benderbrau | 50
-1 | Bender's Electric Eel | 55
+1 | Bender's Electric Eel | 125
 1 | Belcher Date Night | 115
 1 | Battle Axe Peggy | 5
 1 | Baseball Dale | 25
@@ -499,7 +501,7 @@
 1 | Amy's Talking Tattoo | 125
 1 | Alcohol Bath | 95
 1 | ABC Quagmire | 45
- Mastery Stone | 320550
+ Mastery Stone | 310950
  Zac Sawyer | 130
  Skiing Zoidberg | 130
  Screen Repairer | 130
@@ -554,6 +556,7 @@
  Space Walk | 60
  Skydiver Quagmire | 60
  Sex Ed Peter | 60
+ Quagmire's Cat James | 60
  Oktoberfest Amy | 60
  Line Dancer Amy | 60
  Summer Lovin | 55
@@ -634,5 +637,4 @@
  Prom Luanne | 5
  Frank the Snake | 5
  Corporate Training | 5
- Conventional Turkey Gene | 5
  Charts and Graphs | 5
