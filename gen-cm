@@ -15,4 +15,5 @@ do
   name=${secondtwo#* *}
 
   echo "$cm | $name"
-done 
+done \
+	 | sort -t'|' -k2 | sort -k1,1 -r -s

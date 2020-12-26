@@ -14,7 +14,7 @@ gen_cards:
 	time ./gen-cards | sort | uniq -c > Decks/CARDS
 
 gen_cm:
-	time ./gen-cm | sort -r > Combos/ComboMasteryLevels
+	time ./gen-cm > Combos/ComboMasteryLevels
 	./gen-cm-tokens | sort -rn > Combos/ComboMasteryTokens
 	./gen-cm-combined > Combos/ComboMastery
 

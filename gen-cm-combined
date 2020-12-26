@@ -4,13 +4,11 @@ join -t '|' -o 1.1,1.2,2.1 -a 1 -1 2 -2 2 \
    <(sort -t'|' -k2 Combos/ComboMasteryLevels) \
    <(cat Combos/ComboMasteryTokens | sed $'s/\t/ |/' | sort -t'|' -k2) \
    | sed 's/ | /|/' \
-   | sort -r -t'|' -k2 \
-   | sort -r \
+   | sort -t'|' -k2 \
    | sed 's/|/ | /g' \
    | sed 's/ | $//' \
-   | sed 's/ $//'
-
-   #<(sort -t'|' -k2 Combos/ComboMasteryTokens) 
+   | sed 's/ $//' \
+   | sort -r -s -k1,1
 
 join -t '|' -o 2.2,2.1 -v 2 -1 2 -2 2 \
    <(sort -t'|' -k2 Combos/ComboMasteryLevels) \
