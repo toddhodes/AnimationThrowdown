@@ -6,6 +6,7 @@
 3 | Ass-Kicker Hank
 3 | Badminton Roger
 3 | Ballet Meg
+3 | Baseball Beers
 3 | Baseball Chris
 3 | Bedtime Doll Hayley
 3 | Bender's Ducklings
@@ -46,6 +47,7 @@
 3 | Drummer Roger
 3 | Drunk Peggy
 3 | Drunk Peter
+3 | Drunk Stan
 3 | Eggnog Roger
 3 | Emu Wrangler
 3 | Evening Beer Dale
@@ -163,7 +165,6 @@
 2 | Balloon Fight | 15
 2 | Balloon Sniper | 45
 2 | Balloon Tosser | 85
-2 | Baseball Beers | 95
 2 | Baseball Bobby | 15
 2 | Beer Bottle Toast | 10
 2 | Bender in Love | 55
@@ -210,6 +211,7 @@
 2 | Cupid Bobby | 25
 2 | Cute Witch of the North | 30
 2 | Dancing Peggy | 10
+2 | Date Wine Zoidberg | 100
 2 | Diamond Ring Lois | 65
 2 | Diarama Gene | 30
 2 | Dinner Wine Bob | 30
@@ -221,7 +223,6 @@
 2 | Draw Me Tina | 70
 2 | Dream Guitar | 50
 2 | Drunk Bullock | 55
-2 | Drunk Stan
 2 | Duke
 2 | Dummy Fight | 20
 2 | Eyephone Fry | 100
@@ -282,7 +283,7 @@
 2 | Meg Meggy Meg | 5
 2 | Meg Portrait | 100
 2 | Meg's Voodoo Doll | 55
-2 | Merlot Klaus
+2 | Merlot Klaus | 65
 2 | Mike Pulaski | 70
 2 | Military Tux Bill | 15
 2 | Mind Switcher Farnsworth | 100
@@ -409,10 +410,10 @@
 1 | Cough Syrup Drunk | 50
 1 | Crayon Drawing | 125
 1 | DJ Buttercup | 120
-1 | Date Wine Zoidberg | 125
 1 | Dog Bone Stan | 5
 1 | Dog Lois | 25
 1 | Dog Meg
+1 | Drunk Hank | 25
 1 | Drunk at the Clam | 25
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
@@ -431,7 +432,7 @@
 1 | Home School Peter | 50
 1 | Honey Mustache Stewie | 5
 1 | Honeybucket Student | 125
-1 | Hot Cocoa Gene | 35
+1 | Hot Cocoa Gene | 75
 1 | Jellybean Phone Klaus | 5
 1 | Joystick Steve | 110
 1 | Kawaii Klaus | 120
@@ -482,6 +483,7 @@
 1 | Slick'd Steve | 125
 1 | Smoke Bomb | 45
 1 | Snake Hunter | 50
+1 | Solo Party
 1 | Space Queen | 65
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 105
@@ -501,7 +503,7 @@
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg vs Bot | 35
 1 | Zoidberg's Scream | 65
- Mastery Stone | 309550
+ Mastery Stone | 316300
  Zac Sawyer | 130
  Skiing Zoidberg | 130
  Screen Repairer | 130
@@ -569,6 +571,7 @@
  Space Pistol Fry | 45
  Ecstacy Francine | 45
  Delivery Boy | 45
+ Swimmer Tina | 40
  Pick Up Lines | 40
  Oktoberfest Fry | 40
  Male Leela | 40
@@ -595,7 +598,6 @@
  Gatsby Brian | 30
  Freshman Chris | 30
  Emcee Stewie | 30
- Drunk Hank | 30
  Dodgeball Louise | 30
  Cinderella Lois | 30
  Christian Rock | 30
