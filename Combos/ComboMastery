@@ -212,7 +212,7 @@
 2 | Cute Witch of the North | 30
 2 | Dancing Peggy | 10
 2 | Date Wine Zoidberg | 100
-2 | Diamond Ring Lois | 65
+2 | Diamond Ring Lois | 100
 2 | Diarama Gene | 30
 2 | Dinner Wine Bob | 30
 2 | Doghouse Bobby | 30
@@ -223,6 +223,7 @@
 2 | Draw Me Tina | 70
 2 | Dream Guitar | 50
 2 | Drunk Bullock | 55
+2 | Drunk at the Clam
 2 | Duke
 2 | Dummy Fight | 20
 2 | Eyephone Fry | 100
@@ -305,7 +306,7 @@
 2 | Painting Montage Joe | 100
 2 | Pan Flute Stewie | 70
 2 | Party All the Time | 85
-2 | Pawtucket Peter | 100
+2 | Pawtucket Peter
 2 | PhD Amy | 60
 2 | Pirate Cannon Peter | 30
 2 | Pool Shark | 100
@@ -338,6 +339,7 @@
 2 | Slow Dance Jimmy Jr. | 10
 2 | Softball Bill
 2 | Softball Lois | 100
+2 | Solo Party
 2 | Space Cadet Chris | 25
 2 | Space Stan | 15
 2 | Space Steve | 75
@@ -414,7 +416,6 @@
 1 | Dog Lois | 25
 1 | Dog Meg
 1 | Drunk Hank | 25
-1 | Drunk at the Clam | 25
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
 1 | Empty Bowl Painting | 5
@@ -483,7 +484,6 @@
 1 | Slick'd Steve | 125
 1 | Smoke Bomb | 45
 1 | Snake Hunter | 50
-1 | Solo Party
 1 | Space Queen | 65
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 105
@@ -503,7 +503,7 @@
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg vs Bot | 35
 1 | Zoidberg's Scream | 65
- Mastery Stone | 316300
+ Mastery Stone | 312550
  Zac Sawyer | 130
  Skiing Zoidberg | 130
  Screen Repairer | 130
