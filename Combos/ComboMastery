@@ -146,6 +146,7 @@
 3 | Toy Blocks Snot
 3 | Toy Farnsworth Ad
 3 | Trapeze Bob
+3 | Tropical Drinks
 3 | Unsharp Scissors Zapp
 3 | VIP Chris
 3 | VIP Cruise
@@ -218,7 +219,7 @@
 2 | Date Wine Zoidberg | 100
 2 | Diamond Ring Lois | 100
 2 | Diarama Gene | 30
-2 | Dinner Wine Bob | 30
+2 | Dinner Wine Bob
 2 | Doghouse Bobby | 30
 2 | Dolphin Rider Peter | 15
 2 | Down to the Bone | 55
@@ -331,7 +332,7 @@
 2 | Scientific Rivals
 2 | Sculptor Peter | 25
 2 | Serious Runner Brian | 50
-2 | Sewer Surfer Bender | 60
+2 | Sewer Surfer Bender | 90
 2 | Sewer Surfer Fry | 60
 2 | Sexpun T'Come | 90
 2 | Sexy Dance Fighting
@@ -368,7 +369,6 @@
 2 | Traumatized Dale | 100
 2 | Tree | 65
 2 | Trippy Zoidberg | 60
-2 | Tropical Drinks
 2 | Two Butt Goat
 2 | Umbriel | 100
 2 | Upgraded Hermes
@@ -406,7 +406,7 @@
 1 | Burobu Addict | 75
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
-1 | Captain Bender | 55
+1 | Captain Bender | 75
 1 | Chamber of Understanding | 100
 1 | Cheerleader Peggy | 5
 1 | Chef Cat Binge
@@ -505,7 +505,7 @@
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg vs Bot | 35
 1 | Zoidberg's Scream | 65
- Mastery Stone | 328400
+ Mastery Stone | 319500
  Zac Sawyer | 130
  Skiing Zoidberg | 130
  Screen Repairer | 130
@@ -599,6 +599,7 @@
  Karate Snot | 30
  Gatsby Brian | 30
  Freshman Chris | 30
+ Fashion Fight | 30
  Emcee Stewie | 30
  Dodgeball Louise | 30
  Cinderella Lois | 30

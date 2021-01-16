@@ -135,15 +135,18 @@
    1 L Buster: 2*
    4 L Butterscotch Cookies: 6**
    8 L Buzzsaw: 6**
+   1 L CD Warehouse: 1
    1 L CD Warehouse: 2*
    4 L CD Warehouse: 6**
    1 L CIA Student: 6**
    1 L Cadet Hill: 2*
-   1 L Candy Cane Gun: 1
+   1 L Candy Cane Gun: 2*
    3 L Candy Cane Gun: 6**
    3 L Candy Tornado: 6**
    1 L Capoeira Reginald: 1
    2 L Capoeira Reginald: 6**
+   1 L Captain Bender: 2*
+   2 L Captain Bender: 6**
    3 L Cartel Klaus: 6**
    1 L Cat Guards: 1
    7 L Cat Guards: 6**
@@ -176,6 +179,8 @@
    1 L Cognac Bender: 2*
    9 L Cognac Bender: 6**
    3 L Computer Game Wine Roger: 6**
+   1 L Concert Keg: 1
+   1 L Concert Keg: 2*
    5 L Concert Keg: 6**
    4 L Contact High Stewie: 6**
    1 L Conventional Turkey Gene: 6**
@@ -228,8 +233,7 @@
    1 L Dr. Cahill: 2*
    3 L Dr. Cahill: 6**
    1 L Dr. Zoidberg: 6
-   1 L Dr. Zoidberg: 6*
-   7 L Dr. Zoidberg: 6**
+   8 L Dr. Zoidberg: 6**
    1 L Dream Guitar: 6**
    4 L Drummer Roger: 6**
    3 L Drunk Bullock: 6*
@@ -309,7 +313,7 @@
    1 L Grandma's Xmas Fruitcake: 1
    1 L Grandma's Xmas Fruitcake: 2*
    1 L Groin Kicker: 6**
-   1 L Gym Equipment: 1
+   1 L Gym Equipment: 2*
    6 L Gym Equipment: 6**
    3 L Half Dog Gene: 6**
    2 L Hank Hill, Running Back: 6**
@@ -466,9 +470,7 @@
    1 L Mind Switcher Farnsworth: 1
    1 L Mind Switcher Farnsworth: 2*
    4 L Mind Switcher Farnsworth: 6**
-   1 L Mini Car Racing: 1
-   1 L Mini Car Racing: 2*
-   3 L Mini Car Racing: 6**
+   4 L Mini Car Racing: 6**
    9 L Mint Julep: 6**
    1 L Mission Doctor: 1
    1 L Mission Doctor: 6*
@@ -561,9 +563,7 @@
    4 L Prescription Weed: 6**
    1 L President Polar Bear: 2*
    3 L President Polar Bear: 6**
-   1 L Presidential Fitness Toshi: 1
-   1 L Presidential Fitness Toshi: 2*
-   5 L Presidential Fitness Toshi: 6**
+   6 L Presidential Fitness Toshi: 6**
    9 L Prince Charming Peter: 6**
    1 L Prince Faisal: 1
    1 L Prince Faisal: 6**
@@ -797,7 +797,7 @@
    2 L Zapp Figurines: 6**
    1 M Amy: 1**
    1 M Anti-Seizure Meds: 7*
-   1 M Bender: 3**
+   1 M Bender: 4**
    1 M Beta House: 6
    1 M Bill: 1**
    1 M Bob: 4**
@@ -814,7 +814,7 @@
    1 M Dale: 1**
    1 M Dr. Zoidberg: 6*
    1 M Film Scissors: 7
-   1 M Fine Wine Ida: 4
+   1 M Fine Wine Ida: 6
    1 M Francine: 7
    1 M Fry: 2*
    1 M Gene: 7*
@@ -854,7 +854,7 @@
    1 M Steve: 1**
    1 M Stewie: 7**
    1 M Teddy: 7*
-   1 M That's My Parfait: 4
+   1 M That's My Parfait: 6
    1 M The Bazooka Sharks: 6
    1 M Tina: 2**
    1 M Wagstaff Whaler: 6
