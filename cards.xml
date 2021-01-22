@@ -16055,6 +16055,7 @@
 	<unit>
 		<id>10094</id>
 		<name>Tae-Jitsu Bonnie</name>
+		<linked_card_id>1100015</linked_card_id>
 		<picture>FG_KarateBonnie</picture>
 		<asset_bundle>70</asset_bundle>
 		<release_time>1610388000</release_time>
