@@ -256,7 +256,7 @@
 2 | Hail Science! | 50
 2 | Half Dog Gene
 2 | Hangover Nightmare | 35
-2 | Hank Hill, Running Back | 20
+2 | Hank Hill, Running Back | 35
 2 | Hayley Potter | 65
 2 | Heckler Zoidberg | 100
 2 | High School Bill
@@ -272,6 +272,7 @@
 2 | I Like Beer | 20
 2 | I am Mona
 2 | Ira | 45
+2 | Joy of Painting | 40
 2 | Karate Stewie
 2 | Katz | 25
 2 | Klaus's Fish Wife | 20
@@ -288,7 +289,7 @@
 2 | Male Amy | 60
 2 | Marionette Chris | 65
 2 | Marionette Louise | 20
-2 | Mascot Fighter Stan | 85
+2 | Mascot Fighter Stan
 2 | Meatman Sculptor
 2 | Meg Meggy Meg | 5
 2 | Meg Portrait | 100
@@ -322,7 +323,7 @@
 2 | Prom Beer Joe | 85
 2 | Propane Sculpture | 10
 2 | Q.T. McWhiskers | 45
-2 | QB Boomhauer | 5
+2 | QB Boomhauer | 45
 2 | Rapture Stan | 55
 2 | Record Holder Stan | 30
 2 | Rich Leela | 100
@@ -349,6 +350,7 @@
 2 | Space Cadet Chris | 25
 2 | Space Stan | 15
 2 | Space Steve | 75
+2 | Sportsfan Joe | 55
 2 | Spray Painter | 70
 2 | Spray on Army Fry
 2 | Squirrel Death | 100
@@ -364,7 +366,7 @@
 2 | Teagle | 100
 2 | Teen LaQueefa
 2 | Tennis Stan
-2 | The Billdozer
+2 | The Billdozer | 65
 2 | The Carnival With Rupert | 100
 2 | The Equestranauts | 80
 2 | The Gender Bender | 65
@@ -411,7 +413,7 @@
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
 1 | Chamber of Understanding | 100
-1 | Cheerleader Peggy | 5
+1 | Cheerleader Peggy | 90
 1 | Chef Cat Binge
 1 | Congo Jack | 5
 1 | Conventional Turkey Gene
@@ -477,7 +479,7 @@
 1 | Roach Coach Francine | 55
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
-1 | Running Back Hank | 25
+1 | Running Back Hank | 80
 1 | Sailing Addict Linda | 25
 1 | Shark Killer | 5
 1 | Shiny Pebbles | 45
@@ -510,6 +512,7 @@
  Zac Sawyer | 130
  Skiing Zoidberg | 130
  Screen Repairer | 130
+ Robot Arms Bender | 130
  Rich Bobby | 130
  Reverse Stink Hold | 130
  Nun Francine | 130
@@ -533,8 +536,8 @@
  High Roller Stewie | 115
  Furry Bullock | 115
  Robot House | 110
- Robot Arms Bender | 110
  Santa Bender | 105
+ Powderpuff | 105
  Heavenly Hank | 105
  Santa Addict Meg | 100
  Francine Roger | 100
@@ -551,7 +554,7 @@
  Frykowski | 80
  Beer Funnel Peter | 80
  Ancient Cave Writing | 80
- Reverse Stink Hold | 75
+ Towel Manager Dale | 75
  Martini Peggy | 75
  Zinc Saucier | 70
  Vengeance Quagmire | 70
@@ -577,6 +580,7 @@
  Space Pistol Fry | 45
  Ecstacy Francine | 45
  Delivery Boy | 45
+ Beer Helmet | 45
  Swimmer Tina | 40
  Pick Up Lines | 40
  Oktoberfest Fry | 40
@@ -602,6 +606,7 @@
  Karate Snot | 30
  Gatsby Brian | 30
  Freshman Chris | 30
+ Football Stewie | 30
  Fashion Fight | 30
  Emcee Stewie | 30
  Dodgeball Louise | 30
