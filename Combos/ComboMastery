@@ -17,6 +17,7 @@
 3 | Blueberry Delivery Girl
 3 | Boob Tube
 3 | Boy Witch Steve
+3 | Brainwashed Hayley
 3 | Brian Statue
 3 | Burger Addict Teddy
 3 | Burger Hermes
@@ -181,7 +182,6 @@
 2 | Billionaire Fry | 75
 2 | Blueberry Picker | 95
 2 | Boy Crazy | 25
-2 | Brainwashed Hayley | 60
 2 | Buff Fry
 2 | Burgers and Fries Louise | 20
 2 | CIA Student | 70
@@ -190,11 +190,12 @@
 2 | Captain Leela | 35
 2 | Cartel Klaus | 75
 2 | Castanet Zoidberg | 70
+2 | Cat Fight Hayley | 10
 2 | Catcher Luanne | 35
 2 | Celebeartions | 60
 2 | Censor Stan
 2 | Champagne Toast Leela
-2 | Chick-Chicken Chick Fight | 40
+2 | Chick-Chicken Chick Fight | 100
 2 | Chicken Fight | 45
 2 | Children's Author | 35
 2 | Chosen Brain Fry
@@ -263,6 +264,7 @@
 2 | Homecoming King Chris | 10
 2 | Horse Rider Tina
 2 | Hose to the Head
+2 | Hot Cocoa Gene | 50
 2 | Hottyz Bill | 30
 2 | Hottyz Luanne
 2 | Humplings | 70
@@ -404,11 +406,10 @@
 1 | Betsy | 125
 1 | Body Paint Date | 5
 1 | Boombox Teddy
-1 | Booty Shaking Drunk | 5
+1 | Booty Shaking Drunk | 25
 1 | Burobu Addict | 75
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
-1 | Cat Fight Hayley | 5
 1 | Chamber of Understanding | 100
 1 | Cheerleader Peggy | 5
 1 | Chef Cat Binge
@@ -430,7 +431,7 @@
 1 | Garden Shovel Bobby | 50
 1 | Gargoyle Hunter | 5
 1 | Griffin and Quagmire | 5
-1 | Groupie Francine | 5
+1 | Groupie Francine | 25
 1 | Guenter | 10
 1 | Half-Horse Peter | 55
 1 | Hipster Donald | 25
@@ -438,7 +439,6 @@
 1 | Home School Peter | 50
 1 | Honey Mustache Stewie | 5
 1 | Honeybucket Student | 125
-1 | Hot Cocoa Gene | 75
 1 | Jellybean Phone Klaus | 5
 1 | Joystick Steve | 110
 1 | Kawaii Klaus | 120
@@ -448,7 +448,7 @@
 1 | Lady Bird | 15
 1 | Laser Tag Brian | 125
 1 | Leela's Harpoon | 15
-1 | Little King Trashmouth | 5
+1 | Little King Trashmouth | 25
 1 | Married Brian | 85
 1 | Master Robaire | 25
 1 | Medieval Hank | 5
@@ -506,11 +506,12 @@
 1 | Water Polo Steve | 5
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 65
- Mastery Stone | 293300
+ Mastery Stone | 326150
  Zac Sawyer | 130
  Skiing Zoidberg | 130
  Screen Repairer | 130
  Rich Bobby | 130
+ Reverse Stink Hold | 130
  Nun Francine | 130
  Maxi Paddy | 130
  Maracas Peter | 130
@@ -560,7 +561,6 @@
  Top of the Pecking Order | 65
  Rambo Lois | 65
  Paranoid Louise | 65
- Joy of Painting | 65
  Space Walk | 60
  Skydiver Quagmire | 60
  Sex Ed Peter | 60
@@ -636,12 +636,15 @@
  Scooty-Puff Jr | 10
  Nude Painting Bullock | 10
  Model Builder Roger | 10
+ Horse Whisperer Joe | 10
  Fowl Fighter Linda | 10
+ Evil Stepsister Stewie | 10
  Dodgeball Meg | 10
  Cheerleader Lois | 10
  Bong Rips Francine | 10
  Sherlock Zoidberg | 5
  Prom Luanne | 5
+ Keyboard Joe | 5
  Frank the Snake | 5
  Corporate Training | 5
  Charts and Graphs | 5
