@@ -26,6 +26,7 @@
 3 | Cham-Pag-En Zapp
 3 | Champagne Toast Fry
 3 | Chef Cat Munchies
+3 | Chick-Chicken Chick Fight
 3 | Cigarette Addicts
 3 | Class Spanker
 3 | Claw-Plach Fry
@@ -85,6 +86,7 @@
 3 | Lord Griffin
 3 | Magazine Cover Zapp
 3 | Martian Calendar
+3 | Mascot Fighter Stan
 3 | Masked Hero
 3 | Max Jets
 3 | Medicated Stewie
@@ -132,6 +134,7 @@
 3 | Softball Boomhauer
 3 | Softball Dale
 3 | Space Honey
+3 | Sportsfan Joe
 3 | Steak Cows
 3 | Stewie's Tricycle
 3 | Strategist Zapp
@@ -195,7 +198,7 @@
 2 | Celebeartions | 60
 2 | Censor Stan
 2 | Champagne Toast Leela
-2 | Chick-Chicken Chick Fight | 100
+2 | Cheerleader Peggy | 80
 2 | Chicken Fight | 45
 2 | Children's Author | 35
 2 | Chosen Brain Fry
@@ -240,7 +243,7 @@
 2 | Falconer Hayley | 35
 2 | Finch Leela | 10
 2 | Freezer Burn
-2 | Fry in Robot Disguise | 15
+2 | Fry in Robot Disguise
 2 | Fry's Macaroni Art | 30
 2 | Fry's Painting | 100
 2 | Gaga Ball | 30
@@ -256,7 +259,7 @@
 2 | Hail Science! | 50
 2 | Half Dog Gene
 2 | Hangover Nightmare | 35
-2 | Hank Hill, Running Back | 35
+2 | Hank Hill, Running Back | 95
 2 | Hayley Potter | 65
 2 | Heckler Zoidberg | 100
 2 | High School Bill
@@ -289,7 +292,6 @@
 2 | Male Amy | 60
 2 | Marionette Chris | 65
 2 | Marionette Louise | 20
-2 | Mascot Fighter Stan
 2 | Meatman Sculptor
 2 | Meg Meggy Meg | 5
 2 | Meg Portrait | 100
@@ -323,7 +325,7 @@
 2 | Prom Beer Joe | 85
 2 | Propane Sculpture | 10
 2 | Q.T. McWhiskers | 45
-2 | QB Boomhauer | 45
+2 | QB Boomhauer | 60
 2 | Rapture Stan | 55
 2 | Record Holder Stan | 30
 2 | Rich Leela | 100
@@ -350,7 +352,6 @@
 2 | Space Cadet Chris | 25
 2 | Space Stan | 15
 2 | Space Steve | 75
-2 | Sportsfan Joe | 55
 2 | Spray Painter | 70
 2 | Spray on Army Fry
 2 | Squirrel Death | 100
@@ -366,7 +367,7 @@
 2 | Teagle | 100
 2 | Teen LaQueefa
 2 | Tennis Stan
-2 | The Billdozer | 65
+2 | The Billdozer | 95
 2 | The Carnival With Rupert | 100
 2 | The Equestranauts | 80
 2 | The Gender Bender | 65
@@ -413,7 +414,6 @@
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
 1 | Chamber of Understanding | 100
-1 | Cheerleader Peggy | 90
 1 | Chef Cat Binge
 1 | Congo Jack | 5
 1 | Conventional Turkey Gene
@@ -479,7 +479,7 @@
 1 | Roach Coach Francine | 55
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
-1 | Running Back Hank | 80
+1 | Running Back Hank | 110
 1 | Sailing Addict Linda | 25
 1 | Shark Killer | 5
 1 | Shiny Pebbles | 45
@@ -508,7 +508,7 @@
 1 | Water Polo Steve | 5
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 65
- Mastery Stone | 326150
+ Mastery Stone | 298800
  Zac Sawyer | 130
  Skiing Zoidberg | 130
  Screen Repairer | 130
@@ -530,6 +530,7 @@
  Evil Stepsister | 125
  Too High to Drive | 120
  Slurm Queen | 120
+ Powderpuff | 120
  Mind Switcher Amy | 120
  Electric Love | 120
  Home School Chris | 115
@@ -537,13 +538,13 @@
  Furry Bullock | 115
  Robot House | 110
  Santa Bender | 105
- Powderpuff | 105
  Heavenly Hank | 105
  Santa Addict Meg | 100
  Francine Roger | 100
  Bondage Klaus | 100
  Professor of Emerald Laboratory | 95
  Magazine Reader Francine | 95
+ Towel Manager Dale | 90
  Working Girl Tina | 85
  Were-Car | 85
  Money Retriever | 85
@@ -554,8 +555,8 @@
  Frykowski | 80
  Beer Funnel Peter | 80
  Ancient Cave Writing | 80
- Towel Manager Dale | 75
  Martini Peggy | 75
+ Beer Helmet | 75
  Zinc Saucier | 70
  Vengeance Quagmire | 70
  Senora Hill | 70
@@ -578,9 +579,9 @@
  Cowpoke | 50
  Spaceship Pilot | 45
  Space Pistol Fry | 45
+ Football Stewie | 45
  Ecstacy Francine | 45
  Delivery Boy | 45
- Beer Helmet | 45
  Swimmer Tina | 40
  Pick Up Lines | 40
  Oktoberfest Fry | 40
@@ -604,9 +605,9 @@
  Modest Painting | 30
  Meg's Evil Monkey | 30
  Karate Snot | 30
+ Karate Francine | 30
  Gatsby Brian | 30
  Freshman Chris | 30
- Football Stewie | 30
  Fashion Fight | 30
  Emcee Stewie | 30
  Dodgeball Louise | 30
@@ -624,7 +625,6 @@
  Sister Peter | 20
  Party Crashers | 20
  Klaus's Comic | 20
- Karate Francine | 20
  Rabid Dale | 15
  Musical Peter | 15
  Karaoke Zapp | 15

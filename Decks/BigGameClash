@@ -1,0 +1,13 @@
+Sportsfan Joe
+Football Stewie
+Mascot Fighter Stan
+Beer Helmet
+Running Back Hank
+Hank Hill, Running Back
+Cheerleader Peggy
+The Billdozer
+QB Boomhauer
+Powderpuff
+Towel Manager Dale
+
+cat clash | while read l; do echo $l------; ./cardAndCmGrep.sh "$l" ; done
