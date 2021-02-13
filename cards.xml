@@ -16180,6 +16180,7 @@
 	<unit>
 		<id>10095</id>
 		<name>Sledding Jesus</name>
+		<linked_card_id>1100016</linked_card_id>
 		<desc>Eat this! For this is my dust!</desc>
 		<picture>fg_jesussledder</picture>
 		<asset_bundle>18</asset_bundle>
