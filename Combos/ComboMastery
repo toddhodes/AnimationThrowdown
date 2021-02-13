@@ -220,7 +220,6 @@
 2 | Crack Addict Stan
 2 | Crack Addicted Fish | 65
 2 | Crate Trained Steve
-2 | Criss Cross Applesauce | 100
 2 | Cupid Bobby | 25
 2 | Cute Witch of the North | 30
 2 | Dancing Peggy | 10
@@ -257,7 +256,7 @@
 2 | Guinea Pig in Space | 50
 2 | Gun Safety Peter | 100
 2 | Hail Science! | 50
-2 | Half Dog Gene
+2 | Half Dog Gene | 100
 2 | Hangover Nightmare | 35
 2 | Hank Hill, Running Back | 95
 2 | Hayley Potter | 65
@@ -276,6 +275,7 @@
 2 | I am Mona
 2 | Ira | 45
 2 | Joy of Painting | 40
+2 | Karate Snot
 2 | Karate Stewie
 2 | Katz | 25
 2 | Klaus's Fish Wife | 20
@@ -318,7 +318,6 @@
 2 | Pan Flute Stewie | 70
 2 | PhD Amy | 60
 2 | Pirate Cannon Peter | 30
-2 | Pool Shark | 100
 2 | Positron Shooter Fry | 20
 2 | Principal Peter | 30
 2 | Private Brian | 15
@@ -339,8 +338,6 @@
 2 | Scientific Rivals
 2 | Sculptor Peter | 25
 2 | Serious Runner Brian | 50
-2 | Sewer Surfer Bender | 90
-2 | Sewer Surfer Fry | 60
 2 | Sexpun T'Come | 90
 2 | Sexy Dance Fighting
 2 | Sleighing Tonight
@@ -371,7 +368,7 @@
 2 | The Carnival With Rupert | 100
 2 | The Equestranauts | 80
 2 | The Gender Bender | 65
-2 | Tin Man Bender | 80
+2 | Tin Man Bender | 100
 2 | Trash Can Drunk | 70
 2 | Traumatized Dale | 100
 2 | Tree | 65
@@ -400,7 +397,6 @@
 1 | Appetizer Addict Brian | 10
 1 | Artsy Tina | 5
 1 | Assassin Bender | 125
-1 | Bakaneko Fighter Louise | 25
 1 | Baseball Dale | 25
 1 | Battle Axe Peggy | 5
 1 | Belcher Date Night | 115
@@ -443,7 +439,6 @@
 1 | Honeybucket Student | 125
 1 | Jellybean Phone Klaus | 5
 1 | Joystick Steve | 110
-1 | Karate Snot
 1 | Kawaii Klaus | 120
 1 | Keyboardist Dale | 5
 1 | Kidney Killer | 25
@@ -466,7 +461,6 @@
 1 | Owl Stewie | 5
 1 | Paintball Boomhauer | 125
 1 | Party Beer Implant | 5
-1 | Ping Pong Brian | 25
 1 | Playlist Meg
 1 | Polling Peggy | 35
 1 | Poppler Jingle Fry | 20
@@ -508,9 +502,10 @@
 1 | Victorian Knife Lois | 125
 1 | Water Polo Steve | 5
 1 | Yeti Fighter Leela | 120
-1 | Zoidberg's Scream | 65
- Mastery Stone | 283550
+1 | Zoidberg's Scream | 125
+ Mastery Stone | 364350
  Zac Sawyer | 130
+ Sniper Zoidberg | 130
  Skiing Zoidberg | 130
  Screen Repairer | 130
  Robot Arms Bender | 130
@@ -522,6 +517,7 @@
  Love Potion | 130
  Gut Punch Zapp | 130
  Flag Defender | 130
+ Firefighter Zoidberg | 130
  Evening Beer Boomhauer | 130
  DJ Klaus | 130
  Big Bad Brian | 130
@@ -552,6 +548,7 @@
  Deer Daddy Steve | 85
  Anger Management Class | 85
  More Forever | 80
+ More Anchovies | 80
  Mathy Cathy | 80
  Frykowski | 80
  Beer Funnel Peter | 80
@@ -628,13 +625,11 @@
  Rabid Dale | 15
  Musical Peter | 15
  Karaoke Zapp | 15
- Farnsworth on Skiis | 15
  Douchebag Chris | 15
  Wheels Steve | 10
  Walkman Boomhauer | 10
  Stan's Grill | 10
  Sower of Revenge | 10
- Sniper Zoidberg | 10
  Sniper Stewie | 10
  Skydiving Peggy | 10
  Secret Asian Man | 10
