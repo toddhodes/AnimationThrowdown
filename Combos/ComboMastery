@@ -72,6 +72,7 @@
 3 | Good Boy Witch Snot
 3 | Hatchet Boomhauer
 3 | Heavy Metal Hayley
+3 | High Diver Zoidberg
 3 | High School Linda
 3 | Home Ec Teacher
 3 | Jealous Bobby
@@ -132,6 +133,7 @@
 3 | Santa Killer Steve
 3 | Sewer Surfer Bender
 3 | Sewer Surfer Fry
+3 | Sexpun T'Come
 3 | Shop Teacher Hank
 3 | Shoplift Addict
 3 | Skiing Leela
@@ -184,7 +186,7 @@
 2 | Balloon Tosser | 85
 2 | Baseball Bobby | 15
 2 | Beer Bottle Toast | 10
-2 | Bender in Love | 55
+2 | Bender in Love | 80
 2 | Bender's Clowns | 100
 2 | Bender's Orphanarium | 25
 2 | BenderIsGreat34 | 5
@@ -255,7 +257,7 @@
 2 | Garage Rock Chris
 2 | Garbage Shot Linda | 50
 2 | Girl Next Door Stewie | 20
-2 | Goddess of Beauty | 35
+2 | Goddess of Beauty | 50
 2 | Golf Club Amy
 2 | Golfer Amy
 2 | Greaser Stan | 95
@@ -267,7 +269,6 @@
 2 | Hank Hill, Running Back | 95
 2 | Hayley Potter | 65
 2 | Heckler Zoidberg | 100
-2 | High Diver Zoidberg | 30
 2 | High School Bill
 2 | Hip Hop Bob | 85
 2 | Homecoming King Chris | 10
@@ -339,19 +340,18 @@
 2 | Road Kill | 100
 2 | Roger Goes Down | 35
 2 | Rough Night Stan | 30
-2 | S and M Lois | 60
+2 | S and M Lois | 65
 2 | S and M Peter | 100
 2 | Salmon Fry | 40
 2 | Sandwitch | 75
 2 | Scientific Rivals
 2 | Sculptor Peter | 25
 2 | Serious Runner Brian | 50
-2 | Sexpun T'Come | 90
 2 | Sexy Dance Fighting
 2 | Sleighing Tonight
 2 | Slip 'n Slide Bob | 60
 2 | Slow Dance Jimmy Jr. | 10
-2 | Softball Bill | 100
+2 | Softball Bill
 2 | Softball Lois | 100
 2 | Solo Party
 2 | Space Cadet Chris | 25
@@ -491,6 +491,7 @@
 1 | Sing and Swing | 30
 1 | Sketch Artist Dale | 25
 1 | Sketch Artist Peter | 5
+1 | Skiing Zoidberg | 125
 1 | Sledgehammer Dale | 35
 1 | Slick'd Steve | 125
 1 | Smoke Bomb | 45
@@ -512,10 +513,9 @@
 1 | Water Polo Steve | 5
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
- Mastery Stone | 364350
+ Mastery Stone | 380500
  Zac Sawyer | 130
  Sniper Zoidberg | 130
- Skiing Zoidberg | 130
  Screen Repairer | 130
  Robot Arms Bender | 130
  Rich Bobby | 130
@@ -537,6 +537,7 @@
  Too High to Drive | 120
  Slurm Queen | 120
  Powderpuff | 120
+ More Anchovies | 120
  Mind Switcher Amy | 120
  Electric Love | 120
  Home School Chris | 115
@@ -558,7 +559,6 @@
  Deer Daddy Steve | 85
  Anger Management Class | 85
  More Forever | 80
- More Anchovies | 80
  Mathy Cathy | 80
  Frykowski | 80
  Beer Funnel Peter | 80
