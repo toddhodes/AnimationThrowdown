@@ -1,10 +1,14 @@
 
---------------- new year clash -----------------
+--------------- leap clash -----------------
+Decks/LeapClash
 
+--------------- big game clash -----------------
+Decks/BigGameClash
+
+--------------- new year clash -----------------
 Falconer Haley
 ALM
 Cham-Pag-En Zapp
-
 
 --------------- burobu clash -----------------
 
@@ -32,7 +36,7 @@ cripple-all 11
 
 --------------- fresh snow clash -----------------
 
-Responsible cocaine user bullock cm3  29 / 103  
+Responsible cocaine user bullock cm3  29 / 103
 wall    29
 gas     39
 +attack 22
@@ -45,3 +49,4 @@ payback       33
 motivate-rich 36
 
 = 114 dmg
+
