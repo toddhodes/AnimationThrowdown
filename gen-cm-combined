@@ -15,4 +15,8 @@ join -t '|' -o 2.2,2.1 -v 2 -1 2 -2 2 \
    <(cat Combos/ComboMasteryTokens | sed $'s/\t/ |/' | sort -t'|' -k2) \
    | sed 's/|/ | /' \
    | sed 's/ $//' \
-   | sort -t'|' -k2 -nr
+   | sort -t'|' -k2 -nr \
+   | sed 's/^/0 |/' \
+   | grep -v 'Mastery Stone'
+
+grep --colour=never 'Mastery Stone' Combos/ComboMasteryTokens
