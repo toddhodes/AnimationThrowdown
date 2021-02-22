@@ -222,7 +222,7 @@
 2 | Cloud Painter | 100
 2 | Coach Farnsworth | 30
 2 | Comic Artist Peter | 100
-2 | Computer Game Wine Roger | 20
+2 | Computer Game Wine Roger | 35
 2 | Counting Klaus | 30
 2 | Country Club Steve | 85
 2 | Coyote Fighter Chris
@@ -349,6 +349,7 @@
 2 | Sculptor Peter | 25
 2 | Serious Runner Brian | 50
 2 | Sexy Dance Fighting
+2 | Sledding Gene
 2 | Sleighing Tonight
 2 | Slip 'n Slide Bob | 60
 2 | Slow Dance Jimmy Jr. | 10
@@ -513,7 +514,7 @@
 1 | Water Polo Steve | 5
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
- Mastery Stone | 374700
+ Mastery Stone | 375850
  Zac Sawyer | 130
  Sniper Zoidberg | 130
  Screen Repairer | 130
@@ -533,7 +534,6 @@
  Beefsquatch | 130
  Army Quagmire | 130
  Armadillo Boomhauer | 130
- Sledding Gene | 125
  Evil Stepsister | 125
  Too High to Drive | 120
  Slurm Queen | 120
@@ -546,6 +546,7 @@
  Furry Bullock | 115
  Bouldering Bob | 115
  Robot House | 110
+ Skydiver Quagmire | 105
  Santa Bender | 105
  Heavenly Hank | 105
  Santa Addict Meg | 100
@@ -555,7 +556,8 @@
  Magazine Reader Francine | 95
  Ancient Cave Writing | 95
  Towel Manager Dale | 90
- Skydiver Quagmire | 90
+ Party Crashers | 90
+ Delivery Boy | 90
  Working Girl Tina | 85
  Were-Car | 85
  Money Retriever | 85
@@ -567,7 +569,6 @@
  Cubert Farnsworth | 80
  Beer Funnel Peter | 80
  Martini Peggy | 75
- Delivery Boy | 75
  Beer Helmet | 75
  Zinc Saucier | 70
  Vengeance Quagmire | 70
@@ -580,9 +581,9 @@
  Space Walk | 60
  Sex Ed Peter | 60
  Quagmire's Cat James | 60
- Party Crashers | 60
  Oktoberfest Amy | 60
  Line Dancer Amy | 60
+ Baby Bender | 60
  Summer Lovin | 55
  Solid Gold Tuxedo | 55
  Soda Bar Drunk | 50
@@ -593,7 +594,6 @@
  Space Pistol Fry | 45
  Football Stewie | 45
  Ecstacy Francine | 45
- Baby Bender | 45
  Swimmer Tina | 40
  Pick Up Lines | 40
  Oktoberfest Fry | 40
@@ -617,6 +617,7 @@
  Modest Painting | 30
  Meg's Evil Monkey | 30
  Karate Francine | 30
+ Junkie Hank | 30
  Gatsby Brian | 30
  Freshman Chris | 30
  Flying Machine Stewie | 30
@@ -645,6 +646,7 @@
  Douchebag Chris | 15
  Wheels Steve | 10
  Walkman Boomhauer | 10
+ Stuffington Roger | 10
  Stan's Grill | 10
  Sower of Revenge | 10
  Sniper Stewie | 10
