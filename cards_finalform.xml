@@ -29568,6 +29568,115 @@
 	    <health>61</health>
 	  </upgrade>
 	</unit>
+	<unit>
+	  <id>120147</id>
+	  <combo_card_id>25197</combo_card_id>
+	  <attack>13</attack>
+	  <health>38</health>
+	  <name>Magazine Reader Francine</name>
+	  <desc>Now this is living.</desc>
+	  <picture>AD_MagFrancine</picture>
+	  <asset_bundle>43</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>2</type>
+	  <trait>educated</trait>
+	  <skill id="inspire" x="5"/>
+	  <skill id="pierce" x="7"/>
+	  <skill id="poison" x="6"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>39</health>
+	    <skill id="poison" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>40</health>
+	    <skill id="pierce" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <health>42</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <attack>14</attack>
+	    <health>43</health>
+	    <skill id="inspire" x="6"/>
+	    <skill id="poison" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>45</health>
+	    <skill id="pierce" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>46</health>
+	    <skill id="poison" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>15</attack>
+	    <health>47</health>
+	    <skill id="pierce" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>49</health>
+	    <skill id="inspire" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <health>50</health>
+	    <skill id="pierce" x="11"/>
+	    <skill id="poison" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>52</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>16</attack>
+	    <health>53</health>
+	    <skill id="inspire" x="8"/>
+	    <skill id="pierce" x="12"/>
+	    <skill id="poison" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>54</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>56</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <attack>17</attack>
+	    <health>57</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <health>59</health>
+	    <skill id="inspire" x="9"/>
+	    <skill id="pierce" x="13"/>
+	    <skill id="poison" x="12"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>60</health>
+	    <skill id="pierce" x="14"/>
+	    <skill id="poison" x="13"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>18</attack>
+	    <health>62</health>
+	  </upgrade>
+	</unit>
 
 	<!-- end American Dad Final Forms -->
 	<!-- Bob's Burgers Final Forms -->

@@ -70226,6 +70226,7 @@
 	<unit>
 		<id>50104</id>
 		<name>Nerd Science Contest</name>
+		<linked_card_id>1500014</linked_card_id>
 		<picture>FR_NerdScienceContest</picture>
 		<asset_bundle>48</asset_bundle>
 		<release_time>1614103200</release_time>
