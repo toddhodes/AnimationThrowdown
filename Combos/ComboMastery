@@ -102,6 +102,7 @@
 3 | Medicated Stewie
 3 | Michael Dangle-low
 3 | Mission Doctor
+3 | Music Teacher Lois
 3 | Music Video Stewie
 3 | Musical Linda
 3 | Naked Tug of War
@@ -120,6 +121,7 @@
 3 | Pawtucket Peter
 3 | Penguin Conservator
 3 | Peter with a Knife
+3 | PhD Amy
 3 | Pigeon Bill
 3 | Pointillism
 3 | Pool Shark
@@ -156,6 +158,7 @@
 3 | Stewie's Tricycle
 3 | Strategist Zapp
 3 | Street Fighter Peter
+3 | Stuffington Steve
 3 | Supermodel Roger
 3 | Swat Bob
 3 | Swimmer Dale
@@ -229,6 +232,7 @@
 2 | Cloud Painter | 100
 2 | Coach Farnsworth | 30
 2 | Comic Artist Peter | 100
+2 | Corporate Training | 35
 2 | Counting Klaus | 30
 2 | Country Club Steve | 85
 2 | Coyote Fighter Chris
@@ -271,7 +275,7 @@
 2 | Half Dog Gene | 100
 2 | Hangover Nightmare | 35
 2 | Hank Hill, Running Back | 95
-2 | Hayley Potter | 80
+2 | Hayley Potter | 100
 2 | Heckler Zoidberg | 100
 2 | High School Bill
 2 | Hip Hop Bob | 85
@@ -316,7 +320,6 @@
 2 | Mountain Climber Peter | 70
 2 | Mowing While Intoxicated | 10
 2 | Mural Restorer | 100
-2 | Music Teacher Lois
 2 | NRA Member
 2 | Nacho Addict Bender | 100
 2 | Nasal Spray Peter | 40
@@ -327,7 +330,7 @@
 2 | Paintball Hank | 5
 2 | Painting Montage Joe | 100
 2 | Pan Flute Stewie | 70
-2 | PhD Amy | 60
+2 | PhD Peggy
 2 | Ping Pong Brian
 2 | Pirate Cannon Peter | 30
 2 | Positron Shooter Fry | 20
@@ -366,6 +369,7 @@
 2 | Stan vs Mafia | 55
 2 | Stickin' Hank
 2 | Stressed Out Leela | 100
+2 | Stuffington Roger | 25
 2 | Summer Guy | 70
 2 | Super Dance Squad
 2 | Swing Dance Luanne | 90
@@ -423,11 +427,10 @@
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
 1 | Chamber of Understanding | 100
-1 | Charts and Graphs
+1 | Charts and Graphs | 45
 1 | Chef Cat Binge
 1 | Congo Jack | 5
 1 | Conventional Turkey Gene | 10
-1 | Corporate Training | 35
 1 | Cough Syrup Drunk | 50
 1 | Crayon Drawing | 125
 1 | DJ Buttercup | 120
@@ -450,7 +453,7 @@
 1 | Half-Horse Peter | 55
 1 | Hipster Donald | 25
 1 | History Report Gene | 60
-1 | Home School Peter | 50
+1 | Home School Peter | 125
 1 | Honey Mustache Stewie | 5
 1 | Honeybucket Student | 125
 1 | Jellybean Phone Klaus | 5
@@ -518,6 +521,7 @@
 1 | Tequila Roger | 40
 1 | Tina Tackle | 5
 1 | Toga Bill | 5
+1 | Torah Snot | 20
 1 | Victorian Knife Lois | 125
 1 | Water Polo Steve | 5
 1 | Yeti Fighter Leela | 120
@@ -630,6 +634,7 @@
 0 | Karate Francine | 30
 0 | Junkie Hank | 30
 0 | Gatsby Brian | 30
+0 | Gas Class | 30
 0 | Freshman Chris | 30
 0 | Fashion Fight | 30
 0 | Emcee Stewie | 30
@@ -654,7 +659,6 @@
 0 | Douchebag Chris | 15
 0 | Wheels Steve | 10
 0 | Walkman Boomhauer | 10
-0 | Stuffington Roger | 10
 0 | Sower of Revenge | 10
 0 | Sniper Stewie | 10
 0 | Secret Asian Man | 10
@@ -670,6 +674,7 @@
 0 | Sherlock Zoidberg | 5
 0 | Prom Luanne | 5
 0 | Keyboard Joe | 5
+0 | History Test Chris | 5
 0 | Frank the Snake | 5
 0 | Bobsled Hermes | 5
-340100 | Mastery Stone
+461250 | Mastery Stone
