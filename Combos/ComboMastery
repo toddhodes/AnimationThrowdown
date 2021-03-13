@@ -24,6 +24,8 @@
 3 | Burger Hermes
 3 | Burgerboss Bob
 3 | Butt Fever
+3 | Cadet Hill
+3 | Cat Fight Hayley
 3 | Cham-Pag-En Zapp
 3 | Champagne Toast Fry
 3 | Chef Cat Munchies
@@ -122,6 +124,7 @@
 3 | Penguin Conservator
 3 | Peter with a Knife
 3 | PhD Amy
+3 | PhD Peggy
 3 | Pigeon Bill
 3 | Pointillism
 3 | Pool Shark
@@ -209,12 +212,10 @@
 2 | Buff Fry
 2 | Burgers and Fries Louise | 20
 2 | CIA Student | 85
-2 | Cadet Hill | 35
 2 | Captain Bender | 50
 2 | Captain Leela | 60
 2 | Cartel Klaus | 75
 2 | Castanet Zoidberg | 70
-2 | Cat Fight Hayley | 90
 2 | Catcher Luanne | 35
 2 | Celebeartions | 60
 2 | Censor Stan
@@ -330,7 +331,6 @@
 2 | Paintball Hank | 5
 2 | Painting Montage Joe | 100
 2 | Pan Flute Stewie | 70
-2 | PhD Peggy
 2 | Ping Pong Brian
 2 | Pirate Cannon Peter | 30
 2 | Positron Shooter Fry | 20
@@ -513,7 +513,7 @@
 1 | Spirit Bird | 105
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
-1 | Sub Hub Hayley | 15
+1 | Sub Hub Hayley | 85
 1 | Swim Teacher Bob | 60
 1 | Sword Fighter Francine | 5
 1 | Taxidermy Artist | 5
@@ -677,4 +677,4 @@
 0 | History Test Chris | 5
 0 | Frank the Snake | 5
 0 | Bobsled Hermes | 5
-461250 | Mastery Stone
+460300 | Mastery Stone
