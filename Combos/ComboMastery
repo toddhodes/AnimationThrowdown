@@ -236,7 +236,7 @@
 2 | Corporate Training | 35
 2 | Counting Klaus | 30
 2 | Country Club Steve | 85
-2 | Coyote Fighter Chris
+2 | Coyote Fighter Chris | 15
 2 | Crack Addict Stan
 2 | Crack Addicted Fish | 65
 2 | Crate Trained Steve
@@ -398,7 +398,7 @@
 2 | Water Nympho
 2 | Whiskey Drunk Brian | 50
 2 | Wild Brian
-2 | Wild Francine
+2 | Wild Francine | 10
 2 | Will of a Housewife
 2 | Wine & Paint Quagmire | 90
 2 | Wine Tasting Linda | 50
@@ -601,6 +601,7 @@
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
 0 | Laser Tag Quagmire | 50
+0 | Elf Fight Francine | 50
 0 | Cowpoke | 50
 0 | Space Pistol Fry | 45
 0 | Football Stewie | 45
@@ -611,7 +612,6 @@
 0 | Oktoberfest Fry | 40
 0 | Male Leela | 40
 0 | Garden Dance Bob | 40
-0 | Elf Fight Francine | 40
 0 | One Eyed Orphan | 35
 0 | Drum Solo Quagmire | 35
 0 | American Giggolo | 35
@@ -654,12 +654,14 @@
 0 | Roller Derby Luanne | 20
 0 | Klaus's Comic | 20
 0 | Rabid Dale | 15
+0 | Painter Francine | 15
 0 | Musical Peter | 15
 0 | Karaoke Zapp | 15
 0 | Douchebag Chris | 15
 0 | Wheels Steve | 10
 0 | Walkman Boomhauer | 10
 0 | Sower of Revenge | 10
+0 | Soccer Chris | 10
 0 | Sniper Stewie | 10
 0 | Secret Asian Man | 10
 0 | Scooty-Puff Jr | 10
@@ -669,12 +671,14 @@
 0 | Fowl Fighter Linda | 10
 0 | Evil Stepsister Stewie | 10
 0 | Dodgeball Meg | 10
+0 | Chris's Favorite Chicken | 10
 0 | Cheerleader Lois | 10
 0 | Bong Rips Francine | 10
 0 | Sherlock Zoidberg | 5
 0 | Prom Luanne | 5
 0 | Keyboard Joe | 5
 0 | History Test Chris | 5
+0 | Fried Chick | 5
 0 | Frank the Snake | 5
 0 | Bobsled Hermes | 5
-460300 | Mastery Stone
+413450 | Mastery Stone
