@@ -16435,7 +16435,130 @@
 			<skill id="pierce" x="12"/>
 		</upgrade>
 	</unit>
-						
+	<unit>
+		<id>10097</id>
+		<name>Smithsimian Art Gallery</name>
+		<picture>fr_SmithsimianGallery</picture>
+		<asset_bundle>34</asset_bundle>
+		<release_time>1615831200</release_time>
+		<attack>10</attack>
+		<health>38</health>
+		<rarity>4</rarity>
+		<skill id="inspire" x="4"/>
+		<skill id="outlast" x="5"/>
+		<skill id="bunker" x="4"/>
+		<type>1</type>
+		<trait>artistic</trait>
+		<set>3</set>
+		<upgrade>
+			<level>2</level>
+			<health>39</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>40</health>
+			<skill id="inspire" x="4"/>
+			<skill id="outlast" x="6"/>
+			<skill id="bunker" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>41</health>
+			<skill id="inspire" x="5"/>
+			<skill id="outlast" x="6"/>
+			<skill id="bunker" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>42</health>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>43</health>
+			<skill id="inspire" x="5"/>
+			<skill id="outlast" x="6"/>
+			<skill id="bunker" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>44</health>
+			<skill id="inspire" x="5"/>
+			<skill id="outlast" x="7"/>
+			<skill id="bunker" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>45</health>
+			<skill id="inspire" x="6"/>
+			<skill id="outlast" x="7"/>
+			<skill id="bunker" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>46</health>
+			<skill id="inspire" x="6"/>
+			<skill id="outlast" x="8"/>
+			<skill id="bunker" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>48</health>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>49</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>50</health>
+			<skill id="inspire" x="6"/>
+			<skill id="outlast" x="8"/>
+			<skill id="bunker" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>51</health>
+			<skill id="inspire" x="7"/>
+			<skill id="outlast" x="8"/>
+			<skill id="bunker" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>52</health>
+			<skill id="inspire" x="7"/>
+			<skill id="outlast" x="9"/>
+			<skill id="bunker" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>53</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>54</health>
+			<skill id="inspire" x="7"/>
+			<skill id="outlast" x="10"/>
+			<skill id="bunker" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>55</health>
+			<skill id="inspire" x="8"/>
+			<skill id="outlast" x="10"/>
+			<skill id="bunker" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>57</health>
+			<skill id="inspire" x="8"/>
+			<skill id="outlast" x="10"/>
+			<skill id="bunker" x="7"/>
+		</upgrade>
+	</unit>
+							
 	<!-- End Family Guy Input -->	
 	<!--  stop at id 14000 -->
 	<!-- Family Guy Combos -->
@@ -20115,6 +20238,22 @@
         <skill id='shrapnel' p='22' v='9'  />
         <skill id='burn' p='30' v='8'/>
         <skill id='bodyguard' p='30' v='8' />
+    </unit>
+    <unit>
+        <id>15248</id>
+        <name>Knitting Peter</name>
+        <desc>The knitting just isn't coming from an honest place.</desc>
+        <picture>FG_KnittingPeter</picture>
+        <asset_bundle>40</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>1</type>
+        <trait>artistic</trait>
+        <attack_multiplier>0.73</attack_multiplier>
+        <health_multiplier>0.72</health_multiplier>
+        <skill id='armored' p='30' v='12'  />
+        <skill id='pierce' p='30' v='14'/>
+        <skill id='burn' p='30' v='8' />
     </unit>
 	                                                             				
 	<!-- End Family Guy combo -->			
@@ -28783,6 +28922,136 @@
 			<skill id="leech" x="12"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>20088</id>
+		<name>Langley Falls Museum of Art</name>
+		<desc>Now featuring paintings not of genitalia!</desc>
+		<picture>AD_LangleyFallsMuseumOfArt</picture>
+		<asset_bundle>40</asset_bundle>
+		<release_time>1615831200</release_time>
+		<attack>9</attack>
+		<health>45</health>
+		<rarity>4</rarity>
+		<skill id="weaken" x="6"/>
+		<skill id="pierce" x="6"/>
+		<skill id="leech" x="7"/>
+		<type>2</type>
+		<trait>artistic</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>46</health>
+			<skill id="weaken" x="7"/>
+			<skill id="pierce" x="6"/>
+			<skill id="leech" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>47</health>
+			<skill id="weaken" x="7"/>
+			<skill id="pierce" x="7"/>
+			<skill id="leech" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>48</health>
+			<skill id="weaken" x="7"/>
+			<skill id="pierce" x="7"/>
+			<skill id="leech" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<attack>10</attack>
+			<health>49</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>50</health>
+			<skill id="weaken" x="8"/>
+			<skill id="pierce" x="8"/>
+			<skill id="leech" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>51</health>
+			<skill id="weaken" x="8"/>
+			<skill id="pierce" x="8"/>
+			<skill id="leech" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>52</health>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>53</health>
+			<skill id="weaken" x="9"/>
+			<skill id="pierce" x="8"/>
+			<skill id="leech" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>54</health>
+			<skill id="weaken" x="9"/>
+			<skill id="pierce" x="9"/>
+			<skill id="leech" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>55</health>
+			<skill id="weaken" x="10"/>
+			<skill id="pierce" x="9"/>
+			<skill id="leech" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>56</health>
+			<skill id="weaken" x="10"/>
+			<skill id="pierce" x="10"/>
+			<skill id="leech" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<attack>12</attack>
+			<skill id="weaken" x="10"/>
+			<skill id="pierce" x="10"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>57</health>
+			<skill id="weaken" x="11"/>
+			<skill id="pierce" x="11"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>58</health>
+			<skill id="weaken" x="11"/>
+			<skill id="pierce" x="11"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>59</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>60</health>
+			<skill id="weaken" x="12"/>
+			<skill id="pierce" x="11"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>61</health>
+			<skill id="weaken" x="12"/>
+			<skill id="pierce" x="12"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+	</unit>
 			
 	<!--  end american dad input -->		
 	<!--  stop at id 24000 -->
@@ -32160,6 +32429,21 @@
         <skill id='hijack' p='30' v='8'  />
         <skill id='inspire' p='30' v='8' />
         <skill id='strike' p='30' v='11' />
+    </unit>
+    <unit>
+    	<id>25222</id>
+        <name>Artsy Roger</name>
+        <picture>AD_ArtsyRoger</picture>
+        <asset_bundle>49</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>2</type>
+        <trait>artistic</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.73</health_multiplier>
+        <skill id='hijack' p='30' v='9'  />
+        <skill id='bunker' p='30' v='5' />
+        <skill id='armored' p='30' v='6' />
     </unit>
     
                                                                       
@@ -46203,7 +46487,37 @@
         <skill id='pierce' p='30' v='12' />
         <skill id='healall' y='educated' p='30' v='8' />
     </unit>
-                            	                          		
+    <unit>
+        <id>35217</id>
+        <name>Ceramics Gene</name>
+        <picture>BB_CeramicsGene</picture>
+        <asset_bundle>50</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>3</type>
+        <trait>artistic</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.7</health_multiplier>
+        <skill id='berserk' p='30' v='8'/>
+        <skill id='weaken' p='30' v='14' />
+        <skill id='poison' p='30' v='13' />
+    </unit>
+    <unit>
+        <id>35218</id>
+        <name>Art Workshop Linda</name>
+        <picture>BB_ArtWorkshopLinda</picture>
+        <asset_bundle>78</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>3</type>
+        <trait>artistic</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.75</health_multiplier>
+        <skill id='inspire' p='36' v='6'/>
+        <skill id='shrapnel' p='22' v='9' />
+        <skill id='strike' p='30' v='11' />
+    </unit>
+                             	                          		
 	<!-- End Bob's Burgers combos -->					
 	<!-- King of the Hill -->
 
@@ -56349,6 +56663,133 @@
 			<skill id="bodyguard" x="7"/>
 			<skill id="pierce" x="13"/>
 			<skill id="berserk" x="8"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>40099</id>
+		<name>Tea Kettle Mountain</name>
+		<desc>Damn vandals.</desc>
+		<picture>KOTH_TeakettleMountain</picture>
+		<asset_bundle>40</asset_bundle>
+		<release_time>1615831200</release_time>
+		<attack>9</attack>
+		<health>45</health>
+		<rarity>4</rarity>
+		<skill id="invigorate" x="5"/>
+		<skill id="hijack" x="4"/>
+		<skill id="poison" x="6"/>
+		<type>4</type>
+		<trait>artistic</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>46</health>
+			<skill id="invigorate" x="5"/>
+			<skill id="hijack" x="4"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>47</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="hijack" x="4"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>48</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>49</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="hijack" x="5"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>50</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="hijack" x="5"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>51</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="hijack" x="5"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>52</health>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>53</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="hijack" x="6"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>54</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="hijack" x="6"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>55</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="hijack" x="6"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>56</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="hijack" x="6"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<attack>12</attack>
+			<health>57</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>58</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="hijack" x="7"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>59</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="hijack" x="7"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>60</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="hijack" x="7"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<attack>13</attack>
+			<health>61</health>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<skill id="invigorate" x="10"/>
+			<skill id="hijack" x="8"/>
+			<skill id="poison" x="12"/>
 		</upgrade>
 	</unit>
 	
@@ -70351,6 +70792,131 @@
 			<skill id="poison" x="12"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>50105</id>
+		<name>Shubot Theater</name>
+		<picture>FR_ShubotTheater</picture>
+		<asset_bundle>49</asset_bundle>
+		<release_time>1615831200</release_time>
+		<attack>11</attack>
+		<health>30</health>
+		<rarity>4</rarity>
+		<skill id="invigorate" x="5"/>
+		<skill id="bunker" x="4"/>
+		<skill id="barrier" x="5"/>
+		<type>5</type>
+		<trait>artistic</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>31</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>32</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="bunker" x="4"/>
+			<skill id="barrier" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>33</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="bunker" x="4"/>
+			<skill id="barrier" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>35</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="bunker" x="5"/>
+			<skill id="barrier" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>36</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>37</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="bunker" x="5"/>
+			<skill id="barrier" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>39</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="bunker" x="5"/>
+			<skill id="barrier" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>40</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>41</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="bunker" x="5"/>
+			<skill id="barrier" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>42</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="bunker" x="5"/>
+			<skill id="barrier" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>44</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="bunker" x="6"/>
+			<skill id="barrier" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>45</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>46</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="bunker" x="6"/>
+			<skill id="barrier" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>48</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="bunker" x="6"/>
+			<skill id="barrier" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>49</health>
+			<attack>16</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>50</health>
+			<skill id="invigorate" x="10"/>
+			<skill id="bunker" x="6"/>
+			<skill id="barrier" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>52</health>
+			<skill id="invigorate" x="10"/>
+			<skill id="bunker" x="7"/>
+			<skill id="barrier" x="10"/>
+		</upgrade>
+	</unit>
 	 
 	<!-- end futurama input -->
 	<!--  stop at id 54000 -->
@@ -73694,6 +74260,21 @@
         <skill id='hijack' p='30' v='8' />
         <skill id='counter' p='30' v='12' />
 		<skill id='enlarge' p='30' v='8'/>
+    </unit>
+    <unit>
+    	<id>55217</id>
+        <name>Photographer Bender</name>
+        <picture>FR_photographerBender</picture>
+        <asset_bundle>49</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>5</type>
+        <trait>artistic</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.74</health_multiplier>
+        <skill id='enlarge' p='30' v='8' />
+        <skill id='heal' p='30' v='12' />
+		<skill id='healall' y='artistic' p='30' v='6'/>
     </unit>
                                                       							
 <!-- END Futurama Combos -->
