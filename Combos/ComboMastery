@@ -30,6 +30,7 @@
 3 | Champagne Toast Fry
 3 | Chef Cat Munchies
 3 | Chick-Chicken Chick Fight
+3 | Christmas Punchout
 3 | Christmas Trap
 3 | Cigarette Addicts
 3 | Class Spanker
@@ -40,6 +41,7 @@
 3 | Contact High Stewie
 3 | Count of Monty Hall
 3 | Country Club Stan
+3 | Crack Addict Stan
 3 | Cranberry Bog
 3 | CrippleTron
 3 | Criss Cross Applesauce
@@ -78,7 +80,9 @@
 3 | Ghost Boomhauer
 3 | Gingerbread Sculptor
 3 | Good Boy Witch Snot
+3 | Hangover Nightmare
 3 | Hatchet Boomhauer
+3 | Hayley Potter
 3 | Heavy Metal Hayley
 3 | High Diver Zoidberg
 3 | High School Linda
@@ -97,6 +101,7 @@
 3 | Let's Go Fart
 3 | Lord Griffin
 3 | Magazine Cover Zapp
+3 | Magazine Reader Francine
 3 | Martian Calendar
 3 | Mascot Fighter Stan
 3 | Masked Hero
@@ -117,6 +122,7 @@
 3 | One Man Musical
 3 | Opera Francine
 3 | Painting Class Joe
+3 | Painting Montage Joe
 3 | Panty Addict Snot
 3 | Party All the Time
 3 | Patriotic Dale
@@ -138,6 +144,7 @@
 3 | Responsible Cocaine User Bullock
 3 | Ricky Spanish
 3 | River Burned
+3 | Rodeo Bobby
 3 | Roller Skating Ballad Gene
 3 | Rooftop Drunk
 3 | Santa Bill
@@ -225,7 +232,6 @@
 2 | Children's Author | 35
 2 | Chosen Brain Fry
 2 | Chris Painting
-2 | Christmas Punchout
 2 | Chunky Blast Offs
 2 | Church Wine Drunk | 55
 2 | Claw Machine | 5
@@ -237,7 +243,6 @@
 2 | Counting Klaus | 30
 2 | Country Club Steve | 85
 2 | Coyote Fighter Chris | 15
-2 | Crack Addict Stan
 2 | Crack Addicted Fish | 65
 2 | Crate Trained Steve
 2 | Cupid Bobby | 25
@@ -274,9 +279,7 @@
 2 | Gun Safety Peter | 100
 2 | Hail Science! | 50
 2 | Half Dog Gene | 100
-2 | Hangover Nightmare | 35
 2 | Hank Hill, Running Back | 95
-2 | Hayley Potter | 100
 2 | Heckler Zoidberg | 100
 2 | High School Bill
 2 | Hip Hop Bob | 85
@@ -329,7 +332,6 @@
 2 | Opera Singer Leela | 60
 2 | Paddlin' Peggy | 30
 2 | Paintball Hank | 5
-2 | Painting Montage Joe | 100
 2 | Pan Flute Stewie | 70
 2 | Ping Pong Brian
 2 | Pirate Cannon Peter | 30
@@ -398,7 +400,7 @@
 2 | Water Nympho
 2 | Whiskey Drunk Brian | 50
 2 | Wild Brian
-2 | Wild Francine | 10
+2 | Wild Francine | 50
 2 | Will of a Housewife
 2 | Wine & Paint Quagmire | 90
 2 | Wine Tasting Linda | 50
@@ -466,7 +468,6 @@
 1 | Laser Tag Brian | 125
 1 | Leela's Harpoon | 15
 1 | Little King Trashmouth | 25
-1 | Magazine Reader Francine | 90
 1 | Married Brian | 85
 1 | Master Robaire | 25
 1 | Medieval Hank | 5
@@ -477,7 +478,7 @@
 1 | Motivational Poster
 1 | Mr. Deliver | 125
 1 | Never Have I Ever | 80
-1 | Old Steve | 10
+1 | Old Steve | 30
 1 | Organ Hermes | 125
 1 | Owl Stewie | 5
 1 | Paintball Boomhauer | 125
@@ -513,7 +514,6 @@
 1 | Spirit Bird | 105
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
-1 | Sub Hub Hayley | 85
 1 | Swim Teacher Bob | 60
 1 | Sword Fighter Francine | 5
 1 | Taxidermy Artist | 5
@@ -566,10 +566,12 @@
 0 | Party Crashers | 105
 0 | Heavenly Hank | 105
 0 | Delivery Boy | 105
+0 | Sneak Tackle Hank | 100
 0 | Santa Addict Meg | 100
 0 | Francine Roger | 100
 0 | Bondage Klaus | 100
 0 | Professor of Emerald Laboratory | 95
+0 | Frank the Snake | 95
 0 | Towel Manager Dale | 90
 0 | Working Girl Tina | 85
 0 | Were-Car | 85
@@ -578,6 +580,7 @@
 0 | More Forever | 80
 0 | Mathy Cathy | 80
 0 | Frykowski | 80
+0 | Elf Fight Francine | 80
 0 | Beer Funnel Peter | 80
 0 | Martini Peggy | 75
 0 | Beer Helmet | 75
@@ -612,6 +615,7 @@
 0 | Oktoberfest Fry | 40
 0 | Male Leela | 40
 0 | Garden Dance Bob | 40
+0 | Painter Francine | 35
 0 | One Eyed Orphan | 35
 0 | Drum Solo Quagmire | 35
 0 | American Giggolo | 35
@@ -654,7 +658,6 @@
 0 | Roller Derby Luanne | 20
 0 | Klaus's Comic | 20
 0 | Rabid Dale | 15
-0 | Painter Francine | 15
 0 | Musical Peter | 15
 0 | Karaoke Zapp | 15
 0 | Douchebag Chris | 15
@@ -673,12 +676,11 @@
 0 | Dodgeball Meg | 10
 0 | Chris's Favorite Chicken | 10
 0 | Cheerleader Lois | 10
-0 | Bong Rips Francine | 10
 0 | Sherlock Zoidberg | 5
 0 | Prom Luanne | 5
 0 | Keyboard Joe | 5
+0 | Just Mow a Lawn | 5
 0 | History Test Chris | 5
 0 | Fried Chick | 5
-0 | Frank the Snake | 5
 0 | Bobsled Hermes | 5
-413450 | Mastery Stone
+367500 | Mastery Stone
