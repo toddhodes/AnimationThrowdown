@@ -9,6 +9,7 @@
 3 | Baseball Beers
 3 | Baseball Chris
 3 | Bedtime Doll Hayley
+3 | Bender's Clowns
 3 | Bender's Ducklings
 3 | Bending School Grad
 3 | Biathlon Meg
@@ -199,7 +200,7 @@
 2 | Alley Entertainment | 35
 2 | Angry Bullock | 60
 2 | Arlen Men's Choir | 100
-2 | Arts and Crafts Bob | 100
+2 | Arts and Crafts Bob
 2 | Bacon Weight | 55
 2 | Bad Tina | 100
 2 | Bakaneko Fighter Louise
@@ -209,7 +210,6 @@
 2 | Baseball Bobby | 15
 2 | Beer Bottle Toast | 10
 2 | Bender in Love | 80
-2 | Bender's Clowns | 100
 2 | Bender's Orphanarium | 25
 2 | BenderIsGreat34 | 5
 2 | Bible Study | 35
@@ -227,6 +227,7 @@
 2 | Celebeartions | 60
 2 | Censor Stan
 2 | Champagne Toast Leela
+2 | Charts and Graphs | 20
 2 | Cheerleader Peggy | 80
 2 | Chicken Fight | 45
 2 | Children's Author | 35
@@ -309,7 +310,7 @@
 2 | Lobster Wedding | 60
 2 | Lounge Singer Hayley | 100
 2 | Magician Jimmy Jr. | 45
-2 | Male Amy | 60
+2 | Male Amy | 100
 2 | Marionette Chris | 65
 2 | Marionette Louise | 20
 2 | Meatman Sculptor
@@ -372,8 +373,10 @@
 2 | Stickin' Hank
 2 | Stressed Out Leela | 100
 2 | Stuffington Roger | 25
+2 | Sub Hub Hayley | 60
 2 | Summer Guy | 70
 2 | Super Dance Squad
+2 | Survival Crafter Hank
 2 | Swing Dance Luanne | 90
 2 | Swole Amy | 5
 2 | Talent Show Lois | 80
@@ -429,7 +432,6 @@
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
 1 | Chamber of Understanding | 100
-1 | Charts and Graphs | 45
 1 | Chef Cat Binge
 1 | Congo Jack | 5
 1 | Conventional Turkey Gene | 10
@@ -624,7 +626,6 @@
 0 | Withdrawal Steve | 30
 0 | Tuning Fork | 30
 0 | Topped Off Wine | 30
-0 | Survival Crafter Hank | 30
 0 | Stevie Wonderbra | 30
 0 | Stan's Grill | 30
 0 | Squirrel Suit Hayley | 30
@@ -634,6 +635,7 @@
 0 | Sexy Lifeguard | 30
 0 | Sexy Cat | 30
 0 | Rocker Bullock | 30
+0 | Rich Francine | 30
 0 | Mustache Maker | 30
 0 | Modest Painting | 30
 0 | Meg's Evil Monkey | 30
@@ -642,6 +644,7 @@
 0 | Gatsby Brian | 30
 0 | Gas Class | 30
 0 | Freshman Chris | 30
+0 | Francine Painting | 30
 0 | Fashion Fight | 30
 0 | Emcee Stewie | 30
 0 | Dodgeball Louise | 30
@@ -685,4 +688,4 @@
 0 | History Test Chris | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-367550 | Mastery Stone
+351900 | Mastery Stone
