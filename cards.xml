@@ -16438,6 +16438,7 @@
 	<unit>
 		<id>10097</id>
 		<name>Smithsimian Art Gallery</name>
+		<desc>Featuring paintings smeared by the masters.</desc>
 		<linked_card_id>1100017</linked_card_id>
 		<picture>fr_SmithsimianGallery</picture>
 		<asset_bundle>34</asset_bundle>
@@ -16448,7 +16449,7 @@
 		<skill id="inspire" x="4"/>
 		<skill id="outlast" x="5"/>
 		<skill id="bunker" x="4"/>
-		<type>1</type>
+		<type>5</type>
 		<trait>artistic</trait>
 		<set>3</set>
 		<upgrade>
@@ -16559,6 +16560,7 @@
 			<skill id="bunker" x="7"/>
 		</upgrade>
 	</unit>
+	
 							
 	<!-- End Family Guy Input -->	
 	<!--  stop at id 14000 -->
