@@ -282,7 +282,7 @@
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
 2 | Hail Science! | 50
-2 | Half Dog Gene | 100
+2 | Half Dog Gene
 2 | Hank Hill, Running Back | 95
 2 | Heckler Zoidberg | 100
 2 | High School Bill
@@ -471,6 +471,7 @@
 1 | Keyboardist Dale | 5
 1 | Kidney Killer | 25
 1 | Kitchen Knife Snot
+1 | Klaus's Comic | 15
 1 | Lady Bird | 15
 1 | Laser Tag Brian | 125
 1 | Leela's Harpoon | 15
@@ -555,7 +556,6 @@
 0 | Beefsquatch | 130
 0 | Army Quagmire | 130
 0 | Armadillo Boomhauer | 130
-0 | Pottery Tina | 125
 0 | Evil Stepsister | 125
 0 | Ancient Cave Writing | 125
 0 | Too High to Drive | 120
@@ -666,7 +666,6 @@
 0 | Delivery Marmoset | 25
 0 | Sister Peter | 20
 0 | Roller Derby Luanne | 20
-0 | Klaus's Comic | 20
 0 | Rabid Dale | 15
 0 | Musical Peter | 15
 0 | Karaoke Zapp | 15
@@ -693,4 +692,4 @@
 0 | History Test Chris | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-299300 | Mastery Stone
+302000 | Mastery Stone
