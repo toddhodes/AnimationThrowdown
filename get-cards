@@ -3,7 +3,7 @@ t=cards-w-id-and-rarity
 tmp=/tmp/cards-w-id-and-rarity
 
 #curl -s 'https://spanser.net/AnimationThrowdown/cards.xml' > cards_spanser.xml
-curl -s 'http://cb-live.synapse-games.com/assets/cards.xml' > cards.xml
+curl -s 'https://cb-live.synapse-games.com:443/assets/cards.xml' > cards.xml
 curl -s 'https://cb-live.synapse-games.com/assets/cards_finalform.xml' > cards_finalform.xml
 curl -s 'https://cb-live.synapse-games.com/assets/cards_mythic.xml' > cards_mythic.xml
 
