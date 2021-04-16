@@ -84,6 +84,7 @@
 3 | Ghost Boomhauer
 3 | Gingerbread Sculptor
 3 | Good Boy Witch Snot
+3 | Half Dog Gene
 3 | Hangover Nightmare
 3 | Hatchet Boomhauer
 3 | Hayley Potter
@@ -120,6 +121,7 @@
 3 | Naked Tug of War
 3 | Nanny Cam Dino
 3 | Nun Peggy
+3 | Nurse Tina
 3 | Obedience School Brian
 3 | Oil Receipts
 3 | Oktoberfest Hermes
@@ -282,7 +284,6 @@
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
 2 | Hail Science! | 50
-2 | Half Dog Gene
 2 | Hank Hill, Running Back | 95
 2 | Heckler Zoidberg | 100
 2 | High School Bill
@@ -331,7 +332,6 @@
 2 | NRA Member
 2 | Nacho Addict Bender | 100
 2 | Nasal Spray Peter | 40
-2 | Nurse Tina | 100
 2 | One Art Please | 30
 2 | Opera Singer Leela | 60
 2 | Paddlin' Peggy | 30
@@ -391,7 +391,7 @@
 2 | The Carnival With Rupert | 100
 2 | The Equestranauts | 80
 2 | The Gender Bender | 65
-2 | Tin Man Bender | 100
+2 | Tin Man Bender
 2 | Trash Can Drunk | 70
 2 | Traumatized Dale | 100
 2 | Tree | 65
@@ -612,6 +612,7 @@
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
 0 | Laser Tag Quagmire | 50
+0 | Krav Maga Dale | 50
 0 | Cowpoke | 50
 0 | Bong Rips Francine | 50
 0 | Space Pistol Fry | 45
@@ -692,4 +693,4 @@
 0 | History Test Chris | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-302000 | Mastery Stone
+299950 | Mastery Stone
