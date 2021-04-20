@@ -84,6 +84,7 @@
 3 | Ghost Boomhauer
 3 | Gingerbread Sculptor
 3 | Good Boy Witch Snot
+3 | Hail Science!
 3 | Half Dog Gene
 3 | Hangover Nightmare
 3 | Hatchet Boomhauer
@@ -107,6 +108,8 @@
 3 | Lord Griffin
 3 | Magazine Cover Zapp
 3 | Magazine Reader Francine
+3 | Magician Jimmy Jr.
+3 | Male Amy
 3 | Martian Calendar
 3 | Mascot Fighter Stan
 3 | Masked Hero
@@ -185,6 +188,7 @@
 3 | Tattoo Stan
 3 | The Thinker Ape
 3 | Time for Hard Liquor
+3 | Tin Man Bender
 3 | Toy Blocks Snot
 3 | Toy Farnsworth Ad
 3 | Trapeze Bob
@@ -199,6 +203,7 @@
 3 | Whiskey Bartender
 3 | Wingnut Amy
 3 | Wingnut Leela
+3 | Wizard Greyfarn
 3 | Zapp Figurines
 3 | Zombie Jimmy Jr.
 2 | Action Delivery Force Leela
@@ -283,7 +288,6 @@
 2 | Greaser Stan | 95
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
-2 | Hail Science! | 50
 2 | Hank Hill, Running Back | 95
 2 | Heckler Zoidberg | 100
 2 | High School Bill
@@ -303,6 +307,7 @@
 2 | Karate Snot
 2 | Karate Stewie
 2 | Katz | 25
+2 | Kawaii Klaus | 95
 2 | Klaus's Fish Wife | 20
 2 | Klepto Bender
 2 | Kuchi Kopi Sculptor | 5
@@ -312,9 +317,8 @@
 2 | Leela Balloon Art
 2 | Life Drawing Hayley | 10
 2 | Lobster Wedding | 60
+2 | Louise Chatterteeth | 60
 2 | Lounge Singer Hayley | 100
-2 | Magician Jimmy Jr. | 45
-2 | Male Amy | 100
 2 | Marionette Chris | 65
 2 | Marionette Louise | 20
 2 | Meg Meggy Meg | 5
@@ -343,7 +347,7 @@
 2 | Principal Peter | 30
 2 | Private Brian | 15
 2 | Prom Beer Joe | 85
-2 | Propane Sculpture | 10
+2 | Propane Sculpture | 20
 2 | Q.T. McWhiskers | 45
 2 | QB Boomhauer | 60
 2 | QB Quagmire | 15
@@ -391,7 +395,6 @@
 2 | The Carnival With Rupert | 100
 2 | The Equestranauts | 80
 2 | The Gender Bender | 65
-2 | Tin Man Bender
 2 | Trash Can Drunk | 70
 2 | Traumatized Dale | 100
 2 | Tree | 65
@@ -410,7 +413,6 @@
 2 | Will of a Housewife
 2 | Wine & Paint Quagmire | 90
 2 | Wine Tasting Linda | 50
-2 | Wizard Greyfarn | 10
 2 | Yacht Dreams
 2 | Zoidberg vs Bot | 10
 1 | ABC Quagmire | 45
@@ -448,6 +450,7 @@
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
 1 | Empty Bowl Painting | 5
+1 | Evil Stepsister | 120
 1 | Farnsworth on Skiis | 125
 1 | Finch Hermes | 25
 1 | Freezerdome Linda | 35
@@ -467,7 +470,6 @@
 1 | Honeybucket Student | 125
 1 | Jellybean Phone Klaus | 5
 1 | Joystick Steve | 110
-1 | Kawaii Klaus | 120
 1 | Keyboardist Dale | 5
 1 | Kidney Killer | 25
 1 | Kitchen Knife Snot
@@ -475,7 +477,7 @@
 1 | Lady Bird | 15
 1 | Laser Tag Brian | 125
 1 | Leela's Harpoon | 15
-1 | Little King Trashmouth | 25
+1 | Little King Trashmouth | 45
 1 | Married Brian | 85
 1 | Master Robaire | 25
 1 | Medieval Hank | 5
@@ -535,6 +537,7 @@
 1 | Zoidberg's Scream | 125
 0 | Zac Sawyer | 130
 0 | Sniper Zoidberg | 130
+0 | Sexy Cat | 130
 0 | Screen Repairer | 130
 0 | Robot Arms Bender | 130
 0 | Rich Bobby | 130
@@ -556,7 +559,6 @@
 0 | Beefsquatch | 130
 0 | Army Quagmire | 130
 0 | Armadillo Boomhauer | 130
-0 | Evil Stepsister | 125
 0 | Ancient Cave Writing | 125
 0 | Too High to Drive | 120
 0 | Slurm Queen | 120
@@ -638,7 +640,6 @@
 0 | Skating Roger | 30
 0 | Sharpshooter Bobby | 30
 0 | Sexy Lifeguard | 30
-0 | Sexy Cat | 30
 0 | Rocker Bullock | 30
 0 | Rich Francine | 30
 0 | Mustache Maker | 30
@@ -682,7 +683,6 @@
 0 | Model Builder Roger | 10
 0 | Horse Whisperer Joe | 10
 0 | Fowl Fighter Linda | 10
-0 | Evil Stepsister Stewie | 10
 0 | Dodgeball Meg | 10
 0 | Chris's Favorite Chicken | 10
 0 | Cheerleader Lois | 10
@@ -692,5 +692,6 @@
 0 | Just Mow a Lawn | 5
 0 | History Test Chris | 5
 0 | Fried Chick | 5
+0 | Evil Stepsister Stewie | 5
 0 | Bobsled Hermes | 5
-299950 | Mastery Stone
+297150 | Mastery Stone
