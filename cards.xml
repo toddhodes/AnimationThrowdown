@@ -57243,6 +57243,126 @@
 			<skill id="pierce" x="12"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>40101</id>
+		<name>Sterling House</name>
+		<linked_card_id>1400013</linked_card_id>
+		<picture>KOTH_sterlingHouse</picture>
+		<asset_bundle>78</asset_bundle>
+		<release_time>1619532000</release_time>
+		<attack>8</attack>
+		<health>43</health>
+		<rarity>4</rarity>
+		<skill id="armored" x="4"/>
+		<skill id="hijack" x="3"/>
+		<skill id="weaken" x="6"/>
+		<type>4</type>
+		<trait>rich</trait>
+		<set>3</set>
+		<upgrade>
+			<level>2</level>
+			<health>44</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>45</health>
+			<skill id="armored" x="4"/>
+			<skill id="hijack" x="3"/>
+			<skill id="weaken" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<attack>9</attack>
+			<health>46</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>47</health>
+			<skill id="armored" x="5"/>
+			<skill id="hijack" x="3"/>
+			<skill id="weaken" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<skill id="armored" x="5"/>
+			<skill id="hijack" x="4"/>
+			<skill id="weaken" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<attack>10</attack>
+			<health>48</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>49</health>
+			<skill id="armored" x="5"/>
+			<skill id="hijack" x="4"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>50</health>
+			<skill id="armored" x="6"/>
+			<skill id="hijack" x="4"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>51</health>
+			<skill id="armored" x="6"/>
+			<skill id="hijack" x="5"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<attack>11</attack>
+			<health>52</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>53</health>
+			<skill id="armored" x="6"/>
+			<skill id="hijack" x="5"/>
+			<skill id="weaken" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id="armored" x="7"/>
+			<skill id="hijack" x="6"/>
+			<skill id="weaken" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>12</attack>
+			<health>54</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>55</health>
+			<skill id="armored" x="7"/>
+			<skill id="hijack" x="6"/>
+			<skill id="weaken" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>56</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>57</health>
+			<skill id="armored" x="7"/>
+			<skill id="hijack" x="6"/>
+			<skill id="weaken" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<skill id="armored" x="8"/>
+			<skill id="hijack" x="7"/>
+			<skill id="weaken" x="12"/>
+		</upgrade>
+	</unit>
 	
 	
 	<!-- End King of the Hill Input -->	
