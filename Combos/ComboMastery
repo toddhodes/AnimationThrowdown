@@ -209,7 +209,7 @@
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
 2 | Alley Entertainment | 35
-2 | Angry Bullock | 60
+2 | Angry Bullock | 100
 2 | Arlen Men's Choir | 100
 2 | Bacon Weight | 55
 2 | Bad Tina | 100
@@ -255,7 +255,7 @@
 2 | Country Club Steve | 85
 2 | Coyote Fighter Chris | 15
 2 | Crack Addicted Fish | 65
-2 | Crate Trained Steve
+2 | Crate Trained Steve | 100
 2 | Cupid Bobby | 25
 2 | Dancing Peggy | 10
 2 | Date Wine Zoidberg | 100
@@ -278,9 +278,8 @@
 2 | Finch Leela | 10
 2 | Freezer Burn
 2 | Fry's Macaroni Art | 30
-2 | Fry's Painting | 100
-2 | Garage Rock Chris
-2 | Garbage Shot Linda | 50
+2 | Garage Rock Chris | 100
+2 | Garbage Shot Linda | 60
 2 | Girl Next Door Stewie | 20
 2 | Goddess of Beauty | 50
 2 | Golf Club Amy
@@ -338,12 +337,13 @@
 2 | Nasal Spray Peter | 40
 2 | One Art Please | 30
 2 | Opera Singer Leela | 60
-2 | Paddlin' Peggy | 30
+2 | Paddlin' Peggy | 55
 2 | Paintball Hank | 5
 2 | Pan Flute Stewie | 70
 2 | Ping Pong Brian
 2 | Pirate Cannon Peter | 30
 2 | Positron Shooter Fry | 20
+2 | Pottery Tina | 100
 2 | Principal Peter | 30
 2 | Private Brian | 15
 2 | Prom Beer Joe | 85
@@ -369,7 +369,7 @@
 2 | Slip 'n Slide Bob | 60
 2 | Slow Dance Jimmy Jr. | 10
 2 | Softball Lois | 100
-2 | Solo Party
+2 | Solo Party | 5
 2 | Space Cadet Chris | 70
 2 | Space Stan | 60
 2 | Space Steve | 100
@@ -431,8 +431,8 @@
 1 | Betsy | 125
 1 | Body Paint Date | 5
 1 | Boombox Teddy
-1 | Booty Shaking Drunk | 55
-1 | Boxing Luanne | 10
+1 | Booty Shaking Drunk | 125
+1 | Boxing Luanne | 20
 1 | Burobu Addict | 75
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
@@ -450,9 +450,11 @@
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
 1 | Empty Bowl Painting | 5
+1 | Evil Stepsister Stewie | 5
 1 | Evil Stepsister | 120
 1 | Farnsworth on Skiis | 125
-1 | Finch Hermes | 25
+1 | Finch Hermes | 125
+1 | Firefighter Zoidberg | 125
 1 | Freezerdome Linda | 35
 1 | Frydo | 5
 1 | Garden Shovel Bobby | 50
@@ -495,7 +497,7 @@
 1 | Playlist Meg
 1 | Polling Peggy | 45
 1 | Poppler Jingle Fry | 20
-1 | Psych Meds | 85
+1 | Psych Meds | 125
 1 | Quicky Kiss-it | 55
 1 | RC Helicopter | 5
 1 | Raleigh St. Augustine | 125
@@ -533,6 +535,8 @@
 1 | Torah Snot | 20
 1 | Victorian Knife Lois | 125
 1 | Water Polo Steve | 5
+1 | Wedding Luanne | 10
+1 | Working Girl Tina | 80
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
 0 | Zac Sawyer | 130
@@ -549,7 +553,6 @@
 0 | Love Potion | 130
 0 | Gut Punch Zapp | 130
 0 | Flag Defender | 130
-0 | Firefighter Zoidberg | 130
 0 | Evening Beer Boomhauer | 130
 0 | Ecstacy Francine | 130
 0 | DJ Klaus | 130
@@ -583,7 +586,6 @@
 0 | Professor of Emerald Laboratory | 95
 0 | Frank the Snake | 95
 0 | Towel Manager Dale | 90
-0 | Working Girl Tina | 85
 0 | Were-Car | 85
 0 | Deer Daddy Steve | 85
 0 | Spaceship Pilot | 80
@@ -621,6 +623,8 @@
 0 | Football Stewie | 45
 0 | Young Hermes | 40
 0 | Swimmer Tina | 40
+0 | Roller Derby Luanne | 40
+0 | Prom Luanne | 40
 0 | Pick Up Lines | 40
 0 | Oktoberfest Fry | 40
 0 | Male Leela | 40
@@ -631,6 +635,7 @@
 0 | American Giggolo | 35
 0 | Workout Klaus | 30
 0 | Withdrawal Steve | 30
+0 | Walkman Boomhauer | 30
 0 | Tuning Fork | 30
 0 | Topped Off Wine | 30
 0 | Stevie Wonderbra | 30
@@ -667,13 +672,11 @@
 0 | King Roger | 25
 0 | Delivery Marmoset | 25
 0 | Sister Peter | 20
-0 | Roller Derby Luanne | 20
 0 | Rabid Dale | 15
 0 | Musical Peter | 15
 0 | Karaoke Zapp | 15
 0 | Douchebag Chris | 15
 0 | Wheels Steve | 10
-0 | Walkman Boomhauer | 10
 0 | Sower of Revenge | 10
 0 | Soccer Chris | 10
 0 | Sniper Stewie | 10
@@ -687,11 +690,9 @@
 0 | Chris's Favorite Chicken | 10
 0 | Cheerleader Lois | 10
 0 | Sherlock Zoidberg | 5
-0 | Prom Luanne | 5
 0 | Keyboard Joe | 5
 0 | Just Mow a Lawn | 5
 0 | History Test Chris | 5
 0 | Fried Chick | 5
-0 | Evil Stepsister Stewie | 5
 0 | Bobsled Hermes | 5
-297150 | Mastery Stone
+295850 | Mastery Stone
