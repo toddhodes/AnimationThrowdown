@@ -263,7 +263,7 @@
 2 | Doghouse Bobby | 30
 2 | Dolphin Rider Peter | 15
 2 | Down to the Bone | 55
-2 | Dr. Bobbenstein | 20
+2 | Dr. Bobbenstein | 40
 2 | Draw Me Gene
 2 | Draw Me Tina | 70
 2 | Dream Guitar | 50
@@ -276,6 +276,7 @@
 2 | Falcon Attack Quagmire | 70
 2 | Falconer Hayley | 35
 2 | Finch Leela | 10
+2 | Firefighter Zoidberg | 100
 2 | Freezer Burn
 2 | Fry's Macaroni Art | 30
 2 | Garage Rock Chris | 100
@@ -320,6 +321,7 @@
 2 | Lounge Singer Hayley | 100
 2 | Marionette Chris | 65
 2 | Marionette Louise | 20
+2 | Masquerade Lois
 2 | Meg Meggy Meg | 5
 2 | Meg Portrait | 100
 2 | Meg's Voodoo Doll | 55
@@ -335,6 +337,7 @@
 2 | NRA Member
 2 | Nacho Addict Bender | 100
 2 | Nasal Spray Peter | 40
+2 | Nun Linda | 25
 2 | One Art Please | 30
 2 | Opera Singer Leela | 60
 2 | Paddlin' Peggy | 55
@@ -405,7 +408,7 @@
 2 | VR Gaming Bobby | 60
 2 | Victory Dance | 40
 2 | Video Game Leela | 10
-2 | Walkie Talkie Teddy | 55
+2 | Walkie Talkie Teddy | 100
 2 | Water Nympho
 2 | Wedding Luanne | 10
 2 | Whiskey Drunk Brian | 50
@@ -414,6 +417,7 @@
 2 | Will of a Housewife
 2 | Wine & Paint Quagmire | 90
 2 | Wine Tasting Linda | 50
+2 | Working Girl Tina | 55
 2 | Yacht Dreams
 2 | Zoidberg vs Bot | 10
 1 | ABC Quagmire | 45
@@ -442,10 +446,11 @@
 1 | Congo Jack | 5
 1 | Conventional Turkey Gene | 10
 1 | Cough Syrup Drunk | 50
+1 | Cowpoke | 45
 1 | Crayon Drawing | 125
 1 | DJ Buttercup | 120
 1 | Dog Bone Stan | 5
-1 | Dog Lois | 25
+1 | Dog Lois | 90
 1 | Dog Meg
 1 | Drunk Hank | 25
 1 | Duh-Vinci Farnsworth | 125
@@ -455,7 +460,6 @@
 1 | Evil Stepsister | 120
 1 | Farnsworth on Skiis | 125
 1 | Finch Hermes | 125
-1 | Firefighter Zoidberg | 100
 1 | Freezerdome Linda | 35
 1 | Frydo | 5
 1 | Garden Shovel Bobby | 50
@@ -537,7 +541,6 @@
 1 | Torah Snot | 20
 1 | Victorian Knife Lois | 125
 1 | Water Polo Steve | 5
-1 | Working Girl Tina | 80
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
 0 | Zac Sawyer | 130
@@ -618,7 +621,6 @@
 0 | Robot Devil's Hands | 50
 0 | Laser Tag Quagmire | 50
 0 | Krav Maga Dale | 50
-0 | Cowpoke | 50
 0 | Bong Rips Francine | 50
 0 | Space Pistol Fry | 45
 0 | Football Stewie | 45
@@ -630,6 +632,7 @@
 0 | Oktoberfest Fry | 40
 0 | Male Leela | 40
 0 | Garden Dance Bob | 40
+0 | Eugenia Chatterteeth | 40
 0 | Painter Francine | 35
 0 | One Eyed Orphan | 35
 0 | Drum Solo Quagmire | 35
@@ -662,9 +665,11 @@
 0 | Food Truck Bob | 30
 0 | Fashion Fight | 30
 0 | Emcee Stewie | 30
+0 | Drunk Leela | 30
 0 | Dodgeball Louise | 30
 0 | Cinderella Lois | 30
 0 | Christian Rock | 30
+0 | Boy Tina | 30
 0 | Bob in the Wall | 30
 0 | Becky | 30
 0 | ADD Luanne | 30
@@ -697,4 +702,4 @@
 0 | History Test Chris | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-289550 | Mastery Stone
+385750 | Mastery Stone
