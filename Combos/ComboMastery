@@ -73,6 +73,7 @@
 3 | Fart in a Jar
 3 | Feed the Dodo
 3 | Fever Dreams
+3 | Firefighter Zoidberg
 3 | Food Addict Leela
 3 | Fowl Fighter Teddy
 3 | Free Weed Hayley
@@ -113,6 +114,7 @@
 3 | Martian Calendar
 3 | Mascot Fighter Stan
 3 | Masked Hero
+3 | Masquerade Lois
 3 | Max Jets
 3 | Meatman Sculptor
 3 | Medicated Stewie
@@ -185,6 +187,7 @@
 3 | Swole Francine
 3 | Swole Joe
 3 | Tainted Alamo
+3 | Talent Show Lois
 3 | Tattoo Stan
 3 | The Thinker Ape
 3 | Time for Hard Liquor
@@ -216,7 +219,7 @@
 2 | Bakaneko Fighter Louise
 2 | Balloon Fight | 15
 2 | Balloon Sniper | 45
-2 | Balloon Tosser | 85
+2 | Balloon Tosser | 95
 2 | Baseball Bobby | 15
 2 | Beer Bottle Toast | 10
 2 | Bender in Love | 80
@@ -276,7 +279,6 @@
 2 | Falcon Attack Quagmire | 70
 2 | Falconer Hayley | 35
 2 | Finch Leela | 10
-2 | Firefighter Zoidberg | 100
 2 | Freezer Burn
 2 | Fry's Macaroni Art | 30
 2 | Garage Rock Chris | 100
@@ -321,7 +323,6 @@
 2 | Lounge Singer Hayley | 100
 2 | Marionette Chris | 65
 2 | Marionette Louise | 20
-2 | Masquerade Lois
 2 | Meg Meggy Meg | 5
 2 | Meg Portrait | 100
 2 | Meg's Voodoo Doll | 55
@@ -389,7 +390,6 @@
 2 | Survival Crafter Hank
 2 | Swing Dance Luanne | 90
 2 | Swole Amy | 5
-2 | Talent Show Lois | 80
 2 | Tattooed Fat Guy | 30
 2 | Teagle | 100
 2 | Teen LaQueefa
@@ -417,7 +417,7 @@
 2 | Will of a Housewife
 2 | Wine & Paint Quagmire | 90
 2 | Wine Tasting Linda | 50
-2 | Working Girl Tina | 55
+2 | Working Girl Tina | 65
 2 | Yacht Dreams
 2 | Zoidberg vs Bot | 10
 1 | ABC Quagmire | 45
@@ -464,7 +464,7 @@
 1 | Frydo | 5
 1 | Garden Shovel Bobby | 50
 1 | Gargoyle Hunter | 5
-1 | Gatsby Brian | 25
+1 | Gatsby Brian
 1 | Griffin and Quagmire | 5
 1 | Groupie Francine | 25
 1 | Guenter | 10
@@ -547,6 +547,7 @@
 0 | Sniper Zoidberg | 130
 0 | Sexy Cat | 130
 0 | Screen Repairer | 130
+0 | Robot House | 130
 0 | Robot Arms Bender | 130
 0 | Rich Bobby | 130
 0 | Reverse Stink Hold | 130
@@ -577,7 +578,6 @@
 0 | Home School Chris | 115
 0 | High Roller Stewie | 115
 0 | Furry Bullock | 115
-0 | Robot House | 110
 0 | Skydiver Quagmire | 105
 0 | Santa Bender | 105
 0 | Party Crashers | 105
@@ -651,6 +651,7 @@
 0 | Sexy Lifeguard | 30
 0 | Rocker Bullock | 30
 0 | Rich Francine | 30
+0 | Painter Klaus | 30
 0 | Mustache Maker | 30
 0 | Modest Painting | 30
 0 | Meg's Evil Monkey | 30
@@ -683,6 +684,7 @@
 0 | Rabid Dale | 15
 0 | Musical Peter | 15
 0 | Karaoke Zapp | 15
+0 | Family Fracas | 15
 0 | Douchebag Chris | 15
 0 | Wheels Steve | 10
 0 | Sower of Revenge | 10
@@ -702,4 +704,4 @@
 0 | History Test Chris | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-385750 | Mastery Stone
+383050 | Mastery Stone
