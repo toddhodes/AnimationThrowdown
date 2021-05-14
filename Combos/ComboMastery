@@ -106,6 +106,7 @@
 3 | Laser Tag Joe
 3 | Lenore the Iguana
 3 | Let's Go Fart
+3 | Limo Bob
 3 | Lord Griffin
 3 | Magazine Cover Zapp
 3 | Magazine Reader Francine
@@ -283,6 +284,7 @@
 2 | Fry's Macaroni Art | 30
 2 | Garage Rock Chris | 100
 2 | Garbage Shot Linda | 60
+2 | Gatsby Brian
 2 | Girl Next Door Stewie | 20
 2 | Goddess of Beauty | 50
 2 | Golf Club Amy
@@ -333,7 +335,7 @@
 2 | Mind Switcher Farnsworth | 100
 2 | Mocktrial Louise
 2 | Mountain Climber Peter | 70
-2 | Mowing While Intoxicated | 10
+2 | Mowing While Intoxicated | 100
 2 | Mural Restorer | 100
 2 | NRA Member
 2 | Nacho Addict Bender | 100
@@ -350,6 +352,7 @@
 2 | Pottery Tina | 100
 2 | Principal Peter | 30
 2 | Private Brian | 15
+2 | Professor of Emerald Laboratory | 65
 2 | Prom Beer Joe | 85
 2 | Propane Sculpture | 20
 2 | Q.T. McWhiskers | 45
@@ -464,7 +467,6 @@
 1 | Frydo | 5
 1 | Garden Shovel Bobby | 50
 1 | Gargoyle Hunter | 5
-1 | Gatsby Brian
 1 | Griffin and Quagmire | 5
 1 | Groupie Francine | 25
 1 | Guenter | 10
@@ -557,12 +559,14 @@
 0 | Maracas Peter | 130
 0 | Love Potion | 130
 0 | Gut Punch Zapp | 130
+0 | Garden Dance Bob | 130
 0 | Flag Defender | 130
 0 | Evening Beer Boomhauer | 130
 0 | Ecstacy Francine | 130
 0 | DJ Klaus | 130
 0 | Cubert Farnsworth | 130
 0 | Bouldering Bob | 130
+0 | Bob's Pigeon Bath | 130
 0 | Big Bad Brian | 130
 0 | Beefsquatch | 130
 0 | Army Quagmire | 130
@@ -587,7 +591,6 @@
 0 | Santa Addict Meg | 100
 0 | Francine Roger | 100
 0 | Bondage Klaus | 100
-0 | Professor of Emerald Laboratory | 95
 0 | Frank the Snake | 95
 0 | Towel Manager Dale | 90
 0 | Were-Car | 85
@@ -627,12 +630,11 @@
 0 | Young Hermes | 40
 0 | Swimmer Tina | 40
 0 | Roller Derby Luanne | 40
-0 | Prom Luanne | 40
 0 | Pick Up Lines | 40
 0 | Oktoberfest Fry | 40
 0 | Male Leela | 40
-0 | Garden Dance Bob | 40
 0 | Eugenia Chatterteeth | 40
+0 | Prom Luanne | 35
 0 | Painter Francine | 35
 0 | One Eyed Orphan | 35
 0 | Drum Solo Quagmire | 35
@@ -649,6 +651,7 @@
 0 | Skating Roger | 30
 0 | Sharpshooter Bobby | 30
 0 | Sexy Lifeguard | 30
+0 | Sex Ed Teacher | 30
 0 | Rocker Bullock | 30
 0 | Rich Francine | 30
 0 | Painter Klaus | 30
@@ -681,6 +684,8 @@
 0 | King Roger | 25
 0 | Delivery Marmoset | 25
 0 | Sister Peter | 20
+0 | Chris's Favorite Chicken | 20
+0 | Soccer Chris | 15
 0 | Rabid Dale | 15
 0 | Musical Peter | 15
 0 | Karaoke Zapp | 15
@@ -688,20 +693,18 @@
 0 | Douchebag Chris | 15
 0 | Wheels Steve | 10
 0 | Sower of Revenge | 10
-0 | Soccer Chris | 10
 0 | Sniper Stewie | 10
 0 | Secret Asian Man | 10
 0 | Scooty-Puff Jr | 10
 0 | Nude Painting Bullock | 10
 0 | Model Builder Roger | 10
 0 | Horse Whisperer Joe | 10
+0 | History Test Chris | 10
 0 | Fowl Fighter Linda | 10
 0 | Dodgeball Meg | 10
-0 | Chris's Favorite Chicken | 10
 0 | Cheerleader Lois | 10
 0 | Keyboard Joe | 5
 0 | Just Mow a Lawn | 5
-0 | History Test Chris | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-383050 | Mastery Stone
+442350 | Mastery Stone
