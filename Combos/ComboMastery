@@ -60,6 +60,7 @@
 3 | Diarama Gene
 3 | Dinner Wine Bob
 3 | Dojo Joe
+3 | Dr. Bobbenstein
 3 | Dream Millionaire
 3 | Drummer Roger
 3 | Drunk Bullock
@@ -267,7 +268,6 @@
 2 | Doghouse Bobby | 30
 2 | Dolphin Rider Peter | 15
 2 | Down to the Bone | 55
-2 | Dr. Bobbenstein | 100
 2 | Draw Me Gene
 2 | Draw Me Tina | 70
 2 | Dream Guitar | 50
@@ -460,6 +460,7 @@
 1 | Empty Bowl Painting | 5
 1 | Evil Stepsister Stewie | 5
 1 | Evil Stepsister | 120
+1 | Family Fracas | 10
 1 | Farnsworth on Skiis | 125
 1 | Finch Hermes | 125
 1 | Freezerdome Linda | 35
@@ -503,7 +504,7 @@
 1 | Playlist Meg
 1 | Polling Peggy | 45
 1 | Poppler Jingle Fry | 20
-1 | Prom Luanne | 35
+1 | Prom Luanne | 10
 1 | Psych Meds | 125
 1 | Quicky Kiss-it | 55
 1 | RC Helicopter | 5
@@ -690,7 +691,6 @@
 0 | Rabid Dale | 15
 0 | Musical Peter | 15
 0 | Karaoke Zapp | 15
-0 | Family Fracas | 15
 0 | Wheels Steve | 10
 0 | Sower of Revenge | 10
 0 | Sniper Stewie | 10
@@ -702,8 +702,9 @@
 0 | Fowl Fighter Linda | 10
 0 | Dodgeball Meg | 10
 0 | Cheerleader Lois | 10
+0 | Nacho Bartiromo | 5
 0 | Keyboard Joe | 5
 0 | Just Mow a Lawn | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-446500 | Mastery Stone
+366350 | Mastery Stone
