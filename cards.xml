@@ -43778,6 +43778,7 @@
 	<unit>
 		<id>30109</id>
 		<name>Miss Merkin</name>
+		<linked_card_id>1300015</linked_card_id>
 		<desc>It's gonna kick ass.</desc>
 		<picture>bb_MissMerkin</picture>
 		<asset_bundle>32</asset_bundle>
@@ -72524,6 +72525,7 @@
 	<unit>
 		<id>50108</id>
 		<name>Pharoah Pianist</name>
+		<desc>P-P-P-Pharaoh and his pets...</desc>
 		<picture>fr_PharoahPianist</picture>
 		<asset_bundle>31</asset_bundle>
 		<release_time>1621274400</release_time>
