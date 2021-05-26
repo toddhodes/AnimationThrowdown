@@ -84,6 +84,7 @@
 3 | Fry's Painting
 3 | Fur Coat Lois
 3 | Gaga Ball
+3 | Garage Rock Chris
 3 | Ghost Boomhauer
 3 | Gingerbread Sculptor
 3 | Good Boy Witch Snot
@@ -228,7 +229,7 @@
 2 | Bender's Orphanarium | 25
 2 | BenderIsGreat34 | 55
 2 | Bible Study | 35
-2 | Billionaire Fry | 75
+2 | Billionaire Fry
 2 | Blueberry Picker | 95
 2 | Boy Crazy | 25
 2 | Buff Fry
@@ -281,7 +282,6 @@
 2 | Finch Leela | 10
 2 | Freezer Burn
 2 | Fry's Macaroni Art | 30
-2 | Garage Rock Chris | 100
 2 | Garbage Shot Linda | 60
 2 | Gatsby Brian
 2 | Girl Next Door Stewie | 20
@@ -353,6 +353,7 @@
 2 | Private Brian | 15
 2 | Professor of Emerald Laboratory | 65
 2 | Prom Beer Joe | 85
+2 | Prom Luanne | 10
 2 | Propane Sculpture | 20
 2 | Q.T. McWhiskers | 45
 2 | QB Boomhauer | 60
@@ -504,7 +505,6 @@
 1 | Playlist Meg
 1 | Polling Peggy | 45
 1 | Poppler Jingle Fry | 20
-1 | Prom Luanne | 10
 1 | Psych Meds | 125
 1 | Quicky Kiss-it | 55
 1 | RC Helicopter | 5
@@ -651,6 +651,7 @@
 0 | Skating Roger | 30
 0 | Sharpshooter Bobby | 30
 0 | Sexy Lifeguard | 30
+0 | Sexy Cowardly Lion Stan | 30
 0 | Sex Ed Teacher | 30
 0 | Rocker Bullock | 30
 0 | Rich Francine | 30
@@ -707,4 +708,4 @@
 0 | Just Mow a Lawn | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-366350 | Mastery Stone
+365500 | Mastery Stone
