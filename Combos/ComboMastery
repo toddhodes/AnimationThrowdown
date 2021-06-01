@@ -1,7 +1,10 @@
 3 | 5 AM Wine
 3 | Action Delivery Force Hermes
+3 | Angry Bullock
 3 | Another Lousy Millenium
 3 | Antique Robots
+3 | Arlen Men's Choir
+3 | Army Quagmire
 3 | Art of War
 3 | Arts and Crafts Bob
 3 | Ass-Kicker Hank
@@ -12,9 +15,11 @@
 3 | Bedtime Doll Hayley
 3 | Bender's Clowns
 3 | Bender's Ducklings
+3 | BenderIsGreat34
 3 | Bending School Grad
 3 | Biathlon Meg
 3 | Bill's Vegetable Knife
+3 | Billionaire Fry
 3 | Bloody Mary Mix
 3 | Blueberry Delivery Girl
 3 | Body Builder Stan
@@ -31,6 +36,7 @@
 3 | Ceramics Gene
 3 | Cham-Pag-En Zapp
 3 | Champagne Toast Fry
+3 | Champagne Toast Leela
 3 | Chef Cat Munchies
 3 | Chick-Chicken Chick Fight
 3 | Christmas Punchout
@@ -216,7 +222,6 @@
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
 2 | Alley Entertainment | 35
-2 | Arlen Men's Choir | 100
 2 | Bacon Weight | 55
 2 | Bad Tina | 100
 2 | Bakaneko Fighter Louise
@@ -227,9 +232,7 @@
 2 | Beer Bottle Toast | 10
 2 | Bender in Love | 80
 2 | Bender's Orphanarium | 25
-2 | BenderIsGreat34 | 55
 2 | Bible Study | 35
-2 | Billionaire Fry
 2 | Blueberry Picker | 95
 2 | Boy Crazy | 25
 2 | Buff Fry
@@ -242,7 +245,6 @@
 2 | Catcher Luanne | 35
 2 | Celebeartions | 60
 2 | Censor Stan
-2 | Champagne Toast Leela
 2 | Charts and Graphs | 20
 2 | Cheerleader Peggy | 80
 2 | Chicken Fight | 45
@@ -292,7 +294,6 @@
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
 2 | Hank Hill, Running Back | 95
-2 | Heckler Zoidberg | 100
 2 | High School Bill
 2 | Hip Hop Bob | 85
 2 | Homecoming King Chris | 15
@@ -330,7 +331,7 @@
 2 | Menstrual Cycle | 75
 2 | Merlot Klaus | 65
 2 | Mike Pulaski | 70
-2 | Military Tux Bill | 15
+2 | Military Tux Bill | 25
 2 | Mind Switcher Farnsworth | 100
 2 | Mocktrial Louise
 2 | Mountain Climber Peter | 70
@@ -498,7 +499,6 @@
 1 | Mr. Deliver | 125
 1 | Never Have I Ever | 80
 1 | Old Steve | 30
-1 | Organ Hermes | 125
 1 | Owl Stewie | 5
 1 | Paintball Boomhauer | 125
 1 | Party Beer Implant | 5
@@ -550,17 +550,19 @@
 0 | Sniper Zoidberg | 130
 0 | Sexy Cat | 130
 0 | Screen Repairer | 130
+0 | Santa Addict Meg | 130
 0 | Robot House | 130
 0 | Robot Arms Bender | 130
 0 | Rich Bobby | 130
 0 | Reverse Stink Hold | 130
+0 | Prince Faisal | 130
 0 | Nun Francine | 130
 0 | Money Retriever | 130
 0 | Maxi Paddy | 130
 0 | Maracas Peter | 130
 0 | Love Potion | 130
+0 | Krav Maga Dale | 130
 0 | Gut Punch Zapp | 130
-0 | Garden Dance Bob | 130
 0 | Flag Defender | 130
 0 | Evening Beer Boomhauer | 130
 0 | Ecstacy Francine | 130
@@ -589,17 +591,17 @@
 0 | Heavenly Hank | 105
 0 | Delivery Boy | 105
 0 | Sneak Tackle Hank | 100
-0 | Santa Addict Meg | 100
 0 | Francine Roger | 100
 0 | Bondage Klaus | 100
+0 | Rambo Lois | 95
 0 | Frank the Snake | 95
 0 | Towel Manager Dale | 90
+0 | Frykowski | 90
 0 | Were-Car | 85
 0 | Deer Daddy Steve | 85
 0 | Spaceship Pilot | 80
 0 | More Forever | 80
 0 | Mathy Cathy | 80
-0 | Frykowski | 80
 0 | Elf Fight Francine | 80
 0 | Beer Funnel Peter | 80
 0 | Martini Peggy | 75
@@ -608,9 +610,9 @@
 0 | Vengeance Quagmire | 70
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
+0 | Meg's Evil Monkey | 70
 0 | I Get What I Want | 70
 0 | Top of the Pecking Order | 65
-0 | Rambo Lois | 65
 0 | Paranoid Louise | 65
 0 | Cat Dragon | 65
 0 | Space Walk | 60
@@ -624,7 +626,6 @@
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
 0 | Laser Tag Quagmire | 50
-0 | Krav Maga Dale | 50
 0 | Bong Rips Francine | 50
 0 | Space Pistol Fry | 45
 0 | Football Stewie | 45
@@ -658,7 +659,6 @@
 0 | Painter Klaus | 30
 0 | Mustache Maker | 30
 0 | Modest Painting | 30
-0 | Meg's Evil Monkey | 30
 0 | Mascot Race | 30
 0 | Karate Francine | 30
 0 | Junkie Hank | 30
@@ -690,8 +690,6 @@
 0 | Sister Peter | 20
 0 | History Test Chris | 20
 0 | Rabid Dale | 15
-0 | Musical Peter | 15
-0 | Karaoke Zapp | 15
 0 | Wheels Steve | 10
 0 | Sower of Revenge | 10
 0 | Sniper Stewie | 10
@@ -704,8 +702,7 @@
 0 | Dodgeball Meg | 10
 0 | Cheerleader Lois | 10
 0 | Nacho Bartiromo | 5
-0 | Keyboard Joe | 5
 0 | Just Mow a Lawn | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-365500 | Mastery Stone
+404750 | Mastery Stone
