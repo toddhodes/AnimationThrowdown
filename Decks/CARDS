@@ -145,9 +145,7 @@
    1 L CIA Student: 6**
    1 L Cadet Hill: 2*
    3 L Candy Cane Gun: 6**
-   2 L Candy Tornado: 1
-   1 L Candy Tornado: 2*
-   3 L Candy Tornado: 6**
+   4 L Candy Tornado: 6**
    1 L Capoeira Reginald: 1
    2 L Capoeira Reginald: 6**
    1 L Captain Bender: 2*
@@ -211,6 +209,8 @@
    1 L Dating Game Steve: 6*
    6 L Dating Game Steve: 6**
    8 L Dauterive Chateau: 6**
+   1 L Death Metal Meg: 1
+  10 L Death Metal Meg: 6**
    1 L Deathball: 2*
    8 L Deathball: 6**
    9 L Delivery Cycling: 6**
@@ -314,8 +314,7 @@
    8 L Giant Snail: 6**
    1 L Gingerbread Sculptor: 6**
    4 L Goggles Cat: 6**
-   1 L Golden Fiddle: 2*
-   2 L Golden Fiddle: 6**
+   3 L Golden Fiddle: 6**
    7 L Golden Goose: 6**
    9 L Golf Ball Escape: 6**
   10 L Good Boy Witch Snot: 6**
@@ -388,6 +387,7 @@
    4 L I am Mona: 6**
    6 L Ice Cream Addict: 6**
    8 L In Flight Fight: 6**
+   5 L Intestine Horn: 6**
    8 L Iraq Lobster: 6**
    9 L Italian Teacher: 6**
    9 L Jacked on Bots: 6**
@@ -413,10 +413,11 @@
    8 L K Pop Joe: 6**
    2 L K Pop Peter: 6**
    8 L K Pop Video: 6**
-   1 L Karaoke Morbo: 2*
-   4 L Karaoke Morbo: 6**
+   1 L Karaoke Morbo: 6
+   5 L Karaoke Morbo: 6**
    1 L Karaoke Principal: 2*
    4 L Karaoke Principal: 6**
+   8 L Karaoke Zapp: 6**
    1 L Karate Stewie: 2*
    1 L Katana Trisha Takanawa: 2*
    5 L Katana Trisha Takanawa: 6**
@@ -594,6 +595,8 @@
   11 L PhD Amy: 6**
    1 L PhD Peggy: 2*
   19 L PhD Peggy: 6**
+   1 L Pharoah Pianist: 2*
+   3 L Pharoah Pianist: 6**
    9 L Philip J. Fry: 6**
    2 L Pigeon Bill: 6**
    4 L Pimp Hat: 6**
@@ -602,8 +605,9 @@
    2 L Pirate Cannon Peter: 6**
    9 L Planet Express Ship: 6**
   10 L Pointillism: 6**
-   1 L Poker Winnings: 2*
-   4 L Poker Winnings: 6**
+   1 L Poker Winnings: 1
+   5 L Poker Winnings: 6**
+  12 L Poppler Jingle Bender: 6**
    7 L Postal Lois: 6**
    9 L Pot Brownies Klaus: 6**
    2 L Power Choir Roger: 6**
@@ -660,8 +664,7 @@
    4 L Robot Fox: 6**
    1 L Rodeo Bobby: 2*
    1 L Rodeo Bobby: 6**
-   1 L Roger Epstein Music: 2*
-   4 L Roger Epstein Music: 6**
+   5 L Roger Epstein Music: 6**
    7 L Roger's Closet: 6**
    9 L Roger's Sexy Shorts: 6**
    9 L Roger: 6**
@@ -750,9 +753,7 @@
    1 L Stop Hittin' Yourself: 1
    1 L Stop Hittin' Yourself: 6**
    7 L Strategist Zapp: 6**
-   1 L Student Lucky: 1
-   1 L Student Lucky: 2*
-   7 L Student Lucky: 6**
+   8 L Student Lucky: 6**
    1 L Stuffington Academy: 2*
    4 L Stuffington Academy: 6**
    1 L Stuffington Roger: 1
@@ -777,8 +778,7 @@
    7 L Talent Show Lois: 6**
    3 L Tattoo Parlor: 6**
    1 L Tea Kettle Mountain: 1
-   2 L Teddy: 6
-   3 L Teddy: 6*
+   4 L Teddy: 6*
    2 L Teddy: 6**
   11 L Teen LaQueefa: 6**
    1 L Terrestial Cycling: 1
@@ -792,6 +792,8 @@
    7 L The Stingers: 6**
    1 L The Thinker Ape: 6*
   10 L The Thinker Ape: 6**
+   1 L Theater: 2*
+   2 L Theater: 6**
    8 L Thunder Cocktails: 6**
    2 L Time for Hard Liquor: 6**
    9 L Tina: 6**
@@ -827,6 +829,7 @@
    6 L Viking Peter: 6**
    9 L Vitruvian Man: 6**
    9 L Vodka Beer: 6**
+   1 L Wagstaff Whaler: 1
    7 L Wagstaff Whaler: 6**
    1 L Walking Man Exhibit: 1
    7 L Walking Man Exhibit: 6**
@@ -836,9 +839,7 @@
    8 L Wedding Dress: 6**
    1 L Wedding Luanne: 1
    1 L Wedding Luanne: 6**
-   1 L Western Lewis: 1
-   1 L Western Lewis: 2*
-   2 L Western Lewis: 6**
+   3 L Western Lewis: 6**
    1 L Whale Hunter Amy: 6**
    1 L Whiskey Bartender: 2*
   12 L Whiskey Bartender: 6**
@@ -873,7 +874,7 @@
    1 M Beta House: 7
    1 M Bill: 2**
    1 M Bob: 7**
-   1 M Bobby: 3**
+   1 M Bobby: 4**
    1 M Boomhauer: 2**
    1 M Brau Beer: 6
    1 M Brian: 2**
@@ -907,6 +908,7 @@
    1 M Luanne: 1*
    1 M Meg: 7**
    1 M Mini Car Racing: 7
+   1 M Miss Merkin: 2
    1 M Mr. Fischoeder: 2*
    1 M Neil Goldman: 2*
    1 M Nerd Science Contest: 5

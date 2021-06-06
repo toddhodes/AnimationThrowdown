@@ -59,6 +59,7 @@
 3 | Dance of Peace
 3 | Dancing Cans
 3 | Dating Game Steve
+3 | Death Metal Meg
 3 | Death Metal
 3 | Devil Bobby
 3 | Devil Hank
@@ -91,6 +92,7 @@
 3 | Fur Coat Lois
 3 | Gaga Ball
 3 | Garage Rock Chris
+3 | Garden Dance Bob
 3 | Ghost Boomhauer
 3 | Gingerbread Sculptor
 3 | Good Boy Witch Snot
@@ -100,6 +102,7 @@
 3 | Hatchet Boomhauer
 3 | Hayley Potter
 3 | Heavy Metal Hayley
+3 | Heckler Zoidberg
 3 | High Diver Zoidberg
 3 | High School Linda
 3 | Home Ec Teacher
@@ -133,6 +136,7 @@
 3 | Music Teacher Lois
 3 | Music Video Stewie
 3 | Musical Linda
+3 | Musical Peter
 3 | Naked Tug of War
 3 | Nanny Cam Dino
 3 | Nun Peggy
@@ -143,6 +147,7 @@
 3 | Oktoberfest Leela
 3 | One Man Musical
 3 | Opera Francine
+3 | Organ Hermes
 3 | Painting Class Joe
 3 | Painting Montage Joe
 3 | Panty Addict Snot
@@ -156,6 +161,7 @@
 3 | Pigeon Bill
 3 | Pointillism
 3 | Pool Shark
+3 | Poppler Jingle Bender
 3 | Postal Lois
 3 | Pot Brownies Klaus
 3 | Power Choir Roger
@@ -308,6 +314,7 @@
 2 | I am Mona
 2 | Ira | 45
 2 | Joy of Painting | 40
+2 | Karaoke Zapp | 85
 2 | Karate Snot
 2 | Karate Stewie
 2 | Katz | 25
@@ -327,7 +334,7 @@
 2 | Marionette Louise | 20
 2 | Meg Meggy Meg | 5
 2 | Meg Portrait | 100
-2 | Meg's Voodoo Doll | 55
+2 | Meg's Voodoo Doll | 100
 2 | Menstrual Cycle | 75
 2 | Merlot Klaus | 65
 2 | Mike Pulaski | 70
@@ -337,7 +344,7 @@
 2 | Mountain Climber Peter | 70
 2 | Mowing While Intoxicated | 100
 2 | Mural Restorer | 100
-2 | NRA Member
+2 | NRA Member | 100
 2 | Nacho Addict Bender | 100
 2 | Nasal Spray Peter | 100
 2 | Nun Linda | 25
@@ -445,7 +452,7 @@
 1 | Burobu Addict | 75
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
-1 | Chamber of Understanding | 100
+1 | Chamber of Understanding | 125
 1 | Chef Cat Binge | 30
 1 | Congo Jack | 5
 1 | Conventional Turkey Gene | 10
@@ -465,8 +472,10 @@
 1 | Family Fracas | 10
 1 | Farnsworth on Skiis | 125
 1 | Finch Hermes | 125
+1 | Flag Defender | 125
 1 | Freezerdome Linda | 35
 1 | Frydo | 5
+1 | Frykowski | 85
 1 | Garden Shovel Bobby | 50
 1 | Gargoyle Hunter | 5
 1 | Griffin and Quagmire | 5
@@ -494,7 +503,7 @@
 1 | Medieval Hank | 5
 1 | Meg's In Charge | 10
 1 | Model Lois | 5
-1 | More Anchovies | 115
+1 | More Anchovies | 90
 1 | Motivational Poster
 1 | Mr. Deliver | 125
 1 | Never Have I Ever | 80
@@ -563,7 +572,6 @@
 0 | Love Potion | 130
 0 | Krav Maga Dale | 130
 0 | Gut Punch Zapp | 130
-0 | Flag Defender | 130
 0 | Evening Beer Boomhauer | 130
 0 | Ecstacy Francine | 130
 0 | DJ Klaus | 130
@@ -596,7 +604,6 @@
 0 | Rambo Lois | 95
 0 | Frank the Snake | 95
 0 | Towel Manager Dale | 90
-0 | Frykowski | 90
 0 | Were-Car | 85
 0 | Deer Daddy Steve | 85
 0 | Spaceship Pilot | 80
@@ -705,4 +712,4 @@
 0 | Just Mow a Lawn | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-404750 | Mastery Stone
+353000 | Mastery Stone
