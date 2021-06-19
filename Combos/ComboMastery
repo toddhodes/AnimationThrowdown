@@ -44,6 +44,7 @@
 3 | Cigarette Addicts
 3 | Class Spanker
 3 | Claw-Plach Fry
+3 | Cock Fight Steve
 3 | Cognac Bender
 3 | College Student Hayley
 3 | Computer Game Wine Roger
@@ -52,6 +53,7 @@
 3 | Country Club Stan
 3 | Crack Addict Stan
 3 | Cranberry Bog
+3 | Crate Trained Steve
 3 | CrippleTron
 3 | Criss Cross Applesauce
 3 | Cute Witch of the North
@@ -269,7 +271,6 @@
 2 | Country Club Steve | 85
 2 | Coyote Fighter Chris | 30
 2 | Crack Addicted Fish | 65
-2 | Crate Trained Steve | 100
 2 | Cupid Bobby | 25
 2 | Dancing Peggy | 10
 2 | Date Wine Zoidberg | 100
@@ -341,6 +342,7 @@
 2 | Military Tux Bill | 25
 2 | Mind Switcher Farnsworth | 100
 2 | Mocktrial Louise
+2 | More Anchovies | 90
 2 | Mountain Climber Peter | 70
 2 | Mowing While Intoxicated | 100
 2 | Mural Restorer | 100
@@ -503,7 +505,6 @@
 1 | Medieval Hank | 5
 1 | Meg's In Charge | 10
 1 | Model Lois | 5
-1 | More Anchovies | 90
 1 | Motivational Poster
 1 | Mr. Deliver | 125
 1 | Never Have I Ever | 80
@@ -580,8 +581,8 @@
 0 | Bob's Pigeon Bath | 130
 0 | Big Bad Brian | 130
 0 | Beefsquatch | 130
-0 | Army Quagmire | 130
 0 | Armadillo Boomhauer | 130
+0 | Keyboard Joe | 125
 0 | Ancient Cave Writing | 125
 0 | Too High to Drive | 120
 0 | Slurm Queen | 120
@@ -632,7 +633,6 @@
 0 | Solid Gold Tuxedo | 55
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
-0 | Laser Tag Quagmire | 50
 0 | Bong Rips Francine | 50
 0 | Space Pistol Fry | 45
 0 | Football Stewie | 45
@@ -712,4 +712,4 @@
 0 | Just Mow a Lawn | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-353000 | Mastery Stone
+281150 | Mastery Stone
