@@ -76165,6 +76165,7 @@
     <unit>
     	<id>55191</id>
         <name>Burger Hermes</name>
+        <desc>My Manwich!</desc>
         <picture>FR_SpeedoHermes</picture>
         <asset_bundle>37</asset_bundle>
         <rarity>1</rarity>

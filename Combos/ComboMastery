@@ -213,6 +213,7 @@
 3 | Toy Blocks Snot
 3 | Toy Farnsworth Ad
 3 | Trapeze Bob
+3 | Traumatized Dale
 3 | Tropical Drinks
 3 | Unsharp Scissors Zapp
 3 | VIP Chris
@@ -239,7 +240,7 @@
 2 | Baseball Bobby | 15
 2 | Beer Bottle Toast | 10
 2 | Bender in Love | 80
-2 | Bender's Orphanarium | 25
+2 | Bender's Orphanarium | 60
 2 | Bible Study | 35
 2 | Blueberry Picker | 95
 2 | Boy Crazy | 25
@@ -289,7 +290,7 @@
 2 | Falcon Attack Quagmire | 70
 2 | Falconer Hayley | 35
 2 | Finch Leela | 10
-2 | Freezer Burn
+2 | Freezer Burn | 100
 2 | Fry's Macaroni Art | 30
 2 | Garbage Shot Linda | 60
 2 | Gatsby Brian
@@ -412,13 +413,12 @@
 2 | The Equestranauts | 80
 2 | The Gender Bender | 65
 2 | Trash Can Drunk | 70
-2 | Traumatized Dale | 100
 2 | Tree | 65
 2 | Trippy Zoidberg | 60
 2 | Two Butt Goat
 2 | Umbriel | 100
 2 | Upgraded Hermes
-2 | VR Gaming Bobby | 60
+2 | VR Gaming Bobby
 2 | Victory Dance | 40
 2 | Video Game Leela | 10
 2 | Walkie Talkie Teddy | 100
@@ -445,7 +445,7 @@
 1 | Battle Axe Peggy | 5
 1 | Belcher Date Night | 115
 1 | Bender's Electric Eel | 125
-1 | Benderbrau | 50
+1 | Benderbrau | 75
 1 | Betsy | 125
 1 | Body Paint Date | 5
 1 | Boombox Teddy
@@ -482,7 +482,7 @@
 1 | Gargoyle Hunter | 5
 1 | Griffin and Quagmire | 5
 1 | Groupie Francine | 25
-1 | Guenter | 10
+1 | Guenter | 30
 1 | Half-Horse Peter | 55
 1 | High School Hank
 1 | Hipster Donald | 25
@@ -496,7 +496,7 @@
 1 | Kidney Killer | 25
 1 | Kitchen Knife Snot
 1 | Klaus's Comic | 15
-1 | Lady Bird | 15
+1 | Lady Bird | 65
 1 | Laser Tag Brian | 125
 1 | Leela's Harpoon | 15
 1 | Little King Trashmouth | 45
@@ -544,7 +544,7 @@
 1 | Spirit Bird | 105
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
-1 | Swim Teacher Bob | 60
+1 | Swim Teacher Bob | 90
 1 | Sword Fighter Francine | 5
 1 | Taxidermy Artist | 5
 1 | Tennis Francine | 15
@@ -557,6 +557,7 @@
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
 0 | Zac Sawyer | 130
+0 | Towel Manager Dale | 130
 0 | Sniper Zoidberg | 130
 0 | Sexy Cat | 130
 0 | Screen Repairer | 130
@@ -571,6 +572,7 @@
 0 | Maxi Paddy | 130
 0 | Maracas Peter | 130
 0 | Love Potion | 130
+0 | Laser Tag Quagmire | 130
 0 | Krav Maga Dale | 130
 0 | Gut Punch Zapp | 130
 0 | Evening Beer Boomhauer | 130
@@ -604,7 +606,6 @@
 0 | Bondage Klaus | 100
 0 | Rambo Lois | 95
 0 | Frank the Snake | 95
-0 | Towel Manager Dale | 90
 0 | Were-Car | 85
 0 | Deer Daddy Steve | 85
 0 | Spaceship Pilot | 80
@@ -640,6 +641,7 @@
 0 | Swimmer Tina | 40
 0 | Roller Derby Luanne | 40
 0 | Pick Up Lines | 40
+0 | Perfectly Symmetrical Violence | 40
 0 | Oktoberfest Fry | 40
 0 | Male Leela | 40
 0 | Eugenia Chatterteeth | 40
@@ -712,4 +714,4 @@
 0 | Just Mow a Lawn | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-281150 | Mastery Stone
+249200 | Mastery Stone
