@@ -8747,7 +8747,7 @@
 	<desc>Does this mean I have super powers?</desc>
 	<picture>KOTH_LMLuanne</picture>
 	<asset_bundle>49</asset_bundle>
-	<item_name>Luanne Fragment</item_name>
+	<item_name>Luanne  Fragment</item_name>
 	<item_desc>Collect Luanne Fragments to craft and upgrade a Mythic Luanne card</item_desc>
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
