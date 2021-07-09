@@ -21,6 +21,7 @@
    1 L Absinthe: 6**
    8 L Action Delivery Force Hermes: 6**
    1 L Action Delivery Force Leela: 1
+   5 L Alamo ID: 6**
    9 L Alamo Merch: 6**
    9 L Alien Bagpipes: 6**
    1 L Alpha House: 2*
@@ -42,6 +43,7 @@
    5 L Arts and Crafts Bob: 6**
    2 L Assassin Bender: 6**
    1 L Atlantic City Gambler: 1
+   1 L Atlantic City Gambler: 2*
    2 L Atlantic City Gambler: 6**
    2 L Bacon Weight: 6**
    5 L Badminton Roger: 6**
@@ -99,9 +101,7 @@
    6 L Big Ass Gun: 6**
    1 L Big Baby Pudding Snatcher: 2*
    4 L Big Baby Pudding Snatcher: 6**
-   1 L Big Boy Karate: 1
-   1 L Big Boy Karate: 2*
-   7 L Big Boy Karate: 6**
+   8 L Big Boy Karate: 6**
    7 L Big Mountain Fudge Cake: 6**
    7 L Bigfoot: 6**
    9 L Bill Dauterive: 6**
@@ -186,6 +186,7 @@
    1 L Class Spanker: 6*
    2 L Class Spanker: 6**
    9 L Climate Change: 6**
+   1 L Clone Fight: 1
    7 L Clone Fight: 6**
    1 L Cognac Bender: 2*
    9 L Cognac Bender: 6**
@@ -228,17 +229,18 @@
    3 L Diarama Gene: 6**
    1 L Die of Power: 2*
    5 L Die of Power: 6**
-   1 L Dinner Date Frond: 1
+   1 L Dinner Date Frond: 2*
    1 L Dinner Date Frond: 6**
    1 L Doingg: 1
    3 L Doingg: 6**
    1 L Dollar Beers: 1
-   1 L Dollar Beers: 2*
-   5 L Dollar Beers: 6**
+   6 L Dollar Beers: 6**
    5 L Doomsday Device: 6**
    1 L Double Fisting: 1
    1 L Double Fisting: 2*
    7 L Double Fisting: 6**
+   1 L Double Shots: 1
+   1 L Double Shots: 1*
    1 L Doubles Ping Pong: 1
    1 L Doubles Ping Pong: 2*
    2 L Doubles Ping Pong: 6**
@@ -293,6 +295,7 @@
    1 L Fine Wine Ida: 1
    1 L Fine Wine Ida: 2*
    3 L Fine Wine Ida: 6**
+   1 L Finger Gun Gayle: 2*
    5 L Finger Gun Gayle: 6**
    1 L Firefighter Zoidberg: 1
    1 L Firefighter Zoidberg: 2*
@@ -303,6 +306,7 @@
    1 L Food Addict Leela: 1
    1 L Food Addict Leela: 6*
   17 L Food Addict Leela: 6**
+   1 L Food-O-Matic Martinis: 1
    1 L Food-O-Matic Martinis: 6**
    1 L Forger's Equipment: 1
    1 L Forger's Equipment: 2*
@@ -377,6 +381,7 @@
    4 L Himalayan Observatory Monks: 6**
    5 L Hip Hop Bob: 6**
    1 L History Test Chris: 1
+   5 L Holiday Punch: 6**
    1 L Holographic Washington: 1
    1 L Holographic Washington: 6**
    1 L Home Ec Teacher: 6
@@ -405,6 +410,8 @@
    8 L Iraq Lobster: 6**
    9 L Italian Teacher: 6**
    9 L Jacked on Bots: 6**
+   1 L Jacuzzi Drinks Hank: 1
+  10 L Jacuzzi Drinks Hank: 6**
    8 L James Woods High School: 6**
    1 L Jar of Change: 1
    7 L Jar of Change: 6**
@@ -441,9 +448,7 @@
    1 L Kidyatas: 1
    1 L Kidyatas: 2*
    1 L Kidyatas: 6**
-   1 L Kiki: 1
-   1 L Kiki: 2*
-   3 L Kiki: 6**
+   4 L Kiki: 6**
    1 L Killaton: 1
    1 L Killaton: 6**
    1 L Kitchen Knife Snot: 2*
@@ -531,6 +536,7 @@
    1 L Mission Doctor: 1
    1 L Mission Doctor: 6*
    3 L Mission Doctor: 6**
+   1 L Mobile Oppression Palace: 1
    1 L Mobile Oppression Palace: 2*
    7 L Mobile Oppression Palace: 6**
    1 L Money Counting Room: 1
@@ -599,8 +605,8 @@
    1 L Party All the Time: 1
    2 L Party All the Time: 6**
    9 L Party in the Beer Tank: 6**
-   1 L Pawtucket Opie: 1
-   3 L Pawtucket Opie: 6**
+   3 L Pawtucket Opie: 1*
+   4 L Pawtucket Opie: 6**
    9 L Pawtucket Patriot Ale: 6**
    2 L Pawtucket Peter: 6**
    9 L Peggy: 6**
@@ -631,6 +637,7 @@
    7 L Postal Lois: 6**
    9 L Pot Brownies Klaus: 6**
    2 L Power Choir Roger: 6**
+   1 L Power Gym: 1
    7 L Power Gym: 6**
    1 L Prescription Weed: 1
    1 L Prescription Weed: 2*
@@ -669,6 +676,7 @@
    1 L Rastafarian Jingle Hayley: 1
    8 L Recall Replacement: 6**
    7 L Red Rodriguez 2 Real: 6**
+   1 L Replacement Shell: 1
    1 L Replacement Shell: 2*
    5 L Replacement Shell: 6**
    1 L Reverend Ping Ping: 2*
@@ -684,7 +692,6 @@
    1 L Rodeo Bobby: 2*
    1 L Rodeo Bobby: 6**
    5 L Roger Epstein Music: 6**
-   1 L Roger's Closet: 1
    8 L Roger's Closet: 6**
    9 L Roger's Sexy Shorts: 6**
    9 L Roger: 6**
@@ -727,15 +734,14 @@
    8 L Ski Mask: 6**
    8 L Skiing Leela: 6**
    3 L Sledding Gene: 6**
+   1 L Sledding Jesus: 1
    1 L Sledding Jesus: 2*
    4 L Sledding Jesus: 6**
    1 L Sledding Louise: 1
    6 L Sledding Louise: 6**
    1 L Sleighing Tonight: 6**
    6 L Slurm Pop Art: 6**
-   1 L Smithsimian Art Gallery: 1
-   1 L Smithsimian Art Gallery: 2*
-   3 L Smithsimian Art Gallery: 6**
+   4 L Smithsimian Art Gallery: 6**
    9 L Snot and Dreidal: 6**
   10 L Snot: 6**
    1 L Soda Celebration: 1
@@ -747,8 +753,7 @@
    1 L Softball Player Jerome: 1
    1 L Softball Player Jerome: 2*
    3 L Softball Player Jerome: 6**
-   1 L Solo Party: 1
-   2 L Solo Party: 6**
+   4 L Solo Party: 6**
    2 L Space Pistol Fry: 6**
    1 L Space Suit: 2*
    2 L Space Suit: 6**
@@ -849,6 +854,8 @@
    1 L VIP Cruise: 1
    1 L VIP Cruise: 2*
   14 L VIP Cruise: 6**
+   1 L Vacation Chris: 1
+   5 L Vacation Chris: 6**
    1 L Video Game Addict Hank: 2*
   12 L Video Game Addict Hank: 6**
    1 L Video Game Leela: 6**
@@ -856,8 +863,7 @@
    6 L Viking Peter: 6**
    9 L Vitruvian Man: 6**
    9 L Vodka Beer: 6**
-   1 L Wagstaff Whaler: 1
-   7 L Wagstaff Whaler: 6**
+   8 L Wagstaff Whaler: 6**
    1 L Walking Man Exhibit: 1
    7 L Walking Man Exhibit: 6**
    1 L Walkman Boomhauer: 1
@@ -868,8 +874,7 @@
    1 L Wedding Luanne: 1
    1 L Wedding Luanne: 6**
    1 L Western Lewis: 1
-   1 L Western Lewis: 6*
-   3 L Western Lewis: 6**
+   4 L Western Lewis: 6**
    1 L Whale Hunter Amy: 6**
    3 L Wheelie Mammoth: 6**
    1 L Whiskey Bartender: 2*
@@ -907,11 +912,11 @@
    1 M Bobby: 4**
    1 M Boomhauer: 4**
    1 M Brau Beer: 6
-   1 M Brian: 2**
+   1 M Brian: 3**
    1 M Bullock: 1**
    1 M CD Warehouse: 3
    1 M Candy Tornado: 1*
-   1 M Chris: 2**
+   1 M Chris: 6**
    1 M Clone Fight: 5
    1 M Cuddles: 6
    1 M Dale: 2**
@@ -927,7 +932,7 @@
    1 M Hank: 3**
    1 M Hayley: 7**
    1 M Heat Packing Priest: 1*
-   1 M Hermes: 1*
+   1 M Hermes: 2*
    1 M Hypnotoad: 3*
    1 M Jimmy Jr.: 7**
    1 M Joe Swanson: 2**

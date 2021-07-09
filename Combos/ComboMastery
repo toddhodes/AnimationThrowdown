@@ -52,6 +52,7 @@
 3 | Count of Monty Hall
 3 | Country Club Stan
 3 | Crack Addict Stan
+3 | Crack Addicted Fish
 3 | Cranberry Bog
 3 | Crate Trained Steve
 3 | CrippleTron
@@ -108,6 +109,7 @@
 3 | High Diver Zoidberg
 3 | High School Linda
 3 | Home Ec Teacher
+3 | Jacuzzi Drinks Hank
 3 | Jealous Bobby
 3 | Jose Servo
 3 | Jouster Peggy
@@ -193,6 +195,7 @@
 3 | Softball Bill
 3 | Softball Boomhauer
 3 | Softball Dale
+3 | Solo Party
 3 | Space Honey
 3 | Sportsfan Joe
 3 | Steak Cows
@@ -221,6 +224,7 @@
 3 | VIP Chris
 3 | VIP Cruise
 3 | VR Gaming Bobby
+3 | Vacation Chris
 3 | Video Game Addict Hank
 3 | Viking Peter
 3 | Walkie Talkie Teddy
@@ -244,6 +248,7 @@
 2 | Bamboo Boogie Boots Hermes | 50
 2 | Baseball Bobby | 15
 2 | Beer Bottle Toast | 10
+2 | Beer Snot | 35
 2 | Bender in Love | 80
 2 | Bender's Orphanarium | 60
 2 | Bible Study | 35
@@ -275,8 +280,7 @@
 2 | Corporate Training | 35
 2 | Counting Klaus | 30
 2 | Country Club Steve | 85
-2 | Coyote Fighter Chris | 30
-2 | Crack Addicted Fish
+2 | Coyote Fighter Chris | 80
 2 | Cupid Bobby | 25
 2 | Dancing Peggy | 10
 2 | Date Wine Zoidberg | 100
@@ -391,7 +395,6 @@
 2 | Slip 'n Slide Bob | 60
 2 | Slow Dance Jimmy Jr. | 10
 2 | Softball Lois | 100
-2 | Solo Party | 5
 2 | Space Cadet Chris | 70
 2 | Space Stan | 60
 2 | Space Steve | 100
@@ -445,6 +448,7 @@
 1 | Assassin Bender | 125
 1 | Baseball Dale | 25
 1 | Battle Axe Peggy | 5
+1 | Beer Helmet | 45
 1 | Belcher Date Night | 115
 1 | Bender's Electric Eel | 125
 1 | Benderbrau | 75
@@ -488,10 +492,11 @@
 1 | Half-Horse Peter | 55
 1 | High School Hank
 1 | Hipster Donald | 25
-1 | History Report Gene | 60
+1 | History Report Gene | 85
 1 | Home School Peter | 125
 1 | Honey Mustache Stewie | 5
 1 | Honeybucket Student | 125
+1 | Hot Cocoa Tina | 120
 1 | Jellybean Phone Klaus | 5
 1 | Joystick Steve | 110
 1 | Keyboardist Dale | 5
@@ -575,6 +580,7 @@
 0 | Maxi Paddy | 130
 0 | Maracas Peter | 130
 0 | Love Potion | 130
+0 | Last Minute Shopper Brian | 130
 0 | Laser Tag Quagmire | 130
 0 | Krav Maga Dale | 130
 0 | Gut Punch Zapp | 130
@@ -596,7 +602,6 @@
 0 | Mind Switcher Amy | 120
 0 | Electric Love | 120
 0 | Rastafarian Jingle Hayley | 115
-0 | Home School Chris | 115
 0 | High Roller Stewie | 115
 0 | Furry Bullock | 115
 0 | Skydiver Quagmire | 105
@@ -617,7 +622,6 @@
 0 | Elf Fight Francine | 80
 0 | Beer Funnel Peter | 80
 0 | Martini Peggy | 75
-0 | Beer Helmet | 75
 0 | Zinc Saucier | 70
 0 | Vengeance Quagmire | 70
 0 | Senora Hill | 70
@@ -631,7 +635,9 @@
 0 | Sex Ed Peter | 60
 0 | Oktoberfest Amy | 60
 0 | Line Dancer Amy | 60
+0 | History Test Chris | 60
 0 | Flying Machine Stewie | 60
+0 | Chris's Favorite Chicken | 60
 0 | Baby Bender | 60
 0 | Summer Lovin | 55
 0 | Solid Gold Tuxedo | 55
@@ -687,7 +693,6 @@
 0 | Dodgeball Louise | 30
 0 | Cinderella Lois | 30
 0 | Christian Rock | 30
-0 | Chris's Favorite Chicken | 30
 0 | Butt Closet | 30
 0 | Boy Tina | 30
 0 | Bob in the Wall | 30
@@ -701,7 +706,6 @@
 0 | Douchebag Chris | 25
 0 | Delivery Marmoset | 25
 0 | Sister Peter | 20
-0 | History Test Chris | 20
 0 | Rabid Dale | 15
 0 | Wheels Steve | 10
 0 | Sower of Revenge | 10
@@ -719,4 +723,4 @@
 0 | Just Mow a Lawn | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-325900 | Mastery Stone
+323500 | Mastery Stone
