@@ -32,16 +32,18 @@ Ships Armory
 --------The Carnival With Rupert------
 2 | The Carnival With Rupert | 100
 --------Slip .n Slide Bob------
-2 | Slip 'n Slide Bob | 60
+2 | Slip 'n Slide Bob | 100
 --------Naked Tug of War------
 3 | Naked Tug of War
 --------Balloon Fight------
-2 | Balloon Fight | 15
-   6 L Balloon Fight: 6**
+2 | Balloon Fight | 70
+   1 L Balloon Fight: 1
+   1 L Balloon Fight: 2*
+  12 L Balloon Fight: 6**
 --------Balloon Sniper------
-2 | Balloon Sniper | 45
+2 | Balloon Sniper | 100
 --------Sexy Lifeguard------
-0 | Sexy Lifeguard | 30
+0 | Sexy Lifeguard | 120
 --------Raleigh St. Augustine------
 1 | Raleigh St. Augustine | 125
 --------River Burned------
@@ -53,7 +55,7 @@ Ships Armory
 --------Tropical Drinks------
 3 | Tropical Drinks
 --------Summer Guy------
-2 | Summer Guy | 70
+3 | Summer Guy
    2 L Summer Guy: 6**
 
 
