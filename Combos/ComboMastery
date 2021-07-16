@@ -204,6 +204,7 @@
 3 | Street Fighter Peter
 3 | Stressed Out Leela
 3 | Stuffington Steve
+3 | Summer Guy
 3 | Supermodel Roger
 3 | Swat Bob
 3 | Swimmer Dale
@@ -242,13 +243,14 @@
 2 | Bacon Weight | 55
 2 | Bad Tina | 100
 2 | Bakaneko Fighter Louise
-2 | Balloon Fight | 15
-2 | Balloon Sniper | 45
+2 | Balloon Fight | 70
+2 | Balloon Sniper | 100
 2 | Balloon Tosser | 95
 2 | Bamboo Boogie Boots Hermes | 50
 2 | Baseball Bobby | 15
 2 | Beer Bottle Toast | 10
-2 | Beer Snot | 35
+2 | Beer Helmet | 45
+2 | Beer Snot | 95
 2 | Bender in Love | 80
 2 | Bender's Orphanarium | 60
 2 | Bible Study | 35
@@ -266,6 +268,7 @@
 2 | Censor Stan
 2 | Charts and Graphs | 20
 2 | Cheerleader Peggy | 80
+2 | Chef Cat Binge | 5
 2 | Chicken Fight | 45
 2 | Children's Author | 90
 2 | Chosen Brain Fry
@@ -376,7 +379,7 @@
 2 | Propane Sculpture | 20
 2 | Q.T. McWhiskers | 45
 2 | QB Boomhauer | 60
-2 | QB Quagmire | 15
+2 | QB Quagmire
 2 | Rapture Stan | 55
 2 | Record Holder Stan | 30
 2 | Rich Leela | 100
@@ -448,7 +451,6 @@
 1 | Assassin Bender | 125
 1 | Baseball Dale | 25
 1 | Battle Axe Peggy | 5
-1 | Beer Helmet | 45
 1 | Belcher Date Night | 115
 1 | Bender's Electric Eel | 125
 1 | Benderbrau | 75
@@ -461,7 +463,6 @@
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
 1 | Chamber of Understanding | 125
-1 | Chef Cat Binge | 30
 1 | Congo Jack | 5
 1 | Conventional Turkey Gene | 10
 1 | Cough Syrup Drunk | 50
@@ -496,7 +497,6 @@
 1 | Home School Peter | 125
 1 | Honey Mustache Stewie | 5
 1 | Honeybucket Student | 125
-1 | Hot Cocoa Tina | 120
 1 | Jellybean Phone Klaus | 5
 1 | Joystick Steve | 110
 1 | Keyboardist Dale | 5
@@ -567,6 +567,7 @@
 0 | Zac Sawyer | 130
 0 | Towel Manager Dale | 130
 0 | Sniper Zoidberg | 130
+0 | Sexy Lifeguard | 130
 0 | Sexy Cat | 130
 0 | Screen Repairer | 130
 0 | Santa Addict Meg | 130
@@ -661,6 +662,7 @@
 0 | American Giggolo | 35
 0 | Workout Klaus | 30
 0 | Withdrawal Steve | 30
+0 | Tweaker Peter | 30
 0 | Tuning Fork | 30
 0 | Topped Off Wine | 30
 0 | Stevie Wonderbra | 30
@@ -669,10 +671,10 @@
 0 | Skydiving Peggy | 30
 0 | Skating Roger | 30
 0 | Sharpshooter Bobby | 30
-0 | Sexy Lifeguard | 30
 0 | Sexy Cowardly Lion Stan | 30
 0 | Sex Ed Teacher | 30
 0 | Screwdrive Chris | 30
+0 | Roller Skate Peter | 30
 0 | Rocker Bullock | 30
 0 | Rich Francine | 30
 0 | Painter Klaus | 30
@@ -723,4 +725,4 @@
 0 | Just Mow a Lawn | 5
 0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-323500 | Mastery Stone
+392850 | Mastery Stone
