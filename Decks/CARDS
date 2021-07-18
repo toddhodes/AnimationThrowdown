@@ -3,6 +3,7 @@
    1 E Free Weed Hayley: 5**
    1 E Life Drawing Hayley: 5
    1 E Opera Francine: 5**
+   1 E Roller Derby Hayley: 5
    2 E Roller Derby Hayley: 5**
    1 E Roller Derby Luanne: 5
    1 E Roller Derby Luanne: 5*
@@ -126,15 +127,13 @@
    6 L Boy Witch Steve: 6**
    6 L Brainwashed Hayley: 6**
    5 L Brau Beer: 6**
-   1 L Brewery Mascot: 1
-   1 L Brewery Mascot: 2*
-   2 L Brewery Mascot: 6**
+   3 L Brewery Mascot: 6**
    1 L Brian Statue: 1
    4 L Brian Statue: 6**
    1 L Brian The Home Invader Lewis: 2*
    9 L Brian: 6**
-   1 L Broken Society: 2*
-   1 L Broken Society: 6**
+   1 L Broken Society: 1
+   2 L Broken Society: 6**
    2 L Buff Fry: 6**
    9 L Bullock: 6**
    1 L Burger Addict Teddy: 1
@@ -188,10 +187,11 @@
    1 L Clone Fight: 1
    7 L Clone Fight: 6**
    1 L Cognac Bender: 2*
-   9 L Cognac Bender: 6**
+  10 L Cognac Bender: 6**
    6 L College Student Hayley: 6**
    3 L Computer Game Wine Roger: 6**
-   6 L Concert Keg: 6**
+   1 L Concert Keg: 2*
+   7 L Concert Keg: 6**
    4 L Contact High Stewie: 6**
    1 L Conventional Turkey Gene: 6**
    8 L Costume Construction: 6**
@@ -226,6 +226,7 @@
    1 L Diaper Doll Linda: 1
    2 L Diaper Doll Linda: 6**
    3 L Diarama Gene: 6**
+   1 L Die of Power: 1
    1 L Die of Power: 2*
    5 L Die of Power: 6**
    1 L Dinner Date Frond: 2*
@@ -255,6 +256,7 @@
    1 L Dream Guitar: 6**
    4 L Drummer Roger: 6**
   12 L Drunk Bullock: 6**
+   2 L Drunk Francine: 6**
    1 L Drunk at the Clam: 6**
    1 L Earl's Guitars: 1
    7 L Earl's Guitars: 6**
@@ -303,6 +305,7 @@
    1 L Food Addict Leela: 1
    1 L Food Addict Leela: 6*
   17 L Food Addict Leela: 6**
+   1 L Food-O-Matic Martinis: 1
    1 L Food-O-Matic Martinis: 2*
    1 L Food-O-Matic Martinis: 6**
    1 L Forger's Equipment: 1
@@ -377,7 +380,8 @@
    4 L Himalayan Observatory Monks: 6**
    5 L Hip Hop Bob: 6**
    1 L History Test Chris: 1
-   6 L Holiday Punch: 6**
+   1 L Holiday Punch: 2*
+   7 L Holiday Punch: 6**
    1 L Holographic Washington: 1
    1 L Holographic Washington: 6**
    1 L Home Ec Teacher: 6
@@ -393,6 +397,7 @@
    1 L Hottyz Bill: 6**
    1 L Hottyz Luanne: 1
    2 L Hottyz Salon: 6**
+   1 L Human Horn: 1
    1 L Human Horn: 2*
    1 L Human Horn: 6**
    8 L Hypnotoad: 6**
@@ -428,6 +433,7 @@
    2 L K Pop Cleveland: 6**
    8 L K Pop Joe: 6**
    2 L K Pop Peter: 6**
+   1 L K Pop Video: 1
    8 L K Pop Video: 6**
    1 L Karaoke Morbo: 2*
    5 L Karaoke Morbo: 6**
@@ -505,7 +511,9 @@
    7 L Max Jets: 6**
   12 L Meatman Sculptor: 6**
    9 L Medicated Eye Drops: 6**
-   9 L Medicated Stewie: 6**
+   1 L Medicated Stewie: 1
+   1 L Medicated Stewie: 2*
+  11 L Medicated Stewie: 6**
    1 L Medieval Hank: 1
    9 L Meg Griffin: 6**
    1 L Meg's In Charge: 1
@@ -603,6 +611,7 @@
    2 L Pawtucket Peter: 6**
    9 L Peggy: 6**
    8 L Pendlingtonton Academy: 6**
+   1 L Perfect Xmas Tree: 1
    4 L Perfect Xmas Tree: 6**
    9 L Personalized Beer Mug: 6**
   13 L Peter with a Knife: 6**
@@ -642,9 +651,7 @@
    1 L Prince Faisal: 1
    1 L Prince Faisal: 6**
    2 L Principal Peter: 6**
-   1 L Principal Shepard: 1
-   1 L Principal Shepard: 2*
-   2 L Principal Shepard: 6**
+   3 L Principal Shepard: 6**
    8 L Pro-Pain!: 6**
    9 L Professor Farnsworth: 6**
    1 L Purity Dads: 2*
@@ -895,7 +902,7 @@
    1 M Amy: 3**
    1 M Anti-Seizure Meds: 7*
    1 M Atlantic City Gambler: 6
-   1 M Bender: 6**
+   1 M Bender: 7**
    1 M Beta House: 7
    1 M Bill: 2**
    1 M Bob: 7**
@@ -904,7 +911,7 @@
    1 M Brau Beer: 6
    1 M Brian: 3**
    1 M Bullock: 1**
-   1 M CD Warehouse: 3
+   1 M CD Warehouse: 5
    1 M Candy Tornado: 1*
    1 M Chris: 6**
    1 M Clone Fight: 5
@@ -914,7 +921,8 @@
    1 M Dr. Zoidberg: 7**
    1 M Film Scissors: 7
    1 M Fine Wine Ida: 6
-   1 M Francine: 3**
+   1 M Food-O-Matic Martinis: 1
+   1 M Francine: 5**
    1 M Fry: 2**
    1 M Gene: 4**
    1 M Golden Goose: 3*

@@ -172,6 +172,7 @@
 3 | Power Choir Roger
 3 | Prince Charming Peter
 3 | Princess Little Piddles
+3 | QB Quagmire
 3 | Rapper Klaus
 3 | Red Rodriguez 2 Real
 3 | Responsible Cocaine User Bullock
@@ -275,7 +276,7 @@
 2 | Chris Painting
 2 | Chunky Blast Offs
 2 | Church Wine Drunk | 55
-2 | Claw Machine | 5
+2 | Claw Machine | 20
 2 | Clothes Made of Cash | 20
 2 | Cloud Painter | 100
 2 | Coach Farnsworth | 30
@@ -320,6 +321,7 @@
 2 | Horse Rider Tina
 2 | Hose to the Head
 2 | Hot Cocoa Gene | 50
+2 | Hot Cocoa Tina
 2 | Hottyz Bill | 30
 2 | Hottyz Luanne
 2 | Humplings | 70
@@ -344,7 +346,7 @@
 2 | Lobster Wedding | 60
 2 | Louise Chatterteeth | 60
 2 | Lounge Singer Hayley | 100
-2 | Marionette Chris | 65
+2 | Marionette Chris | 75
 2 | Marionette Louise | 20
 2 | Meg Meggy Meg | 5
 2 | Meg Portrait | 100
@@ -377,9 +379,8 @@
 2 | Prom Beer Joe | 85
 2 | Prom Luanne | 10
 2 | Propane Sculpture | 20
-2 | Q.T. McWhiskers | 45
+2 | Q.T. McWhiskers | 70
 2 | QB Boomhauer | 60
-2 | QB Quagmire
 2 | Rapture Stan | 55
 2 | Record Holder Stan | 30
 2 | Rich Leela | 100
@@ -419,7 +420,7 @@
 2 | Tennis Stan
 2 | The Billdozer | 100
 2 | The Carnival With Rupert | 100
-2 | The Equestranauts | 80
+2 | The Equestranauts | 95
 2 | The Gender Bender | 65
 2 | Trash Can Drunk | 70
 2 | Tree | 65
@@ -472,7 +473,7 @@
 1 | Dog Bone Stan | 5
 1 | Dog Lois | 90
 1 | Dog Meg
-1 | Drunk Hank | 25
+1 | Drunk Hank | 125
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
 1 | Empty Bowl Painting | 5
@@ -488,6 +489,7 @@
 1 | Garden Shovel Bobby | 50
 1 | Gargoyle Hunter | 5
 1 | Griffin and Quagmire | 5
+1 | Groovy Fry | 125
 1 | Groupie Francine | 25
 1 | Guenter | 30
 1 | Half-Horse Peter | 55
@@ -538,7 +540,7 @@
 1 | Shark Killer | 5
 1 | Sherlock Zoidberg
 1 | Shiny Pebbles | 45
-1 | Shut Up and Take My Money | 60
+1 | Shut Up and Take My Money | 85
 1 | Sing and Swing | 30
 1 | Sketch Artist Dale | 25
 1 | Sketch Artist Peter | 5
@@ -565,6 +567,7 @@
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
 0 | Zac Sawyer | 130
+0 | Tuning Fork | 130
 0 | Towel Manager Dale | 130
 0 | Sniper Zoidberg | 130
 0 | Sexy Lifeguard | 130
@@ -620,9 +623,9 @@
 0 | Spaceship Pilot | 80
 0 | More Forever | 80
 0 | Mathy Cathy | 80
-0 | Elf Fight Francine | 80
 0 | Beer Funnel Peter | 80
 0 | Martini Peggy | 75
+0 | Fried Chick | 75
 0 | Zinc Saucier | 70
 0 | Vengeance Quagmire | 70
 0 | Senora Hill | 70
@@ -633,6 +636,7 @@
 0 | Paranoid Louise | 65
 0 | Cat Dragon | 65
 0 | Space Walk | 60
+0 | Solid Gold Tuxedo | 60
 0 | Sex Ed Peter | 60
 0 | Oktoberfest Amy | 60
 0 | Line Dancer Amy | 60
@@ -641,7 +645,6 @@
 0 | Chris's Favorite Chicken | 60
 0 | Baby Bender | 60
 0 | Summer Lovin | 55
-0 | Solid Gold Tuxedo | 55
 0 | Steve Crossing the Alps | 50
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
@@ -663,7 +666,6 @@
 0 | Workout Klaus | 30
 0 | Withdrawal Steve | 30
 0 | Tweaker Peter | 30
-0 | Tuning Fork | 30
 0 | Topped Off Wine | 30
 0 | Stevie Wonderbra | 30
 0 | Stan's Grill | 30
@@ -708,6 +710,7 @@
 0 | Douchebag Chris | 25
 0 | Delivery Marmoset | 25
 0 | Sister Peter | 20
+0 | Betting it All | 20
 0 | Rabid Dale | 15
 0 | Wheels Steve | 10
 0 | Sower of Revenge | 10
@@ -720,9 +723,9 @@
 0 | Fowl Fighter Linda | 10
 0 | Dodgeball Meg | 10
 0 | Cheerleader Lois | 10
+0 | Photographer Bender | 5
 0 | Nigerian Prince | 5
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
-0 | Fried Chick | 5
 0 | Bobsled Hermes | 5
-392850 | Mastery Stone
+314500 | Mastery Stone
