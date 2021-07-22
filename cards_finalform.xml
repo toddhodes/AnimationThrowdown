@@ -16154,6 +16154,218 @@
 	    <health>62</health>
 	  </upgrade>
 	</unit>
+	<unit>
+	  <id>110165</id>
+	  <combo_card_id>15256</combo_card_id>
+	  <attack>10</attack>
+	  <health>44</health>
+	  <name>80s Addicted Peter</name>
+	  <picture>FG_80sAddictedPeter</picture>
+	  <asset_bundle>84</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>1</type>
+	  <trait>addicted</trait>
+	  <skill id="enlarge" x="4"/>
+	  <skill id="leech" x="8"/>
+	  <skill id="bunker" x="5"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>45</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>46</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>11</attack>
+	    <health>48</health>
+	    <skill id="enlarge" x="5"/>
+	    <skill id="leech" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>49</health>
+	    <skill id="bunker" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>51</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <attack>12</attack>
+	    <health>52</health>
+	    <skill id="leech" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <health>54</health>
+	    <skill id="enlarge" x="6"/>
+	    <skill id="leech" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>55</health>
+	    <skill id="bunker" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>13</attack>
+	    <health>57</health>
+	    <skill id="leech" x="12"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>58</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <health>60</health>
+	    <skill id="enlarge" x="7"/>
+	    <skill id="leech" x="13"/>
+	    <skill id="bunker" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <attack>14</attack>
+	    <health>61</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>63</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>64</health>
+	    <skill id="leech" x="14"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>15</attack>
+	    <health>66</health>
+	    <skill id="bunker" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>67</health>
+	    <skill id="enlarge" x="8"/>
+	    <skill id="leech" x="15"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>16</attack>
+	    <health>69</health>
+	    <skill id="leech" x="16"/>
+	  </upgrade>
+	</unit>
+	<unit>
+	  <id>110166</id>
+	  <combo_card_id>15257</combo_card_id>
+	  <attack>12</attack>
+	  <health>40</health>
+	  <name>Pie Addict Chris</name>
+	  <picture>FG_PieAddictChris</picture>
+	  <asset_bundle>84</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>1</type>
+	  <trait>addicted</trait>
+	  <skill id="weaken" x="6"/>
+	  <skill id="healall" x="3" y="addicted"/>
+	  <skill id="hijack" x="6"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>41</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>42</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <attack>13</attack>
+	    <health>44</health>
+	    <skill id="weaken" x="7"/>
+	    <skill id="hijack" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <health>45</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>47</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <attack>14</attack>
+	    <health>48</health>
+	    <skill id="weaken" x="8"/>
+	    <skill id="healall" x="4" y="addicted"/>
+	    <skill id="hijack" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <health>50</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>51</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <attack>15</attack>
+	    <health>53</health>
+	    <skill id="weaken" x="9"/>
+	    <skill id="hijack" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>54</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <health>56</health>
+	    <skill id="weaken" x="10"/>
+	    <skill id="healall" x="5" y="addicted"/>
+	    <skill id="hijack" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <attack>16</attack>
+	    <health>57</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>59</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <health>60</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <attack>17</attack>
+	    <health>62</health>
+	    <skill id="weaken" x="11"/>
+	    <skill id="hijack" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>63</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <health>66</health>
+	    <skill id="weaken" x="12"/>
+	    <skill id="healall" x="6" y="addicted"/>
+	    <skill id="hijack" x="12"/>
+	  </upgrade>
+	</unit>
 
 <!-- end Family Guy Final Forms -->
 	
@@ -31041,6 +31253,111 @@
 	    <health>62</health>
 	    <skill id="enlarge" x="11"/>
 	    <skill id="invigorate" x="12"/>
+	  </upgrade>
+	</unit>
+	<unit>
+	  <id>120152</id>
+	  <combo_card_id>25226</combo_card_id>
+	  <attack>14</attack>
+	  <health>33</health>
+	  <name>Cigar Stan</name>
+	  <picture>AD_CigarStan</picture>
+	  <asset_bundle>70</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>2</type>
+	  <trait>addicted</trait>
+	  <skill id="shrapnel" x="4"/>
+	  <skill id="inspire" x="4"/>
+	  <skill id="poison" x="7"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>34</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>36</health>
+	    <skill id="poison" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <health>37</health>
+	    <skill id="shrapnel" x="5"/>
+	    <skill id="inspire" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <attack>15</attack>
+	    <health>39</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>40</health>
+	    <skill id="poison" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>42</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>16</attack>
+	    <health>44</health>
+	    <skill id="shrapnel" x="6"/>
+	    <skill id="inspire" x="6"/>
+	    <skill id="poison" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>45</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <health>47</health>
+	    <skill id="poison" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>48</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>17</attack>
+	    <health>50</health>
+	    <skill id="shrapnel" x="7"/>
+	    <skill id="inspire" x="7"/>
+	    <skill id="poison" x="12"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>52</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>53</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <attack>18</attack>
+	    <health>55</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <health>56</health>
+	    <skill id="poison" x="13"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>58</health>
+	    <skill id="shrapnel" x="8"/>
+	    <skill id="inspire" x="8"/>
+	    <skill id="poison" x="14"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>19</attack>
+	    <health>60</health>
 	  </upgrade>
 	</unit>
 
@@ -46428,6 +46745,211 @@
 	    <health>57</health>
 	    <skill id="counter" x="17"/>
 	    <skill id="pierce" x="17"/>
+	  </upgrade>
+	</unit>
+	<unit>
+	  <id>130155</id>
+	  <combo_card_id>35226</combo_card_id>
+	  <attack>12</attack>
+	  <health>37</health>
+	  <name>Teddy's Crush</name>
+	  <picture>bb_HelenAddictTeddy</picture>
+	  <asset_bundle>53</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>3</type>
+	  <trait>addicted</trait>
+	  <skill id="rallyall" x="3" y="addicted"/>
+	  <skill id="enlarge" x="5"/>
+	  <skill id="invigorate" x="4"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>38</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>40</health>
+	    <skill id="rallyall" x="4" y="addicted"/>
+	    <skill id="enlarge" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <health>41</health>
+	    <skill id="invigorate" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <attack>13</attack>
+	    <health>43</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>44</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>46</health>
+	    <skill id="enlarge" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>14</attack>
+	    <health>48</health>
+	    <skill id="rallyall" x="5" y="addicted"/>
+	    <skill id="invigorate" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>49</health>
+	    <skill id="enlarge" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <health>51</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>52</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>15</attack>
+	    <health>54</health>
+	    <skill id="rallyall" x="6" y="addicted"/>
+	    <skill id="enlarge" x="9"/>
+	    <skill id="invigorate" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>56</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>57</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <attack>16</attack>
+	    <health>59</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <health>60</health>
+	    <skill id="enlarge" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>62</health>
+	    <skill id="rallyall" x="7" y="addicted"/>
+	    <skill id="invigorate" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>17</attack>
+	    <health>64</health>
+	    <skill id="enlarge" x="11"/>
+	  </upgrade>
+	</unit>
+	<unit>
+	  <id>130156</id>
+	  <combo_card_id>35227</combo_card_id>
+	  <attack>11</attack>
+	  <health>35</health>
+	  <name>Ice Cream Gene</name>
+	  <picture>BB_IceCreamGene</picture>
+	  <asset_bundle>70</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>3</type>
+	  <trait>addicted</trait>
+	  <skill id="healall" x="3" y="addicted"/>
+	  <skill id="inspire" x="4"/>
+	  <skill id="bunker" x="5"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>36</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>38</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <health>40</health>
+	    <skill id="inspire" x="5"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <attack>12</attack>
+	    <health>42</health>
+	    <skill id="bunker" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>44</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>45</health>
+	    <skill id="healall" x="4" y="addicted"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>13</attack>
+	    <health>47</health>
+	    <skill id="inspire" x="6"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>49</health>
+	    <skill id="bunker" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <health>51</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>53</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>14</attack>
+	    <health>55</health>
+	    <skill id="healall" x="5" y="addicted"/>
+	    <skill id="inspire" x="7"/>
+	    <skill id="bunker" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>56</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>58</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <attack>15</attack>
+	    <health>60</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <health>62</health>
+	    <skill id="bunker" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>64</health>
+	    <skill id="inspire" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>16</attack>
+	    <health>66</health>
+	    <skill id="healall" x="6" y="addicted"/>
 	  </upgrade>
 	</unit>
 
@@ -77557,4 +78079,111 @@
 	    <health>58</health>
 	  </upgrade>
 	</unit>
+	<unit>
+	  <id>150171</id>
+	  <combo_card_id>55225</combo_card_id>
+	  <attack>13</attack>
+	  <health>37</health>
+	  <name>Poppler Addict Leela</name>
+	  <picture>FR_PopplersAddictLeela</picture>
+	  <asset_bundle>53</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>5</type>
+	  <trait>addicted</trait>
+	  <skill id="heal" x="7"/>
+	  <skill id="poison" x="5"/>
+	  <skill id="rallyall" x="3" y="addicted"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+	    <level>2</level>
+	    <health>38</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>3</level>
+	    <health>40</health>
+	    <skill id="heal" x="8"/>
+	    <skill id="poison" x="6"/>
+	    <skill id="rallyall" x="4" y="addicted"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>4</level>
+	    <health>41</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>5</level>
+	    <attack>14</attack>
+	    <health>43</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>6</level>
+	    <health>44</health>
+	    <skill id="heal" x="9"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>7</level>
+	    <health>46</health>
+	    <skill id="poison" x="7"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>8</level>
+	    <attack>15</attack>
+	    <health>48</health>
+	    <skill id="heal" x="10"/>
+	    <skill id="rallyall" x="5" y="addicted"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>9</level>
+	    <health>49</health>
+	    <skill id="poison" x="8"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>10</level>
+	    <health>51</health>
+	    <skill id="heal" x="11"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>11</level>
+	    <health>52</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>12</level>
+	    <attack>16</attack>
+	    <health>54</health>
+	    <skill id="heal" x="12"/>
+	    <skill id="poison" x="9"/>
+	    <skill id="rallyall" x="6" y="addicted"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>13</level>
+	    <health>56</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>14</level>
+	    <health>57</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>15</level>
+	    <attack>17</attack>
+	    <health>59</health>
+	  </upgrade>
+	  <upgrade>
+	    <level>16</level>
+	    <health>60</health>
+	    <skill id="heal" x="13"/>
+	    <skill id="poison" x="10"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>17</level>
+	    <health>62</health>
+	    <skill id="heal" x="14"/>
+	    <skill id="rallyall" x="7" y="addicted"/>
+	  </upgrade>
+	  <upgrade>
+	    <level>18</level>
+	    <attack>18</attack>
+	    <health>63</health>
+	    <skill id="poison" x="11"/>
+	  </upgrade>
+</unit>
 </root>	
