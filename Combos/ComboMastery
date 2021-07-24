@@ -109,6 +109,7 @@
 3 | High Diver Zoidberg
 3 | High School Linda
 3 | Home Ec Teacher
+3 | Hot Cocoa Tina
 3 | Jacuzzi Drinks Hank
 3 | Jealous Bobby
 3 | Jose Servo
@@ -265,7 +266,7 @@
 2 | Cartel Klaus | 75
 2 | Castanet Zoidberg | 70
 2 | Catcher Luanne | 35
-2 | Celebeartions | 60
+2 | Celebeartions | 100
 2 | Censor Stan
 2 | Charts and Graphs | 20
 2 | Cheerleader Peggy | 80
@@ -317,11 +318,10 @@
 2 | Hank Hill, Running Back | 95
 2 | High School Bill
 2 | Hip Hop Bob | 85
-2 | Homecoming King Chris | 15
+2 | Homecoming King Chris | 100
 2 | Horse Rider Tina
 2 | Hose to the Head
 2 | Hot Cocoa Gene | 50
-2 | Hot Cocoa Tina
 2 | Hottyz Bill | 30
 2 | Hottyz Luanne
 2 | Humplings | 70
@@ -396,7 +396,7 @@
 2 | Serious Runner Brian | 50
 2 | Sexy Dance Fighting
 2 | Sleighing Tonight
-2 | Slip 'n Slide Bob | 60
+2 | Slip 'n Slide Bob | 100
 2 | Slow Dance Jimmy Jr. | 10
 2 | Softball Lois | 100
 2 | Space Cadet Chris | 70
@@ -519,6 +519,7 @@
 1 | Mr. Deliver | 125
 1 | Never Have I Ever | 80
 1 | Old Steve | 30
+1 | Online Advice | 130
 1 | Owl Stewie | 5
 1 | Paintball Boomhauer | 125
 1 | Party Beer Implant | 5
@@ -580,6 +581,7 @@
 0 | Reverse Stink Hold | 130
 0 | Prince Faisal | 130
 0 | Nun Francine | 130
+0 | Mount Toy Gene | 130
 0 | Money Retriever | 130
 0 | Maxi Paddy | 130
 0 | Maracas Peter | 130
@@ -588,6 +590,8 @@
 0 | Laser Tag Quagmire | 130
 0 | Krav Maga Dale | 130
 0 | Gut Punch Zapp | 130
+0 | Green Beer | 130
+0 | Farnsworth's Cat | 130
 0 | Evening Beer Boomhauer | 130
 0 | Ecstacy Francine | 130
 0 | DJ Klaus | 130
@@ -663,6 +667,7 @@
 0 | One Eyed Orphan | 35
 0 | Drum Solo Quagmire | 35
 0 | American Giggolo | 35
+0 | Xerxes the Falcon | 30
 0 | Workout Klaus | 30
 0 | Withdrawal Steve | 30
 0 | Tweaker Peter | 30
@@ -697,6 +702,7 @@
 0 | Dodgeball Louise | 30
 0 | Cinderella Lois | 30
 0 | Christian Rock | 30
+0 | Chest Harpoon | 30
 0 | Butt Closet | 30
 0 | Boy Tina | 30
 0 | Bob in the Wall | 30
@@ -710,8 +716,8 @@
 0 | Douchebag Chris | 25
 0 | Delivery Marmoset | 25
 0 | Sister Peter | 20
+0 | Rabid Dale | 20
 0 | Betting it All | 20
-0 | Rabid Dale | 15
 0 | Wheels Steve | 10
 0 | Sower of Revenge | 10
 0 | Sniper Stewie | 10
@@ -728,4 +734,4 @@
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
 0 | Bobsled Hermes | 5
-314500 | Mastery Stone
+382800 | Mastery Stone
