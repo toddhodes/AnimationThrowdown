@@ -1,5 +1,6 @@
 3 | 5 AM Wine
 3 | Action Delivery Force Hermes
+3 | Adrenaline Steve
 3 | Angry Bullock
 3 | Another Lousy Millenium
 3 | Antique Robots
@@ -99,6 +100,7 @@
 3 | Ghost Boomhauer
 3 | Gingerbread Sculptor
 3 | Good Boy Witch Snot
+3 | Green Beer | 5
 3 | Hail Science!
 3 | Half Dog Gene
 3 | Hangover Nightmare
@@ -152,6 +154,7 @@
 3 | Oktoberfest Hermes
 3 | Oktoberfest Leela
 3 | One Man Musical
+3 | Online Advice | 5
 3 | Opera Francine
 3 | Organ Hermes
 3 | Painting Class Joe
@@ -164,6 +167,7 @@
 3 | Peter with a Knife
 3 | PhD Amy
 3 | PhD Peggy
+3 | Pie Addict Chris
 3 | Pigeon Bill
 3 | Pointillism
 3 | Pool Shark
@@ -379,6 +383,7 @@
 2 | Prom Beer Joe | 85
 2 | Prom Luanne | 10
 2 | Propane Sculpture | 20
+2 | Psych Meds
 2 | Q.T. McWhiskers | 70
 2 | QB Boomhauer | 60
 2 | Rapture Stan | 55
@@ -519,14 +524,12 @@
 1 | Mr. Deliver | 125
 1 | Never Have I Ever | 80
 1 | Old Steve | 30
-1 | Online Advice | 130
 1 | Owl Stewie | 5
 1 | Paintball Boomhauer | 125
 1 | Party Beer Implant | 5
 1 | Playlist Meg
 1 | Polling Peggy | 55
 1 | Poppler Jingle Fry | 20
-1 | Psych Meds | 125
 1 | Quicky Kiss-it | 55
 1 | RC Helicopter | 5
 1 | Raleigh St. Augustine | 125
@@ -590,7 +593,6 @@
 0 | Laser Tag Quagmire | 130
 0 | Krav Maga Dale | 130
 0 | Gut Punch Zapp | 130
-0 | Green Beer | 130
 0 | Farnsworth's Cat | 130
 0 | Evening Beer Boomhauer | 130
 0 | Ecstacy Francine | 130
@@ -634,7 +636,6 @@
 0 | Vengeance Quagmire | 70
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
-0 | Meg's Evil Monkey | 70
 0 | I Get What I Want | 70
 0 | Top of the Pecking Order | 65
 0 | Paranoid Louise | 65
@@ -653,7 +654,6 @@
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
 0 | Bong Rips Francine | 50
-0 | Space Pistol Fry | 45
 0 | Football Stewie | 45
 0 | Young Hermes | 40
 0 | Swimmer Tina | 40
@@ -680,6 +680,7 @@
 0 | Sharpshooter Bobby | 30
 0 | Sexy Cowardly Lion Stan | 30
 0 | Sex Ed Teacher | 30
+0 | Secret Beer Dale | 30
 0 | Screwdrive Chris | 30
 0 | Roller Skate Peter | 30
 0 | Rocker Bullock | 30
@@ -713,11 +714,13 @@
 0 | Tractor Boy | 25
 0 | Soccer Chris | 25
 0 | King Roger | 25
-0 | Douchebag Chris | 25
 0 | Delivery Marmoset | 25
 0 | Sister Peter | 20
 0 | Rabid Dale | 20
+0 | Horse Whisperer Joe | 20
 0 | Betting it All | 20
+0 | Basketball Joe | 20
+0 | Crime Addict Joe | 15
 0 | Wheels Steve | 10
 0 | Sower of Revenge | 10
 0 | Sniper Stewie | 10
@@ -725,7 +728,6 @@
 0 | Scooty-Puff Jr | 10
 0 | Nude Painting Bullock | 10
 0 | Model Builder Roger | 10
-0 | Horse Whisperer Joe | 10
 0 | Fowl Fighter Linda | 10
 0 | Dodgeball Meg | 10
 0 | Cheerleader Lois | 10
@@ -734,4 +736,4 @@
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
 0 | Bobsled Hermes | 5
-387300 | Mastery Stone
+410600 | Mastery Stone
