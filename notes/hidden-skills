@@ -1,0 +1,33 @@
+
+		<short_desc>Scorch {x}</short_desc>
+      <desc>Attacked enemy card takes {x} additional damage after each of their turns. This damage stacks with any Scorch damage already applied to a card.</desc>
+
+		<short_desc>Empower {x}</short_desc>
+      <desc>Increases attack of a random friendly {y} card by {x} for a turn. This skill can target itself.</desc>
+
+		<short_desc>Gas Punch {x}</short_desc>
+      <desc>A random enemy {y} card takes {x} damage, and {x} Gas is applied to the enemy card if the Punch deals damage.</desc>
+
+		<short_desc>Fortification {x}</short_desc>
+		<desc>Blocks {x} damage when attacked to this card and adjacent allies. Uses the highest Fortification available.</desc>
+
+		<short_desc>Rupture {x}</short_desc>
+		<desc>Half of {x} rounded up is added to this card's attack value.</desc>
+
+		<short_desc>Awaken {x}</short_desc>
+      <desc>Increases attack of a random friendly {y} card by {x} permanently. Only targets cards that have not attacked this turn.</desc>
+
+		<short_desc>Gas Jab {x}</short_desc>
+		<desc>Reduces effects that prevent damage by {x} when attacking and applies {x} Gas to the enemy card when damage is dealt.</desc>
+
+		<short_desc>Shrapnel Jab {x}</short_desc>
+		<desc>Reduces effects that prevent damage by {x} when attacking and deal {x} damage to {y} enemies adjacent to the one this attacks.</desc>
+
+		<short_desc>Energize {x}</short_desc>
+		<desc>This card and adjacent cards get +{x} attack whenever you play a combo.</desc>
+
+		<short_desc>Vitalize {x}</short_desc>
+		<desc>This card and adjacent cards get +{x} max health whenever you play a combo</desc>
+
+		<short_desc>Heal {x}</short_desc>
+      <desc>The effects of Punch and Heal are swapped.</desc>
