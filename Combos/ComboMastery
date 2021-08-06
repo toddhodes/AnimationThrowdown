@@ -42,6 +42,7 @@
 3 | Chick-Chicken Chick Fight
 3 | Christmas Punchout
 3 | Christmas Trap
+3 | Chunky Blast Offs
 3 | Cigarette Addicts
 3 | Class Spanker
 3 | Claw-Plach Fry
@@ -112,6 +113,7 @@
 3 | High School Linda
 3 | Home Ec Teacher
 3 | Hot Cocoa Tina
+3 | Ice Cream Gene
 3 | Jacuzzi Drinks Hank
 3 | Jealous Bobby
 3 | Jose Servo
@@ -177,6 +179,7 @@
 3 | Power Choir Roger
 3 | Prince Charming Peter
 3 | Princess Little Piddles
+3 | Psych Meds
 3 | QB Quagmire
 3 | Rapper Klaus
 3 | Red Rodriguez 2 Real
@@ -261,6 +264,7 @@
 2 | Bender's Orphanarium | 60
 2 | Bible Study | 35
 2 | Blueberry Picker | 95
+2 | Bong Rips Francine | 45
 2 | Boy Crazy | 25
 2 | Buff Fry
 2 | Burgers and Fries Louise | 20
@@ -279,8 +283,8 @@
 2 | Children's Author | 90
 2 | Chosen Brain Fry
 2 | Chris Painting
-2 | Chunky Blast Offs
 2 | Church Wine Drunk | 55
+2 | Cigar Stan | 15
 2 | Claw Machine | 20
 2 | Clothes Made of Cash | 20
 2 | Cloud Painter | 100
@@ -303,6 +307,7 @@
 2 | Drunk at the Clam
 2 | Duke
 2 | Dummy Fight | 20
+2 | Eugenia Chatterteeth | 10
 2 | Eyephone Fry | 100
 2 | Fake Son Gene | 90
 2 | Falcon Attack Quagmire | 70
@@ -317,6 +322,7 @@
 2 | Golf Club Amy
 2 | Golfer Amy
 2 | Greaser Stan | 95
+2 | Groovy Fry
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
 2 | Hank Hill, Running Back | 95
@@ -337,7 +343,7 @@
 2 | Karaoke Zapp | 85
 2 | Karate Snot
 2 | Karate Stewie
-2 | Katz | 25
+2 | Katz | 35
 2 | Kawaii Klaus | 95
 2 | Klaus's Fish Wife | 20
 2 | Klepto Bender
@@ -350,7 +356,7 @@
 2 | Lobster Wedding | 60
 2 | Louise Chatterteeth | 60
 2 | Lounge Singer Hayley | 100
-2 | Marionette Chris | 75
+2 | Marionette Chris | 100
 2 | Marionette Louise | 20
 2 | Meg Meggy Meg | 5
 2 | Meg Portrait | 100
@@ -383,7 +389,6 @@
 2 | Prom Beer Joe | 85
 2 | Prom Luanne | 10
 2 | Propane Sculpture | 20
-2 | Psych Meds
 2 | Q.T. McWhiskers | 70
 2 | QB Boomhauer | 60
 2 | Rapture Stan | 55
@@ -494,7 +499,6 @@
 1 | Garden Shovel Bobby | 50
 1 | Gargoyle Hunter | 5
 1 | Griffin and Quagmire | 5
-1 | Groovy Fry | 125
 1 | Groupie Francine | 25
 1 | Guenter | 30
 1 | Half-Horse Peter | 55
@@ -634,6 +638,7 @@
 0 | Fried Chick | 75
 0 | Zinc Saucier | 70
 0 | Vengeance Quagmire | 70
+0 | Topped Off Wine | 70
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
 0 | I Get What I Want | 70
@@ -644,6 +649,7 @@
 0 | Solid Gold Tuxedo | 60
 0 | Sex Ed Peter | 60
 0 | Oktoberfest Amy | 60
+0 | Male Leela | 60
 0 | Line Dancer Amy | 60
 0 | History Test Chris | 60
 0 | Flying Machine Stewie | 60
@@ -653,16 +659,14 @@
 0 | Steve Crossing the Alps | 50
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
-0 | Bong Rips Francine | 50
 0 | Football Stewie | 45
 0 | Young Hermes | 40
+0 | Texting Addict Stan | 40
 0 | Swimmer Tina | 40
 0 | Roller Derby Luanne | 40
 0 | Pick Up Lines | 40
 0 | Perfectly Symmetrical Violence | 40
 0 | Oktoberfest Fry | 40
-0 | Male Leela | 40
-0 | Eugenia Chatterteeth | 40
 0 | Painter Francine | 35
 0 | One Eyed Orphan | 35
 0 | Drum Solo Quagmire | 35
@@ -671,7 +675,6 @@
 0 | Workout Klaus | 30
 0 | Withdrawal Steve | 30
 0 | Tweaker Peter | 30
-0 | Topped Off Wine | 30
 0 | Stevie Wonderbra | 30
 0 | Stan's Grill | 30
 0 | Squirrel Suit Hayley | 30
@@ -715,8 +718,10 @@
 0 | Soccer Chris | 25
 0 | King Roger | 25
 0 | Delivery Marmoset | 25
+0 | Treasure Hunter Peter | 20
 0 | Sister Peter | 20
 0 | Rabid Dale | 20
+0 | Knitting Peter | 20
 0 | Horse Whisperer Joe | 20
 0 | Betting it All | 20
 0 | Basketball Joe | 20
@@ -731,9 +736,11 @@
 0 | Fowl Fighter Linda | 10
 0 | Dodgeball Meg | 10
 0 | Cheerleader Lois | 10
+0 | Rich Dress Leela | 5
 0 | Photographer Bender | 5
+0 | Old Timey Boxer Peter | 5
 0 | Nigerian Prince | 5
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
 0 | Bobsled Hermes | 5
-410600 | Mastery Stone
+446400 | Mastery Stone
