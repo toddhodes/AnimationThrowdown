@@ -74356,6 +74356,124 @@
 		<skill id="berserk" x="8"/>
 	</upgrade>
 </unit>
+<unit>
+	<id>50112</id>
+	<name>Salad Shooter</name>
+	<picture>FR_SaladShooter</picture>
+	<asset_bundle>44</asset_bundle>
+	<release_time>1628704800</release_time>
+	<attack>7</attack>
+	<health>45</health>
+	<rarity>4</rarity>
+	<skill id="armored" x="5"/>
+	<skill id="healall" x="3" y="armed"/>
+	<skill id="poison" x="6"/>
+	<type>5</type>
+	<trait>armed</trait>
+	<set>3</set>
+	<upgrade>
+		<level>2</level>
+		<health>46</health>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<attack>8</attack>
+		<health>47</health>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>48</health>
+		<skill id="armored" x="5"/>
+		<skill id="healall" x="3" y="armed"/>
+		<skill id="poison" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<attack>9</attack>
+		<skill id="armored" x="6"/>
+		<skill id="healall" x="3" y="armed"/>
+		<skill id="poison" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>49</health>
+		<skill id="armored" x="6"/>
+		<skill id="healall" x="4" y="armed"/>
+		<skill id="poison" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<skill id="armored" x="6"/>
+		<skill id="healall" x="4" y="armed"/>
+		<skill id="poison" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>50</health>
+		<attack>10</attack>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>51</health>
+		<skill id="armored" x="6"/>
+		<skill id="healall" x="4" y="armed"/>
+		<skill id="poison" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>52</health>
+		<skill id="armored" x="7"/>
+		<skill id="healall" x="4" y="armed"/>
+		<skill id="poison" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<attack>11</attack>
+		<health>53</health>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<skill id="armored" x="7"/>
+		<skill id="healall" x="5" y="armed"/>
+		<skill id="poison" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>54</health>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<attack>12</attack>
+		<skill id="armored" x="8"/>
+		<skill id="healall" x="5" y="armed"/>
+		<skill id="poison" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>55</health>
+		<skill id="armored" x="8"/>
+		<skill id="healall" x="5" y="armed"/>
+		<skill id="poison" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>56</health>
+		<attack>13</attack>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>57</health>
+		<skill id="armored" x="8"/>
+		<skill id="healall" x="6" y="armed"/>
+		<skill id="poison" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<skill id="armored" x="9"/>
+		<skill id="healall" x="6" y="armed"/>
+		<skill id="poison" x="12"/>
+	</upgrade>
+</unit>
 	
 	 
 	<!-- end futurama input -->
@@ -80384,6 +80502,7 @@
 	  <asset_bundle>10</asset_bundle>
 	  <rarity>3</rarity>
 	  <set>3001</set>
+	  <trait>artistic</trait>
 	  <type>4</type>
 	  <skill id="inspire" x="2"/>
 	  <skill id="weakenall" x="1"/>
