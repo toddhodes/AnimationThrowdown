@@ -102,6 +102,7 @@
 3 | Gingerbread Sculptor
 3 | Good Boy Witch Snot
 3 | Green Beer | 5
+3 | Groovy Fry
 3 | Hail Science!
 3 | Half Dog Gene
 3 | Hangover Nightmare
@@ -264,7 +265,7 @@
 2 | Bender's Orphanarium | 60
 2 | Bible Study | 35
 2 | Blueberry Picker | 95
-2 | Bong Rips Francine | 45
+2 | Bong Rips Francine | 75
 2 | Boy Crazy | 25
 2 | Buff Fry
 2 | Burgers and Fries Louise | 20
@@ -322,7 +323,6 @@
 2 | Golf Club Amy
 2 | Golfer Amy
 2 | Greaser Stan | 95
-2 | Groovy Fry
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
 2 | Hank Hill, Running Back | 95
@@ -439,7 +439,7 @@
 2 | Umbriel | 100
 2 | Upgraded Hermes | 10
 2 | Victory Dance | 40
-2 | Video Game Leela | 10
+2 | Video Game Leela | 100
 2 | Walkman Boomhauer
 2 | Water Nympho
 2 | Wedding Luanne | 10
@@ -479,6 +479,7 @@
 1 | Cough Syrup Drunk | 50
 1 | Cowpoke | 45
 1 | Crayon Drawing | 125
+1 | Crime Addict Joe | 10
 1 | DJ Buttercup | 120
 1 | Dog Bone Stan | 5
 1 | Dog Lois | 90
@@ -487,7 +488,7 @@
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
 1 | Empty Bowl Painting | 5
-1 | Evil Stepsister Stewie | 5
+1 | Evil Stepsister Stewie | 125
 1 | Evil Stepsister | 120
 1 | Family Fracas | 10
 1 | Farnsworth on Skiis | 125
@@ -496,7 +497,7 @@
 1 | Freezerdome Linda | 35
 1 | Frydo | 5
 1 | Frykowski | 85
-1 | Garden Shovel Bobby | 50
+1 | Garden Shovel Bobby | 55
 1 | Gargoyle Hunter | 5
 1 | Griffin and Quagmire | 5
 1 | Groupie Francine | 25
@@ -523,7 +524,7 @@
 1 | Medieval Hank | 5
 1 | Meg's In Charge | 10
 1 | Model Lois | 5
-1 | Motivational Poster
+1 | Motivational Poster | 30
 1 | Mount Toy Louise | 20
 1 | Mr. Deliver | 125
 1 | Never Have I Ever | 80
@@ -559,7 +560,7 @@
 1 | Snake Hunter | 50
 1 | Space Queen | 95
 1 | Spin Out Louise | 125
-1 | Spirit Bird | 105
+1 | Spirit Bird | 115
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
 1 | Swim Teacher Bob | 90
@@ -581,7 +582,6 @@
 0 | Sexy Lifeguard | 130
 0 | Sexy Cat | 130
 0 | Screen Repairer | 130
-0 | Santa Addict Meg | 130
 0 | Robot House | 130
 0 | Robot Arms Bender | 130
 0 | Rich Bobby | 130
@@ -599,7 +599,9 @@
 0 | Gut Punch Zapp | 130
 0 | Farnsworth's Cat | 130
 0 | Evening Beer Boomhauer | 130
+0 | Elf Fight Francine | 130
 0 | Ecstacy Francine | 130
+0 | Douchebag Chris | 130
 0 | DJ Klaus | 130
 0 | Cubert Farnsworth | 130
 0 | Bouldering Bob | 130
@@ -707,6 +709,8 @@
 0 | Cinderella Lois | 30
 0 | Christian Rock | 30
 0 | Chest Harpoon | 30
+0 | Chainsaw Spider | 30
+0 | Captain Feathers | 30
 0 | Butt Closet | 30
 0 | Boy Tina | 30
 0 | Bob in the Wall | 30
@@ -725,8 +729,10 @@
 0 | Horse Whisperer Joe | 20
 0 | Betting it All | 20
 0 | Basketball Joe | 20
-0 | Crime Addict Joe | 15
+0 | Steak Addict Bobby | 15
+0 | Poppler Addict Leela | 15
 0 | Wheels Steve | 10
+0 | Swing Dance Bobby | 10
 0 | Sower of Revenge | 10
 0 | Sniper Stewie | 10
 0 | Secret Asian Man | 10
@@ -736,6 +742,7 @@
 0 | Fowl Fighter Linda | 10
 0 | Dodgeball Meg | 10
 0 | Cheerleader Lois | 10
+0 | Trippy Farnsworth | 5
 0 | Rich Dress Leela | 5
 0 | Photographer Bender | 5
 0 | Old Timey Boxer Peter | 5
@@ -743,4 +750,4 @@
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
 0 | Bobsled Hermes | 5
-446400 | Mastery Stone
+384750 | Mastery Stone
