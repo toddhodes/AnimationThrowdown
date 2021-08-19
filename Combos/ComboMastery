@@ -190,6 +190,7 @@
 3 | Rodeo Bobby
 3 | Roller Skating Ballad Gene
 3 | Rooftop Drunk
+3 | Santa Addict Meg
 3 | Santa Bill
 3 | Santa Killer Hayley
 3 | Santa Killer Steve
@@ -253,7 +254,7 @@
 2 | Bacon Weight | 55
 2 | Bad Tina | 100
 2 | Bakaneko Fighter Louise
-2 | Balloon Fight | 70
+2 | Balloon Fight | 95
 2 | Balloon Sniper | 100
 2 | Balloon Tosser | 95
 2 | Bamboo Boogie Boots Hermes | 50
@@ -308,7 +309,7 @@
 2 | Drunk at the Clam
 2 | Duke
 2 | Dummy Fight | 20
-2 | Eugenia Chatterteeth | 10
+2 | Eugenia Chatterteeth | 30
 2 | Eyephone Fry | 100
 2 | Fake Son Gene | 90
 2 | Falcon Attack Quagmire | 70
@@ -399,6 +400,7 @@
 2 | Rough Night Stan | 30
 2 | S and M Lois | 65
 2 | S and M Peter | 100
+2 | Sailing Addict Linda
 2 | Salmon Fry | 40
 2 | Sandwitch | 75
 2 | Scientific Rivals
@@ -410,6 +412,7 @@
 2 | Slow Dance Jimmy Jr. | 10
 2 | Softball Lois | 100
 2 | Space Cadet Chris | 70
+2 | Space Pistol Fry
 2 | Space Stan | 60
 2 | Space Steve | 100
 2 | Spray Painter | 70
@@ -475,7 +478,7 @@
 1 | Cake Knife | 20
 1 | Chamber of Understanding | 125
 1 | Congo Jack | 5
-1 | Conventional Turkey Gene | 10
+1 | Conventional Turkey Gene | 55
 1 | Cough Syrup Drunk | 50
 1 | Cowpoke | 45
 1 | Crayon Drawing | 125
@@ -534,6 +537,7 @@
 1 | Party Beer Implant | 5
 1 | Playlist Meg
 1 | Polling Peggy | 55
+1 | Poppler Addict Leela | 10
 1 | Poppler Jingle Fry | 20
 1 | Quicky Kiss-it | 55
 1 | RC Helicopter | 5
@@ -561,6 +565,7 @@
 1 | Space Queen | 95
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 115
+1 | Steak Addict Bobby | 10
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
 1 | Swim Teacher Bob | 90
@@ -686,7 +691,6 @@
 0 | Sexy Cowardly Lion Stan | 30
 0 | Sex Ed Teacher | 30
 0 | Secret Beer Dale | 30
-0 | Screwdrive Chris | 30
 0 | Roller Skate Peter | 30
 0 | Rocker Bullock | 30
 0 | Rich Francine | 30
@@ -729,8 +733,6 @@
 0 | Horse Whisperer Joe | 20
 0 | Betting it All | 20
 0 | Basketball Joe | 20
-0 | Steak Addict Bobby | 15
-0 | Poppler Addict Leela | 15
 0 | Wheels Steve | 10
 0 | Swing Dance Bobby | 10
 0 | Sower of Revenge | 10
@@ -750,4 +752,4 @@
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
 0 | Bobsled Hermes | 5
-384750 | Mastery Stone
+384050 | Mastery Stone
