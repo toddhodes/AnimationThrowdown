@@ -123,6 +123,7 @@
   10 L Body Builder Stan: 6**
    1 L Boggle Contraband: 2*
    3 L Boggle Contraband: 6**
+   5 L Bomb to Kingdom Come: 6**
    1 L Bong Rips Francine: 1
    1 L Bong Rips Francine: 2*
    9 L Book of Spells: 6**
@@ -273,7 +274,7 @@
   12 L Drunk Bullock: 6**
    2 L Drunk Francine: 6**
    1 L Drunk at the Clam: 6**
-   1 L Earl's Guitars: 1
+   1 L Earl's Guitars: 2*
    7 L Earl's Guitars: 6**
    1 L Ecstacy Francine: 6
    1 L Eggnog Roger: 1
@@ -319,8 +320,7 @@
    1 L Food Addict Leela: 1
   18 L Food Addict Leela: 6**
    1 L Food-O-Matic Martinis: 1
-   1 L Food-O-Matic Martinis: 2*
-   3 L Food-O-Matic Martinis: 6**
+   4 L Food-O-Matic Martinis: 6**
    5 L Forger's Equipment: 6**
    9 L Francine Smith: 6**
    2 L Frat Boy Terrorists: 6**
@@ -332,6 +332,9 @@
    9 L Furry Convention: 6**
    1 L Garden Dance Bob: 1
    1 L Garden Dance Bob: 6**
+   1 L Garden Hose: 2*
+   5 L Garden Hose: 6**
+   9 L Garden Shovel Peggy: 6**
    1 L Ghost Boy: 1
    8 L Ghost Boy: 6**
    1 L Giant Pandas: 1
@@ -373,8 +376,7 @@
    9 L Hayley: 6**
    9 L Headmistress Mahoney: 6**
    1 L Heat Packing Priest: 1
-   1 L Heat Packing Priest: 2*
-   2 L Heat Packing Priest: 6**
+   3 L Heat Packing Priest: 6**
    1 L Heavy Metal Hayley: 1
    1 L Heavy Metal Hayley: 2*
    6 L Heavy Metal Hayley: 6**
@@ -495,8 +497,7 @@
    1 L Let's Go Fart: 2*
   22 L Let's Go Fart: 6**
    1 L Lightspeed Briefs: 1
-   1 L Lightspeed Briefs: 2*
-   2 L Lightspeed Briefs: 6**
+   3 L Lightspeed Briefs: 6**
   10 L Limo Bob: 6**
    8 L Limo Ride: 6**
   10 L Linda Belcher: 6**
@@ -596,8 +597,7 @@
    5 L New Brian: 6**
    6 L New England Beaches: 6**
    6 L Nibbler on the Roof: 6**
-   1 L No Mercy Dojo: 2*
-   2 L No Mercy Dojo: 6**
+   3 L No Mercy Dojo: 6**
    1 L Nun Linda: 2*
    2 L Nun Linda: 6**
    1 L Nun Peggy: 2*
@@ -631,7 +631,8 @@
    8 L Pendlingtonton Academy: 6**
    5 L Perfect Xmas Tree: 6**
    9 L Personalized Beer Mug: 6**
-  13 L Peter with a Knife: 6**
+   1 L Peter with a Knife: 2*
+  17 L Peter with a Knife: 6**
    8 L Peter's Drawing: 6**
    9 L Peter: 6**
    9 L Pewterschmidt Mansion: 6**
@@ -711,8 +712,7 @@
    1 L Rodeo Bobby: 2*
    1 L Rodeo Bobby: 6**
    5 L Roger Epstein Music: 6**
-   1 L Roger's Closet: 1
-   8 L Roger's Closet: 6**
+   9 L Roger's Closet: 6**
    9 L Roger's Sexy Shorts: 6**
    9 L Roger: 6**
    1 L Roller Disco Courtney: 2*
@@ -758,7 +758,7 @@
    8 L Ski Mask: 6**
    8 L Skiing Leela: 6**
    3 L Sledding Gene: 6**
-   1 L Sledding Jesus: 1
+   1 L Sledding Jesus: 2*
    6 L Sledding Jesus: 6**
    1 L Sledding Louise: 1
    6 L Sledding Louise: 6**
@@ -826,6 +826,7 @@
    1 L Swole Francine: 1
    1 L Swole Francine: 2*
   11 L Swole Joe: 6**
+   1 L Synchronized Swimming: 2*
    5 L Synchronized Swimming: 6**
    1 L Tae-Jitsu Bonnie: 1
    4 L Tae-Jitsu Bonnie: 6**
@@ -836,7 +837,7 @@
    3 L Tattoo Parlor: 6**
    1 L Tea Kettle Mountain: 1
    1 L Teddy's Crush: 6**
-   1 L Teddy: 1
+   1 L Teddy: 6*
    8 L Teddy: 6**
   11 L Teen LaQueefa: 6**
    1 L Terrestrial Cycling: 2*
@@ -924,8 +925,7 @@
    8 L Wood Chuck: 6**
    9 L Wooly Neptunes: 6**
    1 L Wozniak Nerd Academy: 1
-   1 L Wozniak Nerd Academy: 2*
-   6 L Wozniak Nerd Academy: 6**
+   7 L Wozniak Nerd Academy: 6**
    1 L Yacht Dreams: 6**
    1 L Zapp Brannigan Portrait: 2*
    6 L Zapp Brannigan Portrait: 6**
@@ -966,7 +966,7 @@
    1 M Hermes: 5*
    1 M Hypnotoad: 4*
    1 M Jimmy Jr.: 7**
-   1 M Joe Swanson: 5**
+   1 M Joe Swanson: 6**
    1 M Karaoke Principal: 2*
    1 M Kiki: 7
    1 M Klaus: 7*

@@ -9,8 +9,10 @@
 3 | Art of War
 3 | Arts and Crafts Bob
 3 | Ass-Kicker Hank
+3 | Assassin Bender
 3 | Badminton Roger
 3 | Ballet Meg
+3 | Balloon Fight
 3 | Baseball Beers
 3 | Baseball Chris
 3 | Bedtime Doll Hayley
@@ -91,6 +93,7 @@
 3 | Food Addict Leela
 3 | Fowl Fighter Teddy
 3 | Free Weed Hayley
+3 | Freezer Burn
 3 | Freezerdome Gene
 3 | Fry in Robot Disguise
 3 | Fry's Painting
@@ -98,6 +101,7 @@
 3 | Gaga Ball
 3 | Garage Rock Chris
 3 | Garden Dance Bob
+3 | Garden Shovel Peggy
 3 | Ghost Boomhauer
 3 | Gingerbread Sculptor
 3 | Good Boy Witch Snot
@@ -208,6 +212,7 @@
 3 | Softball Dale
 3 | Solo Party
 3 | Space Honey
+3 | Space Pistol Fry
 3 | Sportsfan Joe
 3 | Steak Cows
 3 | Stewie's Tricycle
@@ -254,7 +259,6 @@
 2 | Bacon Weight | 55
 2 | Bad Tina | 100
 2 | Bakaneko Fighter Louise
-2 | Balloon Fight | 95
 2 | Balloon Sniper | 100
 2 | Balloon Tosser | 95
 2 | Bamboo Boogie Boots Hermes | 50
@@ -315,7 +319,6 @@
 2 | Falcon Attack Quagmire | 70
 2 | Falconer Hayley | 35
 2 | Finch Leela | 10
-2 | Freezer Burn | 100
 2 | Fry's Macaroni Art | 30
 2 | Garbage Shot Linda | 60
 2 | Gatsby Brian
@@ -324,6 +327,7 @@
 2 | Golf Club Amy
 2 | Golfer Amy
 2 | Greaser Stan | 95
+2 | Grenade Amy | 85
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
 2 | Hank Hill, Running Back | 95
@@ -412,7 +416,6 @@
 2 | Slow Dance Jimmy Jr. | 10
 2 | Softball Lois | 100
 2 | Space Cadet Chris | 70
-2 | Space Pistol Fry
 2 | Space Stan | 60
 2 | Space Steve | 100
 2 | Spray Painter | 70
@@ -462,7 +465,6 @@
 1 | Anger Management Class | 80
 1 | Appetizer Addict Brian | 10
 1 | Artsy Tina | 5
-1 | Assassin Bender | 125
 1 | Baseball Dale | 25
 1 | Battle Axe Peggy | 5
 1 | Belcher Date Night | 115
@@ -576,7 +578,7 @@
 1 | Tina Tackle | 5
 1 | Toga Bill | 5
 1 | Torah Snot | 20
-1 | Victorian Knife Lois | 125
+1 | Victorian Knife Lois | 100
 1 | Water Polo Steve | 5
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
@@ -644,11 +646,13 @@
 0 | Martini Peggy | 75
 0 | Fried Chick | 75
 0 | Zinc Saucier | 70
+0 | Wheels Steve | 70
 0 | Vengeance Quagmire | 70
 0 | Topped Off Wine | 70
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
 0 | I Get What I Want | 70
+0 | Tranq Gun Steve | 65
 0 | Top of the Pecking Order | 65
 0 | Paranoid Louise | 65
 0 | Cat Dragon | 65
@@ -733,7 +737,6 @@
 0 | Horse Whisperer Joe | 20
 0 | Betting it All | 20
 0 | Basketball Joe | 20
-0 | Wheels Steve | 10
 0 | Swing Dance Bobby | 10
 0 | Sower of Revenge | 10
 0 | Sniper Stewie | 10
@@ -752,4 +755,4 @@
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
 0 | Bobsled Hermes | 5
-384050 | Mastery Stone
+410600 | Mastery Stone
