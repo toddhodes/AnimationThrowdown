@@ -13,6 +13,7 @@
 3 | Badminton Roger
 3 | Ballet Meg
 3 | Balloon Fight
+3 | Balloon Tosser
 3 | Baseball Beers
 3 | Baseball Chris
 3 | Bedtime Doll Hayley
@@ -260,7 +261,6 @@
 2 | Bad Tina | 100
 2 | Bakaneko Fighter Louise
 2 | Balloon Sniper | 100
-2 | Balloon Tosser | 95
 2 | Bamboo Boogie Boots Hermes | 50
 2 | Baseball Bobby | 15
 2 | Beer Bottle Toast | 10
@@ -415,7 +415,7 @@
 2 | Sexy Dance Fighting
 2 | Sleighing Tonight
 2 | Slip 'n Slide Bob | 100
-2 | Slow Dance Jimmy Jr. | 10
+2 | Slow Dance Jimmy Jr. | 25
 2 | Softball Lois | 100
 2 | Space Cadet Chris | 70
 2 | Space Stan | 60
@@ -430,6 +430,7 @@
 2 | Summer Guy | 70
 2 | Super Dance Squad
 2 | Survival Crafter Hank
+2 | Swim Lesson | 20
 2 | Swing Dance Luanne | 90
 2 | Swole Amy | 5
 2 | Tattooed Fat Guy | 30
@@ -499,14 +500,14 @@
 1 | Empty Bowl Painting | 5
 1 | Evil Stepsister Stewie | 125
 1 | Evil Stepsister | 120
-1 | Family Fracas | 10
+1 | Family Fracas | 35
 1 | Farnsworth on Skiis | 125
 1 | Finch Hermes | 125
 1 | Flag Defender | 125
 1 | Freezerdome Linda | 35
 1 | Frydo | 5
 1 | Frykowski | 85
-1 | Garden Shovel Bobby | 55
+1 | Garden Shovel Bobby | 115
 1 | Gargoyle Hunter | 5
 1 | Griffin and Quagmire | 5
 1 | Groupie Francine | 25
@@ -538,8 +539,10 @@
 1 | Mr. Deliver | 125
 1 | Never Have I Ever | 80
 1 | Old Steve | 30
+1 | Old Timey Boxer Peter | 120
 1 | Owl Stewie | 5
 1 | Paintball Boomhauer | 125
+1 | Paintball Dale | 10
 1 | Party Beer Implant | 5
 1 | Playlist Meg
 1 | Polling Peggy | 55
@@ -574,7 +577,6 @@
 1 | Steak Addict Bobby | 10
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
-1 | Swim Lesson | 20
 1 | Swim Teacher Bob | 90
 1 | Sword Fighter Francine | 5
 1 | Taxidermy Artist | 5
@@ -583,7 +585,6 @@
 1 | Tina Tackle | 5
 1 | Toga Bill | 5
 1 | Torah Snot | 20
-1 | Victorian Knife Lois | 100
 1 | Water Polo Steve | 5
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
@@ -606,7 +607,6 @@
 0 | Maracas Peter | 130
 0 | Love Potion | 130
 0 | Last Minute Shopper Brian | 130
-0 | Laser Tag Quagmire | 130
 0 | Krav Maga Dale | 130
 0 | Gut Punch Zapp | 130
 0 | Farnsworth's Cat | 130
@@ -621,7 +621,6 @@
 0 | Big Bad Brian | 130
 0 | Beefsquatch | 130
 0 | Armadillo Boomhauer | 130
-0 | Old Timey Boxer Peter | 125
 0 | Keyboard Joe | 125
 0 | Ancient Cave Writing | 125
 0 | Too High to Drive | 120
@@ -670,6 +669,7 @@
 0 | Line Dancer Amy | 60
 0 | History Test Chris | 60
 0 | Flying Machine Stewie | 60
+0 | Doomsday Surplus | 60
 0 | Chris's Favorite Chicken | 60
 0 | Baby Bender | 60
 0 | Summer Lovin | 55
@@ -752,6 +752,7 @@
 0 | Model Builder Roger | 10
 0 | Fowl Fighter Linda | 10
 0 | Dodgeball Meg | 10
+0 | Cyclist Peggy | 10
 0 | Cheerleader Lois | 10
 0 | Trippy Farnsworth | 5
 0 | Rich Dress Leela | 5
@@ -760,4 +761,4 @@
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
 0 | Bobsled Hermes | 5
-414200 | Mastery Stone
+433550 | Mastery Stone
