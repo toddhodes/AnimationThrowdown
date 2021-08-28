@@ -9,6 +9,7 @@
 choose 11-14:
    7 L Postal Lois: 6**
    7 L Fever Dreams: 6**
+   3 L Hail Science!: 6**
 
 
 -------Postal Lois------
@@ -17,18 +18,21 @@ choose 11-14:
 -------Cough Syrup Drunk------
 1 | Cough Syrup Drunk | 50
 -------Home School Chris------
-0 | Home School Chris | 115
+0 | Home School Chris | 130
 -------Home School Peter------
 1 | Home School Peter | 125
 -------Nurse Tina------
-2 | Nurse Tina | 100
+3 | Nurse Tina
 -------Delivery Marmoset------
 0 | Delivery Marmoset | 25
 -------Mission Doctor------
 3 | Mission Doctor
+   1 L Mission Doctor: 1
+   1 L Mission Doctor: 6*
    3 L Mission Doctor: 6**
 -------Hail Science!------
-2 | Hail Science! | 50
+3 | Hail Science!
+   3 L Hail Science!: 6**
 -------Alcohol Bath------
 1 | Alcohol Bath | 95
 -------Delivery Boy------
@@ -37,6 +41,7 @@ choose 11-14:
 0 | Bob in the Wall | 30
 -------Fever Dreams------
 3 | Fever Dreams
+   1 L Fever Dreams: 2*
    7 L Fever Dreams: 6**
 
 
