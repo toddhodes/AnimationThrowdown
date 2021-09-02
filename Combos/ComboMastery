@@ -352,6 +352,7 @@
 2 | Karate Stewie
 2 | Katz | 35
 2 | Kawaii Klaus | 95
+2 | Kitchen Knife Snot | 30
 2 | Klaus's Fish Wife | 20
 2 | Klepto Bender
 2 | Kuchi Kopi Sculptor | 5
@@ -384,6 +385,7 @@
 2 | One Art Please | 30
 2 | Opera Singer Leela | 60
 2 | Paddlin' Peggy | 55
+2 | Paintball Dale | 40
 2 | Paintball Hank | 5
 2 | Pan Flute Stewie | 70
 2 | Ping Pong Brian
@@ -507,7 +509,7 @@
 1 | Freezerdome Linda | 35
 1 | Frydo | 5
 1 | Frykowski | 85
-1 | Garden Shovel Bobby | 115
+1 | Garden Shovel Bobby | 125
 1 | Gargoyle Hunter | 5
 1 | Griffin and Quagmire | 5
 1 | Groupie Francine | 25
@@ -523,10 +525,10 @@
 1 | Joystick Steve | 110
 1 | Keyboardist Dale | 5
 1 | Kidney Killer | 25
-1 | Kitchen Knife Snot
 1 | Klaus's Comic | 25
 1 | Lady Bird | 65
 1 | Laser Tag Brian | 125
+1 | Laser Tag Quagmire | 125
 1 | Leela's Harpoon | 15
 1 | Little King Trashmouth | 45
 1 | Married Brian | 85
@@ -542,7 +544,6 @@
 1 | Old Timey Boxer Peter | 120
 1 | Owl Stewie | 5
 1 | Paintball Boomhauer | 125
-1 | Paintball Dale | 10
 1 | Party Beer Implant | 5
 1 | Playlist Meg
 1 | Polling Peggy | 55
@@ -559,7 +560,7 @@
 1 | Ruby Zeldastein | 125
 1 | Running Back Hank | 110
 1 | Screwdrive Chris | 25
-1 | Shark Killer | 5
+1 | Shark Killer | 65
 1 | Sherlock Zoidberg
 1 | Shiny Pebbles | 45
 1 | Shut Up and Take My Money | 85
@@ -590,6 +591,7 @@
 1 | Zoidberg's Scream | 125
 0 | Zac Sawyer | 130
 0 | Tuning Fork | 130
+0 | Tranq Gun Steve | 130
 0 | Towel Manager Dale | 130
 0 | Sniper Zoidberg | 130
 0 | Sexy Lifeguard | 130
@@ -652,6 +654,7 @@
 0 | Beer Funnel Peter | 80
 0 | Martini Peggy | 75
 0 | Fried Chick | 75
+0 | Doomsday Surplus | 75
 0 | Zinc Saucier | 70
 0 | Vengeance Quagmire | 70
 0 | Topped Off Wine | 70
@@ -669,7 +672,6 @@
 0 | Line Dancer Amy | 60
 0 | History Test Chris | 60
 0 | Flying Machine Stewie | 60
-0 | Doomsday Surplus | 60
 0 | Chris's Favorite Chicken | 60
 0 | Baby Bender | 60
 0 | Summer Lovin | 55
@@ -728,6 +730,7 @@
 0 | Boy Tina | 30
 0 | Bob in the Wall | 30
 0 | Becky | 30
+0 | Army Tank Zapp | 30
 0 | ADD Luanne | 30
 0 | 71 Ounce Beef Bobby | 30
 0 | $300 Knife | 30
@@ -761,4 +764,4 @@
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
 0 | Bobsled Hermes | 5
-433550 | Mastery Stone
+392750 | Mastery Stone
