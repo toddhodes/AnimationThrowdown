@@ -30094,6 +30094,7 @@
 		<skill id="outlast" x="10"/>
 	</upgrade>
 </unit>
+<!-- Reserve ID 20093 -->
 				
 	<!--  end american dad input -->		
 	<!--  stop at id 24000 -->
@@ -33562,6 +33563,7 @@
         <skill id='outlast' p='30' v='10' />
         <skill id='heal' p='30' v='12' />
     </unit>
+    <!-- Reserve IDs 25228-25234 -->
     
                                                                       
 	<!-- End american dad combo -->		
