@@ -257,7 +257,7 @@
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
 2 | Alley Entertainment | 35
-2 | Bacon Weight | 55
+2 | Bacon Weight | 65
 2 | Bad Tina | 100
 2 | Bakaneko Fighter Louise
 2 | Balloon Sniper | 100
@@ -358,7 +358,7 @@
 2 | Kuchi Kopi Sculptor | 5
 2 | Lab Student Meg | 100
 2 | Laser Razor
-2 | Laser Tag Stan | 100
+2 | Laser Tag Stan
 2 | Leela Balloon Art
 2 | Life Drawing Hayley | 10
 2 | Lobster Wedding | 60
@@ -372,7 +372,7 @@
 2 | Menstrual Cycle | 75
 2 | Merlot Klaus | 65
 2 | Mike Pulaski | 70
-2 | Military Tux Bill | 25
+2 | Military Tux Bill | 100
 2 | Mind Switcher Farnsworth | 100
 2 | Mocktrial Louise
 2 | More Anchovies | 90
@@ -411,7 +411,7 @@
 2 | Sailing Addict Linda
 2 | Salmon Fry | 40
 2 | Sandwitch | 75
-2 | Scientific Rivals
+2 | Scientific Rivals | 100
 2 | Sculptor Peter | 25
 2 | Serious Runner Brian | 50
 2 | Sexy Dance Fighting
@@ -422,14 +422,13 @@
 2 | Space Cadet Chris | 70
 2 | Space Stan | 60
 2 | Space Steve | 100
-2 | Spray Painter | 70
+2 | Spray Painter | 100
 2 | Spray on Army Fry
 2 | Squirrel Death | 100
 2 | Stan vs Mafia | 55
 2 | Stickin' Hank
-2 | Stuffington Roger | 25
-2 | Sub Hub Hayley | 60
-2 | Summer Guy | 70
+2 | Stuffington Roger | 100
+2 | Sub Hub Hayley | 100
 2 | Super Dance Squad
 2 | Survival Crafter Hank
 2 | Swim Lesson | 20
@@ -471,6 +470,7 @@
 1 | Anally Defaced | 125
 1 | Anger Management Class | 80
 1 | Appetizer Addict Brian | 10
+1 | Army Tank Zapp | 30
 1 | Artsy Tina | 5
 1 | Baseball Dale | 25
 1 | Battle Axe Peggy | 5
@@ -601,15 +601,20 @@
 0 | Robot Arms Bender | 130
 0 | Rich Bobby | 130
 0 | Reverse Stink Hold | 130
+0 | Pumping Iron | 130
 0 | Prince Faisal | 130
 0 | Nun Francine | 130
 0 | Mount Toy Gene | 130
 0 | Money Retriever | 130
+0 | Mind Switcher Amy | 130
+0 | Meg's Evil Monkey | 130
 0 | Maxi Paddy | 130
 0 | Maracas Peter | 130
 0 | Love Potion | 130
 0 | Last Minute Shopper Brian | 130
 0 | Krav Maga Dale | 130
+0 | Hot Cocoa Louise | 130
+0 | Home School Chris | 130
 0 | Gut Punch Zapp | 130
 0 | Farnsworth's Cat | 130
 0 | Evening Beer Boomhauer | 130
@@ -629,7 +634,6 @@
 0 | Slurm Queen | 120
 0 | Quagmire's Cat James | 120
 0 | Powderpuff | 120
-0 | Mind Switcher Amy | 120
 0 | Electric Love | 120
 0 | Wheels Steve | 115
 0 | Rastafarian Jingle Hayley | 115
@@ -704,6 +708,7 @@
 0 | Secret Beer Dale | 30
 0 | Roller Skate Peter | 30
 0 | Rocker Bullock | 30
+0 | Road Rage | 30
 0 | Rich Francine | 30
 0 | Painter Klaus | 30
 0 | Mustache Maker | 30
@@ -729,8 +734,8 @@
 0 | Butt Closet | 30
 0 | Boy Tina | 30
 0 | Bob in the Wall | 30
+0 | Betting it All | 30
 0 | Becky | 30
-0 | Army Tank Zapp | 30
 0 | ADD Luanne | 30
 0 | 71 Ounce Beef Bobby | 30
 0 | $300 Knife | 30
@@ -743,7 +748,6 @@
 0 | Rabid Dale | 20
 0 | Knitting Peter | 20
 0 | Horse Whisperer Joe | 20
-0 | Betting it All | 20
 0 | Basketball Joe | 20
 0 | Wrestler Amy | 10
 0 | Swing Dance Bobby | 10
@@ -763,5 +767,6 @@
 0 | Nigerian Prince | 5
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
+0 | Bounty Hunter Roger | 5
 0 | Bobsled Hermes | 5
-392750 | Mastery Stone
+389350 | Mastery Stone
