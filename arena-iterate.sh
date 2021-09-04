@@ -10,6 +10,7 @@ esac
 
 for i in `nums $count`
 do
+  echo "iteration $i of $count"
   echo "buy 150"
   ./arena-buy-refills.sh 15
   sleep 5	
