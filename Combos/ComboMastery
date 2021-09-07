@@ -131,6 +131,7 @@
 3 | Knife Fight Stewie
 3 | Laser Gun Stewie
 3 | Laser Tag Joe
+3 | Laser Tag Stan
 3 | Lenore the Iguana
 3 | Let's Go Fart
 3 | Limo Bob
@@ -358,7 +359,6 @@
 2 | Kuchi Kopi Sculptor | 5
 2 | Lab Student Meg | 100
 2 | Laser Razor
-2 | Laser Tag Stan
 2 | Leela Balloon Art
 2 | Life Drawing Hayley | 10
 2 | Lobster Wedding | 60
@@ -470,7 +470,7 @@
 1 | Anally Defaced | 125
 1 | Anger Management Class | 80
 1 | Appetizer Addict Brian | 10
-1 | Army Tank Zapp | 30
+1 | Army Tank Zapp | 5
 1 | Artsy Tina | 5
 1 | Baseball Dale | 25
 1 | Battle Axe Peggy | 5
@@ -571,7 +571,7 @@
 1 | Sledgehammer Dale | 35
 1 | Slick'd Steve | 125
 1 | Smoke Bomb | 45
-1 | Snake Hunter | 50
+1 | Snake Hunter | 90
 1 | Space Queen | 95
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 115
@@ -698,6 +698,7 @@
 0 | Withdrawal Steve | 30
 0 | Tweaker Peter | 30
 0 | Stevie Wonderbra | 30
+0 | Steverino | 30
 0 | Stan's Grill | 30
 0 | Squirrel Suit Hayley | 30
 0 | Skydiving Peggy | 30
@@ -746,8 +747,8 @@
 0 | Treasure Hunter Peter | 20
 0 | Sister Peter | 20
 0 | Rabid Dale | 20
+0 | Plops | 20
 0 | Knitting Peter | 20
-0 | Horse Whisperer Joe | 20
 0 | Basketball Joe | 20
 0 | Wrestler Amy | 10
 0 | Swing Dance Bobby | 10
@@ -769,4 +770,4 @@
 0 | Just Mow a Lawn | 5
 0 | Bounty Hunter Roger | 5
 0 | Bobsled Hermes | 5
-389350 | Mastery Stone
+414500 | Mastery Stone
