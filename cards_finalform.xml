@@ -47812,6 +47812,123 @@
 	    <skill id="poison" x="12"/>
 	  </upgrade>
 	</unit>
+	<unit>
+  <id>130160</id>
+  <combo_card_id>35134</combo_card_id>
+  <attack>9</attack>
+  <health>33</health>
+  <name>Princess Little Piddles</name>
+  <desc>You probably have a lot to talk about.</desc>
+  <picture>BB_PrincessLittlePiddles</picture>
+  <asset_bundle>41</asset_bundle>
+  <rarity>4</rarity>
+  <set>3001</set>
+  <type>3</type>
+  <trait>animal</trait>
+  <skill id="poison" x="7"/>
+  <skill id="leech" x="8"/>
+  <skill id="rally" x="7" y="3"/>
+  <card_type>object</card_type>
+  <upgrade>
+    <level>2</level>
+    <health>34</health>
+  </upgrade>
+  <upgrade>
+    <level>3</level>
+    <attack>10</attack>
+    <health>36</health>
+    <skill id="poison" x="8"/>
+    <skill id="leech" x="9"/>
+  </upgrade>
+  <upgrade>
+    <level>4</level>
+    <health>38</health>
+    <skill id="rally" x="8" y="3"/>
+  </upgrade>
+  <upgrade>
+    <level>5</level>
+    <attack>11</attack>
+    <health>40</health>
+  </upgrade>
+  <upgrade>
+    <level>6</level>
+    <health>41</health>
+    <skill id="poison" x="9"/>
+    <skill id="leech" x="10"/>
+  </upgrade>
+  <upgrade>
+    <level>7</level>
+    <attack>12</attack>
+    <health>43</health>
+    <skill id="rally" x="9" y="3"/>
+  </upgrade>
+  <upgrade>
+    <level>8</level>
+    <health>45</health>
+    <skill id="poison" x="10"/>
+    <skill id="leech" x="11"/>
+    <skill id="rally" x="10" y="3"/>
+  </upgrade>
+  <upgrade>
+    <level>9</level>
+    <attack>13</attack>
+    <health>47</health>
+  </upgrade>
+  <upgrade>
+    <level>10</level>
+    <health>48</health>
+    <skill id="poison" x="11"/>
+    <skill id="leech" x="12"/>
+    <skill id="rally" x="11" y="3"/>
+  </upgrade>
+  <upgrade>
+    <level>11</level>
+    <attack>14</attack>
+    <health>50</health>
+  </upgrade>
+  <upgrade>
+    <level>12</level>
+    <health>52</health>
+    <skill id="poison" x="12"/>
+    <skill id="leech" x="13"/>
+    <skill id="rally" x="12" y="3"/>
+  </upgrade>
+  <upgrade>
+    <level>13</level>
+    <attack>15</attack>
+    <health>54</health>
+  </upgrade>
+  <upgrade>
+    <level>14</level>
+    <health>55</health>
+  </upgrade>
+  <upgrade>
+    <level>15</level>
+    <attack>16</attack>
+    <health>57</health>
+    <skill id="rally" x="13" y="3"/>
+  </upgrade>
+  <upgrade>
+    <level>16</level>
+    <health>59</health>
+    <skill id="poison" x="13"/>
+    <skill id="leech" x="14"/>
+  </upgrade>
+  <upgrade>
+    <level>17</level>
+    <attack>17</attack>
+    <health>61</health>
+    <skill id="poison" x="14"/>
+    <skill id="leech" x="15"/>
+    <skill id="rally" x="14" y="3"/>
+  </upgrade>
+  <upgrade>
+    <level>18</level>
+    <attack>18</attack>
+    <health>63</health>
+    <skill id="rally" x="15" y="3"/>
+  </upgrade>
+</unit>
 
 	<!-- end Bob's Burgers Final Forms -->
 	<!-- King of the Hill Final Forms -->
