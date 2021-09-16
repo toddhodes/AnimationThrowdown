@@ -28,6 +28,7 @@
    1 L Alamo ID: 1
    1 L Alamo ID: 2*
    6 L Alamo ID: 6**
+   1 L Alamo Merch: 2*
    8 L Alamo Merch: 6**
    9 L Alien Bagpipes: 6**
    1 L Alpha House: 1
@@ -143,6 +144,7 @@
    6 L Brainwashed Hayley: 6**
    1 L Brau Beer: 2*
    5 L Brau Beer: 6**
+   1 L Brewery Mascot: 2*
    3 L Brewery Mascot: 6**
    1 L Brian Statue: 1
    4 L Brian Statue: 6**
@@ -177,6 +179,7 @@
    9 L Cat Fight Hayley: 6**
    7 L Cat Guards: 6**
    8 L Cat with Gun: 6**
+   1 L Caulk Gun: 1
    2 L Caulk Gun: 6**
    1 L Ceramics Gene: 2*
   17 L Ceramics Gene: 6**
@@ -252,9 +255,7 @@
    1 L Diaper Doll Linda: 1
    2 L Diaper Doll Linda: 6**
    3 L Diarama Gene: 6**
-   1 L Die of Power: 1
-   1 L Die of Power: 2*
-   7 L Die of Power: 6**
+   8 L Die of Power: 6**
    1 L Dinner Date Frond: 2*
    1 L Dinner Date Frond: 6**
    1 L Doingg: 1
@@ -319,7 +320,7 @@
    8 L Film Scissors: 6**
    1 L Fine Wine Ida: 2*
    6 L Fine Wine Ida: 6**
-   1 L Finger Gun Gayle: 1
+   1 L Finger Gun Gayle: 2*
    8 L Finger Gun Gayle: 6**
    1 L Firefighter Zoidberg: 1
    1 L Firefighter Zoidberg: 2*
@@ -354,6 +355,7 @@
    1 L Giant Snail: 2*
    8 L Giant Snail: 6**
    1 L Gingerbread Sculptor: 6**
+   1 L Goggles Cat: 1
    4 L Goggles Cat: 6**
    3 L Golden Fiddle: 6**
    8 L Golden Goose: 6**
@@ -432,8 +434,7 @@
    1 L I Hate Old People: 1
    8 L I Hate Old People: 6**
    4 L I am Mona: 6**
-   1 L Ice Cream Addict: 2*
-   6 L Ice Cream Addict: 6**
+   7 L Ice Cream Addict: 6**
    9 L Ice Cream Gene: 6**
    8 L In Flight Fight: 6**
    1 L Inferior Tobacco Gayle: 1
@@ -453,7 +454,7 @@
    2 L Jealous Bobby: 6**
    1 L Jeff: 6
    1 L Jeff: 6*
-   4 L Jeff: 6**
+   5 L Jeff: 6**
    7 L Jelly Bean Schnapps: 6**
    1 L Jellybean Phone Klaus: 1
    1 L Jellybean Phone Klaus: 6**
@@ -486,8 +487,7 @@
    1 L Kidyatas: 2*
    1 L Kidyatas: 6**
    7 L Kiki: 6**
-   1 L Killaton: 2*
-   1 L Killaton: 6**
+   2 L Killaton: 6**
    1 L Kitchen Knife Snot: 1
    1 L Kitchen Knife Snot: 2*
    3 L Kitchen Knife Snot: 6**
@@ -500,6 +500,7 @@
    1 L Knife Fight Stewie: 2*
    3 L Knife Fight Stewie: 6**
    1 L LARP Bartender Snot: 1
+   1 L Landship Play: 2*
    5 L Landship Play: 6**
    9 L Langley Falls Museum of Art: 6**
    1 L Langley Soft Drug Store: 2*
@@ -612,16 +613,14 @@
    7 L Mutilated Therapy Dolls: 6**
    1 L Nanny Cam Dino: 1
    5 L Nanny Cam Dino: 6**
-   1 L Nanny Natalia: 1
+   1 L Nanny Natalia: 2*
    8 L Nanny Natalia: 6**
-   1 L Napkin Art: 1
-   1 L Napkin Art: 2*
-   6 L Napkin Art: 6**
+   7 L Napkin Art: 6**
    1 L Neptunian Slug: 2*
    2 L Neptunian Slug: 6**
    1 L Nerd Science Contest: 2*
    5 L Nerd Science Contest: 6**
-   7 L New Brian: 6**
+   8 L New Brian: 6**
    6 L New England Beaches: 6**
    6 L Nibbler on the Roof: 6**
    3 L No Mercy Dojo: 6**
@@ -733,11 +732,11 @@
    1 L Reverend Ping Ping: 1
    1 L Reverend Ping Ping: 2*
    7 L Reverend Ping Ping: 6**
+   4 L Rex: 1**
    9 L Rex: 6**
    1 L Rifle Club: 1
    3 L Rifle Club: 6**
-   1 L Robot Devil Band: 2*
-   4 L Robot Devil Band: 6**
+   5 L Robot Devil Band: 6**
    1 L Robot Fox: 1
    1 L Robot Fox: 2*
    4 L Robot Fox: 6**
@@ -946,7 +945,7 @@
    8 L Wedding Dress: 6**
    1 L Wedding Luanne: 1
    1 L Wedding Luanne: 6**
-   1 L Western Lewis: 1
+   1 L Western Lewis: 2*
    7 L Western Lewis: 6**
    1 L Whale Hunter Amy: 6**
    3 L Wheelie Mammoth: 6**
@@ -964,7 +963,7 @@
    1 L Wizard Greyfarn: 2*
    5 L Wizard Greyfarn: 6**
    9 L Wizard Mop: 6**
-  14 L Wolf Jeff: 6**
+  16 L Wolf Jeff: 6**
    8 L Wong Casino: 6**
    1 L Wongminster Mini Golf: 2*
    8 L Wood Chuck: 6**

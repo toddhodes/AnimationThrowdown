@@ -86,6 +86,7 @@
 3 | Emu Wrangler
 3 | Evening Beer Dale
 3 | Explorer Stan
+3 | Farnsworth's Cat
 3 | Fart School Louise
 3 | Fart in a Jar
 3 | Feed the Dodo
@@ -253,6 +254,7 @@
 3 | Wingnut Amy
 3 | Wingnut Leela
 3 | Wizard Greyfarn
+3 | Wolf Jeff
 3 | Zapp Figurines
 3 | Zombie Jimmy Jr.
 2 | Action Delivery Force Leela
@@ -534,7 +536,7 @@
 1 | Laser Tag Brian | 125
 1 | Laser Tag Quagmire | 125
 1 | Leela's Harpoon | 15
-1 | Little King Trashmouth | 45
+1 | Little King Trashmouth | 20
 1 | Married Brian | 85
 1 | Master Robaire | 25
 1 | Medieval Hank | 5
@@ -624,7 +626,8 @@
 0 | Hot Cocoa Louise | 130
 0 | Home School Chris | 130
 0 | Gut Punch Zapp | 130
-0 | Farnsworth's Cat | 130
+0 | Fried Chick | 130
+0 | Flute Solo Jeff | 130
 0 | Evening Beer Boomhauer | 130
 0 | Elf Fight Francine | 130
 0 | Ecstacy Francine | 130
@@ -635,13 +638,13 @@
 0 | Big Bad Brian | 130
 0 | Beefsquatch | 130
 0 | Armadillo Boomhauer | 130
+0 | Pesto Jeff | 125
 0 | Keyboard Joe | 125
+0 | Golden Blunt Wrapper | 125
 0 | Ancient Cave Writing | 125
 0 | Too High to Drive | 120
 0 | Slurm Queen | 120
 0 | Powderpuff | 120
-0 | Pesto Jeff | 120
-0 | Flute Solo Jeff | 120
 0 | Electric Love | 120
 0 | Wheels Steve | 115
 0 | Rastafarian Jingle Hayley | 115
@@ -657,7 +660,6 @@
 0 | Bondage Klaus | 100
 0 | Rambo Lois | 95
 0 | Frank the Snake | 95
-0 | Golden Blunt Wrapper | 90
 0 | Were-Car | 85
 0 | Deer Daddy Steve | 85
 0 | Dance Party Bobby | 85
@@ -665,7 +667,6 @@
 0 | More Forever | 80
 0 | Mathy Cathy | 80
 0 | Beer Funnel Peter | 80
-0 | Wolf Jeff | 75
 0 | Martini Peggy | 75
 0 | Doomsday Surplus | 75
 0 | Zinc Saucier | 70
@@ -780,4 +781,4 @@
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
 0 | Bobsled Hermes | 5
-475350 | Mastery Stone
+496500 | Mastery Stone
