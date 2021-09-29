@@ -92,6 +92,7 @@
 3 | Feed the Dodo
 3 | Fever Dreams
 3 | Firefighter Zoidberg
+3 | Flute Solo Jeff
 3 | Food Addict Leela
 3 | Fowl Fighter Teddy
 3 | Free Weed Hayley
@@ -251,6 +252,7 @@
 3 | War Horse
 3 | Whale Hunter Amy
 3 | Whiskey Bartender
+3 | Wild Brian
 3 | Wingnut Amy
 3 | Wingnut Leela
 3 | Wizard Greyfarn
@@ -273,7 +275,8 @@
 2 | Bender in Love | 80
 2 | Bender's Orphanarium | 60
 2 | Bible Study | 35
-2 | Blueberry Picker | 95
+2 | Blueberry Picker | 100
+2 | Bob's Pigeon Bath | 100
 2 | Bong Rips Francine | 75
 2 | Boy Crazy | 25
 2 | Buff Fry
@@ -300,6 +303,7 @@
 2 | Clothes Made of Cash | 20
 2 | Cloud Painter | 100
 2 | Coach Farnsworth | 30
+2 | Colonel Fluffers | 30
 2 | Comic Artist Peter | 100
 2 | Corporate Training | 35
 2 | Counting Klaus | 30
@@ -323,7 +327,7 @@
 2 | Fake Son Gene | 90
 2 | Falcon Attack Quagmire | 70
 2 | Falconer Hayley | 35
-2 | Finch Leela | 10
+2 | Finch Leela | 100
 2 | Fry's Macaroni Art | 30
 2 | Garbage Shot Linda | 60
 2 | Gatsby Brian
@@ -339,7 +343,7 @@
 2 | Gymnast Fighter Stewie
 2 | Hank Hill, Running Back | 95
 2 | High School Bill
-2 | Hip Hop Bob | 100
+2 | Hip Hop Bob
 2 | Homecoming King Chris | 100
 2 | Horse Rider Tina
 2 | Horse Whisperer Joe | 30
@@ -378,7 +382,7 @@
 2 | Meg's Voodoo Doll | 100
 2 | Menstrual Cycle | 75
 2 | Merlot Klaus | 65
-2 | Mike Pulaski | 70
+2 | Mike Pulaski | 95
 2 | Military Tux Bill | 100
 2 | Mind Switcher Farnsworth | 100
 2 | Mocktrial Louise
@@ -389,6 +393,7 @@
 2 | Nacho Addict Bender | 100
 2 | Nasal Spray Peter | 100
 2 | Nun Linda | 25
+2 | Old Timey Boxer Peter | 100
 2 | One Art Please | 30
 2 | Opera Singer Leela | 60
 2 | Paddlin' Peggy | 55
@@ -400,13 +405,14 @@
 2 | Positron Shooter Fry | 20
 2 | Pottery Tina | 100
 2 | Principal Peter | 30
-2 | Private Brian | 15
+2 | Private Brian | 100
 2 | Professor of Emerald Laboratory | 65
 2 | Prom Beer Joe | 85
 2 | Prom Luanne | 10
 2 | Propane Sculpture | 20
 2 | Q.T. McWhiskers | 70
 2 | QB Boomhauer | 60
+2 | Quagmire's Cat James | 90
 2 | Rapture Stan | 55
 2 | Record Holder Stan | 30
 2 | Rich Leela | 100
@@ -425,6 +431,7 @@
 2 | Sleighing Tonight
 2 | Slip 'n Slide Bob | 100
 2 | Slow Dance Jimmy Jr. | 25
+2 | Snake Scarf Bob | 50
 2 | Softball Lois | 100
 2 | Space Cadet Chris | 70
 2 | Space Stan | 60
@@ -463,7 +470,6 @@
 2 | Water Nympho
 2 | Wedding Luanne | 10
 2 | Whiskey Drunk Brian | 50
-2 | Wild Brian
 2 | Wild Francine | 50
 2 | Will of a Housewife
 2 | Wine & Paint Quagmire | 90
@@ -476,7 +482,7 @@
 1 | Amy's Talking Tattoo | 125
 1 | Anally Defaced | 125
 1 | Anger Management Class | 80
-1 | Appetizer Addict Brian | 10
+1 | Appetizer Addict Brian | 15
 1 | Artsy Tina | 5
 1 | Baseball Dale | 25
 1 | Battle Axe Peggy | 5
@@ -543,12 +549,11 @@
 1 | Meg's Evil Monkey | 125
 1 | Meg's In Charge | 10
 1 | Model Lois | 5
-1 | Motivational Poster | 30
+1 | Motivational Poster | 125
 1 | Mount Toy Louise | 20
 1 | Mr. Deliver | 125
 1 | Never Have I Ever | 80
 1 | Old Steve | 30
-1 | Old Timey Boxer Peter | 120
 1 | Owl Stewie | 5
 1 | Paintball Boomhauer | 125
 1 | Party Beer Implant | 5
@@ -556,7 +561,6 @@
 1 | Polling Peggy | 55
 1 | Poppler Addict Leela | 10
 1 | Poppler Jingle Fry | 20
-1 | Quagmire's Cat James | 115
 1 | Quicky Kiss-it | 55
 1 | RC Helicopter | 5
 1 | Raleigh St. Augustine | 125
@@ -580,7 +584,7 @@
 1 | Slick'd Steve | 125
 1 | Smoke Bomb | 45
 1 | Snake Hunter | 90
-1 | Space Queen | 95
+1 | Space Queen | 115
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 115
 1 | Steak Addict Bobby | 10
@@ -627,7 +631,6 @@
 0 | Home School Chris | 130
 0 | Gut Punch Zapp | 130
 0 | Fried Chick | 130
-0 | Flute Solo Jeff | 130
 0 | Evening Beer Boomhauer | 130
 0 | Elf Fight Francine | 130
 0 | Ecstacy Francine | 130
@@ -688,7 +691,7 @@
 0 | Line Dancer Amy | 60
 0 | History Test Chris | 60
 0 | Flying Machine Stewie | 60
-0 | Colonel Fluffers | 60
+0 | Drunk Francine | 60
 0 | Baby Bender | 60
 0 | Summer Lovin | 55
 0 | Stoned Loser Roger | 50
@@ -701,10 +704,12 @@
 0 | Young Hermes | 40
 0 | Texting Addict Stan | 40
 0 | Swimmer Tina | 40
+0 | Skydiving Peggy | 40
 0 | Roller Derby Luanne | 40
 0 | Pick Up Lines | 40
 0 | Perfectly Symmetrical Violence | 40
 0 | Oktoberfest Fry | 40
+0 | Drunk Fry | 40
 0 | Party Board | 35
 0 | Painter Francine | 35
 0 | One Eyed Orphan | 35
@@ -716,7 +721,6 @@
 0 | Steverino | 30
 0 | Stan's Grill | 30
 0 | Squirrel Suit Hayley | 30
-0 | Skydiving Peggy | 30
 0 | Skating Roger | 30
 0 | Sharpshooter Bobby | 30
 0 | Sexy Cowardly Lion Stan | 30
@@ -764,6 +768,7 @@
 0 | Knitting Peter | 20
 0 | Basketball Joe | 20
 0 | Bobsled Hermes | 15
+0 | Wrestler Peggy | 10
 0 | Wrestler Amy | 10
 0 | Swing Dance Bobby | 10
 0 | Sower of Revenge | 10
@@ -784,4 +789,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-515550 | Mastery Stone
+475550 | Mastery Stone
