@@ -56,6 +56,7 @@
 3 | Contact High Stewie
 3 | Count of Monty Hall
 3 | Country Club Stan
+3 | Coyote Fighter Chris
 3 | Crack Addict Stan
 3 | Crack Addicted Fish
 3 | Cranberry Bog
@@ -119,6 +120,7 @@
 3 | Heckler Zoidberg
 3 | High Diver Zoidberg
 3 | High School Linda
+3 | Hip Hop Bob
 3 | Home Ec Teacher
 3 | Hot Cocoa Tina
 3 | Ice Cream Gene
@@ -164,6 +166,7 @@
 3 | Oil Receipts
 3 | Oktoberfest Hermes
 3 | Oktoberfest Leela
+3 | Old Timey Boxer Peter
 3 | One Man Musical
 3 | Online Advice | 5
 3 | Opera Francine
@@ -202,6 +205,7 @@
 3 | Santa Bill
 3 | Santa Killer Hayley
 3 | Santa Killer Steve
+3 | Scientific Rivals
 3 | Sewer Surfer Bender
 3 | Sewer Surfer Fry
 3 | Sexpun T'Come
@@ -263,7 +267,7 @@
 2 | Action Delivery Force Zoidberg
 2 | Alley Entertainment | 35
 2 | Army Tank Zapp | 5
-2 | Bacon Weight | 65
+2 | Bacon Weight | 100
 2 | Bad Tina | 100
 2 | Bakaneko Fighter Louise
 2 | Balloon Sniper | 100
@@ -308,8 +312,7 @@
 2 | Corporate Training | 35
 2 | Counting Klaus | 30
 2 | Country Club Steve | 85
-2 | Coyote Fighter Chris | 80
-2 | Cupid Bobby | 25
+2 | Cupid Bobby | 30
 2 | Dancing Peggy | 10
 2 | Date Wine Zoidberg | 100
 2 | Diamond Ring Lois | 100
@@ -340,10 +343,9 @@
 2 | Grenade Amy | 85
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
-2 | Gymnast Fighter Stewie
+2 | Gymnast Fighter Stewie | 100
 2 | Hank Hill, Running Back | 95
 2 | High School Bill
-2 | Hip Hop Bob
 2 | Homecoming King Chris | 100
 2 | Horse Rider Tina
 2 | Horse Whisperer Joe | 30
@@ -393,7 +395,6 @@
 2 | Nacho Addict Bender | 100
 2 | Nasal Spray Peter | 100
 2 | Nun Linda | 25
-2 | Old Timey Boxer Peter | 100
 2 | One Art Please | 30
 2 | Opera Singer Leela | 60
 2 | Paddlin' Peggy | 55
@@ -424,13 +425,13 @@
 2 | Sailing Addict Linda
 2 | Salmon Fry | 40
 2 | Sandwitch | 75
-2 | Scientific Rivals | 100
 2 | Sculptor Peter | 25
 2 | Serious Runner Brian | 50
 2 | Sexy Dance Fighting
 2 | Sleighing Tonight
 2 | Slip 'n Slide Bob | 100
 2 | Slow Dance Jimmy Jr. | 25
+2 | Smoke Bomb | 20
 2 | Snake Scarf Bob | 50
 2 | Softball Lois | 100
 2 | Space Cadet Chris | 70
@@ -440,7 +441,7 @@
 2 | Spray on Army Fry
 2 | Squirrel Death | 100
 2 | Stan vs Mafia | 55
-2 | Stickin' Hank
+2 | Stickin' Hank | 5
 2 | Stuffington Roger | 100
 2 | Sub Hub Hayley | 100
 2 | Super Dance Squad
@@ -475,6 +476,7 @@
 2 | Wine & Paint Quagmire | 90
 2 | Wine Tasting Linda | 50
 2 | Working Girl Tina | 65
+2 | Wrestler Stan | 50
 2 | Yacht Dreams
 2 | Zoidberg vs Bot | 10
 1 | ABC Quagmire | 45
@@ -563,6 +565,7 @@
 1 | Poppler Jingle Fry | 20
 1 | Quicky Kiss-it | 55
 1 | RC Helicopter | 5
+1 | Rabid Dale | 90
 1 | Raleigh St. Augustine | 125
 1 | Ravenous Porcelain Babies | 5
 1 | Ready for Santa | 95
@@ -580,10 +583,10 @@
 1 | Sketch Artist Dale | 25
 1 | Sketch Artist Peter | 5
 1 | Skiing Zoidberg | 125
-1 | Sledgehammer Dale | 35
+1 | Sledgehammer Dale | 125
 1 | Slick'd Steve | 125
-1 | Smoke Bomb | 45
 1 | Snake Hunter | 90
+1 | Sneak Tackle Hank | 95
 1 | Space Queen | 115
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 115
@@ -641,11 +644,11 @@
 0 | Big Bad Brian | 130
 0 | Beefsquatch | 130
 0 | Armadillo Boomhauer | 130
+0 | Ancient Cave Writing | 130
 0 | Pesto Jeff | 125
 0 | Keyboard Joe | 125
 0 | Golden Blunt Wrapper | 125
 0 | Butt Closet | 125
-0 | Ancient Cave Writing | 125
 0 | Too High to Drive | 120
 0 | Slurm Queen | 120
 0 | Powderpuff | 120
@@ -655,11 +658,11 @@
 0 | High Roller Stewie | 115
 0 | Furry Bullock | 115
 0 | Workout Klaus | 105
+0 | Steverino | 105
 0 | Skydiver Quagmire | 105
 0 | Santa Bender | 105
 0 | Heavenly Hank | 105
 0 | Delivery Boy | 105
-0 | Sneak Tackle Hank | 100
 0 | Francine Roger | 100
 0 | Bondage Klaus | 100
 0 | Rambo Lois | 95
@@ -710,6 +713,7 @@
 0 | Perfectly Symmetrical Violence | 40
 0 | Oktoberfest Fry | 40
 0 | Drunk Fry | 40
+0 | Dodgeball Meg | 40
 0 | Party Board | 35
 0 | Painter Francine | 35
 0 | One Eyed Orphan | 35
@@ -718,7 +722,6 @@
 0 | Withdrawal Steve | 30
 0 | Tweaker Peter | 30
 0 | Stevie Wonderbra | 30
-0 | Steverino | 30
 0 | Stan's Grill | 30
 0 | Squirrel Suit Hayley | 30
 0 | Skating Roger | 30
@@ -763,7 +766,6 @@
 0 | Delivery Marmoset | 25
 0 | Treasure Hunter Peter | 20
 0 | Sister Peter | 20
-0 | Rabid Dale | 20
 0 | Plops | 20
 0 | Knitting Peter | 20
 0 | Basketball Joe | 20
@@ -778,9 +780,9 @@
 0 | Nude Painting Bullock | 10
 0 | Model Builder Roger | 10
 0 | Fowl Fighter Linda | 10
-0 | Dodgeball Meg | 10
 0 | Cyclist Peggy | 10
 0 | Cheerleader Lois | 10
+0 | Butt Slapper Bobby | 10
 0 | Trippy Farnsworth | 5
 0 | Rich Dress Leela | 5
 0 | Photographer Bender | 5
@@ -789,4 +791,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-475550 | Mastery Stone
+499750 | Mastery Stone
