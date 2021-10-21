@@ -111,6 +111,7 @@
 3 | Good Boy Witch Snot
 3 | Green Beer | 5
 3 | Groovy Fry
+3 | Gymnast Fighter Stewie
 3 | Hail Science!
 3 | Half Dog Gene
 3 | Hangover Nightmare
@@ -131,6 +132,7 @@
 3 | Junk Food Bill
 3 | K Pop Peter
 3 | Karate Bender
+3 | Karate Snot
 3 | Kiss and Clarinet
 3 | Knife Fight Stewie
 3 | Laser Gun Stewie
@@ -193,6 +195,7 @@
 3 | Princess Little Piddles
 3 | Psych Meds
 3 | QB Quagmire
+3 | Rabid Dale | 20
 3 | Rapper Klaus
 3 | Red Rodriguez 2 Real
 3 | Responsible Cocaine User Bullock
@@ -223,6 +226,7 @@
 3 | Space Pistol Fry
 3 | Sportsfan Joe
 3 | Steak Cows
+3 | Steverino
 3 | Stewie's Tricycle
 3 | Strategist Zapp
 3 | Street Fighter Peter
@@ -261,11 +265,12 @@
 3 | Wingnut Leela
 3 | Wizard Greyfarn
 3 | Wolf Jeff
+3 | Wrestler Stan
 3 | Zapp Figurines
 3 | Zombie Jimmy Jr.
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
-2 | Alley Entertainment | 35
+2 | Alley Entertainment | 100
 2 | Army Tank Zapp | 5
 2 | Bacon Weight | 100
 2 | Bad Tina | 100
@@ -330,20 +335,20 @@
 2 | Fake Son Gene | 90
 2 | Falcon Attack Quagmire | 70
 2 | Falconer Hayley | 35
+2 | Fashion Fight
 2 | Finch Leela | 100
 2 | Fry's Macaroni Art | 30
 2 | Garbage Shot Linda | 60
 2 | Gatsby Brian
 2 | Girl Next Door Stewie | 20
 2 | Goddess of Beauty | 50
-2 | Golf Club Amy
+2 | Golf Club Amy | 100
 2 | Golfer Amy
 2 | Golfing Lois | 65
 2 | Greaser Stan | 95
 2 | Grenade Amy | 85
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
-2 | Gymnast Fighter Stewie | 100
 2 | Hank Hill, Running Back | 95
 2 | High School Bill
 2 | Homecoming King Chris | 100
@@ -361,7 +366,6 @@
 2 | Ira | 45
 2 | Joy of Painting | 40
 2 | Karaoke Zapp | 85
-2 | Karate Snot
 2 | Karate Stewie
 2 | Katz | 35
 2 | Kawaii Klaus | 95
@@ -432,7 +436,7 @@
 2 | Slip 'n Slide Bob | 100
 2 | Slow Dance Jimmy Jr. | 25
 2 | Smoke Bomb | 20
-2 | Snake Scarf Bob | 50
+2 | Snake Scarf Bob | 70
 2 | Softball Lois | 100
 2 | Space Cadet Chris | 70
 2 | Space Stan | 60
@@ -443,7 +447,7 @@
 2 | Stan vs Mafia | 55
 2 | Stickin' Hank | 5
 2 | Stuffington Roger | 100
-2 | Sub Hub Hayley | 100
+2 | Sub Hub Hayley
 2 | Super Dance Squad
 2 | Survival Crafter Hank
 2 | Swim Lesson | 20
@@ -464,6 +468,7 @@
 2 | Two Butt Goat
 2 | Umbriel | 100
 2 | Upgraded Hermes | 10
+2 | Vengeance Quagmire | 40
 2 | Victorian Knife Lois | 100
 2 | Victory Dance | 40
 2 | Video Game Leela | 100
@@ -476,7 +481,6 @@
 2 | Wine & Paint Quagmire | 90
 2 | Wine Tasting Linda | 50
 2 | Working Girl Tina | 65
-2 | Wrestler Stan | 50
 2 | Yacht Dreams
 2 | Zoidberg vs Bot | 10
 1 | ABC Quagmire | 45
@@ -565,7 +569,6 @@
 1 | Poppler Jingle Fry | 20
 1 | Quicky Kiss-it | 55
 1 | RC Helicopter | 5
-1 | Rabid Dale | 90
 1 | Raleigh St. Augustine | 125
 1 | Ravenous Porcelain Babies | 5
 1 | Ready for Santa | 95
@@ -597,8 +600,8 @@
 1 | Sword Fighter Francine | 5
 1 | Taxidermy Artist | 5
 1 | Tennis Francine | 15
-1 | Tequila Roger | 40
-1 | Tina Tackle | 5
+1 | Tequila Roger | 90
+1 | Tina Tackle | 125
 1 | Toga Bill | 5
 1 | Torah Snot | 20
 1 | Water Polo Steve | 5
@@ -658,7 +661,6 @@
 0 | High Roller Stewie | 115
 0 | Furry Bullock | 115
 0 | Workout Klaus | 105
-0 | Steverino | 105
 0 | Skydiver Quagmire | 105
 0 | Santa Bender | 105
 0 | Heavenly Hank | 105
@@ -677,7 +679,6 @@
 0 | Martini Peggy | 75
 0 | Doomsday Surplus | 75
 0 | Zinc Saucier | 70
-0 | Vengeance Quagmire | 70
 0 | Topped Off Wine | 70
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
@@ -697,12 +698,12 @@
 0 | Drunk Francine | 60
 0 | Baby Bender | 60
 0 | Summer Lovin | 55
+0 | Luanne's 21st Birthday | 55
 0 | Stoned Loser Roger | 50
 0 | Steve Crossing the Alps | 50
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
 0 | Rabbit Fight | 45
-0 | Luanne's 21st Birthday | 45
 0 | Football Stewie | 45
 0 | Young Hermes | 40
 0 | Texting Addict Stan | 40
@@ -725,6 +726,7 @@
 0 | Stan's Grill | 30
 0 | Squirrel Suit Hayley | 30
 0 | Skating Roger | 30
+0 | Show and Tell | 30
 0 | Sharpshooter Bobby | 30
 0 | Sexy Cowardly Lion Stan | 30
 0 | Sex Ed Teacher | 30
@@ -745,7 +747,6 @@
 0 | Freshman Chris | 30
 0 | Francine Painting | 30
 0 | Food Truck Bob | 30
-0 | Fashion Fight | 30
 0 | Emcee Stewie | 30
 0 | Drunk Leela | 30
 0 | Dodgeball Louise | 30
@@ -753,6 +754,7 @@
 0 | Christian Rock | 30
 0 | Chest Harpoon | 30
 0 | Chainsaw Spider | 30
+0 | Burger Mascot | 30
 0 | Boy Tina | 30
 0 | Bob in the Wall | 30
 0 | Betting it All | 30
@@ -791,4 +793,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-499750 | Mastery Stone
+400650 | Mastery Stone
