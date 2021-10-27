@@ -61492,7 +61492,7 @@
 	<skill id="hijack" x="4"/>
 	<type>4</type>
 	<trait>disguised</trait>
-	<set>2</set>
+	<set>3</set>
 	<upgrade>
 		<level>2</level>
 		<health>36</health>

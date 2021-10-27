@@ -109,7 +109,7 @@
 3 | Ghost Boomhauer
 3 | Gingerbread Sculptor
 3 | Good Boy Witch Snot
-3 | Green Beer | 5
+3 | Green Beer
 3 | Groovy Fry
 3 | Gymnast Fighter Stewie
 3 | Hail Science!
@@ -154,6 +154,7 @@
 3 | Meatman Sculptor
 3 | Medicated Stewie
 3 | Michael Dangle-low
+3 | Military Tux Bill
 3 | Mission Doctor
 3 | Mowing While Intoxicated
 3 | Music Teacher Lois
@@ -170,7 +171,7 @@
 3 | Oktoberfest Leela
 3 | Old Timey Boxer Peter
 3 | One Man Musical
-3 | Online Advice | 5
+3 | Online Advice
 3 | Opera Francine
 3 | Organ Hermes
 3 | Painting Class Joe
@@ -195,7 +196,7 @@
 3 | Princess Little Piddles
 3 | Psych Meds
 3 | QB Quagmire
-3 | Rabid Dale | 20
+3 | Rabid Dale
 3 | Rapper Klaus
 3 | Red Rodriguez 2 Real
 3 | Responsible Cocaine User Bullock
@@ -232,6 +233,7 @@
 3 | Street Fighter Peter
 3 | Stressed Out Leela
 3 | Stuffington Steve
+3 | Sub Hub Hayley
 3 | Summer Guy
 3 | Supermodel Roger
 3 | Swat Bob
@@ -330,7 +332,9 @@
 2 | Drunk at the Clam
 2 | Duke
 2 | Dummy Fight | 20
+2 | Ecstacy Francine
 2 | Eugenia Chatterteeth | 30
+2 | Evil Stepsister Stewie | 100
 2 | Eyephone Fry | 100
 2 | Fake Son Gene | 90
 2 | Falcon Attack Quagmire | 70
@@ -389,7 +393,6 @@
 2 | Menstrual Cycle | 75
 2 | Merlot Klaus | 65
 2 | Mike Pulaski | 95
-2 | Military Tux Bill | 100
 2 | Mind Switcher Farnsworth | 100
 2 | Mocktrial Louise
 2 | More Anchovies | 90
@@ -447,7 +450,6 @@
 2 | Stan vs Mafia | 55
 2 | Stickin' Hank | 5
 2 | Stuffington Roger | 100
-2 | Sub Hub Hayley
 2 | Super Dance Squad
 2 | Survival Crafter Hank
 2 | Swim Lesson | 20
@@ -477,6 +479,7 @@
 2 | Wedding Luanne | 10
 2 | Whiskey Drunk Brian | 50
 2 | Wild Francine | 50
+2 | Wild Woman Jeff | 10
 2 | Will of a Housewife
 2 | Wine & Paint Quagmire | 90
 2 | Wine Tasting Linda | 50
@@ -519,8 +522,7 @@
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
 1 | Empty Bowl Painting | 5
-1 | Evil Stepsister Stewie | 125
-1 | Evil Stepsister | 120
+1 | Evil Stepsister | 125
 1 | Family Fracas | 35
 1 | Farnsworth on Skiis | 125
 1 | Finch Hermes | 125
@@ -563,6 +565,7 @@
 1 | Owl Stewie | 5
 1 | Paintball Boomhauer | 125
 1 | Party Beer Implant | 5
+1 | Pesto Jeff | 125
 1 | Playlist Meg
 1 | Polling Peggy | 55
 1 | Poppler Addict Leela | 10
@@ -639,7 +642,6 @@
 0 | Fried Chick | 130
 0 | Evening Beer Boomhauer | 130
 0 | Elf Fight Francine | 130
-0 | Ecstacy Francine | 130
 0 | Douchebag Chris | 130
 0 | DJ Klaus | 130
 0 | Cubert Farnsworth | 130
@@ -648,7 +650,6 @@
 0 | Beefsquatch | 130
 0 | Armadillo Boomhauer | 130
 0 | Ancient Cave Writing | 130
-0 | Pesto Jeff | 125
 0 | Keyboard Joe | 125
 0 | Golden Blunt Wrapper | 125
 0 | Butt Closet | 125
@@ -742,10 +743,12 @@
 0 | Karate Francine | 30
 0 | Junkie Hank | 30
 0 | Hungover Steve | 30
+0 | Hermaphrodite | 30
 0 | Gene It On | 30
 0 | Gas Class | 30
 0 | Freshman Chris | 30
 0 | Francine Painting | 30
+0 | Fowl Fighter Linda | 30
 0 | Food Truck Bob | 30
 0 | Emcee Stewie | 30
 0 | Drunk Leela | 30
@@ -781,7 +784,6 @@
 0 | Scooty-Puff Jr | 10
 0 | Nude Painting Bullock | 10
 0 | Model Builder Roger | 10
-0 | Fowl Fighter Linda | 10
 0 | Cyclist Peggy | 10
 0 | Cheerleader Lois | 10
 0 | Butt Slapper Bobby | 10
@@ -793,4 +795,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-400650 | Mastery Stone
+413950 | Mastery Stone
