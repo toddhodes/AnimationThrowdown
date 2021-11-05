@@ -83,6 +83,7 @@
 3 | Drunk Peggy
 3 | Drunk Peter
 3 | Drunk Stan
+3 | Ecstacy Francine
 3 | Eggnog Roger
 3 | Emu Wrangler
 3 | Evening Beer Dale
@@ -260,6 +261,7 @@
 3 | Viking Peter
 3 | Walkie Talkie Teddy
 3 | War Horse
+3 | Wedding Luanne
 3 | Whale Hunter Amy
 3 | Whiskey Bartender
 3 | Wild Brian
@@ -332,9 +334,9 @@
 2 | Drunk at the Clam
 2 | Duke
 2 | Dummy Fight | 20
-2 | Ecstacy Francine
 2 | Eugenia Chatterteeth | 30
 2 | Evil Stepsister Stewie | 100
+2 | Evil Stepsister
 2 | Eyephone Fry | 100
 2 | Fake Son Gene | 90
 2 | Falcon Attack Quagmire | 70
@@ -476,7 +478,6 @@
 2 | Video Game Leela | 100
 2 | Walkman Boomhauer
 2 | Water Nympho
-2 | Wedding Luanne | 10
 2 | Whiskey Drunk Brian | 50
 2 | Wild Francine | 50
 2 | Wild Woman Jeff | 10
@@ -522,7 +523,6 @@
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
 1 | Empty Bowl Painting | 5
-1 | Evil Stepsister | 125
 1 | Family Fracas | 35
 1 | Farnsworth on Skiis | 125
 1 | Finch Hermes | 125
@@ -722,6 +722,7 @@
 0 | Drum Solo Quagmire | 35
 0 | American Giggolo | 35
 0 | Withdrawal Steve | 30
+0 | Water Gun Steve | 30
 0 | Tweaker Peter | 30
 0 | Stevie Wonderbra | 30
 0 | Stan's Grill | 30
@@ -795,4 +796,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-413950 | Mastery Stone
+385400 | Mastery Stone
