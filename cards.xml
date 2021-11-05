@@ -46768,6 +46768,126 @@
 		<skill id="pierce" x="13"/>
 	</upgrade>
 </unit>
+<unit>
+	<id>30117</id>
+	<name>Antique Mansion</name>
+	<picture>BB_AntiqueMansion</picture>
+	<asset_bundle>87</asset_bundle>
+	<release_time>1635703200</release_time>
+	<attack>6</attack>
+	<health>50</health>
+	<rarity>4</rarity>
+	<skill id="bunker" x="4"/>
+	<skill id="strike" x="5"/>
+	<skill id="poison" x="6"/>
+	<type>3</type>
+	<trait>rich</trait>
+	<set>3</set>
+	<upgrade>
+		<level>2</level>
+		<health>51</health>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<attack>7</attack>
+		<skill id="bunker" x="4"/>
+		<skill id="strike" x="6"/>
+		<skill id="poison" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>52</health>
+		<skill id="bunker" x="4"/>
+		<skill id="strike" x="6"/>
+		<skill id="poison" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>53</health>
+		<skill id="bunker" x="5"/>
+		<skill id="strike" x="6"/>
+		<skill id="poison" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<attack>8</attack>
+		<skill id="bunker" x="5"/>
+		<skill id="strike" x="7"/>
+		<skill id="poison" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>54</health>
+		<skill id="bunker" x="5"/>
+		<skill id="strike" x="7"/>
+		<skill id="poison" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>55</health>
+		<attack>9</attack>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<skill id="bunker" x="6"/>
+		<skill id="strike" x="8"/>
+		<skill id="poison" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>56</health>
+		<skill id="bunker" x="6"/>
+		<skill id="strike" x="8"/>
+		<skill id="poison" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>57</health>
+		<attack>10</attack>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<skill id="bunker" x="6"/>
+		<skill id="strike" x="9"/>
+		<skill id="poison" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>58</health>
+		<skill id="bunker" x="7"/>
+		<skill id="strike" x="9"/>
+		<skill id="poison" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>59</health>
+		<attack>11</attack>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<skill id="bunker" x="7"/>
+		<skill id="strike" x="10"/>
+		<skill id="poison" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>60</health>
+		<attack>12</attack>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>61</health>
+		<skill id="bunker" x="7"/>
+		<skill id="strike" x="11"/>
+		<skill id="poison" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<skill id="bunker" x="8"/>
+		<skill id="strike" x="11"/>
+		<skill id="poison" x="12"/>
+	</upgrade>
+</unit>
 	 	 
 	<!-- End Bob's Burgers Input -->	
 	<!-- Bob's Burgers Combos -->
