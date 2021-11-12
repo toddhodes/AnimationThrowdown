@@ -87,6 +87,7 @@
 3 | Eggnog Roger
 3 | Emu Wrangler
 3 | Evening Beer Dale
+3 | Evil Stepsister
 3 | Explorer Stan
 3 | Farnsworth's Cat
 3 | Fart School Louise
@@ -336,7 +337,6 @@
 2 | Dummy Fight | 20
 2 | Eugenia Chatterteeth | 30
 2 | Evil Stepsister Stewie | 100
-2 | Evil Stepsister
 2 | Eyephone Fry | 100
 2 | Fake Son Gene | 90
 2 | Falcon Attack Quagmire | 70
@@ -348,6 +348,7 @@
 2 | Gatsby Brian
 2 | Girl Next Door Stewie | 20
 2 | Goddess of Beauty | 50
+2 | Golden Blunt Wrapper | 95
 2 | Golf Club Amy | 100
 2 | Golfer Amy
 2 | Golfing Lois | 65
@@ -414,6 +415,7 @@
 2 | Pirate Cannon Peter | 30
 2 | Positron Shooter Fry | 20
 2 | Pottery Tina | 100
+2 | Prince Faisal
 2 | Principal Peter | 30
 2 | Private Brian | 100
 2 | Professor of Emerald Laboratory | 65
@@ -494,7 +496,7 @@
 1 | Anger Management Class | 80
 1 | Appetizer Addict Brian | 15
 1 | Artsy Tina | 5
-1 | Baseball Dale | 25
+1 | Baseball Dale | 35
 1 | Battle Axe Peggy | 5
 1 | Belcher Date Night | 115
 1 | Bender's Electric Eel | 125
@@ -535,6 +537,7 @@
 1 | Griffin and Quagmire | 5
 1 | Groupie Francine | 25
 1 | Guenter | 30
+1 | Gut Punch Zapp | 125
 1 | Half-Horse Peter | 55
 1 | High School Hank
 1 | Hipster Donald | 25
@@ -624,9 +627,9 @@
 0 | Rich Bobby | 130
 0 | Reverse Stink Hold | 130
 0 | Pumping Iron | 130
-0 | Prince Faisal | 130
 0 | Pot Brownies Jeff | 130
 0 | Party Crashers | 130
+0 | Pachinko Amy | 130
 0 | Nun Francine | 130
 0 | Mount Toy Gene | 130
 0 | Money Retriever | 130
@@ -638,7 +641,6 @@
 0 | Krav Maga Dale | 130
 0 | Hot Cocoa Louise | 130
 0 | Home School Chris | 130
-0 | Gut Punch Zapp | 130
 0 | Fried Chick | 130
 0 | Evening Beer Boomhauer | 130
 0 | Elf Fight Francine | 130
@@ -651,7 +653,6 @@
 0 | Armadillo Boomhauer | 130
 0 | Ancient Cave Writing | 130
 0 | Keyboard Joe | 125
-0 | Golden Blunt Wrapper | 125
 0 | Butt Closet | 125
 0 | Too High to Drive | 120
 0 | Slurm Queen | 120
@@ -684,6 +685,7 @@
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
 0 | I Get What I Want | 70
+0 | Art Student | 70
 0 | Top of the Pecking Order | 65
 0 | Paranoid Louise | 65
 0 | Cat Dragon | 65
@@ -737,6 +739,7 @@
 0 | Rocker Bullock | 30
 0 | Road Rage | 30
 0 | Rich Francine | 30
+0 | Pimp Peter | 30
 0 | Painter Klaus | 30
 0 | Mustache Maker | 30
 0 | Modest Painting | 30
@@ -796,4 +799,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-385400 | Mastery Stone
+286650 | Mastery Stone
