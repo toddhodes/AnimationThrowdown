@@ -49204,7 +49204,7 @@
 	  </upgrade>
 	  <upgrade>
 	    <level>17</level>
-	    <attack>17</attack>
+	    <attack>16</attack>
 	    <health>66</health>
 	    <skill id="strike" x="13"/>
 	    <skill id="leech" x="15"/>
