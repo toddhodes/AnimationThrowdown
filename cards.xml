@@ -17454,6 +17454,7 @@
 <unit>
 	<id>10105</id>
 	<name>Boppo the Clown</name>
+	<linked_card_id>1100020</linked_card_id>
 	<picture>FG_BoppoTheClown</picture>
 	<asset_bundle>87</asset_bundle>
 	<release_time>1637085600</release_time>
@@ -49627,7 +49628,7 @@
 	<unit>
         <id>35143</id>
         <name>Gaga Ball</name>
-        <desc></desc>
+        <desc>The last one in the pit wins!</desc>
         <picture>BB_GagaBallGene</picture>
         <asset_bundle>45</asset_bundle>
         <rarity>1</rarity>
@@ -80041,7 +80042,7 @@
 	<unit>
         <id>55133</id>
         <name>Skiing Leela</name>
-        <desc></desc> 
+        <desc>Thank god nuclear winter cancelled out global warming.</desc> 
         <picture>FR_SkiingLeela</picture>
         <asset_bundle>45</asset_bundle>
         <rarity>1</rarity>
@@ -80057,7 +80058,7 @@
 	<unit>
         <id>55134</id>
         <name>Skiing Zoidberg</name>
-        <desc></desc> 
+        <desc>Zoidberg on skis? Now that I'd like to see... Oh. Gross.</desc> 
         <picture>FR_SkiingZoidberg</picture>
         <asset_bundle>45</asset_bundle>
         <rarity>1</rarity>
@@ -81597,6 +81598,22 @@
         <skill id='leech' p='30' v='11'  />
         <skill id='poison'  p='30' v='10'/>
         <skill id='inspire' p='30' v='7' />
+    </unit> 
+    <unit>
+        <id>55234</id>
+        <name>Golden Bender</name>
+        <desc>Bite my glorious golden ass!</desc>
+        <picture>FR_GoldenBender</picture>
+        <asset_bundle>87</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>5</type>
+        <trait>rich</trait>
+        <attack_multiplier>0.69</attack_multiplier>
+        <health_multiplier>0.75</health_multiplier>
+        <skill id='bodyguard' p='30' v='8'  />
+        <skill id='armored'  p='30' v='11'/>
+        <skill id='rallyall' y='rich' p='50' v='5' />
     </unit> 
 <!-- END Futurama Combos -->
 
@@ -83729,6 +83746,51 @@
 			<level>9</level>
 			<skill id='rally' x='2' y='4' />
 			<health>13</health>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>60526</id>
+		<name>Secret Money</name>
+		<desc>The root of all evil/happiness.</desc>
+		<picture>generic_money</picture>
+		<asset_bundle>1</asset_bundle>
+		<rarity>1</rarity>
+		<set>9999</set>
+		<type>6</type>
+		<trait>rich</trait>
+		<attack>3</attack>
+		<health>3</health>
+		<upgrade>
+			<level>2</level>
+			<health>4</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<attack>4</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>5</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>6</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>5</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>7</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>8</health>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<attack>6</attack>
 		</upgrade>
 	</unit>
 <!-- Upgrade Boosts -->

@@ -205,6 +205,7 @@
 3 | Rapper Klaus
 3 | Red Rodriguez 2 Real
 3 | Responsible Cocaine User Bullock
+3 | Rich Bobby
 3 | Ricky Spanish
 3 | River Burned
 3 | Rodeo Bobby
@@ -406,7 +407,7 @@
 2 | NRA Member | 100
 2 | Nacho Addict Bender | 100
 2 | Nasal Spray Peter | 100
-2 | Nun Linda | 25
+2 | Nun Linda | 30
 2 | One Art Please | 30
 2 | Opera Singer Leela | 60
 2 | Paddlin' Peggy | 55
@@ -427,7 +428,7 @@
 2 | QB Boomhauer | 60
 2 | Quagmire's Cat James | 90
 2 | Rapture Stan | 55
-2 | Record Holder Stan | 30
+2 | Record Holder Stan | 60
 2 | Rich Leela | 100
 2 | Road Kill | 100
 2 | Roger Goes Down | 35
@@ -478,7 +479,7 @@
 2 | Vengeance Quagmire | 40
 2 | Victorian Knife Lois | 100
 2 | Victory Dance | 40
-2 | Video Game Leela | 100
+2 | Video Game Leela
 2 | Walkman Boomhauer
 2 | Water Nympho
 2 | Whiskey Drunk Brian | 50
@@ -546,6 +547,7 @@
 1 | Home School Peter | 125
 1 | Honey Mustache Stewie | 5
 1 | Honeybucket Student | 125
+1 | House Hunting Tours | 5
 1 | Jellybean Phone Klaus | 5
 1 | Joystick Steve | 110
 1 | Keyboardist Dale | 5
@@ -598,7 +600,7 @@
 1 | Slick'd Steve | 125
 1 | Snake Hunter | 90
 1 | Sneak Tackle Hank | 95
-1 | Space Queen | 115
+1 | Space Queen | 125
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 115
 1 | Steak Addict Bobby | 10
@@ -654,7 +656,6 @@
 0 | Beefsquatch | 130
 0 | Armadillo Boomhauer | 130
 0 | Ancient Cave Writing | 130
-0 | Rich Bobby | 125
 0 | Keyboard Joe | 125
 0 | Butt Closet | 125
 0 | Too High to Drive | 120
@@ -700,6 +701,7 @@
 0 | Male Leela | 60
 0 | Line Dancer Amy | 60
 0 | History Test Chris | 60
+0 | Fowl Fighter Linda | 60
 0 | Flying Machine Stewie | 60
 0 | Drunk Francine | 60
 0 | Baby Bender | 60
@@ -755,10 +757,10 @@
 0 | Gas Class | 30
 0 | Freshman Chris | 30
 0 | Francine Painting | 30
-0 | Fowl Fighter Linda | 30
 0 | Food Truck Bob | 30
 0 | Emcee Stewie | 30
 0 | Drunk Leela | 30
+0 | Drunk Hermes | 30
 0 | Dodgeball Louise | 30
 0 | Cinderella Lois | 30
 0 | Christian Rock | 30
@@ -799,4 +801,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-290150 | Mastery Stone
+317650 | Mastery Stone

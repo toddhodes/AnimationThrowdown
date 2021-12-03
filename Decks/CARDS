@@ -3,7 +3,7 @@
    1 E Free Weed Hayley: 5**
    1 E Life Drawing Hayley: 5
    1 E Opera Francine: 5**
-   1 E Roller Derby Hayley: 5
+   1 E Roller Derby Hayley: 5*
    2 E Roller Derby Hayley: 5**
    1 E Roller Derby Luanne: 5
    1 E Roller Derby Luanne: 5*
@@ -19,6 +19,7 @@
    8 L $300 Haircut: 6**
    9 L 3 Is More Than 4: 6**
    9 L 3004 Olympics: 6**
+   1 L 4 Skore: 1
    9 L 4 Skore: 6**
    1 L 80s Addicted Peter: 1
    1 L 80s Addicted Peter: 2*
@@ -34,6 +35,8 @@
    1 L Alamo Merch: 2*
    8 L Alamo Merch: 6**
    9 L Alien Bagpipes: 6**
+   1 L Alien Squish Toy: 2*
+   2 L Alien Squish Toy: 6**
    1 L Alpha House: 1
    1 L Alpha House: 2*
    5 L Alpha House: 6**
@@ -41,6 +44,7 @@
    1 L Anti-Seizure Meds: 1
    8 L Anti-Seizure Meds: 6**
    1 L Antichrist: 2*
+   1 L Antique Mansion: 1
    1 L Antique Mansion: 6**
    1 L Antique Robots: 2*
    5 L Antique Robots: 6**
@@ -57,9 +61,7 @@
    1 L Arts and Crafts Bob: 1
    5 L Arts and Crafts Bob: 6**
    2 L Assassin Bender: 6**
-   1 L Atlantic City Gambler: 1
-   1 L Atlantic City Gambler: 2*
-   5 L Atlantic City Gambler: 6**
+   6 L Atlantic City Gambler: 6**
    4 L Baby Step Huddle: 6**
    2 L Bacon Weight: 6**
    5 L Badminton Roger: 6**
@@ -89,14 +91,12 @@
    3 L Bender's Clowns: 6**
    1 L Bender's Ducklings: 1
   15 L Bender's Ducklings: 6**
-   1 L Bender: 1
+   2 L Bender: 6*
    9 L Bender: 6**
    1 L BenderIsGreat34: 1
    1 L Bending School Grad: 2*
    3 L Bending School Grad: 6**
-   1 L Bending School: 1
-   1 L Bending School: 2*
-   8 L Bending School: 6**
+   9 L Bending School: 6**
    9 L Bernadette Baker: 6**
    1 L Best You Trophy: 2*
    7 L Best You Trophy: 6**
@@ -125,6 +125,7 @@
    1 L Bleakened Gene: 1
    1 L Bleakened Gene: 2*
    1 L Bleakened Gene: 6**
+   1 L Blernsball: 1
    9 L Blernsball: 6**
    4 L Bloody Mary Mix: 6**
    9 L Bob: 6**
@@ -141,6 +142,9 @@
    9 L Book of Spells: 6**
    9 L Boomhauer: 6**
    1 L Booty Shaking Drunk: 2*
+   1 L Boppo the Clown: 1
+   1 L Boppo the Clown: 2*
+   1 L Boppo the Clown: 6**
    1 L Bouncy Fun Castle: 2*
    8 L Bouncy Fun Castle: 6**
    1 L Bounty Hunter Roger: 1
@@ -156,13 +160,13 @@
    4 L Brian Statue: 6**
    1 L Brian The Home Invader Lewis: 1
    1 L Brian The Home Invader Lewis: 2*
-   1 L Brian: 1
+   1 L Brian: 6
    9 L Brian: 6**
    3 L Broken Society: 6**
    1 L Bruce the Goose: 1
    1 L Bruce the Goose: 2*
    2 L Buff Fry: 6**
-   1 L Bullock: 1
+   1 L Bullock: 6
    9 L Bullock: 6**
    1 L Bunny Costume: 6**
    1 L Burger Addict Teddy: 1
@@ -177,6 +181,7 @@
    1 L CIA Student: 6**
    1 L Cadet Hill: 2*
    4 L Candy Cane Gun: 6**
+   1 L Candy Tornado: 2*
    7 L Candy Tornado: 6**
    1 L Capoeira Reginald: 2*
    3 L Capoeira Reginald: 6**
@@ -200,6 +205,7 @@
    1 L Chicken Fight: 2*
    2 L Chicken Fight: 6**
    4 L Children's Author: 6**
+   1 L Chip II: 1
    1 L Chip II: 2*
    5 L Chip II: 6**
    9 L Chip: 6**
@@ -255,6 +261,7 @@
    1 L Death Metal Meg: 1
   10 L Death Metal Meg: 6**
    8 L Deathball: 6**
+   1 L Delivery Cycling: 2*
    9 L Delivery Cycling: 6**
    3 L Diamond Bracelet: 6**
    8 L Diamond Crusher: 6**
@@ -299,8 +306,10 @@
    1 L Equestranaut Costume: 1
    1 L Equestranaut Costume: 2*
    4 L Equestranaut Costume: 6**
+   1 L Eugene Belcher: 6
    9 L Eugene Belcher: 6**
    2 L Eugenia Chatterteeth: 6**
+   1 L Evil Monkey: 1
    1 L Evil Monkey: 2*
    3 L Evil Monkey: 6**
    6 L Exercising Minh: 6**
@@ -324,8 +333,9 @@
    1 L Fever Dreams: 2*
    7 L Fever Dreams: 6**
    3 L Fighter Pilot Slap Fight: 6**
-   1 L Film Scissors: 1
+   1 L Film Scissors: 2*
    8 L Film Scissors: 6**
+   1 L Fine Wine Ida: 2*
    7 L Fine Wine Ida: 6**
    1 L Finger Gun Gayle: 2*
    8 L Finger Gun Gayle: 6**
@@ -340,6 +350,7 @@
    9 L Food-O-Matic Martinis: 6**
    1 L Forger's Equipment: 1
    5 L Forger's Equipment: 6**
+   1 L Francine Smith: 6
    9 L Francine Smith: 6**
    2 L Frat Boy Terrorists: 6**
    1 L Freezer Burn: 6**
@@ -418,7 +429,7 @@
    4 L Himalayan Observatory Monks: 6**
    5 L Hip Hop Bob: 6**
    1 L History Test Chris: 1
-   1 L Holiday Punch: 1
+   1 L Holiday Punch: 2*
    8 L Holiday Punch: 6**
    1 L Holographic Washington: 1
    1 L Holographic Washington: 6**
@@ -437,6 +448,7 @@
    1 L Hottyz Bill: 6**
    1 L Hottyz Luanne: 1
    2 L Hottyz Salon: 6**
+   1 L House Hunting Tours: 6**
    2 L Human Horn: 6**
    8 L Hypnotoad: 6**
    9 L I Hate Old People: 6**
@@ -451,10 +463,13 @@
    1 L Intestine Horn: 1
    1 L Intestine Horn: 2*
    5 L Intestine Horn: 6**
+   1 L Iraq Lobster: 1
    8 L Iraq Lobster: 6**
    9 L Italian Teacher: 6**
+   1 L Jacked on Bots: 1
    9 L Jacked on Bots: 6**
   13 L Jacuzzi Drinks Hank: 6**
+   1 L James Woods High School: 1
    9 L James Woods High School: 6**
    1 L Jar of Change: 1
    1 L Jar of Change: 2*
@@ -480,6 +495,7 @@
    8 L K Pop Joe: 6**
    2 L K Pop Peter: 6**
    9 L K Pop Video: 6**
+   1 L Karaoke Morbo: 1
    1 L Karaoke Morbo: 2*
    5 L Karaoke Morbo: 6**
    1 L Karaoke Principal: 1
@@ -540,6 +556,7 @@
    1 L Line Dancer Fry: 1
    1 L Little King Trashmouth: 6*
    9 L Lois Griffin: 6**
+   1 L Long Stick with Sharp Rock: 1
    1 L Long Stick with Sharp Rock: 2*
    7 L Long Stick with Sharp Rock: 6**
    7 L Lord Griffin: 6**
@@ -588,6 +605,7 @@
    4 L Mind Switcher Farnsworth: 6**
    1 L Mini Car Racing: 1
    8 L Mini Car Racing: 6**
+   1 L Mint Julep: 2*
    9 L Mint Julep: 6**
    1 L Miss Merkin: 2*
    5 L Miss Merkin: 6**
@@ -635,6 +653,7 @@
    7 L Napkin Art: 6**
    1 L Neptunian Slug: 2*
    2 L Neptunian Slug: 6**
+   1 L Nerd Science Contest: 1
    1 L Nerd Science Contest: 2*
    7 L Nerd Science Contest: 6**
    8 L New Brian: 6**
@@ -665,6 +684,7 @@
    8 L Orange Belt Arnold: 6**
    5 L Paintball Dale: 6**
    2 L Paintball Hank: 6**
+   1 L Pantry Guns: 1
    9 L Pantry Guns: 6**
    1 L Party All the Time: 1
    2 L Party All the Time: 6**
@@ -681,6 +701,7 @@
   20 L Peter with a Knife: 6**
    1 L Peter's Drawing: 1
    8 L Peter's Drawing: 6**
+   1 L Peter: 6
    9 L Peter: 6**
    9 L Pewterschmidt Mansion: 6**
   11 L PhD Amy: 6**
@@ -688,6 +709,7 @@
   19 L PhD Peggy: 6**
    1 L Pharoah Pianist: 1
    4 L Pharoah Pianist: 6**
+   1 L Philip J. Fry: 6*
    9 L Philip J. Fry: 6**
    1 L Pie Addict Chris: 2*
   13 L Pie Addict Chris: 6**
@@ -753,14 +775,14 @@
    9 L Rex: 6**
    1 L Rifle Club: 1
    3 L Rifle Club: 6**
+   2 L Robo Tina: 6**
    5 L Robot Devil Band: 6**
    1 L Robot Fox: 1
    1 L Robot Fox: 2*
    4 L Robot Fox: 6**
    1 L Rodeo Bobby: 2*
    1 L Rodeo Bobby: 6**
-   1 L Roger Epstein Music: 2*
-   6 L Roger Epstein Music: 6**
+   7 L Roger Epstein Music: 6**
    9 L Roger's Closet: 6**
    9 L Roger's Sexy Shorts: 6**
    9 L Roger: 6**
@@ -772,12 +794,11 @@
    8 L Rusty: 6**
    1 L Sacred Daggers: 2*
    4 L Sacred Daggers: 6**
+   1 L Sacrificial Robot Goat: 1
    1 L Sacrificial Robot Goat: 2*
    7 L Sacrificial Robot Goat: 6**
    1 L Sad Clown: 2*
-   1 L Salad Shooter: 1
-   1 L Salad Shooter: 2*
-   5 L Salad Shooter: 6**
+   7 L Salad Shooter: 6**
    2 L Sandwitch: 6**
    2 L Santa Killer Steve: 6**
    1 L Scary Mask: 1
@@ -794,6 +815,7 @@
    1 L Sewer Surfer Bender: 6**
    9 L Sewer Surfer Fry: 6**
    1 L Sexy Dance Fighting: 6**
+   1 L Shakespeare Calculon: 1
    8 L Shakespeare Calculon: 6**
    8 L Sheldon: 6**
    1 L Sherlock Zoidberg: 1
@@ -806,6 +828,7 @@
    1 L Shuttlecock Ring: 1
    1 L Shuttlecock Ring: 6**
    6 L Signature Cocktail: 6**
+   1 L Silver Paint Disguise: 1
    3 L Silver Paint Disguise: 6**
    9 L Ski Mask: 6**
    8 L Skiing Leela: 6**
@@ -862,6 +885,7 @@
    1 L Stewie's Tricycle: 1
    1 L Stewie's Tricycle: 2*
   20 L Stewie's Tricycle: 6**
+   1 L Stewie: 6
    9 L Stewie: 6**
    1 L Stickin' Khan: 2*
    3 L Stickin' Khan: 6**
@@ -870,6 +894,7 @@
    1 L Strategist Zapp: 2*
    9 L Strategist Zapp: 6**
    8 L Student Lucky: 6**
+   1 L Stuffington Academy: 1
    1 L Stuffington Academy: 2*
    7 L Stuffington Academy: 6**
    1 L Stuffington Roger: 1
@@ -917,7 +942,8 @@
    2 L Theater: 6**
    8 L Thunder Cocktails: 6**
    2 L Time for Hard Liquor: 6**
-   1 L Tina: 1
+   1 L Tina: 6
+   1 L Tina: 6*
    9 L Tina: 6**
    4 L Tinfoil: 6**
    9 L Toad Licking: 6**
@@ -958,6 +984,7 @@
    9 L Vitruvian Man: 6**
    9 L Vodka Beer: 6**
    9 L Wagstaff Whaler: 6**
+   1 L Walking Man Exhibit: 1
    8 L Walking Man Exhibit: 6**
    1 L Walkman Boomhauer: 1
    2 L Walkman Boomhauer: 6**
@@ -966,6 +993,8 @@
    1 L Wedding Luanne: 1
    1 L Wedding Luanne: 6**
    8 L Western Lewis: 6**
+   1 L Whack-A-Toe: 2*
+   1 L Whack-A-Toe: 6**
    1 L Whale Hunter Amy: 6**
    1 L Wheelie Mammoth: 1
    3 L Wheelie Mammoth: 6**
@@ -987,8 +1016,9 @@
    5 L Wizard Greyfarn: 6**
    9 L Wizard Mop: 6**
   16 L Wolf Jeff: 6**
-   1 L Wong Casino: 1
+   1 L Wong Casino: 2*
    8 L Wong Casino: 6**
+   1 L Wongminster Mini Golf: 1
    1 L Wongminster Mini Golf: 2*
    8 L Wood Chuck: 6**
    9 L Wooly Neptunes: 6**
@@ -1001,10 +1031,10 @@
    1 L Zapp Brannigan Portrait: 2*
    6 L Zapp Brannigan Portrait: 6**
    9 L Zapp Brannigan: 6**
-   3 L Zapp Figurines: 6**
+   8 L Zapp Figurines: 6**
    1 M Amy: 6**
    1 M Anti-Seizure Meds: 7*
-   1 M Antique Mansion: 1
+   1 M Antique Mansion: 6
    1 M Atlantic City Gambler: 6
    1 M Bender: 7**
    1 M Beta House: 7
@@ -1014,7 +1044,7 @@
    1 M Boomhauer: 5**
    1 M Brau Beer: 6
    1 M Brian: 5**
-   1 M Bullock: 2**
+   1 M Bullock: 3**
    1 M CD Warehouse: 5
    1 M Candy Tornado: 1*
    1 M Chris: 7**
@@ -1045,6 +1075,7 @@
    1 M Kiki: 5*
    1 M Klaus: 2**
    1 M Leela: 7**
+   1 M Linda Belcher: 2
    1 M Lois: 7**
    1 M Louise: 7**
    1 M Luanne: 3**
@@ -1066,7 +1097,7 @@
    1 M Roger: 5**
    1 M Rupert Recalls: 6
    1 M Salad Shooter: 2*
-   1 M Signature Cocktail: 7
+   1 M Signature Cocktail: 2*
    1 M Silver Paint Disguise: 6
    1 M Sledding Jesus: 2*
    1 M Smithsimian Art Gallery: 2*
