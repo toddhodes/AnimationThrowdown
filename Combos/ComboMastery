@@ -160,6 +160,7 @@
 3 | Michael Dangle-low
 3 | Military Tux Bill
 3 | Mission Doctor
+3 | Mount Toy Gene
 3 | Mowing While Intoxicated
 3 | Music Teacher Lois
 3 | Music Video Stewie
@@ -263,6 +264,7 @@
 3 | VR Gaming Bobby
 3 | Vacation Chris
 3 | Video Game Addict Hank
+3 | Video Game Leela
 3 | Viking Peter
 3 | Walkie Talkie Teddy
 3 | War Horse
@@ -379,13 +381,14 @@
 2 | Karaoke Zapp | 85
 2 | Karate Stewie
 2 | Katz | 35
-2 | Kawaii Klaus | 95
+2 | Kawaii Klaus | 100
 2 | Kitchen Knife Snot | 30
 2 | Klaus's Fish Wife | 20
 2 | Klepto Bender
 2 | Kuchi Kopi Sculptor | 5
 2 | Lab Student Meg | 100
 2 | Laser Razor
+2 | Last Minute Shopper Brian
 2 | Leela Balloon Art
 2 | Life Drawing Hayley | 10
 2 | Little King Trashmouth | 80
@@ -431,6 +434,7 @@
 2 | Record Holder Stan | 60
 2 | Rich Leela | 100
 2 | Road Kill | 100
+2 | Robo Tina | 5
 2 | Roger Goes Down | 35
 2 | Rough Night Stan | 30
 2 | S and M Lois | 65
@@ -479,7 +483,6 @@
 2 | Vengeance Quagmire | 40
 2 | Victorian Knife Lois | 100
 2 | Victory Dance | 40
-2 | Video Game Leela
 2 | Walkman Boomhauer
 2 | Water Nympho
 2 | Whiskey Drunk Brian | 50
@@ -550,7 +553,7 @@
 1 | House Hunting Tours | 5
 1 | Jellybean Phone Klaus | 5
 1 | Joystick Steve | 110
-1 | Keyboardist Dale | 5
+1 | Keyboardist Dale | 25
 1 | Kidney Killer | 25
 1 | Klaus's Comic | 25
 1 | Lady Bird | 65
@@ -570,6 +573,7 @@
 1 | Nigerian Prince
 1 | Old Steve | 30
 1 | Owl Stewie | 5
+1 | Pachinko Amy | 125
 1 | Paintball Boomhauer | 125
 1 | Party Beer Implant | 5
 1 | Pesto Jeff | 125
@@ -633,15 +637,12 @@
 0 | Pumping Iron | 130
 0 | Pot Brownies Jeff | 130
 0 | Party Crashers | 130
-0 | Pachinko Amy | 130
 0 | Nun Francine | 130
-0 | Mount Toy Gene | 130
 0 | Money Retriever | 130
 0 | Mind Switcher Amy | 130
 0 | Maxi Paddy | 130
 0 | Maracas Peter | 130
 0 | Love Potion | 130
-0 | Last Minute Shopper Brian | 130
 0 | Krav Maga Dale | 130
 0 | Hot Cocoa Louise | 130
 0 | Home School Chris | 130
@@ -689,6 +690,7 @@
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
 0 | I Get What I Want | 70
+0 | Dojo Quagmire | 70
 0 | Art Student | 70
 0 | Top of the Pecking Order | 65
 0 | Paranoid Louise | 65
@@ -801,4 +803,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-317650 | Mastery Stone
+303150 | Mastery Stone
