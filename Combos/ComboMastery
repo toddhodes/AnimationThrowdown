@@ -14,6 +14,7 @@
 3 | Ballet Meg
 3 | Balloon Fight
 3 | Balloon Tosser
+3 | Bamboo Boogie Boots Hermes
 3 | Baseball Beers
 3 | Baseball Chris
 3 | Bedtime Doll Hayley
@@ -288,7 +289,6 @@
 2 | Bad Tina | 100
 2 | Bakaneko Fighter Louise
 2 | Balloon Sniper | 100
-2 | Bamboo Boogie Boots Hermes
 2 | Baseball Bobby | 15
 2 | Beer Bottle Toast | 10
 2 | Beer Helmet | 45
@@ -315,7 +315,7 @@
 2 | Cheerleader Peggy | 80
 2 | Chef Cat Binge | 5
 2 | Chicken Fight | 45
-2 | Children's Author | 100
+2 | Children's Author
 2 | Chosen Brain Fry
 2 | Chris Painting
 2 | Church Wine Drunk | 100
@@ -449,7 +449,7 @@
 2 | Sleighing Tonight
 2 | Slip 'n Slide Bob | 100
 2 | Slow Dance Jimmy Jr. | 25
-2 | Smoke Bomb | 20
+2 | Smoke Bomb | 100
 2 | Snake Scarf Bob | 70
 2 | Softball Lois | 100
 2 | Space Cadet Chris | 70
@@ -463,7 +463,7 @@
 2 | Stuffington Roger | 100
 2 | Super Dance Squad
 2 | Survival Crafter Hank
-2 | Swim Lesson | 20
+2 | Swim Lesson | 30
 2 | Swing Dance Luanne | 90
 2 | Swole Amy | 5
 2 | Tattooed Fat Guy | 30
@@ -621,7 +621,7 @@
 1 | Torah Snot | 20
 1 | Treasure Hunter Peter | 15
 1 | Water Polo Steve | 5
-1 | Xerxes the Falcon | 25
+1 | Xerxes the Falcon | 65
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
 0 | Zac Sawyer | 130
@@ -681,6 +681,7 @@
 0 | Deer Daddy Steve | 85
 0 | Dance Party Bobby | 85
 0 | Spaceship Pilot | 80
+0 | Song and Dance Stewie | 80
 0 | More Forever | 80
 0 | Mathy Cathy | 80
 0 | Beer Funnel Peter | 80
@@ -714,6 +715,7 @@
 0 | Steve Crossing the Alps | 50
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
+0 | Flamethrower Stewie | 50
 0 | Rabbit Fight | 45
 0 | Football Stewie | 45
 0 | Young Hermes | 40
@@ -804,4 +806,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-324250 | Mastery Stone
+332800 | Mastery Stone
