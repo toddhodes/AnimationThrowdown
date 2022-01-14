@@ -45,6 +45,7 @@
 3 | Champagne Toast Leela
 3 | Chef Cat Munchies
 3 | Chick-Chicken Chick Fight
+3 | Children's Author
 3 | Christmas Punchout
 3 | Christmas Trap
 3 | Chunky Blast Offs
@@ -85,6 +86,7 @@
 3 | Drunk Peggy
 3 | Drunk Peter
 3 | Drunk Stan
+3 | Drunk at the Clam
 3 | Ecstacy Francine
 3 | Eggnog Roger
 3 | Emu Wrangler
@@ -128,6 +130,7 @@
 3 | Hip Hop Bob
 3 | Home Ec Teacher
 3 | Hot Cocoa Tina
+3 | Humplings
 3 | Ice Cream Gene
 3 | Jacuzzi Drinks Hank
 3 | Jealous Bobby
@@ -294,15 +297,15 @@
 2 | Beer Helmet | 45
 2 | Beer Snot | 95
 2 | Bender in Love | 80
-2 | Bender's Orphanarium | 60
+2 | Bender's Orphanarium | 70
 2 | Betting it All
-2 | Bible Study | 35
+2 | Bible Study | 75
 2 | Blueberry Picker | 100
 2 | Bob's Pigeon Bath | 100
 2 | Bong Rips Francine | 75
 2 | Boy Crazy | 25
 2 | Buff Fry
-2 | Burgers and Fries Louise | 20
+2 | Burgers and Fries Louise | 30
 2 | CIA Student | 85
 2 | Captain Bender | 50
 2 | Captain Feathers
@@ -315,7 +318,6 @@
 2 | Cheerleader Peggy | 80
 2 | Chef Cat Binge | 5
 2 | Chicken Fight | 45
-2 | Children's Author
 2 | Chosen Brain Fry
 2 | Chris Painting
 2 | Church Wine Drunk | 100
@@ -338,8 +340,7 @@
 2 | Down to the Bone | 55
 2 | Draw Me Gene
 2 | Draw Me Tina | 70
-2 | Dream Guitar | 50
-2 | Drunk at the Clam
+2 | Dream Guitar | 100
 2 | Duke
 2 | Dummy Fight | 20
 2 | Eugenia Chatterteeth | 30
@@ -373,7 +374,6 @@
 2 | Hot Cocoa Gene | 50
 2 | Hottyz Bill | 30
 2 | Hottyz Luanne
-2 | Humplings | 100
 2 | Hunky Killer Louise | 50
 2 | I Like Beer | 20
 2 | I am Mona
@@ -384,8 +384,9 @@
 2 | Katz | 35
 2 | Kawaii Klaus | 100
 2 | Kitchen Knife Snot | 30
+2 | Klaus's Comic
 2 | Klaus's Fish Wife | 20
-2 | Klepto Bender
+2 | Klepto Bender | 30
 2 | Kuchi Kopi Sculptor | 5
 2 | Lab Student Meg | 100
 2 | Laser Razor
@@ -420,7 +421,7 @@
 2 | Ping Pong Brian
 2 | Pirate Cannon Peter | 30
 2 | Positron Shooter Fry | 20
-2 | Pottery Tina | 100
+2 | Pottery Tina
 2 | Principal Peter | 30
 2 | Private Brian | 100
 2 | Professor of Emerald Laboratory | 65
@@ -489,7 +490,7 @@
 2 | Whiskey Drunk Brian | 50
 2 | Wild Francine | 50
 2 | Wild Woman Jeff | 10
-2 | Will of a Housewife
+2 | Will of a Housewife | 10
 2 | Wine & Paint Quagmire | 90
 2 | Wine Tasting Linda | 50
 2 | Working Girl Tina | 65
@@ -511,7 +512,7 @@
 1 | Body Paint Date | 5
 1 | Boombox Teddy
 1 | Booty Shaking Drunk | 125
-1 | Boxing Luanne | 20
+1 | Boxing Luanne | 80
 1 | Burobu Addict | 75
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
@@ -556,7 +557,6 @@
 1 | Joystick Steve | 110
 1 | Keyboardist Dale | 25
 1 | Kidney Killer | 25
-1 | Klaus's Comic | 25
 1 | Lady Bird | 65
 1 | Laser Tag Brian | 125
 1 | Laser Tag Quagmire | 125
@@ -578,6 +578,7 @@
 1 | Paintball Boomhauer | 125
 1 | Party Beer Implant | 5
 1 | Pesto Jeff | 125
+1 | Photographer Bender
 1 | Playlist Meg
 1 | Polling Peggy | 55
 1 | Poppler Addict Leela | 10
@@ -671,6 +672,7 @@
 0 | Workout Klaus | 105
 0 | Skydiver Quagmire | 105
 0 | Santa Bender | 105
+0 | Roller Derby Luanne | 105
 0 | Heavenly Hank | 105
 0 | Delivery Boy | 105
 0 | Francine Roger | 100
@@ -722,10 +724,10 @@
 0 | Texting Addict Stan | 40
 0 | Swimmer Tina | 40
 0 | Skydiving Peggy | 40
-0 | Roller Derby Luanne | 40
 0 | Pick Up Lines | 40
 0 | Perfectly Symmetrical Violence | 40
 0 | Oktoberfest Fry | 40
+0 | Modest Painting | 40
 0 | Drunk Fry | 40
 0 | Dodgeball Meg | 40
 0 | Party Board | 35
@@ -752,7 +754,6 @@
 0 | Pimp Peter | 30
 0 | Painter Klaus | 30
 0 | Mustache Maker | 30
-0 | Modest Painting | 30
 0 | Mascot Race | 30
 0 | Karate Francine | 30
 0 | Junkie Hank | 30
@@ -794,16 +795,17 @@
 0 | Sniper Stewie | 10
 0 | Secret Asian Man | 10
 0 | Scooty-Puff Jr | 10
+0 | Pirate Car Peter | 10
 0 | Nude Painting Bullock | 10
 0 | Model Builder Roger | 10
+0 | Glitter Spray | 10
 0 | Cyclist Peggy | 10
 0 | Cheerleader Lois | 10
 0 | Butt Slapper Bobby | 10
 0 | Trippy Farnsworth | 5
 0 | Rich Dress Leela | 5
-0 | Photographer Bender | 5
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-332800 | Mastery Stone
+329100 | Mastery Stone
