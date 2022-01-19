@@ -49,6 +49,7 @@
 3 | Christmas Punchout
 3 | Christmas Trap
 3 | Chunky Blast Offs
+3 | Church Wine Drunk
 3 | Cigarette Addicts
 3 | Class Spanker
 3 | Claw-Plach Fry
@@ -201,6 +202,7 @@
 3 | Poppler Jingle Bender
 3 | Postal Lois
 3 | Pot Brownies Klaus
+3 | Pottery Tina
 3 | Power Choir Roger
 3 | Prince Charming Peter
 3 | Prince Faisal
@@ -320,7 +322,6 @@
 2 | Chicken Fight | 45
 2 | Chosen Brain Fry
 2 | Chris Painting
-2 | Church Wine Drunk | 100
 2 | Cigar Stan | 15
 2 | Claw Machine | 20
 2 | Clothes Made of Cash | 20
@@ -421,12 +422,11 @@
 2 | Ping Pong Brian
 2 | Pirate Cannon Peter | 30
 2 | Positron Shooter Fry | 20
-2 | Pottery Tina
 2 | Principal Peter | 30
 2 | Private Brian | 100
 2 | Professor of Emerald Laboratory | 65
 2 | Prom Beer Joe | 85
-2 | Prom Luanne | 10
+2 | Prom Luanne | 50
 2 | Propane Sculpture | 20
 2 | Q.T. McWhiskers | 70
 2 | QB Boomhauer | 60
@@ -541,6 +541,7 @@
 1 | Frykowski | 85
 1 | Garden Shovel Bobby | 125
 1 | Gargoyle Hunter | 5
+1 | Glitter Spray | 5
 1 | Griffin and Quagmire | 5
 1 | Groupie Francine | 25
 1 | Guenter | 30
@@ -567,7 +568,6 @@
 1 | Meg's Evil Monkey | 125
 1 | Meg's In Charge | 10
 1 | Model Lois | 5
-1 | Motivational Poster | 125
 1 | Mount Toy Louise | 20
 1 | Mr. Deliver | 125
 1 | Never Have I Ever | 80
@@ -652,6 +652,7 @@
 0 | Evening Beer Boomhauer | 130
 0 | Elf Fight Francine | 130
 0 | Douchebag Chris | 130
+0 | Dojo Quagmire | 130
 0 | DJ Klaus | 130
 0 | Cubert Farnsworth | 130
 0 | Bouldering Bob | 130
@@ -694,7 +695,6 @@
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
 0 | I Get What I Want | 70
-0 | Dojo Quagmire | 70
 0 | Art Student | 70
 0 | Top of the Pecking Order | 65
 0 | Paranoid Louise | 65
@@ -798,8 +798,8 @@
 0 | Pirate Car Peter | 10
 0 | Nude Painting Bullock | 10
 0 | Model Builder Roger | 10
-0 | Glitter Spray | 10
 0 | Cyclist Peggy | 10
+0 | Cuddly Little Pet Slinky | 10
 0 | Cheerleader Lois | 10
 0 | Butt Slapper Bobby | 10
 0 | Trippy Farnsworth | 5
@@ -808,4 +808,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-329100 | Mastery Stone
+321100 | Mastery Stone

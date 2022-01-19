@@ -17890,7 +17890,7 @@
 	<name>Workout</name>
 	<picture>FG_WorkoutPeter</picture>
 	<asset_bundle>54</asset_bundle>
-	<release_time>1643652000</release_time>
+	<release_time>1642442400</release_time> <!-- old time 1643652000 -->
 	<attack>11</attack>
 	<health>40</health>
 	<rarity>4</rarity>
@@ -32306,7 +32306,7 @@
 	<name>Farm Toughness</name>
 	<picture>AD_FarmToughness</picture>
 	<asset_bundle>88</asset_bundle>
-	<release_time>1643652000</release_time>
+	<release_time>1642442400</release_time> <!-- old time 1643652000 -->
 	<attack>12</attack>
 	<health>37</health>
 	<rarity>4</rarity>
@@ -48632,7 +48632,7 @@
 	<name>Cardboard Rowing Boats</name>
 	<picture>BB_CardboardRowingBoats</picture>
 	<asset_bundle>88</asset_bundle>
-	<release_time>1643652000</release_time>
+	<release_time>1642442400</release_time> <!-- old time 1643652000 -->
 	<attack>12</attack>
 	<health>37</health>
 	<rarity>4</rarity>
@@ -80153,7 +80153,7 @@
 	<name>Space Sewer Surfer</name>
 	<picture>FR_SpaceSewerSurfer</picture>
 	<asset_bundle>88</asset_bundle>
-	<release_time>1643652000</release_time>
+	<release_time>1642442400</release_time> <!-- old time 1643652000 -->
 	<attack>11</attack>
 	<health>36</health>
 	<rarity>4</rarity>
