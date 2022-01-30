@@ -166,7 +166,9 @@
 3 | Michael Dangle-low
 3 | Military Tux Bill
 3 | Mission Doctor
+3 | Motivational Poster
 3 | Mount Toy Gene
+3 | Mountain Climber Peter
 3 | Mowing While Intoxicated
 3 | Music Teacher Lois
 3 | Music Video Stewie
@@ -301,7 +303,7 @@
 2 | Bender in Love | 80
 2 | Bender's Orphanarium | 70
 2 | Betting it All
-2 | Bible Study | 75
+2 | Bible Study | 90
 2 | Blueberry Picker | 100
 2 | Bob's Pigeon Bath | 100
 2 | Bong Rips Francine | 75
@@ -320,7 +322,7 @@
 2 | Cheerleader Peggy | 80
 2 | Chef Cat Binge | 5
 2 | Chicken Fight | 45
-2 | Chosen Brain Fry
+2 | Chosen Brain Fry | 100
 2 | Chris Painting
 2 | Cigar Stan | 15
 2 | Claw Machine | 20
@@ -352,11 +354,11 @@
 2 | Falconer Hayley | 35
 2 | Fashion Fight
 2 | Finch Leela | 100
-2 | Fry's Macaroni Art | 30
+2 | Fry's Macaroni Art | 50
 2 | Garbage Shot Linda | 60
 2 | Gatsby Brian
 2 | Girl Next Door Stewie | 20
-2 | Goddess of Beauty | 50
+2 | Goddess of Beauty | 60
 2 | Golden Blunt Wrapper | 95
 2 | Golf Club Amy | 100
 2 | Golfer Amy
@@ -406,8 +408,7 @@
 2 | Mike Pulaski | 95
 2 | Mind Switcher Farnsworth | 100
 2 | Mocktrial Louise
-2 | More Anchovies | 90
-2 | Mountain Climber Peter | 70
+2 | More Anchovies | 100
 2 | Mural Restorer | 100
 2 | NRA Member | 100
 2 | Nacho Addict Bender | 100
@@ -418,6 +419,7 @@
 2 | Paddlin' Peggy | 100
 2 | Paintball Dale | 40
 2 | Paintball Hank | 5
+2 | Painter Zoidberg | 20
 2 | Pan Flute Stewie | 70
 2 | Ping Pong Brian
 2 | Pirate Cannon Peter | 30
@@ -426,7 +428,7 @@
 2 | Private Brian | 100
 2 | Professor of Emerald Laboratory | 65
 2 | Prom Beer Joe | 85
-2 | Prom Luanne | 50
+2 | Prom Luanne | 70
 2 | Propane Sculpture | 20
 2 | Q.T. McWhiskers | 70
 2 | QB Boomhauer | 60
@@ -512,7 +514,7 @@
 1 | Body Paint Date | 5
 1 | Boombox Teddy
 1 | Booty Shaking Drunk | 125
-1 | Boxing Luanne | 80
+1 | Boxing Luanne | 65
 1 | Burobu Addict | 75
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
@@ -541,7 +543,7 @@
 1 | Frykowski | 85
 1 | Garden Shovel Bobby | 125
 1 | Gargoyle Hunter | 5
-1 | Glitter Spray | 5
+1 | Glitter Spray | 35
 1 | Griffin and Quagmire | 5
 1 | Groupie Francine | 25
 1 | Guenter | 30
@@ -590,6 +592,7 @@
 1 | Ready for Santa | 95
 1 | Rich Hayley | 5
 1 | Roach Coach Francine | 55
+1 | Robot Making Fry | 25
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
 1 | Running Back Hank | 110
@@ -629,6 +632,7 @@
 0 | Tuning Fork | 130
 0 | Tranq Gun Steve | 130
 0 | Towel Manager Dale | 130
+0 | Tentacle Bishop | 130
 0 | Sniper Zoidberg | 130
 0 | Sexy Lifeguard | 130
 0 | Sexy Cat | 130
@@ -664,16 +668,17 @@
 0 | Butt Closet | 125
 0 | Too High to Drive | 120
 0 | Slurm Queen | 120
+0 | Shipping King Zoidberg | 120
 0 | Powderpuff | 120
 0 | Electric Love | 120
 0 | Wheels Steve | 115
+0 | Roller Derby Luanne | 115
 0 | Rastafarian Jingle Hayley | 115
 0 | High Roller Stewie | 115
 0 | Furry Bullock | 115
 0 | Workout Klaus | 105
 0 | Skydiver Quagmire | 105
 0 | Santa Bender | 105
-0 | Roller Derby Luanne | 105
 0 | Heavenly Hank | 105
 0 | Delivery Boy | 105
 0 | Francine Roger | 100
@@ -688,6 +693,7 @@
 0 | More Forever | 80
 0 | Mathy Cathy | 80
 0 | Beer Funnel Peter | 80
+0 | Rich Dress Leela | 75
 0 | Martini Peggy | 75
 0 | Doomsday Surplus | 75
 0 | Zinc Saucier | 70
@@ -798,14 +804,14 @@
 0 | Pirate Car Peter | 10
 0 | Nude Painting Bullock | 10
 0 | Model Builder Roger | 10
+0 | Junk Food Klaus | 10
 0 | Cyclist Peggy | 10
 0 | Cuddly Little Pet Slinky | 10
 0 | Cheerleader Lois | 10
 0 | Butt Slapper Bobby | 10
 0 | Trippy Farnsworth | 5
-0 | Rich Dress Leela | 5
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-321100 | Mastery Stone
+241600 | Mastery Stone

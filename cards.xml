@@ -80151,9 +80151,10 @@
 <unit>
 	<id>50118</id>
 	<name>Space Sewer Surfer</name>
+	<linked_card_id>1500019</linked_card_id>
 	<picture>FR_SpaceSewerSurfer</picture>
 	<asset_bundle>88</asset_bundle>
-	<release_time>1642442400</release_time> <!-- old time 1643652000 -->
+	<release_time>1642442400</release_time> 
 	<attack>11</attack>
 	<health>36</health>
 	<rarity>4</rarity>
@@ -80162,7 +80163,7 @@
 	<skill id="pierce" x="6"/>
 	<type>5</type>
 	<trait>athletic</trait>
-	<set>2</set>
+	<set>3</set>
 	<upgrade>
 		<level>2</level>
 		<health>37</health>
