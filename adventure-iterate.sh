@@ -7,7 +7,7 @@ case "$1" in
 *) count=$1 ;;
 esac
 
-for i in `nums $count`
+for i in `seq 1 $count`
 do
   echo "iteration $i of $count"
 
