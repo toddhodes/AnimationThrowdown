@@ -81,6 +81,7 @@
 3 | Dinner Wine Bob
 3 | Dojo Joe
 3 | Dr. Bobbenstein
+3 | Dream Guitar
 3 | Dream Millionaire
 3 | Drummer Roger
 3 | Drunk Bullock
@@ -291,6 +292,7 @@
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
 2 | Alley Entertainment | 100
+2 | Archer Klaus
 2 | Army Tank Zapp | 5
 2 | Bacon Weight | 100
 2 | Bad Tina | 100
@@ -307,7 +309,7 @@
 2 | Blueberry Picker | 100
 2 | Bob's Pigeon Bath | 100
 2 | Bong Rips Francine | 75
-2 | Boxing Luanne | 65
+2 | Boxing Luanne
 2 | Boy Crazy | 25
 2 | Buff Fry
 2 | Burgers and Fries Louise | 30
@@ -333,7 +335,7 @@
 2 | Colonel Fluffers | 30
 2 | Comic Artist Peter | 100
 2 | Corporate Training | 35
-2 | Counting Klaus | 30
+2 | Counting Klaus | 50
 2 | Country Club Steve | 85
 2 | Cupid Bobby | 30
 2 | Dancing Peggy | 10
@@ -344,7 +346,6 @@
 2 | Down to the Bone | 55
 2 | Draw Me Gene
 2 | Draw Me Tina | 70
-2 | Dream Guitar | 100
 2 | Duke
 2 | Dummy Fight | 20
 2 | Eugenia Chatterteeth | 30
@@ -359,6 +360,7 @@
 2 | Garbage Shot Linda | 60
 2 | Gatsby Brian
 2 | Girl Next Door Stewie | 20
+2 | Glitter Spray | 10
 2 | Goddess of Beauty | 60
 2 | Golden Blunt Wrapper | 95
 2 | Golf Club Amy | 100
@@ -401,11 +403,12 @@
 2 | Lounge Singer Hayley | 100
 2 | Marionette Chris | 100
 2 | Marionette Louise | 20
+2 | Meg Football Kickoff | 15
 2 | Meg Meggy Meg | 5
 2 | Meg Portrait | 100
 2 | Meg's Voodoo Doll | 100
 2 | Menstrual Cycle | 75
-2 | Merlot Klaus | 65
+2 | Merlot Klaus | 70
 2 | Mike Pulaski | 95
 2 | Mind Switcher Farnsworth | 100
 2 | Mocktrial Louise
@@ -440,6 +443,7 @@
 2 | Rich Leela | 100
 2 | Road Kill | 100
 2 | Robo Tina | 5
+2 | Robot Making Fry
 2 | Roger Goes Down | 35
 2 | Rough Night Stan | 30
 2 | S and M Lois | 65
@@ -468,7 +472,7 @@
 2 | Super Dance Squad
 2 | Survival Crafter Hank
 2 | Swim Lesson | 30
-2 | Swing Dance Luanne | 90
+2 | Swing Dance Luanne | 100
 2 | Swole Amy | 5
 2 | Tattooed Fat Guy | 30
 2 | Teagle | 100
@@ -507,6 +511,7 @@
 1 | Appetizer Addict Brian | 15
 1 | Artsy Tina | 5
 1 | Baseball Dale | 35
+1 | Basketball Joe | 15
 1 | Battle Axe Peggy | 5
 1 | Belcher Date Night | 115
 1 | Bender's Electric Eel | 125
@@ -543,7 +548,6 @@
 1 | Frykowski | 85
 1 | Garden Shovel Bobby | 125
 1 | Gargoyle Hunter | 5
-1 | Glitter Spray | 10
 1 | Griffin and Quagmire | 5
 1 | Groupie Francine | 25
 1 | Guenter | 30
@@ -556,7 +560,7 @@
 1 | Honey Mustache Stewie | 5
 1 | Honeybucket Student | 125
 1 | House Hunting Tours | 5
-1 | Jellybean Phone Klaus | 35
+1 | Jellybean Phone Klaus | 80
 1 | Joystick Steve | 110
 1 | Keyboardist Dale | 25
 1 | Kidney Killer | 25
@@ -592,7 +596,6 @@
 1 | Ready for Santa | 95
 1 | Rich Hayley | 5
 1 | Roach Coach Francine | 55
-1 | Robot Making Fry | 25
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
 1 | Running Back Hank | 110
@@ -676,6 +679,7 @@
 0 | Rastafarian Jingle Hayley | 115
 0 | High Roller Stewie | 115
 0 | Furry Bullock | 115
+0 | Fire Stuntman | 115
 0 | Workout Klaus | 105
 0 | Skydiver Quagmire | 105
 0 | Santa Bender | 105
@@ -781,6 +785,7 @@
 0 | Burger Mascot | 30
 0 | Boy Tina | 30
 0 | Bob in the Wall | 30
+0 | Beer Jeff | 30
 0 | Becky | 30
 0 | ADD Luanne | 30
 0 | 71 Ounce Beef Bobby | 30
@@ -792,7 +797,6 @@
 0 | Sister Peter | 20
 0 | Plops | 20
 0 | Knitting Peter | 20
-0 | Basketball Joe | 20
 0 | Bobsled Hermes | 15
 0 | Wrestler Peggy | 10
 0 | Wrestler Amy | 10
@@ -814,4 +818,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-241600 | Mastery Stone
+285700 | Mastery Stone
