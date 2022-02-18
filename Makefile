@@ -21,4 +21,4 @@ gen_cm:
 cm: cards deck gen_cm
 
 clean:
-	rm	-f cards-w-id-and-rarity user.json units-w-levels ids-with-cm vars
+	rm	-f cards-w-id-and-rarity user.json units-w-levels ids-with-cm vars o-*

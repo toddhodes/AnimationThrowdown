@@ -29,6 +29,7 @@
 3 | Blueberry Delivery Girl
 3 | Body Builder Stan
 3 | Boob Tube
+3 | Boxing Luanne
 3 | Boy Witch Steve
 3 | Brainwashed Hayley
 3 | Brian Statue
@@ -301,6 +302,7 @@
 2 | Baseball Bobby | 15
 2 | Beer Bottle Toast | 10
 2 | Beer Helmet | 45
+2 | Beer Jeff
 2 | Beer Snot | 95
 2 | Bender in Love | 80
 2 | Bender's Orphanarium | 70
@@ -309,7 +311,6 @@
 2 | Blueberry Picker | 100
 2 | Bob's Pigeon Bath | 100
 2 | Bong Rips Francine | 75
-2 | Boxing Luanne
 2 | Boy Crazy | 25
 2 | Buff Fry
 2 | Burgers and Fries Louise | 30
@@ -378,7 +379,7 @@
 2 | Horseback Rider Hank
 2 | Hose to the Head
 2 | Hot Cocoa Gene | 50
-2 | Hottyz Bill | 30
+2 | Hottyz Bill | 40
 2 | Hottyz Luanne
 2 | Hunky Killer Louise | 50
 2 | I Like Beer | 20
@@ -543,6 +544,7 @@
 1 | Farnsworth on Skiis | 125
 1 | Finch Hermes | 125
 1 | Flag Defender | 125
+1 | Flamethrower Stewie | 45
 1 | Freezerdome Linda | 35
 1 | Frydo | 5
 1 | Frykowski | 85
@@ -596,15 +598,17 @@
 1 | Ready for Santa | 95
 1 | Rich Hayley | 5
 1 | Roach Coach Francine | 55
+1 | Roller Derby Luanne | 110
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
-1 | Running Back Hank | 110
+1 | Running Back Hank | 120
 1 | Screwdrive Chris | 25
 1 | Shark Killer | 65
 1 | Sherlock Zoidberg
 1 | Shiny Pebbles | 45
 1 | Shut Up and Take My Money | 85
 1 | Sing and Swing | 30
+1 | Skating Roger | 25
 1 | Sketch Artist Dale | 25
 1 | Sketch Artist Peter | 5
 1 | Skiing Zoidberg | 125
@@ -619,6 +623,7 @@
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
 1 | Swim Teacher Bob | 90
+1 | Swimmer Tina | 35
 1 | Sword Fighter Francine | 5
 1 | Taxidermy Artist | 5
 1 | Tennis Francine | 15
@@ -675,7 +680,6 @@
 0 | Powderpuff | 120
 0 | Electric Love | 120
 0 | Wheels Steve | 115
-0 | Roller Derby Luanne | 115
 0 | Rastafarian Jingle Hayley | 115
 0 | High Roller Stewie | 115
 0 | Furry Bullock | 115
@@ -727,13 +731,12 @@
 0 | Steve Crossing the Alps | 50
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
-0 | Flamethrower Stewie | 50
 0 | Rabbit Fight | 45
 0 | Football Stewie | 45
 0 | Young Hermes | 40
 0 | Texting Addict Stan | 40
-0 | Swimmer Tina | 40
 0 | Skydiving Peggy | 40
+0 | Rocker Bullock | 40
 0 | Pick Up Lines | 40
 0 | Perfectly Symmetrical Violence | 40
 0 | Oktoberfest Fry | 40
@@ -751,14 +754,12 @@
 0 | Stevie Wonderbra | 30
 0 | Stan's Grill | 30
 0 | Squirrel Suit Hayley | 30
-0 | Skating Roger | 30
 0 | Show and Tell | 30
 0 | Sharpshooter Bobby | 30
 0 | Sexy Cowardly Lion Stan | 30
 0 | Sex Ed Teacher | 30
 0 | Secret Beer Dale | 30
 0 | Roller Skate Peter | 30
-0 | Rocker Bullock | 30
 0 | Road Rage | 30
 0 | Rich Francine | 30
 0 | Pimp Peter | 30
@@ -785,7 +786,6 @@
 0 | Burger Mascot | 30
 0 | Boy Tina | 30
 0 | Bob in the Wall | 30
-0 | Beer Jeff | 30
 0 | Becky | 30
 0 | ADD Luanne | 30
 0 | 71 Ounce Beef Bobby | 30
@@ -797,7 +797,6 @@
 0 | Sister Peter | 20
 0 | Plops | 20
 0 | Knitting Peter | 20
-0 | Bobsled Hermes | 15
 0 | Wrestler Peggy | 10
 0 | Wrestler Amy | 10
 0 | Swing Dance Bobby | 10
@@ -813,9 +812,10 @@
 0 | Cuddly Little Pet Slinky | 10
 0 | Cheerleader Lois | 10
 0 | Butt Slapper Bobby | 10
+0 | Bobsled Hermes | 10
 0 | Trippy Farnsworth | 5
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-285700 | Mastery Stone
+285500 | Mastery Stone
