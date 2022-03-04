@@ -18,6 +18,7 @@
 3 | Baseball Beers
 3 | Baseball Chris
 3 | Bedtime Doll Hayley
+3 | Beer Snot
 3 | Bender's Clowns
 3 | Bender's Ducklings
 3 | BenderIsGreat34
@@ -86,6 +87,7 @@
 3 | Dream Millionaire
 3 | Drummer Roger
 3 | Drunk Bullock
+3 | Drunk Hank
 3 | Drunk Peggy
 3 | Drunk Peter
 3 | Drunk Stan
@@ -303,7 +305,6 @@
 2 | Beer Bottle Toast | 10
 2 | Beer Helmet | 45
 2 | Beer Jeff
-2 | Beer Snot | 95
 2 | Bender in Love | 80
 2 | Bender's Orphanarium | 70
 2 | Betting it All
@@ -455,6 +456,7 @@
 2 | Sculptor Peter | 25
 2 | Serious Runner Brian | 50
 2 | Sexy Dance Fighting
+2 | Shaken Not Stirred | 10
 2 | Sleighing Tonight
 2 | Slip 'n Slide Bob | 100
 2 | Slow Dance Jimmy Jr. | 25
@@ -472,7 +474,7 @@
 2 | Stuffington Roger | 100
 2 | Super Dance Squad
 2 | Survival Crafter Hank
-2 | Swim Lesson | 30
+2 | Swim Lesson | 35
 2 | Swing Dance Luanne | 100
 2 | Swole Amy | 5
 2 | Tattooed Fat Guy | 30
@@ -483,7 +485,7 @@
 2 | The Carnival With Rupert | 100
 2 | The Equestranauts | 95
 2 | The Gender Bender | 65
-2 | Torch Bearer Hank | 25
+2 | Torch Bearer Hank | 40
 2 | Trash Can Drunk | 70
 2 | Tree | 65
 2 | Trippy Zoidberg | 60
@@ -518,6 +520,7 @@
 1 | Bender's Electric Eel | 125
 1 | Benderbrau | 75
 1 | Betsy | 125
+1 | Bobsled Hermes | 10
 1 | Body Paint Date | 5
 1 | Boombox Teddy
 1 | Booty Shaking Drunk | 125
@@ -536,7 +539,7 @@
 1 | Dog Bone Stan | 5
 1 | Dog Lois | 90
 1 | Dog Meg
-1 | Drunk Hank | 125
+1 | Drunk Francine | 30
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
 1 | Empty Bowl Painting | 5
@@ -660,6 +663,7 @@
 0 | Krav Maga Dale | 130
 0 | Hot Cocoa Louise | 130
 0 | Home School Chris | 130
+0 | Hermaphrodite | 130
 0 | Fried Chick | 130
 0 | Evening Beer Boomhauer | 130
 0 | Elf Fight Francine | 130
@@ -669,6 +673,7 @@
 0 | Cubert Farnsworth | 130
 0 | Bouldering Bob | 130
 0 | Big Bad Brian | 130
+0 | Beer Funnel Peter | 130
 0 | Beefsquatch | 130
 0 | Armadillo Boomhauer | 130
 0 | Ancient Cave Writing | 130
@@ -700,7 +705,6 @@
 0 | Song and Dance Stewie | 80
 0 | More Forever | 80
 0 | Mathy Cathy | 80
-0 | Beer Funnel Peter | 80
 0 | Rich Dress Leela | 75
 0 | Martini Peggy | 75
 0 | Doomsday Surplus | 75
@@ -723,7 +727,6 @@
 0 | History Test Chris | 60
 0 | Fowl Fighter Linda | 60
 0 | Flying Machine Stewie | 60
-0 | Drunk Francine | 60
 0 | Baby Bender | 60
 0 | Summer Lovin | 55
 0 | Luanne's 21st Birthday | 55
@@ -769,7 +772,6 @@
 0 | Karate Francine | 30
 0 | Junkie Hank | 30
 0 | Hungover Steve | 30
-0 | Hermaphrodite | 30
 0 | Gene It On | 30
 0 | Gas Class | 30
 0 | Freshman Chris | 30
@@ -808,14 +810,14 @@
 0 | Nude Painting Bullock | 10
 0 | Model Builder Roger | 10
 0 | Junk Food Klaus | 10
+0 | Hurdles Bobby | 10
 0 | Cyclist Peggy | 10
 0 | Cuddly Little Pet Slinky | 10
 0 | Cheerleader Lois | 10
 0 | Butt Slapper Bobby | 10
-0 | Bobsled Hermes | 10
 0 | Trippy Farnsworth | 5
 0 | Nacho Bartiromo | 5
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-285500 | Mastery Stone
+290200 | Mastery Stone

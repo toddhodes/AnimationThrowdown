@@ -16,7 +16,7 @@ do
   sleep 5	
   echo "fight 150"
   ./arena-fight5.sh 30 
-  sleep 3	
-  echo "buy coin packs"
-  ./buy-50kcoin-pack.sh 9
+  #sleep 3	
+  #echo "buy coin packs"
+  #./buy-50kcoin-pack.sh 9
 done
