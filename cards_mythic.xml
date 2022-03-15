@@ -5872,7 +5872,7 @@
 	<id>1200018</id>
 	<name>Boombox</name>
 	<picture>AD_BoomboxRoger</picture>
-	<asset_bundle></asset_bundle>
+	<asset_bundle>50</asset_bundle>
 	<item_name>Boombox Fragment</item_name>
 	<item_desc>Collect Boombox Fragments to craft and upgrade a Mythic Boombox card</item_desc>
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
@@ -5886,7 +5886,7 @@
 	<skill id="poison" x="7"/>
 	<type>2</type>
 	<trait>musical</trait>
-	<set>7000</set>
+	<set>7002</set>
 	<upgrade>
 		<level>2</level>
 		<health>50</health>

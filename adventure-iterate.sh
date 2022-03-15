@@ -21,5 +21,5 @@ do
 
 done
 
-echo "buy coin packs"
-./buy-50kcoin-pack.sh 3
+#echo "buy coin packs"
+#./buy-50kcoin-pack.sh 3

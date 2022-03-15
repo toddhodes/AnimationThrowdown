@@ -312,6 +312,7 @@
 2 | Blueberry Picker | 100
 2 | Bob's Pigeon Bath | 100
 2 | Bong Rips Francine | 75
+2 | Booty Shaking Drunk | 100
 2 | Boy Crazy | 25
 2 | Buff Fry
 2 | Burgers and Fries Louise | 30
@@ -348,6 +349,7 @@
 2 | Down to the Bone | 55
 2 | Draw Me Gene
 2 | Draw Me Tina | 70
+2 | Drunk Francine | 30
 2 | Duke
 2 | Dummy Fight | 20
 2 | Eugenia Chatterteeth | 30
@@ -419,11 +421,12 @@
 2 | NRA Member | 100
 2 | Nacho Addict Bender | 100
 2 | Nasal Spray Peter | 100
+2 | Never Have I Ever | 55
 2 | Nun Linda | 30
 2 | One Art Please | 30
 2 | Opera Singer Leela | 60
 2 | Paddlin' Peggy | 100
-2 | Paintball Dale | 40
+2 | Paintball Dale | 100
 2 | Paintball Hank | 5
 2 | Painter Zoidberg | 20
 2 | Pan Flute Stewie | 70
@@ -481,6 +484,7 @@
 2 | Teagle | 100
 2 | Teen LaQueefa
 2 | Tennis Stan
+2 | Tequila Roger | 65
 2 | The Billdozer | 100
 2 | The Carnival With Rupert | 100
 2 | The Equestranauts | 95
@@ -523,7 +527,6 @@
 1 | Bobsled Hermes | 10
 1 | Body Paint Date | 5
 1 | Boombox Teddy
-1 | Booty Shaking Drunk | 125
 1 | Burobu Addict | 75
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
@@ -539,7 +542,6 @@
 1 | Dog Bone Stan | 5
 1 | Dog Lois | 90
 1 | Dog Meg
-1 | Drunk Francine | 30
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
 1 | Empty Bowl Painting | 5
@@ -581,7 +583,6 @@
 1 | Model Lois | 5
 1 | Mount Toy Louise | 20
 1 | Mr. Deliver | 125
-1 | Never Have I Ever | 80
 1 | Nigerian Prince
 1 | Old Steve | 30
 1 | Owl Stewie | 5
@@ -597,6 +598,7 @@
 1 | Quicky Kiss-it | 55
 1 | RC Helicopter | 5
 1 | Raleigh St. Augustine | 125
+1 | Rastafarian Jingle Hayley | 110
 1 | Ravenous Porcelain Babies | 5
 1 | Ready for Santa | 95
 1 | Rich Hayley | 5
@@ -619,6 +621,7 @@
 1 | Slick'd Steve | 125
 1 | Snake Hunter | 90
 1 | Sneak Tackle Hank | 95
+1 | Song and Dance Stewie | 75
 1 | Space Queen | 125
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 115
@@ -627,10 +630,10 @@
 1 | Street Hockey Brian | 5
 1 | Swim Teacher Bob | 90
 1 | Swimmer Tina | 35
+1 | Swing Dance Bobby | 5
 1 | Sword Fighter Francine | 5
 1 | Taxidermy Artist | 5
 1 | Tennis Francine | 15
-1 | Tequila Roger | 90
 1 | Tina Tackle | 125
 1 | Toga Bill | 5
 1 | Torah Snot | 20
@@ -677,15 +680,14 @@
 0 | Beefsquatch | 130
 0 | Armadillo Boomhauer | 130
 0 | Ancient Cave Writing | 130
-0 | Keyboard Joe | 125
 0 | Butt Closet | 125
 0 | Too High to Drive | 120
 0 | Slurm Queen | 120
 0 | Shipping King Zoidberg | 120
 0 | Powderpuff | 120
+0 | Keyboard Joe | 120
 0 | Electric Love | 120
 0 | Wheels Steve | 115
-0 | Rastafarian Jingle Hayley | 115
 0 | High Roller Stewie | 115
 0 | Furry Bullock | 115
 0 | Fire Stuntman | 115
@@ -702,7 +704,6 @@
 0 | Deer Daddy Steve | 85
 0 | Dance Party Bobby | 85
 0 | Spaceship Pilot | 80
-0 | Song and Dance Stewie | 80
 0 | More Forever | 80
 0 | Mathy Cathy | 80
 0 | Rich Dress Leela | 75
@@ -801,7 +802,6 @@
 0 | Knitting Peter | 20
 0 | Wrestler Peggy | 10
 0 | Wrestler Amy | 10
-0 | Swing Dance Bobby | 10
 0 | Sower of Revenge | 10
 0 | Sniper Stewie | 10
 0 | Secret Asian Man | 10
@@ -820,4 +820,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-290200 | Mastery Stone
+283000 | Mastery Stone
