@@ -156,6 +156,7 @@
 3 | Limo Bob
 3 | Lobster Wedding
 3 | Lord Griffin
+3 | Lounge Singer Hayley
 3 | Magazine Cover Zapp
 3 | Magazine Reader Francine
 3 | Magician Jimmy Jr.
@@ -170,6 +171,7 @@
 3 | Michael Dangle-low
 3 | Military Tux Bill
 3 | Mission Doctor
+3 | More Anchovies
 3 | Motivational Poster
 3 | Mount Toy Gene
 3 | Mountain Climber Peter
@@ -258,6 +260,7 @@
 3 | Supermodel Roger
 3 | Swat Bob
 3 | Swimmer Dale
+3 | Swing Dance Luanne
 3 | Swole Francine
 3 | Swole Joe
 3 | Tainted Alamo
@@ -298,7 +301,7 @@
 2 | Archer Klaus
 2 | Army Tank Zapp | 5
 2 | Bacon Weight | 100
-2 | Bad Tina | 100
+2 | Bad Tina
 2 | Bakaneko Fighter Louise
 2 | Balloon Sniper | 100
 2 | Baseball Bobby | 15
@@ -313,6 +316,7 @@
 2 | Bob's Pigeon Bath | 100
 2 | Bong Rips Francine | 75
 2 | Booty Shaking Drunk | 100
+2 | Boy Crazy Louise | 5
 2 | Boy Crazy | 25
 2 | Buff Fry
 2 | Burgers and Fries Louise | 30
@@ -335,7 +339,7 @@
 2 | Clothes Made of Cash | 20
 2 | Cloud Painter | 100
 2 | Coach Farnsworth | 30
-2 | Colonel Fluffers | 30
+2 | Colonel Fluffers | 70
 2 | Comic Artist Peter | 100
 2 | Corporate Training | 35
 2 | Counting Klaus | 50
@@ -355,6 +359,7 @@
 2 | Eugenia Chatterteeth | 30
 2 | Evil Stepsister Stewie | 100
 2 | Eyephone Fry | 100
+2 | Fake Daughter Louise | 25
 2 | Fake Son Gene | 90
 2 | Falcon Attack Quagmire | 70
 2 | Falconer Hayley | 35
@@ -384,7 +389,7 @@
 2 | Hot Cocoa Gene | 50
 2 | Hottyz Bill | 40
 2 | Hottyz Luanne
-2 | Hunky Killer Louise | 50
+2 | Hunky Killer Louise | 70
 2 | I Like Beer | 20
 2 | I am Mona
 2 | Ira | 45
@@ -404,7 +409,6 @@
 2 | Life Drawing Hayley | 10
 2 | Little King Trashmouth | 80
 2 | Louise Chatterteeth | 60
-2 | Lounge Singer Hayley | 100
 2 | Marionette Chris | 100
 2 | Marionette Louise | 20
 2 | Meg Football Kickoff | 15
@@ -416,7 +420,6 @@
 2 | Mike Pulaski | 95
 2 | Mind Switcher Farnsworth | 100
 2 | Mocktrial Louise
-2 | More Anchovies | 100
 2 | Mural Restorer | 100
 2 | NRA Member | 100
 2 | Nacho Addict Bender | 100
@@ -443,6 +446,7 @@
 2 | QB Boomhauer | 60
 2 | Quagmire's Cat James | 90
 2 | Rapture Stan | 55
+2 | Rastafarian Jingle Hayley | 85
 2 | Record Holder Stan | 60
 2 | Remote Cars Circuit Bob | 30
 2 | Rich Leela | 100
@@ -461,6 +465,7 @@
 2 | Sexy Dance Fighting
 2 | Shaken Not Stirred | 10
 2 | Sleighing Tonight
+2 | Slick'd Steve | 100
 2 | Slip 'n Slide Bob | 100
 2 | Slow Dance Jimmy Jr. | 25
 2 | Smoke Bomb | 100
@@ -478,7 +483,6 @@
 2 | Super Dance Squad
 2 | Survival Crafter Hank
 2 | Swim Lesson | 35
-2 | Swing Dance Luanne | 100
 2 | Swole Amy | 5
 2 | Tattooed Fat Guy | 30
 2 | Teagle | 100
@@ -493,6 +497,7 @@
 2 | Trash Can Drunk | 70
 2 | Tree | 65
 2 | Trippy Zoidberg | 60
+2 | Tuning Fork | 100
 2 | Two Butt Goat
 2 | Umbriel | 100
 2 | Upgraded Hermes | 10
@@ -542,6 +547,7 @@
 1 | Dog Bone Stan | 5
 1 | Dog Lois | 90
 1 | Dog Meg
+1 | Dojo Quagmire | 125
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
 1 | Empty Bowl Painting | 5
@@ -555,6 +561,7 @@
 1 | Frykowski | 85
 1 | Garden Shovel Bobby | 125
 1 | Gargoyle Hunter | 5
+1 | Gas Class | 25
 1 | Griffin and Quagmire | 5
 1 | Groupie Francine | 25
 1 | Guenter | 30
@@ -569,6 +576,7 @@
 1 | House Hunting Tours | 5
 1 | Jellybean Phone Klaus | 80
 1 | Joystick Steve | 110
+1 | Keyboard Joe | 120
 1 | Keyboardist Dale | 25
 1 | Kidney Killer | 25
 1 | Lady Bird | 65
@@ -595,10 +603,10 @@
 1 | Polling Peggy | 55
 1 | Poppler Addict Leela | 10
 1 | Poppler Jingle Fry | 20
+1 | Pot Brownies Jeff | 125
 1 | Quicky Kiss-it | 55
 1 | RC Helicopter | 5
 1 | Raleigh St. Augustine | 125
-1 | Rastafarian Jingle Hayley | 110
 1 | Ravenous Porcelain Babies | 5
 1 | Ready for Santa | 95
 1 | Rich Hayley | 5
@@ -618,7 +626,6 @@
 1 | Sketch Artist Peter | 5
 1 | Skiing Zoidberg | 125
 1 | Sledgehammer Dale | 125
-1 | Slick'd Steve | 125
 1 | Snake Hunter | 90
 1 | Sneak Tackle Hank | 95
 1 | Song and Dance Stewie | 75
@@ -643,7 +650,6 @@
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
 0 | Zac Sawyer | 130
-0 | Tuning Fork | 130
 0 | Tranq Gun Steve | 130
 0 | Towel Manager Dale | 130
 0 | Tentacle Bishop | 130
@@ -655,7 +661,6 @@
 0 | Robot Arms Bender | 130
 0 | Reverse Stink Hold | 130
 0 | Pumping Iron | 130
-0 | Pot Brownies Jeff | 130
 0 | Party Crashers | 130
 0 | Nun Francine | 130
 0 | Money Retriever | 130
@@ -668,10 +673,10 @@
 0 | Home School Chris | 130
 0 | Hermaphrodite | 130
 0 | Fried Chick | 130
+0 | Freezerdome Louise | 130
 0 | Evening Beer Boomhauer | 130
 0 | Elf Fight Francine | 130
 0 | Douchebag Chris | 130
-0 | Dojo Quagmire | 130
 0 | DJ Klaus | 130
 0 | Cubert Farnsworth | 130
 0 | Bouldering Bob | 130
@@ -685,7 +690,6 @@
 0 | Slurm Queen | 120
 0 | Shipping King Zoidberg | 120
 0 | Powderpuff | 120
-0 | Keyboard Joe | 120
 0 | Electric Love | 120
 0 | Wheels Steve | 115
 0 | High Roller Stewie | 115
@@ -706,6 +710,7 @@
 0 | Spaceship Pilot | 80
 0 | More Forever | 80
 0 | Mathy Cathy | 80
+0 | Art Student | 80
 0 | Rich Dress Leela | 75
 0 | Martini Peggy | 75
 0 | Doomsday Surplus | 75
@@ -714,7 +719,6 @@
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
 0 | I Get What I Want | 70
-0 | Art Student | 70
 0 | Top of the Pecking Order | 65
 0 | Paranoid Louise | 65
 0 | Cat Dragon | 65
@@ -774,7 +778,6 @@
 0 | Junkie Hank | 30
 0 | Hungover Steve | 30
 0 | Gene It On | 30
-0 | Gas Class | 30
 0 | Freshman Chris | 30
 0 | Francine Painting | 30
 0 | Food Truck Bob | 30
@@ -809,6 +812,7 @@
 0 | Pirate Car Peter | 10
 0 | Nude Painting Bullock | 10
 0 | Model Builder Roger | 10
+0 | Knight Louise | 10
 0 | Junk Food Klaus | 10
 0 | Hurdles Bobby | 10
 0 | Cyclist Peggy | 10
@@ -820,4 +824,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-283000 | Mastery Stone
+263350 | Mastery Stone
