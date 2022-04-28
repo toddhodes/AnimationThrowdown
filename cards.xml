@@ -18275,10 +18275,11 @@
 </unit>
 <unit>
 	<id>10111</id>
-	<name>Sea Breeze</name>
+	<name>Seabreeze</name>
 	<picture>FG_Seabreeze</picture>
 	<asset_bundle>56</asset_bundle>
-	<release_time>1649959200</release_time>
+	<release_time>1649959200</release_time> 
+	<!-- TESTING RELEASE TIME <release_time>1650650400</release_time>  -->
 	<attack>12</attack>
 	<health>37</health>
 	<rarity>4</rarity>
@@ -37128,7 +37129,7 @@
         <trait>animal</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
-		<skill id='weaken' p='30' v='1' />         
+		<skill id='weaken' p='30' v='11' />         
 		<skill id='shrapnel' p='35' v='12'  />
         <skill id='pierce' p='30' v='12' />
 	</unit>	
@@ -82488,26 +82489,25 @@
 	</upgrade>
 	<upgrade>
 		<level>15</level>
-		<health>46</health>
-		<attack>18</attack>
+		<health>49</health>
 	</upgrade>
 	<upgrade>
 		<level>16</level>
-		<health>47</health>
+		<health>50</health>
 		<skill id="enlarge" x="7"/>
 		<skill id="shrapnel" x="9"/>
 		<skill id="berserk" x="7"/>
 	</upgrade>
 	<upgrade>
 		<level>17</level>
-		<health>48</health>
+		<health>51</health>
 		<skill id="enlarge" x="7"/>
 		<skill id="shrapnel" x="10"/>
 		<skill id="berserk" x="7"/>
 	</upgrade>
 	<upgrade>
 		<level>18</level>
-		<health>50</health>
+		<health>53</health>
 		<skill id="enlarge" x="8"/>
 		<skill id="shrapnel" x="10"/>
 		<skill id="berserk" x="7"/>
@@ -86225,7 +86225,7 @@
     </unit> 
 		<unit>
         <id>55241</id>
-        <name>Centaur Leela</name>
+        <name>Leegola</name>
 		<picture>FR_CentaurLeela</picture>
         <asset_bundle>37</asset_bundle>
         <rarity>1</rarity>
@@ -86240,7 +86240,7 @@
     </unit>
 	<unit>
         <id>55242</id>
-        <name>Zapp Salmon</name>
+        <name>Salmon Zapp</name>
 		<picture>FR_ZappSalmon</picture>
         <asset_bundle>56</asset_bundle>
         <rarity>1</rarity>

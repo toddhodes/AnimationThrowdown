@@ -10,6 +10,7 @@
 3 | Arts and Crafts Bob
 3 | Ass-Kicker Hank
 3 | Assassin Bender
+3 | Bad Tina
 3 | Badminton Roger
 3 | Ballet Meg
 3 | Balloon Fight
@@ -301,7 +302,6 @@
 2 | Archer Klaus
 2 | Army Tank Zapp | 5
 2 | Bacon Weight | 100
-2 | Bad Tina
 2 | Bakaneko Fighter Louise
 2 | Balloon Sniper | 100
 2 | Baseball Bobby | 15
@@ -364,7 +364,8 @@
 2 | Falcon Attack Quagmire | 70
 2 | Falconer Hayley | 35
 2 | Fashion Fight
-2 | Finch Leela | 100
+2 | Finch Hermes | 100
+2 | Finch Leela
 2 | Fry's Macaroni Art | 50
 2 | Garbage Shot Linda | 60
 2 | Gatsby Brian
@@ -380,6 +381,7 @@
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
 2 | Hank Hill, Running Back | 95
+2 | Hermaphrodite | 100
 2 | High School Bill
 2 | Homecoming King Chris | 100
 2 | Horse Rider Tina
@@ -513,6 +515,7 @@
 2 | Wine & Paint Quagmire | 90
 2 | Wine Tasting Linda | 50
 2 | Working Girl Tina | 65
+2 | Xerxes the Falcon | 40
 2 | Yacht Dreams
 2 | Zoidberg vs Bot | 10
 1 | ABC Quagmire | 45
@@ -536,6 +539,7 @@
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
 1 | Chamber of Understanding | 125
+1 | Chocolate Addict Zapp | 20
 1 | Chris's Favorite Chicken | 55
 1 | Congo Jack | 5
 1 | Conventional Turkey Gene | 55
@@ -553,7 +557,6 @@
 1 | Empty Bowl Painting | 5
 1 | Family Fracas | 35
 1 | Farnsworth on Skiis | 125
-1 | Finch Hermes | 125
 1 | Flag Defender | 125
 1 | Flamethrower Stewie | 45
 1 | Freezerdome Linda | 35
@@ -583,13 +586,14 @@
 1 | Laser Tag Brian | 125
 1 | Laser Tag Quagmire | 125
 1 | Leela's Harpoon | 15
+1 | Love Potion | 125
 1 | Married Brian | 85
 1 | Master Robaire | 25
 1 | Medieval Hank | 5
 1 | Meg's Evil Monkey | 125
 1 | Meg's In Charge | 10
 1 | Model Lois | 5
-1 | Mount Toy Louise | 20
+1 | Mount Toy Louise | 30
 1 | Mr. Deliver | 125
 1 | Nigerian Prince
 1 | Old Steve | 30
@@ -607,7 +611,7 @@
 1 | Quicky Kiss-it | 55
 1 | RC Helicopter | 5
 1 | Raleigh St. Augustine | 125
-1 | Ravenous Porcelain Babies | 5
+1 | Ravenous Porcelain Babies | 25
 1 | Ready for Santa | 95
 1 | Rich Hayley | 5
 1 | Roach Coach Francine | 55
@@ -646,7 +650,6 @@
 1 | Torah Snot | 20
 1 | Treasure Hunter Peter | 15
 1 | Water Polo Steve | 5
-1 | Xerxes the Falcon | 65
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
 0 | Zac Sawyer | 130
@@ -667,11 +670,9 @@
 0 | Mind Switcher Amy | 130
 0 | Maxi Paddy | 130
 0 | Maracas Peter | 130
-0 | Love Potion | 130
 0 | Krav Maga Dale | 130
 0 | Hot Cocoa Louise | 130
 0 | Home School Chris | 130
-0 | Hermaphrodite | 130
 0 | Fried Chick | 130
 0 | Freezerdome Louise | 130
 0 | Evening Beer Boomhauer | 130
@@ -824,4 +825,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-263350 | Mastery Stone
+272300 | Mastery Stone
