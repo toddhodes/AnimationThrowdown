@@ -18403,7 +18403,124 @@
 		<skill id="poison" x="13"/>
 	</upgrade>
 </unit>
-							
+<unit>
+	<id>10112</id>
+	<name>Machine Gun</name>
+	<picture>fg_peterweapon</picture>
+	<desc>Suck on this, weirdos!</desc>
+	<asset_bundle>21</asset_bundle>
+	<release_time>1652032800</release_time>
+	<attack>9</attack>
+	<health>46</health>
+	<rarity>4</rarity>
+	<skill id="bodyguard" x="4"/>
+	<skill id="counter" x="6"/>
+	<skill id="berserk" x="4"/>
+	<type>1</type>
+	<trait>armed</trait>
+	<set>2</set>
+	<upgrade>
+		<level>2</level>
+		<health>47</health>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<attack>10</attack>
+		<skill id="bodyguard" x="4"/>
+		<skill id="counter" x="7"/>
+		<skill id="berserk" x="4"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>48</health>
+		<attack>11</attack>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<skill id="bodyguard" x="5"/>
+		<skill id="counter" x="7"/>
+		<skill id="berserk" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>49</health>
+		<skill id="bodyguard" x="5"/>
+		<skill id="counter" x="8"/>
+		<skill id="berserk" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>50</health>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<attack>12</attack>
+		<health>51</health>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<skill id="bodyguard" x="6"/>
+		<skill id="counter" x="8"/>
+		<skill id="berserk" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<attack>13</attack>
+		<skill id="bodyguard" x="6"/>
+		<skill id="counter" x="9"/>
+		<skill id="berserk" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>52</health>
+		<skill id="bodyguard" x="6"/>
+		<skill id="counter" x="10"/>
+		<skill id="berserk" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>53</health>
+		<attack>14</attack>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<skill id="bodyguard" x="6"/>
+		<skill id="counter" x="10"/>
+		<skill id="berserk" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>54</health>
+		<skill id="bodyguard" x="7"/>
+		<skill id="counter" x="10"/>
+		<skill id="berserk" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<attack>15</attack>
+		<skill id="bodyguard" x="7"/>
+		<skill id="counter" x="11"/>
+		<skill id="berserk" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>55</health>
+		<attack>16</attack>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>56</health>
+		<skill id="bodyguard" x="7"/>
+		<skill id="counter" x="11"/>
+		<skill id="berserk" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<skill id="bodyguard" x="8"/>
+		<skill id="counter" x="12"/>
+		<skill id="berserk" x="8"/>
+	</upgrade>
+</unit>							
 	<!-- End Family Guy Input -->	
 	<!--  stop at id 14000 -->
 	<!-- Family Guy Combos -->
@@ -22449,7 +22566,22 @@
         <skill id='pierce' p='30' v='10'  />
         <skill id='strike'  p='32' v='10'/>
         <skill id='berserk' p='30' v='8' />
-    </unit>                                                    				
+    </unit>    
+	<unit>
+    	<id>15272</id>
+        <name>Reflection</name>
+		<picture>FG_Reflection</picture>
+        <asset_bundle>83</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>1</type>
+        <trait>armed</trait>
+        <attack_multiplier>0.68</attack_multiplier>
+        <health_multiplier>0.72</health_multiplier>
+        <skill id='inspire' p='30' v='8'  />
+        <skill id='counter'  p='30' v='13'/>
+        <skill id='heal' p='30' v='13' />
+    </unit>                                                 				
 	<!-- End Family Guy combo -->			
 	<!-- American Dad Input -->
 
@@ -33346,7 +33478,130 @@
 		<skill id="poison" x="11"/>
 	</upgrade>
 </unit>
-
+<unit>
+	<id>20105</id>
+	<name>Boat Murder</name>
+	<picture>AD_BoatMurderRoger</picture>
+	<asset_bundle>52</asset_bundle>
+	<release_time>1652032800</release_time>
+	<attack>10</attack>
+	<health>43</health>
+	<rarity>4</rarity>
+	<skill id="counter" x="3"/>
+	<skill id="pierce" x="6"/>
+	<skill id="berserk" x="3"/>
+	<type>2</type>
+	<trait>armed</trait>
+	<set>2</set>
+	<upgrade>
+		<level>2</level>
+		<health>44</health>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>45</health>
+		<skill id="counter" x="3"/>
+		<skill id="pierce" x="7"/>
+		<skill id="berserk" x="3"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<attack>11</attack>
+		<health>46</health>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>47</health>
+		<skill id="counter" x="3"/>
+		<skill id="pierce" x="8"/>
+		<skill id="berserk" x="3"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>48</health>
+		<skill id="counter" x="3"/>
+		<skill id="pierce" x="8"/>
+		<skill id="berserk" x="4"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<attack>12</attack>
+		<skill id="counter" x="4"/>
+		<skill id="pierce" x="8"/>
+		<skill id="berserk" x="4"/>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>49</health>
+		<skill id="counter" x="4"/>
+		<skill id="pierce" x="9"/>
+		<skill id="berserk" x="4"/>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>50</health>
+		<attack>13</attack>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>51</health>
+		<skill id="counter" x="4"/>
+		<skill id="pierce" x="10"/>
+		<skill id="berserk" x="4"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>52</health>
+		<skill id="counter" x="4"/>
+		<skill id="pierce" x="10"/>
+		<skill id="berserk" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>53</health>
+		<skill id="counter" x="5"/>
+		<skill id="pierce" x="10"/>
+		<skill id="berserk" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>54</health>
+		<attack>14</attack>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>55</health>
+		<skill id="counter" x="5"/>
+		<skill id="pierce" x="11"/>
+		<skill id="berserk" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>56</health>
+		<attack>15</attack>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>57</health>
+		<skill id="counter" x="5"/>
+		<skill id="pierce" x="12"/>
+		<skill id="berserk" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>58</health>
+		<skill id="counter" x="5"/>
+		<skill id="pierce" x="12"/>
+		<skill id="berserk" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<health>59</health>
+		<skill id="counter" x="6"/>
+		<skill id="pierce" x="12"/>
+		<skill id="berserk" x="6"/>
+	</upgrade>
+</unit>
 	<!--  end american dad input -->		
 	<!--  stop at id 24000 -->
 
@@ -37132,6 +37387,21 @@
 		<skill id='weaken' p='30' v='11' />         
 		<skill id='shrapnel' p='35' v='12'  />
         <skill id='pierce' p='30' v='12' />
+	</unit>	
+	<unit>
+    	<id>25249</id>
+        <name>Firecracker Jeff</name>
+	    <picture>AD_FirecrackerJeff</picture>
+        <asset_bundle>67</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>2</type>
+        <trait>armed</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.71</health_multiplier>
+		<skill id='shrapnel' p='30' v='9' />         
+		<skill id='berserk' p='30' v='6'  />
+        <skill id='weakenall' p='50' v='5' />
 	</unit>	
 	<!-- End american dad combo -->		
 	<!--  stop at id 26000 -->
@@ -50081,7 +50351,121 @@
 		<skill id="enlarge" x="8"/>
 	</upgrade>
 </unit>
-
+<unit>
+	<id>30124</id>
+	<name>Puberty Pirate</name>
+	<picture>BB_PubertyPirate</picture>
+	<asset_bundle>83</asset_bundle>
+	<release_time>1652032800</release_time>
+	<attack>8</attack>
+	<health>50</health>
+	<rarity>4</rarity>
+	<skill id="inspire" x="4"/>
+	<skill id="hijack" x="4"/>
+	<skill id="shrapnel" x="4"/>
+	<type>3</type>
+	<trait>armed</trait>
+	<set>2</set>
+	<upgrade>
+		<level>2</level>
+		<health>51</health>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<attack>9</attack>
+		<health>52</health>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>53</health>
+		<skill id="inspire" x="5"/>
+		<skill id="hijack" x="4"/>
+		<skill id="shrapnel" x="4"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<skill id="inspire" x="5"/>
+		<skill id="hijack" x="5"/>
+		<skill id="shrapnel" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<attack>10</attack>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>54</health>
+		<attack>11</attack>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>55</health>
+		<skill id="inspire" x="6"/>
+		<skill id="hijack" x="5"/>
+		<skill id="shrapnel" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>56</health>
+		<skill id="inspire" x="6"/>
+		<skill id="hijack" x="5"/>
+		<skill id="shrapnel" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<skill id="inspire" x="6"/>
+		<skill id="hijack" x="6"/>
+		<skill id="shrapnel" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>57</health>
+		<attack>12</attack>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>58</health>
+		<skill id="inspire" x="7"/>
+		<skill id="hijack" x="6"/>
+		<skill id="shrapnel" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>59</health>
+		<skill id="inspire" x="7"/>
+		<skill id="hijack" x="6"/>
+		<skill id="shrapnel" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<skill id="inspire" x="7"/>
+		<skill id="hijack" x="7"/>
+		<skill id="shrapnel" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<attack>13</attack>
+		<health>60</health>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>61</health>
+		<attack>14</attack>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>62</health>
+		<skill id="inspire" x="8"/>
+		<skill id="hijack" x="7"/>
+		<skill id="shrapnel" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<skill id="inspire" x="8"/>
+		<skill id="hijack" x="8"/>
+		<skill id="shrapnel" x="8"/>
+	</upgrade>
+</unit>
 	<!-- End Bob's Burgers Input -->	
 	<!-- Bob's Burgers Combos -->
 
@@ -53829,6 +54213,36 @@
         <skill id='poison' p='30' v='11'/>
         <skill id='inspire' p='30' v='7' />
         <skill id='shrapnel' p='30' v='8' />
+    </unit>
+		<unit>
+        <id>35245</id>
+        <name>Knife Sharpener Linda</name>
+        <picture>BB_knifeSharpenerLinda</picture>
+        <asset_bundle>52</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>3</type>
+        <trait>armed</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.73</health_multiplier>
+        <skill id='inspire' p='30' v='8'/>
+        <skill id='pierce' p='30' v='12' />
+        <skill id='berserk' p='30' v='6' />
+    </unit>
+	<unit>
+        <id>35246</id>
+        <name>Sled Armor Louise</name>
+        <picture>BB_SledArmorLouise</picture>
+        <asset_bundle>52</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>3</type>
+        <trait>armed</trait>
+        <attack_multiplier>0.76</attack_multiplier>
+        <health_multiplier>0.75</health_multiplier>
+        <skill id='invigorate' p='30' v='10'/>
+        <skill id='rally' p='30' v='12' />
+        <skill id='heal' p='30' v='10' />
     </unit>
 	<!-- End Bob's Burgers combos -->					
 	<!-- King of the Hill -->
@@ -65716,6 +66130,129 @@
 		<skill id="armored" x="11"/>
 		<skill id="invigorate" x="7"/>
 		<skill id="barrier" x="8"/>
+	</upgrade>
+</unit>
+<unit>
+	<id>40112</id>
+	<name>Exterminator Nancy</name>
+	<linked_card_id>1400016</linked_card_id>
+	<picture>KOTH_SpecialLady</picture>
+	<asset_bundle>83</asset_bundle>
+	<release_time>1652032800</release_time>
+	<attack>7</attack>
+	<health>48</health>
+	<rarity>4</rarity>
+	<skill id="counter" x="3"/>
+	<skill id="weaken" x="4"/>
+	<skill id="shrapnel" x="4"/>
+	<type>4</type>
+	<trait>armed</trait>
+	<set>3</set>
+	<upgrade>
+		<level>2</level>
+		<health>49</health>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>50</health>
+		<skill id="counter" x="3"/>
+		<skill id="weaken" x="5"/>
+		<skill id="shrapnel" x="4"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>51</health>
+		<skill id="counter" x="3"/>
+		<skill id="weaken" x="5"/>
+		<skill id="shrapnel" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>52</health>
+		<skill id="counter" x="4"/>
+		<skill id="weaken" x="5"/>
+		<skill id="shrapnel" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>54</health>
+		<skill id="counter" x="4"/>
+		<skill id="weaken" x="6"/>
+		<skill id="shrapnel" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>55</health>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>56</health>
+		<attack>8</attack>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>57</health>
+		<skill id="counter" x="4"/>
+		<skill id="weaken" x="6"/>
+		<skill id="shrapnel" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>59</health>
+		<skill id="counter" x="4"/>
+		<skill id="weaken" x="7"/>
+		<skill id="shrapnel" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>60</health>
+		<skill id="counter" x="5"/>
+		<skill id="weaken" x="7"/>
+		<skill id="shrapnel" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>61</health>
+		<skill id="counter" x="5"/>
+		<skill id="weaken" x="7"/>
+		<skill id="shrapnel" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>62</health>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>64</health>
+		<skill id="counter" x="5"/>
+		<skill id="weaken" x="8"/>
+		<skill id="shrapnel" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>65</health>
+		<attack>9</attack>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>66</health>
+		<skill id="counter" x="5"/>
+		<skill id="weaken" x="8"/>
+		<skill id="shrapnel" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>67</health>
+		<skill id="counter" x="5"/>
+		<skill id="weaken" x="9"/>
+		<skill id="shrapnel" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<health>69</health>
+		<skill id="counter" x="6"/>
+		<skill id="weaken" x="9"/>
+		<skill id="shrapnel" x="8"/>
 	</upgrade>
 </unit>
 	<!-- End King of the Hill Input -->	
@@ -86253,6 +86790,36 @@
         <skill id='poison' p='30' v='9' />
         <skill id='counter' p='28' v='11' />
     </unit> 	
+	<unit>
+        <id>55243</id>
+        <name>Space Pistol Bender</name>
+		<picture>FR_SpacePistolBender</picture>
+        <asset_bundle>53</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>5</type>
+        <trait>armed</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.74</health_multiplier>
+        <skill id='armored' p='30' v='10'  />
+        <skill id='shrapnel' p='30' v='9' />
+        <skill id='bodyguard' p='30' v='9' />
+    </unit> 
+	<unit>
+        <id>55244</id>
+        <name>Stabbing Farnsworth</name>
+		<picture>FR_StabbingFarnsworth</picture>
+        <asset_bundle>53</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>5</type>
+        <trait>armed</trait>
+        <attack_multiplier>0.71</attack_multiplier>
+        <health_multiplier>0.72</health_multiplier>
+        <skill id='pierce' p='30' v='12'  />
+        <skill id='counter' p='30' v='12' />
+        <skill id='poison' p='30' v='11' />
+    </unit> 
 <!-- END Futurama Combos -->
 
 <!-- Generic Input Cards -->
