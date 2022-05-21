@@ -1,26 +1,41 @@
 
+   1 M Amy
+   6 L Dr Amy Wong
+  
+   1 M Oscar's Painting
+   1 M Peter's Drawing
+   1 M Smithsonian Art Gallery
+   1 M Walking Man Exhibit
+   3 L Langley Falls Museum of Art
+
+   1 L The Thinker Ape: 6*
+  10 L The Thinker Ape: 6**
 
 
-   2 L The Thinker Ape: 6*
-   7 L The Thinker Ape: 6**
-
-
---------Thinker Ape------
+-------The Thinker Ape------
 3 | The Thinker Ape
-   2 L The Thinker Ape: 6*
-   7 L The Thinker Ape: 6**
---------Paddlin. Peggy------
-2 | Paddlin' Peggy | 30
---------Beefsquatch------
+   1 L The Thinker Ape: 6*
+  10 L The Thinker Ape: 6**
+-------Paddlin. Peggy------
+2 | Paddlin' Peggy | 100
+-------Beefsquatch------
 0 | Beefsquatch | 130
---------Devil Bobby------
+-------Devil Bobby------
 3 | Devil Bobby
---------Drunk Peter------
+-------Drunk Peter------
 3 | Drunk Peter
---------Bad Tina------
-2 | Bad Tina | 100
---------QB Boomhauer------
+-------Bad Tina------
+3 | Bad Tina
+-------QB Boomhauer------
 2 | QB Boomhauer | 60
---------Heckler Zoidberg------
-2 | Heckler Zoidberg | 100
+-------Heckler Zoidberg------
+3 | Heckler Zoidberg
 
+The Thinker Ape
+Paddlin. Peggy
+Beefsquatch
+Devil Bobby
+Drunk Peter
+Bad Tina
+QB Boomhauer
+Heckler Zoidberg
