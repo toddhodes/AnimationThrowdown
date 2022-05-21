@@ -10747,7 +10747,7 @@
 	<skill id="shrapnel" x="6"/>
 	<type>4</type>
 	<trait>armed</trait>
-	<set>7000</set>
+	<set>7002</set>
 	<upgrade>
 		<level>2</level>
 		<health>57</health>
