@@ -1,31 +1,29 @@
 
   1 M Brian
   6 L Brian
-  armed - private brian
+  Private Brian - armed
   7 ship armory - 21/105 15 bomb 27 punch (shield all armed)
 
 OR
 
   1 M Bender
   6 L Bender
-  pro-pain - benderisgreat  
+  BenderIsGreat34 - armed
   pro-pain - 24/85  25 wall 29 punch 19 pierce
-   
 
 OR
 
   1 M Bill
   6 L Bill
-  disguised - mil tux
+  Military Tux Bill - disguised
   6 L Roger's Sexy Shorts - 28/76  34 gas 16 fence 28 pierce
- 
 
 OR
 
    1 M Quag
    6 L Quag
-   armed - Army Q
    2 L Surface Air Telegram -  25/123 
+   Army Quagmire - armed
    ship armory - 23/121  13 cheer all 23 fence 23 bomb
 
 AND
@@ -33,27 +31,38 @@ AND
    9 L Military Tux Bill: 6**
    2 L Mission Doctor: 6**
 
+
 -------Rambo Lois------
-0 | Rambo Lois | 65
+0 | Rambo Lois | 95
 -------Art of War------
 3 | Art of War
 -------Private Brian------
-2 | Private Brian | 15
+2 | Private Brian | 100
 -------Army Quagmire------
 3 | Army Quagmire
 -------Flag Defender------
-0 | Flag Defender | 130
+1 | Flag Defender | 125
 -------Military Tux Bill------
-2 | Military Tux Bill | 15
-   1 L Military Tux Bill: 1
-   6 L Military Tux Bill: 6**
+3 | Military Tux Bill
+   9 L Military Tux Bill: 6**
 -------Mission Doctor------
 3 | Mission Doctor
    1 L Mission Doctor: 1
    1 L Mission Doctor: 6*
    3 L Mission Doctor: 6**
 -------Frykowski------
-0 | Frykowski | 80
+1 | Frykowski | 85
 -------BenderIsGreat34------
-2 | BenderIsGreat34 | 55
+3 | BenderIsGreat34
+   1 L BenderIsGreat34: 1
 
+
+Rambo Lois
+Art of War
+Private Brian
+Army Quagmire
+Flag Defender
+Military Tux Bill
+Mission Doctor
+Frykowski
+BenderIsGreat34
