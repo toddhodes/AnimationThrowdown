@@ -4471,7 +4471,143 @@
        		<skill id='healall' x='4' />
        		<skill id='give' s='burn' x='3' />
         </upgrade>
+     </unit>   
+	   <unit>
+        <id>6037</id>
+		<name>Burgerboss Bob</name>
+		<desc>This is worse than I expected.</desc>
+		<picture>burgerbossbob</picture>
+		<asset_bundle>31</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>3</type>
+        <health>15</health>
+        <upgrade>
+            <level>2</level>
+            <health>20</health>
+            <skill id='healall' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>35</health>
+        	<skill id='give' s='burn' x='1' />
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>50</health>
+            <skill id='healall' x='3' />
+            <skill id='give' s='burn' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>80</health>
+       		<skill id='healall' x='4' />
+       		<skill id='give' s='burn' x='3' />
+        </upgrade>
      </unit>                 
+          <unit>
+        <id>6038</id>
+		<name>Louise</name>
+		<desc>Nightmares</desc>
+		<picture>louiseScissorhands</picture>
+		<asset_bundle>4</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>3</type>
+        <health>15</health>
+        <upgrade>
+            <level>2</level>
+            <health>20</health>
+            <skill id='healall' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>35</health>
+        	<skill id='strike' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>50</health>
+            <skill id='healall' x='3' />
+            <skill id='strike' x='3' />
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>80</health>
+       		<skill id='healall' x='4' />
+       		<skill id='strike' x='4' />
+        </upgrade>
+     </unit>          
+     <unit>
+        <id>6039</id>
+		<name>Tina-Beana</name>
+		<desc>It’s a man cave. And Tina’s going spelunking.</desc>
+		<picture>badTina</picture>
+		<asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>3</type>
+        <health>15</health>
+        <upgrade>
+            <level>2</level>
+            <health>20</health>
+            <skill id='weakenall' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>35</health>
+        	<skill id='give' s='shrapnel' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>50</health>
+            <skill id='weakenall' x='3' />
+            <skill id='give' s='shrapnel' x='3' />
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>80</health>
+       		<skill id='weakenall' x='4' />
+       		<skill id='give' s='shrapnel' x='4' />
+        </upgrade>
+     </unit> 
+	   <unit>
+        <id>6040</id>
+		<name>Dawn of Linda</name>
+		<desc>No one sheds like this family, it's like a bunch of Chewbaccas.</desc>
+		<picture>alphaLinda</picture>
+		<asset_bundle>4</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>3</type>
+        <health>15</health>
+        <upgrade>
+            <level>2</level>
+            <health>20</health>
+            <skill id='healall' x='1' y='3' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>35</health>
+        	<skill id='heal' x='3' y='3' />
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>50</health>
+            <skill id='healall' x='2' y='3' />
+            <skill id='heal' x='4' y='3' />
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>80</health>
+       		<skill id='healall' x='4' y='3' />
+       		<skill id='heal' x='5' y='3' />
+        </upgrade>
+     </unit>  
 	 <!--  Family Guy Campaign Leaders  -->
      <unit>
         <id>7001</id>
