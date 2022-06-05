@@ -1,6 +1,6 @@
 
 #
-# 900-1019k for 13 of these / 195 refills
+# 90-102k for 13 of these / 195 refills
 #
 
 case "$1" in
