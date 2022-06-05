@@ -10,6 +10,7 @@
 3 | Arts and Crafts Bob
 3 | Ass-Kicker Hank
 3 | Assassin Bender
+3 | Bacon Weight
 3 | Bad Tina
 3 | Badminton Roger
 3 | Ballet Meg
@@ -196,6 +197,8 @@
 3 | Online Advice
 3 | Opera Francine
 3 | Organ Hermes
+3 | Paintball Dale
+3 | Paintball Hank
 3 | Painting Class Joe
 3 | Painting Montage Joe
 3 | Panty Addict Snot
@@ -304,7 +307,6 @@
 2 | Alley Entertainment | 100
 2 | Archer Klaus
 2 | Army Tank Zapp | 5
-2 | Bacon Weight | 100
 2 | Bakaneko Fighter Louise
 2 | Balloon Sniper | 100
 2 | Baseball Bobby | 15
@@ -380,7 +382,7 @@
 2 | Golfer Amy
 2 | Golfing Lois | 65
 2 | Greaser Stan | 95
-2 | Grenade Amy | 85
+2 | Grenade Amy | 100
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
 2 | Hank Hill, Running Back | 95
@@ -433,8 +435,7 @@
 2 | One Art Please | 30
 2 | Opera Singer Leela | 60
 2 | Paddlin' Peggy | 100
-2 | Paintball Dale | 100
-2 | Paintball Hank | 5
+2 | Paintball Boomhauer | 100
 2 | Painter Zoidberg | 20
 2 | Pan Flute Stewie | 70
 2 | Ping Pong Brian
@@ -465,6 +466,7 @@
 2 | Sailing Addict Linda
 2 | Salmon Fry | 45
 2 | Sandwitch | 75
+2 | Screwdrive Chris
 2 | Sculptor Peter | 25
 2 | Serious Runner Brian | 50
 2 | Sexy Dance Fighting
@@ -504,7 +506,7 @@
 2 | Tuning Fork | 100
 2 | Two Butt Goat
 2 | Umbriel | 100
-2 | Upgraded Hermes | 10
+2 | Upgraded Hermes | 55
 2 | Vengeance Quagmire | 40
 2 | Victorian Knife Lois | 100
 2 | Victory Dance | 40
@@ -539,6 +541,7 @@
 1 | Boombox Teddy
 1 | Bruce the Goose | 25
 1 | Burobu Addict | 75
+1 | Butcher Knife Jeff
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
 1 | Chamber of Understanding | 125
@@ -550,7 +553,7 @@
 1 | Cough Syrup Drunk | 50
 1 | Cowpoke | 45
 1 | Crayon Drawing | 125
-1 | Crime Addict Joe | 10
+1 | Crime Addict Joe | 30
 1 | DJ Buttercup | 120
 1 | Dog Bone Stan | 5
 1 | Dog Lois | 90
@@ -615,13 +618,13 @@
 1 | Raleigh St. Augustine | 125
 1 | Ravenous Porcelain Babies | 25
 1 | Ready for Santa | 95
+1 | Reflection | 20
 1 | Rich Hayley | 5
 1 | Roach Coach Francine | 55
 1 | Roller Derby Luanne | 110
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
 1 | Running Back Hank | 120
-1 | Screwdrive Chris | 25
 1 | Shark Killer | 65
 1 | Sherlock Zoidberg
 1 | Shiny Pebbles | 45
@@ -828,4 +831,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-297100 | Mastery Stone
+309400 | Mastery Stone
