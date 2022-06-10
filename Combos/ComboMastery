@@ -124,6 +124,7 @@
 3 | Gingerbread Sculptor
 3 | Good Boy Witch Snot
 3 | Green Beer
+3 | Grenade Amy
 3 | Groovy Fry
 3 | Gymnast Fighter Stewie
 3 | Hail Science!
@@ -382,7 +383,6 @@
 2 | Golfer Amy
 2 | Golfing Lois | 65
 2 | Greaser Stan | 95
-2 | Grenade Amy | 100
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
 2 | Hank Hill, Running Back | 95
@@ -454,6 +454,7 @@
 2 | Rapture Stan | 55
 2 | Rastafarian Jingle Hayley | 85
 2 | Record Holder Stan | 60
+2 | Reflection | 20
 2 | Remote Cars Circuit Bob | 30
 2 | Rich Leela | 100
 2 | Road Kill | 100
@@ -618,7 +619,6 @@
 1 | Raleigh St. Augustine | 125
 1 | Ravenous Porcelain Babies | 25
 1 | Ready for Santa | 95
-1 | Reflection | 20
 1 | Rich Hayley | 5
 1 | Roach Coach Francine | 55
 1 | Roller Derby Luanne | 110
@@ -831,4 +831,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-309400 | Mastery Stone
+317650 | Mastery Stone
