@@ -37843,7 +37843,7 @@
 	</unit>	
 	<unit>
     	<id>25251</id>
-        <name>Rasslin Roger</name>
+        <name>Krotchlikniov</name>
 	    <picture>AD_RasslinRoger</picture>
         <asset_bundle>82</asset_bundle>
         <rarity>1</rarity>
@@ -37856,6 +37856,8 @@
 		<skill id='hijack' p='30' v='11'  />
         <skill id='poison' p='30' v='12' />
 	</unit>	
+
+
 	<!-- End american dad combo -->		
 	<!--  stop at id 26000 -->
 	<!-- Bob's Burgers input -->
@@ -54833,6 +54835,7 @@
         <skill id='bunker' p='30' v='8' />
         <skill id='inspire' p='30' v='10' />
     </unit>
+
 	<!-- End Bob's Burgers combos -->					
 	<!-- King of the Hill -->
 
@@ -70318,7 +70321,8 @@
         <skill id='strike'  p='30' v='10' />
         <skill id='berserk' p='30' v='8' />
         <skill id='outlast' p='30' v='12' />
-    </unit> 
+	</unit>
+
 	<!-- End King of the Hill Combo -->								
 	<!-- Futurama Input -->
 
@@ -87525,6 +87529,7 @@
         <skill id='counter' p='30' v='12' />
         <skill id='poison' p='30' v='11' />
     </unit> 
+
 <!-- END Futurama Combos -->
 
 <!-- Generic Input Cards -->
