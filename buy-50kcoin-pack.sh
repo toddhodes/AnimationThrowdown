@@ -7,7 +7,12 @@ case "$1" in
 *) count=$1 ;;
 esac
 
-source vars
+if [ -f vars ]; then
+  source vars
+else
+  echo "ERROR: run make first, we need the card definitions"
+  exit
+fi
 
 for i in `seq 1 $count`
 do
