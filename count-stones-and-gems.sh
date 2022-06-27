@@ -10,14 +10,12 @@ count=0
 for i in `seq 0 $buys`
 do
     ((count=count+500+i*250)); 
-    echo gems: $count; 
 done
+echo gems: $count
 
 count=0
 for i in `seq 0 $buys`
 do
     ((count=count+1000+i*500)); 
-    echo stones: $count; 
 done
-
-
+echo stones: $count

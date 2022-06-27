@@ -18,8 +18,7 @@ do
     echo "fight 33/34"
     ./adventure-fight5.sh 
   done
+  #echo "buy coin packs"
+  #./buy-50kcoin-pack.sh 3
 
 done
-
-#echo "buy coin packs"
-#./buy-50kcoin-pack.sh 3
