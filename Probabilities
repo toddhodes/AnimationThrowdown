@@ -1,6 +1,11 @@
 
-Probabilities
+Probabilities of not getting a PC in your initial hand
+for clash decks
 
+
+7/7/11 (25):
+$ calc '1 - (14! / 9!) / (25! / 20!)'
+	~0.96231884057971014493
 
 7/7/12 (26):
 $ calc '1 - (14! / 9!) / (26! / 21!)'
