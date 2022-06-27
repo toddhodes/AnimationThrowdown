@@ -2,7 +2,7 @@
 #
 #
 
-jq '.user_items | to_entries[] | (.value.number,.value.name,.value.desc)' user.json \
+jq '.user_items | to_entries[] | (.value.number,.value.name,.value.desc)' /tmp/user.json \
    | paste - - - \
    | grep Mastery \
    | cut -d\" -f2,4 \
