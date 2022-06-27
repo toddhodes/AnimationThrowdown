@@ -49,7 +49,7 @@ In the directory where you cloned this, simply run
 make
 ```
 
-and that's it!  It does the rest for you.  If this doesn't work for you, email me, happy to help.
+and that's it!  It does the rest for you.  If this doesn't work for you, open an issue, happy to help.
 
 ### Sample output
 
@@ -93,44 +93,29 @@ The `Mastery Stone` line lists your Mastery Stones, the currency used to purchas
 
 ## Individual Scripts Docs
 
-### Deck management
-
-These scripts should be run from the Makefile.  Don't bother running them separately.
-
--  get-cards
--  get-deck
--  gen-cards
--  gen-cm
--  gen-cm-tokens 
--  gen-cm-combined 
-
-This searches only your deck and CM, ignores the xml:
-
-- cardAndCmGrep.sh
-
 ### Arena and Adventure fights
-
-- 
-
-### Purchases
 
 These automate buying refills for Adventure, and, run fights in groups of 5. The script
 adventure-iterate.sh combines the refill buying and fighting, that's the one you probably want.
 If you are not over your card cap, you can have it buy
 50k packs with coins as it iterates with the now-commented-out ./buy-50kcoin-pack.sh.
 
+- adventure-iterate.sh
+
 - adventure-buy-refills.sh
 - adventure-fight5.sh
-- adventure-iterate.sh
 
 These automate buying refills for Arena, and, run fights in groups of 5. The script 
 arena-iterate.sh combines the refill buying and fighting, that's the one you probably want.
 If you are not over your card cap, you can have it buy
 50k packs with coins as it iterates with the now-commented-out ./buy-50kcoin-pack.sh.
 
+- arena-iterate.sh
+
 - arena-buy-refills.sh
 - arena-fight5.sh
-- arena-iterate.sh
+
+### Purchases
 
 These automate buying the items indicated:
 
@@ -138,5 +123,39 @@ These automate buying the items indicated:
 - buy-50kcoin-pack.sh
 - buy-golden-turd.sh
 - buy-watts-converter.sh
+
+### Deck management
+
+This is a convenience script that searches only your deck and CM, ignores the xml and other garbage that would come up
+grep'ing the whole dir:
+
+- cardAndCmGrep.sh
+
+For example:
+```
+$ ./cardAndCmGrep.sh Meg.F
+2 | Meg Football Kickoff | 15
+   6 L Meg Football Kickoff: 6**
+```
+
+This tells you how many gems or mastery stones it takes to pay for a certain number of buys. 
+
 - count-stones-and-gems.sh
+
+For example:
+```
+$ ./count-stones-and-gems.sh 10
+10 buys:
+gems: 16250
+stones: 32500
+```
+
+These can be ignored.  They are run from the Makefile.  Don't bother running them separately.
+
+-  get-cards
+-  get-deck
+-  gen-cards
+-  gen-cm
+-  gen-cm-tokens 
+-  gen-cm-combined 
 
