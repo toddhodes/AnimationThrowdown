@@ -91,3 +91,52 @@ The `Mastery Stone` line lists your Mastery Stones, the currency used to purchas
 ```
 
 
+## Individual Scripts Docs
+
+### Deck management
+
+These scripts should be run from the Makefile.  Don't bother running them separately.
+
+-  get-cards
+-  get-deck
+-  gen-cards
+-  gen-cm
+-  gen-cm-tokens 
+-  gen-cm-combined 
+
+This searches only your deck and CM, ignores the xml:
+
+- cardAndCmGrep.sh
+
+### Arena and Adventure fights
+
+- 
+
+### Purchases
+
+These automate buying refills for Adventure, and, run fights in groups of 5. The script
+adventure-iterate.sh combines the refill buying and fighting, that's the one you probably want.
+If you are not over your card cap, you can have it buy
+50k packs with coins as it iterates with the now-commented-out ./buy-50kcoin-pack.sh.
+
+- adventure-buy-refills.sh
+- adventure-fight5.sh
+- adventure-iterate.sh
+
+These automate buying refills for Arena, and, run fights in groups of 5. The script 
+arena-iterate.sh combines the refill buying and fighting, that's the one you probably want.
+If you are not over your card cap, you can have it buy
+50k packs with coins as it iterates with the now-commented-out ./buy-50kcoin-pack.sh.
+
+- arena-buy-refills.sh
+- arena-fight5.sh
+- arena-iterate.sh
+
+These automate buying the items indicated:
+
+- buy-1k-epic-stones.sh
+- buy-50kcoin-pack.sh
+- buy-golden-turd.sh
+- buy-watts-converter.sh
+- count-stones-and-gems.sh
+
