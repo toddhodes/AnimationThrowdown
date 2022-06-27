@@ -88,12 +88,15 @@ First column is Combo Mastery level, 0-3. Second column is the combo name.  Thir
 
 The `Mastery Stone` line lists your Mastery Stones, the currency used to purchase stones from the Shop's Mastery tab.
 
+e.g. this shows a cm3, a cm2 with enough stones for cm3, a cm2 with no extra stones, a cm1 with stones that wouldn't
+add up to enough to be able to upgrade to cm2, and a cm0 with enough stones for cm3, and the total mastery stones.
+
+
 ```
 3 | Beer Snot
 2 | Alley Entertainment | 100
 2 | Beer Jeff
 1 | Artsy Tina | 5
-1 | Butcher Knife Jeff
 0 | Hot Cocoa Louise | 130
 245950 | Mastery Stone
 ```
