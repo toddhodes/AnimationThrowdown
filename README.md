@@ -83,7 +83,9 @@ and a max-fused Mythic Zapp.
 
 *Combos/ComboMastery:*
 
-First column is Combo Mastery level, 0-3. Second column is the combo name.  Third column is the number of item mastery stones available for that particular combo, blank for none. It takes 5 for CM1, 25 more for CM2, and 100 more for CM3.  Thus an available but unresearched CM3 would list 0 | Sample | 130.  
+First column is Combo Mastery level, 0-3. Second column is the combo name.  Third column is the number of item mastery stones available for that particular combo, blank for none. It takes 5 for CM1, 25 more for CM2, and 100 more for CM3.  Thus an available but unresearched CM3 would list 
+0 | name | 130.  
+
 The `Mastery Stone` line lists your Mastery Stones, the currency used to purchase stones from the Shop's Mastery tab.
 
 ```
