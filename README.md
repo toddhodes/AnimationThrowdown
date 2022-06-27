@@ -67,11 +67,17 @@ how CM level and CM stones are shown combined together:
 
 *Decks/CARDS:*
 
-First column is number of cards with that exact level fusing.  Second column is Rare/Epic/Legendary/Mythic.  Third Column is card name.  Fourth column is the level of fusing.  e.g., this shows 10 max-fused legendary Zapp character cards and a Mythic Zapp.
+First column is number of cards with that exact level fusing.  Second column is Rare/Epic/Legendary/Mythic.  Third Column is card name.  Fourth column is the level of fusing.  Fusing takes 5 levels for epics, 6 for legendaries, and 7 for mythics.  e.g., this shows 
+2 max-fused epic Cute Witch of the North,
+2 max-fused legnedary Cute Witch of the North,
+10 max-fused legendary Zapp character cards,
+and a max-fused Mythic Zapp.
 
 ```
+   2 E Cute Witch of the North: 5**
+   4 L Cute Witch of the North: 6**
   10 L Zapp Brannigan: 6**
-   1 M Zapp Brannigan: 2**
+   1 M Zapp Brannigan: 7**
 ```
 
 
