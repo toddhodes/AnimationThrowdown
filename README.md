@@ -2,7 +2,10 @@
 Animation Throwdown scripts
 
 
-These scripts get your deck card inventory, and Combo Mastery, and output it as text.
+These scripts 
+- get your deck card inventory, and Combo Mastery, and output it as text
+- allow you to automate adventure and arena fights
+- allow you to automate purchasing
 
 ## Setup
 
@@ -64,74 +67,27 @@ how CM level and CM stones are shown combined together:
 
 *Decks/CARDS:*
 
-First column is number of cards with that exact level fusing.  Second column is Rare/Epic/Legendary/Mythic.  Third Column is card name.  Fourth column is the level of fusing.  e.g., this shows 6 max-fused Zapp Brannigan Portrait item cards, and, 10 max-fused legnedary Zapp character cards.
+First column is number of cards with that exact level fusing.  Second column is Rare/Epic/Legendary/Mythic.  Third Column is card name.  Fourth column is the level of fusing.  e.g., this shows 10 max-fused legendary Zapp character cards and a Mythic Zapp.
 
 ```
-   1 E Free Weed Hayley: 5*
-   6 L Wozniak Nerd Academy: 6**
-   1 L Yacht Dreams: 6**
-   6 L Zapp Brannigan Portrait: 6**
   10 L Zapp Brannigan: 6**
-   1 L Zapp Figurines: 1
-   1 L Zapp Figurines: 2*
-   2 L Zapp Figurines: 6**
-   1 M Amy: 6*
-   1 M Anti-Seizure Meds: 7*
-   1 M Bender: 1**
-   1 M Wagstaff Whaler: 6
-   1 M Walking Man Exhibit: 6
-   1 M Wong Casino: 4
    1 M Zapp Brannigan: 2**
 ```
 
 
 *Combos/ComboMastery:*
 
-First column is Combo Mastery level, 1-3 (blank when only stones). Second column is the combo name.  Third column is the number of item mastery stones available for that particular combo; it takes 5 for CM1, 25 more for CM2, and 100 more for CM3.  Thus an available but unresearched CM3 would list 130.  
-
+First column is Combo Mastery level, 0-3. Second column is the combo name.  Third column is the number of item mastery stones available for that particular combo, blank for none. It takes 5 for CM1, 25 more for CM2, and 100 more for CM3.  Thus an available but unresearched CM3 would list 0 | Sample | 130.  
 The `Mastery Stone` line lists your Mastery Stones, the currency used to purchase stones from the Shop's Mastery tab.
 
 ```
-3 | Zombie Jimmy Jr.
-3 | Wingnut Leela
-3 | Wingnut Amy
-3 | Whiskey Bartender
-3 | Whale Hunter Amy
-3 | War Horse
-2 | Summer Guy | 70
-2 | Stressed Out Leela | 30
-2 | Stickin' Hank
-2 | Stan vs Mafia | 55
-2 | Squirrel Death | 100
-2 | Spray on Army Fry
-2 | Spray Painter | 70
-2 | Space Steve | 75
-2 | Space Stan | 15
-2 | Space Cadet Chris | 25
-2 | Softball Lois | 100
-2 | Softball Bill
-2 | Slow Dance Jimmy Jr. | 10
-1 | Kawaii Klaus | 120
-1 | K Pop Peter | 5
-1 | Joystick Steve | 110
-1 | Jellybean Phone Klaus | 5
-1 | Hot Cocoa Gene | 25
-1 | Honeybucket Student | 125
-1 | Honey Mustache Stewie | 5
-1 | Appetizer Addict Brian | 10
-1 | Anally Defaced | 75
-1 | Amy's Talking Tattoo | 125
-1 | Alcohol Bath | 95
-1 | ABC Quagmire | 45
- Mastery Stone | 435200
- Zac Sawyer | 130
- Screen Repairer | 130
- Rich Bobby | 130
- Nun Francine | 80
- Maxi Paddy | 65
- Prom Luanne | 5
- Ecstacy Francine | 5
- Corporate Training | 5
+3 | Beer Snot
+2 | Alley Entertainment | 100
+2 | Beer Jeff
+1 | Artsy Tina | 5
+1 | Butcher Knife Jeff
+0 | Hot Cocoa Louise | 130
+245950 | Mastery Stone
 ```
 
 
