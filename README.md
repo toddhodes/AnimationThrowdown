@@ -147,7 +147,7 @@ $ ./cardAndCmGrep.sh Meg.F
    6 L Meg Football Kickoff: 6**
 ```
 
-This tells you how many gems or mastery stones it takes to pay for a certain number of buys. 
+This tells you how many gems or mastery stones it takes to pay for a certain number of buys:
 
 - count-stones-and-gems.sh
 
@@ -159,7 +159,7 @@ gems: 16250
 stones: 32500
 ```
 
-These can be ignored.  They are run from the Makefile.  Don't bother running them separately.
+These can be ignored.  They are run from the Makefile.  Don't bother running them separately:
 
 -  get-cards
 -  get-deck
