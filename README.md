@@ -133,6 +133,17 @@ These automate buying the items indicated:
 - buy-golden-turd.sh
 - buy-watts-converter.sh
 
+For example, here we see 3 turd purchases, 2 epics and a legendary:
+```
+$ ./buy-golden-turd.sh 3
+"20029"
+got 20029: 20029 3 Samurai Toshi
+"30115"
+got 30115: 30115 4 Orange Belt Arnold
+"120106"
+got 120106: 120106 3 Karate Francine
+```
+
 ### Deck management
 
 This is a convenience script that searches only your deck and CM, ignores the xml and other garbage that would come up
