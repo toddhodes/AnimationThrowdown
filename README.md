@@ -109,20 +109,18 @@ add up to enough to be able to upgrade to cm2, and a cm0 with enough stones for 
 These automate buying refills for Adventure, and, run fights in groups of 5. The script
 adventure-iterate.sh combines the refill buying and fighting, that's the one you probably want.
 If you are not over your card cap, you can have it buy
-50k packs with coins as it iterates with the now-commented-out ./buy-50kcoin-pack.sh.
+50k packs with coins as it iterates by uncommenting the ./buy-50kcoin-pack.sh clause.
 
 - adventure-iterate.sh
-
 - adventure-buy-refills.sh
 - adventure-fight5.sh
 
 These automate buying refills for Arena, and, run fights in groups of 5. The script 
 arena-iterate.sh combines the refill buying and fighting, that's the one you probably want.
 If you are not over your card cap, you can have it buy
-50k packs with coins as it iterates with the now-commented-out ./buy-50kcoin-pack.sh.
+50k packs with coins as it iterates by uncommenting the ./buy-50kcoin-pack.sh clause.
 
 - arena-iterate.sh
-
 - arena-buy-refills.sh
 - arena-fight5.sh
 
