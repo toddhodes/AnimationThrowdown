@@ -102,7 +102,7 @@ own.format <- function(data) {
 ##
 
 #fill in your id and hashed password, if your not sure which ones i mean, just ask :)
-my_id = '5259558'
+my_id = ''
 my_password = ''
 #path is where you save the table with the scores, you need to change it
 path = "/Users/bench/Desktop/rumble_scores.csv"
