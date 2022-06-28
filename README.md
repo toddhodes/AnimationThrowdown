@@ -80,6 +80,13 @@ and a max-fused Mythic Zapp.
    1 M Zapp Brannigan: 7**
 ```
 
+Here is an example of two singles, a single-fused, ready to be quad-fused with watts (for a total of 9 quads):
+```
+    2 L Anti-Seizure Meds: 1
+    1 L Anti-Seizure Meds: 1*
+    8 L Anti-Seizure Meds: 6**
+```
+
 
 *Combos/ComboMastery:*
 
@@ -142,7 +149,7 @@ These
 
 automate buying the items indicated.
 
-For example, here we see 3 turd purchases, 2 epics and a legendary:
+For example, here we see three turd purchases, gaining an epic, a legendary, and an epic:
 ```
 $ ./buy-golden-turd.sh 3
 "20029"
@@ -152,6 +159,9 @@ got 30115: 30115 4 Orange Belt Arnold
 "120106"
 got 120106: 120106 3 Karate Francine
 ```
+
+The numbers are the "levels" as defined by the game: 1 is Common, 2 Rare, 3 Epic, 4 Legendary, and 5 Mythic.
+
 
 ### Deck management
 
