@@ -112,8 +112,8 @@ These
 - adventure-fight5.sh
 
 automate buying refills for Adventure, and, run fights in groups of 5. The script
-adventure-iterate.sh combines the refill buying and fighting, that's the one you probably want.
-For each iteration, it buys 30 `Energy Refill +10` packs, and then runs either 33 or 34 battles (however much it can).
+`adventure-iterate.sh` combines the refill buying and fighting, that's the one you probably want.
+For each iteration, it buys 30 *Energy Refill +10* packs, and then runs either 33 or 34 battles (however much it can).
 If you are not over your card cap, you can have it buy
 50k packs with coins as it iterates by uncommenting the ./buy-50kcoin-pack.sh clause.
 
@@ -126,8 +126,8 @@ These
 - arena-fight5.sh
 
 automate buying refills for Arena, and, run fights in groups of 5. The script 
-arena-iterate.sh combines the refill buying and fighting, that's the one you probably want.
-For each iteration, it buys 15 `Arena Refill +10` packs, and then runs 150 battles.
+`arena-iterate.sh` combines the refill buying and fighting, that's the one you probably want.
+For each iteration, it buys 15 *Arena Refill +10* packs, and then runs 150 battles.
 If you are not over your card cap, you can have it buy
 50k packs with coins as it iterates by uncommenting the ./buy-50kcoin-pack.sh clause.
 
