@@ -1,3 +1,6 @@
+#!/bin/bash
+#
+#
 
 t=cards-w-id-and-rarity
 tmp=/tmp/cards-w-id-and-rarity

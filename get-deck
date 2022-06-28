@@ -1,3 +1,6 @@
+#!/bin/bash
+#
+#
 
 ##
 ## you need user_id and password hash; put them in a file ~/.at_creds
