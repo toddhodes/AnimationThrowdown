@@ -106,36 +106,38 @@ add up to enough to be able to upgrade to cm2, and a cm0 with enough stones for 
 
 ### Adventure fights
 
-These automate buying refills for Adventure, and, run fights in groups of 5. The script
+These 
+- adventure-iterate.sh
+- adventure-buy-refills.sh
+- adventure-fight5.sh
+automate buying refills for Adventure, and, run fights in groups of 5. The script
 adventure-iterate.sh combines the refill buying and fighting, that's the one you probably want.
 For each iteration, it buys 30 `Energy Refill +10` packs, and then runs either 33 or 34 battles (however much it can).
 If you are not over your card cap, you can have it buy
 50k packs with coins as it iterates by uncommenting the ./buy-50kcoin-pack.sh clause.
 
-- adventure-iterate.sh
-- adventure-buy-refills.sh
-- adventure-fight5.sh
 
 ### Arena fights
 
-These automate buying refills for Arena, and, run fights in groups of 5. The script 
+These 
+- arena-iterate.sh
+- arena-buy-refills.sh
+- arena-fight5.sh
+automate buying refills for Arena, and, run fights in groups of 5. The script 
 arena-iterate.sh combines the refill buying and fighting, that's the one you probably want.
 For each iteration, it buys 15 `Arena Refill +10` packs, and then runs 150 battles.
 If you are not over your card cap, you can have it buy
 50k packs with coins as it iterates by uncommenting the ./buy-50kcoin-pack.sh clause.
 
-- arena-iterate.sh
-- arena-buy-refills.sh
-- arena-fight5.sh
 
 ### Purchases
 
-These automate buying the items indicated:
-
+These 
 - buy-1k-epic-stones.sh
 - buy-50kcoin-pack.sh
 - buy-golden-turd.sh
 - buy-watts-converter.sh
+automate buying the items indicated.
 
 For example, here we see 3 turd purchases, 2 epics and a legendary:
 ```
@@ -150,10 +152,11 @@ got 120106: 120106 3 Karate Francine
 
 ### Deck management
 
-This is a convenience script that searches only your deck and CM, ignores the xml and other garbage that would come up
+This 
+- cardAndCmGrep.sh
+is a convenience script that searches only your deck and CM, ignores the xml and other garbage that would come up
 grep'ing the whole dir:
 
-- cardAndCmGrep.sh
 
 For example:
 ```
@@ -162,9 +165,10 @@ $ ./cardAndCmGrep.sh Meg.F
    6 L Meg Football Kickoff: 6**
 ```
 
-This tells you how many gems or mastery stones it takes to pay for a certain number of buys:
-
+This 
 - count-stones-and-gems.sh
+tells you how many gems or mastery stones it takes to pay for a certain number of buys:
+
 
 For example:
 ```
@@ -174,12 +178,12 @@ gems: 16250
 stones: 32500
 ```
 
-These can be ignored.  They are run from the Makefile.  Don't bother running them separately:
-
+These 
 -  get-cards
 -  get-deck
 -  gen-cards
 -  gen-cm
 -  gen-cm-tokens 
 -  gen-cm-combined 
+can be ignored.  They are run from the Makefile.  Don't bother running them separately:
 
