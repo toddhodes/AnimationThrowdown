@@ -110,6 +110,7 @@ These
 - adventure-iterate.sh
 - adventure-buy-refills.sh
 - adventure-fight5.sh
+
 automate buying refills for Adventure, and, run fights in groups of 5. The script
 adventure-iterate.sh combines the refill buying and fighting, that's the one you probably want.
 For each iteration, it buys 30 `Energy Refill +10` packs, and then runs either 33 or 34 battles (however much it can).
@@ -123,6 +124,7 @@ These
 - arena-iterate.sh
 - arena-buy-refills.sh
 - arena-fight5.sh
+
 automate buying refills for Arena, and, run fights in groups of 5. The script 
 arena-iterate.sh combines the refill buying and fighting, that's the one you probably want.
 For each iteration, it buys 15 `Arena Refill +10` packs, and then runs 150 battles.
@@ -137,6 +139,7 @@ These
 - buy-50kcoin-pack.sh
 - buy-golden-turd.sh
 - buy-watts-converter.sh
+
 automate buying the items indicated.
 
 For example, here we see 3 turd purchases, 2 epics and a legendary:
@@ -154,6 +157,7 @@ got 120106: 120106 3 Karate Francine
 
 This 
 - cardAndCmGrep.sh
+
 is a convenience script that searches only your deck and CM, ignores the xml and other garbage that would come up
 grep'ing the whole dir:
 
@@ -167,6 +171,7 @@ $ ./cardAndCmGrep.sh Meg.F
 
 This 
 - count-stones-and-gems.sh
+
 tells you how many gems or mastery stones it takes to pay for a certain number of buys:
 
 
@@ -185,5 +190,6 @@ These
 -  gen-cm
 -  gen-cm-tokens 
 -  gen-cm-combined 
+
 can be ignored.  They are run from the Makefile.  Don't bother running them separately:
 
