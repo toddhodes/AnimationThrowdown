@@ -276,6 +276,7 @@
 3 | Tainted Alamo
 3 | Talent Show Lois
 3 | Tattoo Stan
+3 | Tentacle Bishop
 3 | The Thinker Ape
 3 | Time for Hard Liquor
 3 | Tin Man Bender
@@ -352,7 +353,7 @@
 2 | Corporate Training | 35
 2 | Counting Klaus | 50
 2 | Country Club Steve | 85
-2 | Cupid Bobby | 30
+2 | Cupid Bobby
 2 | Dancing Peggy | 10
 2 | Date Wine Zoidberg | 100
 2 | Diamond Ring Lois | 100
@@ -496,7 +497,6 @@
 2 | Teagle | 100
 2 | Teen LaQueefa
 2 | Tennis Stan
-2 | Tentacle Bishop
 2 | Tequila Roger | 65
 2 | The Billdozer | 100
 2 | The Carnival With Rupert | 100
@@ -831,4 +831,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-246000 | Mastery Stone
+251100 | Mastery Stone
