@@ -53890,6 +53890,221 @@
 	</upgrade>
 	<release_time>1655834400</release_time>
   </unit>
+  <unit>
+	<id>130181</id>
+	<combo_card_id>35025</combo_card_id>
+	<attack>14</attack>
+	<health>48</health>
+	<name>Swat Bob</name>
+	<desc>It's supposed to be a fish.</desc>
+	<picture>SwatBob</picture>
+	<asset_bundle>5</asset_bundle>
+	<rarity>4</rarity>
+	<set>3001</set>
+	<type>3</type>
+	<trait>rich</trait>
+	<skill id="armored" x="9"/>
+	<skill id="heal" x="9"/>
+	<card_type>object</card_type>
+	<upgrade>
+	  <level>2</level>
+	  <health>49</health>
+	</upgrade>
+	<upgrade>
+	  <level>3</level>
+	  <health>50</health>
+	  <skill id="armored" x="10"/>
+	  <skill id="heal" x="10"/>
+	</upgrade>
+	<upgrade>
+	  <level>4</level>
+	  <health>51</health>
+	</upgrade>
+	<upgrade>
+	  <level>5</level>
+	  <health>52</health>
+	  <skill id="armored" x="11"/>
+	  <skill id="heal" x="11"/>
+	</upgrade>
+	<upgrade>
+	  <level>6</level>
+	  <attack>15</attack>
+	  <health>53</health>
+	</upgrade>
+	<upgrade>
+	  <level>7</level>
+	  <health>55</health>
+	  <skill id="armored" x="12"/>
+	  <skill id="heal" x="12"/>
+	</upgrade>
+	<upgrade>
+	  <level>8</level>
+	  <health>56</health>
+	</upgrade>
+	<upgrade>
+	  <level>9</level>
+	  <health>57</health>
+	  <skill id="armored" x="13"/>
+	  <skill id="heal" x="13"/>
+	</upgrade>
+	<upgrade>
+	  <level>10</level>
+	  <attack>16</attack>
+	  <health>58</health>
+	  <skill id="armored" x="14"/>
+	  <skill id="heal" x="14"/>
+	</upgrade>
+	<upgrade>
+	  <level>11</level>
+	  <health>59</health>
+	</upgrade>
+	<upgrade>
+	  <level>12</level>
+	  <health>60</health>
+	  <skill id="armored" x="15"/>
+	  <skill id="heal" x="15"/>
+	</upgrade>
+	<upgrade>
+	  <level>13</level>
+	  <health>62</health>
+	</upgrade>
+	<upgrade>
+	  <level>14</level>
+	  <attack>17</attack>
+	  <health>63</health>
+	</upgrade>
+	<upgrade>
+	  <level>15</level>
+	  <health>64</health>
+	  <skill id="armored" x="16"/>
+	  <skill id="heal" x="16"/>
+	</upgrade>
+	<upgrade>
+	  <level>16</level>
+	  <health>65</health>
+	  <skill id="armored" x="17"/>
+	  <skill id="heal" x="17"/>
+	</upgrade>
+	<upgrade>
+	  <level>17</level>
+	  <health>66</health>
+	  <skill id="armored" x="18"/>
+	  <skill id="heal" x="18"/>
+	</upgrade>
+	<upgrade>
+	  <level>18</level>
+	  <attack>18</attack>
+	  <health>68</health>
+	</upgrade>
+	<release_time>1656525600</release_time>
+  </unit>
+  <unit>
+	<id>130182</id>
+	<combo_card_id>35029</combo_card_id>
+	<attack>13</attack>
+	<health>51</health>
+	<name>Blueberry Delivery Girl</name>
+	<desc>Get ready for a bake off.</desc>
+	<picture>BlueberryDeliveryGirl</picture>
+	<asset_bundle>4</asset_bundle>
+	<rarity>4</rarity>
+	<set>3001</set>
+	<type>3</type>
+	<trait>rich</trait>
+	<skill id="heal" x="5" y="3"/>
+	<skill id="weaken" x="6"/>
+	<skill id="leech" x="6"/>
+	<card_type>object</card_type>
+	<upgrade>
+	  <level>2</level>
+	  <health>52</health>
+	</upgrade>
+	<upgrade>
+	  <level>3</level>
+	  <health>53</health>
+	  <skill id="weaken" x="7"/>
+	  <skill id="leech" x="7"/>
+	</upgrade>
+	<upgrade>
+	  <level>4</level>
+	  <health>54</health>
+	  <skill id="heal" x="6" y="3"/>
+	</upgrade>
+	<upgrade>
+	  <level>5</level>
+	  <health>55</health>
+	</upgrade>
+	<upgrade>
+	  <level>6</level>
+	  <attack>14</attack>
+	  <health>56</health>
+	</upgrade>
+	<upgrade>
+	  <level>7</level>
+	  <health>58</health>
+	  <skill id="weaken" x="8"/>
+	  <skill id="leech" x="8"/>
+	</upgrade>
+	<upgrade>
+	  <level>8</level>
+	  <health>59</health>
+	  <skill id="heal" x="7" y="3"/>
+	</upgrade>
+	<upgrade>
+	  <level>9</level>
+	  <health>60</health>
+	  <skill id="weaken" x="9"/>
+	  <skill id="leech" x="9"/>
+	</upgrade>
+	<upgrade>
+	  <level>10</level>
+	  <attack>15</attack>
+	  <health>61</health>
+	</upgrade>
+	<upgrade>
+	  <level>11</level>
+	  <health>62</health>
+	</upgrade>
+	<upgrade>
+	  <level>12</level>
+	  <health>63</health>
+	  <skill id="heal" x="8" y="3"/>
+	  <skill id="weaken" x="10"/>
+	  <skill id="leech" x="10"/>
+	</upgrade>
+	<upgrade>
+	  <level>13</level>
+	  <health>65</health>
+	</upgrade>
+	<upgrade>
+	  <level>14</level>
+	  <attack>16</attack>
+	  <health>66</health>
+	</upgrade>
+	<upgrade>
+	  <level>15</level>
+	  <health>67</health>
+	</upgrade>
+	<upgrade>
+	  <level>16</level>
+	  <health>68</health>
+	  <skill id="weaken" x="11"/>
+	  <skill id="leech" x="11"/>
+	</upgrade>
+	<upgrade>
+	  <level>17</level>
+	  <health>69</health>
+	  <skill id="heal" x="9" y="3"/>
+	</upgrade>
+	<upgrade>
+	  <level>18</level>
+	  <attack>17</attack>
+	  <health>71</health>
+	  <skill id="weaken" x="12"/>
+	  <skill id="leech" x="12"/>
+	</upgrade>
+	<release_time>1656525600</release_time>
+  </unit>
 	<!-- end Bob's Burgers Final Forms -->
 	<!-- King of the Hill Final Forms -->
 	

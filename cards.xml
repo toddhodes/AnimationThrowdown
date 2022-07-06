@@ -84207,7 +84207,7 @@
 	<skill id="poison" x="4"/>
 	<type>5</type>
 	<trait>disguised</trait>
-	<set>2</set>
+	<set>3</set>
 	<upgrade>
 		<level>2</level>
 		<health>47</health>
