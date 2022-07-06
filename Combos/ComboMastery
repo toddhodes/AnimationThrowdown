@@ -71,6 +71,7 @@
 3 | Crate Trained Steve
 3 | CrippleTron
 3 | Criss Cross Applesauce
+3 | Cupid Bobby
 3 | Cute Witch of the North
 3 | Cyclist Jimmy Jr.
 3 | Dance of Peace
@@ -353,7 +354,6 @@
 2 | Corporate Training | 35
 2 | Counting Klaus | 50
 2 | Country Club Steve | 85
-2 | Cupid Bobby
 2 | Dancing Peggy | 10
 2 | Date Wine Zoidberg | 100
 2 | Diamond Ring Lois | 100
@@ -441,6 +441,7 @@
 2 | Paintball Boomhauer | 100
 2 | Painter Zoidberg | 20
 2 | Pan Flute Stewie | 70
+2 | Photographer Klaus | 25
 2 | Ping Pong Brian
 2 | Pirate Cannon Peter | 30
 2 | Poppler Addict Leela | 5
@@ -517,7 +518,7 @@
 2 | Water Nympho
 2 | Whiskey Drunk Brian | 50
 2 | Wild Francine | 50
-2 | Wild Woman Jeff | 10
+2 | Wild Woman Jeff
 2 | Will of a Housewife | 10
 2 | Wine & Paint Quagmire | 90
 2 | Wine Tasting Linda | 50
@@ -554,7 +555,7 @@
 1 | Congo Jack | 5
 1 | Conventional Turkey Gene | 55
 1 | Cough Syrup Drunk | 50
-1 | Cowpoke | 45
+1 | Cowpoke | 85
 1 | Crayon Drawing | 125
 1 | Crime Addict Joe | 30
 1 | DJ Buttercup | 120
@@ -675,6 +676,7 @@
 0 | Mind Switcher Amy | 130
 0 | Maxi Paddy | 130
 0 | Maracas Peter | 130
+0 | Male Leela | 130
 0 | Krav Maga Dale | 130
 0 | Hot Cocoa Louise | 130
 0 | Home School Chris | 130
@@ -733,7 +735,6 @@
 0 | Sidearm Brian | 60
 0 | Sex Ed Peter | 60
 0 | Oktoberfest Amy | 60
-0 | Male Leela | 60
 0 | Line Dancer Amy | 60
 0 | History Test Chris | 60
 0 | Fowl Fighter Linda | 60
@@ -831,4 +832,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-251100 | Mastery Stone
+277900 | Mastery Stone
