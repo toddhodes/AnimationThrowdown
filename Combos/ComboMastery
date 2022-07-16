@@ -212,6 +212,7 @@
 3 | Peter with a Knife
 3 | PhD Amy
 3 | PhD Peggy
+3 | Photographer Klaus
 3 | Pie Addict Chris
 3 | Pigeon Bill
 3 | Pointillism
@@ -300,6 +301,7 @@
 3 | Whale Hunter Amy
 3 | Whiskey Bartender
 3 | Wild Brian
+3 | Wild Woman Jeff
 3 | Wingnut Amy
 3 | Wingnut Leela
 3 | Wizard Greyfarn
@@ -441,7 +443,6 @@
 2 | Paintball Boomhauer | 100
 2 | Painter Zoidberg | 20
 2 | Pan Flute Stewie | 70
-2 | Photographer Klaus | 40
 2 | Ping Pong Brian
 2 | Pirate Cannon Peter | 30
 2 | Poppler Addict Leela | 5
@@ -518,7 +519,6 @@
 2 | Water Nympho
 2 | Whiskey Drunk Brian | 50
 2 | Wild Francine | 50
-2 | Wild Woman Jeff
 2 | Will of a Housewife | 10
 2 | Wine & Paint Quagmire | 90
 2 | Wine Tasting Linda | 50
@@ -555,7 +555,7 @@
 1 | Congo Jack | 5
 1 | Conventional Turkey Gene | 55
 1 | Cough Syrup Drunk | 50
-1 | Cowpoke | 115
+1 | Cowpoke | 125
 1 | Crayon Drawing | 125
 1 | Crime Addict Joe | 30
 1 | DJ Buttercup | 120
@@ -571,6 +571,7 @@
 1 | Freezerdome Linda | 35
 1 | Frydo | 5
 1 | Frykowski | 85
+1 | Future Rich Snot
 1 | Garden Shovel Bobby | 125
 1 | Gargoyle Hunter | 5
 1 | Gas Class | 25
@@ -786,7 +787,6 @@
 0 | Junkie Hank | 30
 0 | Hungover Steve | 30
 0 | Gene It On | 30
-0 | Future Rich Snot | 30
 0 | Freshman Chris | 30
 0 | Francine Painting | 30
 0 | Food Truck Bob | 30
@@ -832,4 +832,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-291400 | Mastery Stone
+378400 | Mastery Stone
