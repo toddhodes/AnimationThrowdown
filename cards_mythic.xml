@@ -3330,7 +3330,161 @@
 			<skill id="shrapnel" x="12"/>
 		</upgrade>
 	</unit>
-
+	<unit>
+		<id>1100023</id>
+		<name>Mayor West's Mansion</name>
+		<picture>FG_MayorWest_sMansion</picture>
+		<asset_bundle>87</asset_bundle>
+		<item_name>Mayor West's Mansion Fragment</item_name>
+		<item_desc>Collect Mayor West's Mansion Fragments to craft and upgrade a Mythic Mayor West's Mansion card</item_desc>
+		<item_icon>inventory_upgrade_50_inventory</item_icon>
+		<item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<release_time>1657130400</release_time>
+		<attack>14</attack>
+		<health>64</health>
+		<rarity>5</rarity>
+		<skill id="bodyguard" x="7"/>
+		<skill id="bunker" x="7"/>
+		<skill id="rallyall" x="6" y="rich"/>
+		<type>1</type>
+		<trait>rich</trait>
+		<set>7002</set>
+		<upgrade>
+			<level>2</level>
+			<health>65</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>66</health>
+			<skill id="bodyguard" x="7"/>
+			<skill id="bunker" x="8"/>
+			<skill id="rallyall" x="6" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>67</health>
+			<skill id="bodyguard" x="8"/>
+			<skill id="bunker" x="8"/>
+			<skill id="rallyall" x="6" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<attack>16</attack>
+			<skill id="bodyguard" x="8"/>
+			<skill id="bunker" x="8"/>
+			<skill id="rallyall" x="7" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>68</health>
+			<skill id="bodyguard" x="8"/>
+			<skill id="bunker" x="9"/>
+			<skill id="rallyall" x="7" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>69</health>
+			<skill id="bodyguard" x="9"/>
+			<skill id="bunker" x="9"/>
+			<skill id="rallyall" x="7" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<attack>17</attack>
+			<health>70</health>
+			<skill id="bodyguard" x="9"/>
+			<skill id="bunker" x="9"/>
+			<skill id="rallyall" x="8" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<skill id="bodyguard" x="10"/>
+			<skill id="bunker" x="10"/>
+			<skill id="rallyall" x="8" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>18</attack>
+			<health>71</health>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>72</health>
+			<skill id="bodyguard" x="10"/>
+			<skill id="bunker" x="10"/>
+			<skill id="rallyall" x="9" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>73</health>
+			<skill id="bodyguard" x="10"/>
+			<skill id="bunker" x="11"/>
+			<skill id="rallyall" x="9" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<attack>19</attack>
+			<skill id="bodyguard" x="11"/>
+			<skill id="bunker" x="11"/>
+			<skill id="rallyall" x="9" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>74</health>
+			<skill id="bodyguard" x="11"/>
+			<skill id="bunker" x="11"/>
+			<skill id="rallyall" x="10" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<attack>20</attack>
+			<health>75</health>
+			<skill id="bodyguard" x="11"/>
+			<skill id="bunker" x="12"/>
+			<skill id="rallyall" x="10" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>76</health>
+			<skill id="bodyguard" x="12"/>
+			<skill id="bunker" x="12"/>
+			<skill id="rallyall" x="10" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<attack>21</attack>
+			<skill id="bodyguard" x="12"/>
+			<skill id="bunker" x="12"/>
+			<skill id="rallyall" x="11" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>77</health>
+			<skill id="bodyguard" x="12"/>
+			<skill id="bunker" x="13"/>
+			<skill id="rallyall" x="11" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>78</health>
+			<skill id="bodyguard" x="13"/>
+			<skill id="bunker" x="13"/>
+			<skill id="rallyall" x="11" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<attack>22</attack>
+			<health>79</health>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<skill id="bodyguard" x="14"/>
+			<skill id="bunker" x="14"/>
+			<skill id="rallyall" x="12" y="rich"/>
+		</upgrade>
+	</unit>
 
 	<!-- AD American Dad Mythics -->
 	<unit>
