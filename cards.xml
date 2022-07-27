@@ -6189,8 +6189,8 @@
      <unit>
         <id>8020</id>
         <name>Jeff</name>
-        <desc>Hayley usually tells me what card to play.</desc>
-        <picture>jeff</picture>
+        <desc>We're fighting all the time like well managed boxers.</desc>
+	    <picture>jeff</picture>
         <asset_bundle>33</asset_bundle>
 		<commander>1</commander>
         <rarity>1</rarity>
@@ -7379,7 +7379,1043 @@
 			<skill id='strike' x='4' />
 			<skill id='weaken' x='2' />
 		</upgrade>
-	</unit>	     
+	</unit>
+
+	<!-- AB Testing Leaders -->
+	<!-- Easy -->
+	<unit>
+        <id>117001</id>
+        <name>Bertram</name>
+        <desc>Stewie's equally megalomaniacal half-brother.</desc>
+        <picture>bertram</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>1</type>
+        <health>3</health>
+        <upgrade>
+            <level>2</level>
+            <health>4</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+           	<health>5</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>6</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+           	<health>7</health>
+        </upgrade>
+    </unit>
+     <unit>
+        <id>117002</id>
+        <name>Fighter Pilot Stewie</name>
+        <desc>Surprisingly good at piloting a helicopter for a one-year-old.</desc>
+        <picture>fighterPilotStewie</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>1</type>
+        <health>5</health>
+        <upgrade>
+            <level>2</level>
+            <health>6</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>7</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>8</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+			<health>9</health>
+            <!--<skill id='strike' x='1' />-->
+        </upgrade>
+    </unit>
+     <unit>
+        <id>117003</id>
+        <name>Fighter Pilot Bertram</name>
+        <desc>Surprisingly good at piloting a helicopter for a one year old.</desc>
+        <picture>fighterPilotBertram</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>1</type>
+        <health>5</health>
+        <upgrade>
+            <level>2</level>
+            <health>6</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>7</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>8</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+			<health>9</health>
+            <!--<skill id='rally' x='1' />-->
+        </upgrade>
+    </unit>
+	<unit>
+        <id>116001</id>
+        <name>Choo Choo</name>
+        <desc>Let's work out our ABS!</desc>
+        <picture>chooChoo</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>3</type>
+        <health>6</health>
+        <upgrade>
+            <level>2</level>
+            <health>7</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>8</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+			<health>9</health>
+            <!--<skill id='weaken' x='1' />-->
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>10</health>
+        </upgrade>
+    </unit>
+     <unit>
+        <id>116002</id>
+        <name>Mr. Frond</name>
+        <desc>FUN FACT: Choo Choo has a third nipple.</desc>
+        <picture>mrFrond</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>3</type>
+        <health>6</health>
+        <upgrade>
+            <level>2</level>
+            <health>7</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>8</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>9</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+			<health>10</health>
+           	<!--<skill id='barrier' x='1' />-->
+        </upgrade>
+    </unit>
+    <unit>
+        <id>116003</id>
+        <name>Colleen Caviello</name>
+        <desc>It's Ziti time!</desc>
+        <picture>colleen</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>3</type>
+        <health>6</health>
+        <upgrade>
+            <level>2</level>
+            <health>7</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+           <health>8</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>9</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>10</health>
+            <!--<skill id='rally' x='1' />-->
+        </upgrade>
+    </unit>
+	<unit>
+        <id>118001</id>
+        <name>Stan</name>
+        <desc>Be very careful out there today, we're at terror alert orange!</desc>
+        <picture>stan</picture>
+        <asset_bundle>1</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>2</type>
+        <health>7</health>
+        <upgrade>
+            <level>2</level>
+			<health>8</health>
+            <!--<skill id='strike' x='1' />-->
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>9</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+             <skill id='strike' x='1' />
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>10</health>
+        </upgrade>
+    </unit>
+     <unit>
+        <id>118002</id>
+        <name>Rapture Jesus</name>
+       	<desc>Kneel before the Lord, punk.</desc>
+        <picture>raptureJesus</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>2</type>
+        <health>7</health>
+        <upgrade>
+            <level>2</level>
+			<health>8</health>
+            <!--<skill id='rally' x='1' />-->
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+           	<health>9</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>10</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='rally' x='1' />
+        </upgrade>
+    </unit>
+     <unit>
+        <id>118003</id>
+        <name>Antichrist</name>
+        <desc>You can walk on water, eh? Let's see if you can swim on land!</desc>
+        <picture>antichrist</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>2</type>
+        <health>7</health>
+        <upgrade>
+            <level>2</level>
+			<health>8</health>
+            <!--<skill id='weaken' x='1' />-->
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>9</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>10</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='weaken' x='1' />
+        </upgrade>
+    </unit>
+	<unit>
+        <id>115001</id>
+        <name>Grunka Lunka</name>
+        <desc>Basically slaves for the Slurm corporation.</desc>
+        <picture>grunkaLunka</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>5</type>
+        <health>6</health>
+        <upgrade>
+            <level>2</level>
+            <health>7</health>
+            <!--<skill id='heal' x='1' />-->
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <skill id='heal' x='1' />
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>8</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='heal' x='2' />
+        </upgrade>
+    </unit>
+     <unit>
+        <id>115002</id>
+        <name>Glurmo</name>
+        <desc>Your golly-rific guide to the splend-tacular Slurm factory.</desc>
+        <picture>glurmo</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>5</type>
+        <health>6</health>
+        <upgrade>
+            <level>2</level>
+            <skill id='rally' x='1' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>8</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>9</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='rally' x='2' />
+        </upgrade>
+    </unit>
+     <unit>
+        <id>115003</id>
+        <name>Slurm Queen</name>
+        <desc>Roll around in her Royal Slurm and become a Slurm Queen yourself.</desc>
+        <picture>queenWorm</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>5</type>
+        <health>6</health>
+        <upgrade>
+            <level>2</level>
+            <skill id='weaken' x='1' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>8</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>9</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='weaken' x='2' />
+        </upgrade>
+    </unit>
+	<unit>
+        <id>119001</id>
+        <name>Bobby</name>
+        <desc>I'm a little worried about being a slut.</desc>
+        <picture>bobby</picture>
+        <asset_bundle>1</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>4</type>
+        <health>7</health>
+        <upgrade>
+            <level>2</level>
+			<health>8</health>
+            <!--<skill id='barrier' x='1' />-->
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>9</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>10</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='barrier' x='1' />
+        </upgrade>
+     </unit>
+     <unit>
+        <id>119002</id>
+        <name>Mr. Fortner</name>
+        <desc>When he shakes your hand, boy, it stays shook.</desc>
+        <picture>mrFortner</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>4</type>
+        <health>7</health>
+        <upgrade>
+            <level>2</level>
+			<health>8</health>
+             <!--<skill id='strike' x='1' />-->
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>9</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>10</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='strike' x='1' />
+        </upgrade>
+     </unit>
+     <unit>
+        <id>119003</id>
+        <name>Hank</name>
+        <desc>You gotta give 110%. That's whats gonna give you the winning edge.</desc>
+        <picture>hank</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>4</type>
+        <health>7</health>
+        <upgrade>
+            <level>2</level>
+            <health>8</health>
+            <!--<skill id='barrier' x='1' />-->
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>9</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <skill id='barrier' x='1' />
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>10</health>
+        </upgrade>
+     </unit>
+	 <unit>
+        <id>117004</id>
+        <name>Mustache Peter</name>
+        <desc>Probably listens to "The Little River Band" with giant headphones.</desc>
+        <picture>mustachePeter</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>1</type>
+        <health>7</health>
+        <upgrade>
+            <level>2</level>
+            <health>8</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+			<health>9</health>
+            <!--<skill id='barrier' x='1' />-->
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>10</health>
+            <!--<skill id='strike' x='1' />-->
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>11</health>
+        </upgrade>
+    </unit>
+     <unit>
+        <id>117005</id>
+        <name>McStroke Peter</name>
+        <desc>Don't look at me!!</desc>
+        <picture>mcStrokePeter</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>1</type>
+        <health>7</health>
+        <upgrade>
+            <level>2</level>
+            <skill id='weaken' x='1' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+           	<health>9</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>11</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='weaken' x='2' />
+        </upgrade>
+    </unit>
+     <unit>
+        <id>117006</id>
+        <name>Mr. Cow</name>
+        <desc>Why hello. Nice to see you here. Welcome.</desc>
+        <picture>mrCow</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>1</type>
+        <health>7</health>
+        <upgrade>
+            <level>2</level>
+			<health>8</health>
+             <!--<skill id='weakenall' x='1' />-->
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>9</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>10</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='weakenall' x='1' />
+        </upgrade>
+    </unit>
+
+	<!-- Hard -->
+	<unit>
+        <id>217001</id>
+        <name>Bertram</name>
+        <desc>Stewie's equally megalomaniacal half-brother.</desc>
+        <picture>bertram</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>1</type>
+        <health>14</health>
+        <upgrade>
+            <level>2</level>
+            <health>16</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+           	<health>18</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>20</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+           	<health>21</health>
+        </upgrade>
+    </unit>
+     <unit>
+        <id>217002</id>
+        <name>Fighter Pilot Stewie</name>
+        <desc>Surprisingly good at piloting a helicopter for a one-year-old.</desc>
+        <picture>fighterPilotStewie</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>1</type>
+        <health>20</health>
+        <upgrade>
+            <level>2</level>
+            <health>22</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>24</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>28</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='strike' x='2' />
+        </upgrade>
+    </unit>
+     <unit>
+        <id>217003</id>
+        <name>Fighter Pilot Bertram</name>
+        <desc>Surprisingly good at piloting a helicopter for a one year old.</desc>
+        <picture>fighterPilotBertram</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>1</type>
+        <health>20</health>
+        <upgrade>
+            <level>2</level>
+            <health>22</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>24</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>28</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='rally' x='2' />
+        </upgrade>
+    </unit>
+	<unit>
+        <id>216001</id>
+        <name>Choo Choo</name>
+        <desc>Let's work out our ABS!</desc>
+        <picture>chooChoo</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>3</type>
+        <health>24</health>
+        <upgrade>
+            <level>2</level>
+            <health>26</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>28</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <skill id='weaken' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>32</health>
+        </upgrade>
+    </unit>
+     <unit>
+        <id>216002</id>
+        <name>Mr. Frond</name>
+        <desc>FUN FACT: Choo Choo has a third nipple.</desc>
+        <picture>mrFrond</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>3</type>
+        <health>24</health>
+        <upgrade>
+            <level>2</level>
+            <health>28</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>30</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>32</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+           	<skill id='barrier' x='2' />
+        </upgrade>
+    </unit>
+    <unit>
+        <id>216003</id>
+        <name>Colleen Caviello</name>
+        <desc>It's Ziti time!</desc>
+        <picture>colleen</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>3</type>
+        <health>24</health>
+        <upgrade>
+            <level>2</level>
+            <health>28</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+           <health>30</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>32</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>40</health>
+            <skill id='rally' x='2' />
+        </upgrade>
+    </unit>
+	<unit>
+        <id>218001</id>
+        <name>Stan</name>
+        <desc>Be very careful out there today, we're at terror alert orange!</desc>
+        <picture>stan</picture>
+        <asset_bundle>1</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>2</type>
+        <health>28</health>
+        <upgrade>
+            <level>2</level>
+            <skill id='strike' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>32</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+             <skill id='strike' x='3' />
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>40</health>
+        </upgrade>
+    </unit>
+     <unit>
+        <id>218002</id>
+        <name>Rapture Jesus</name>
+       	<desc>Kneel before the Lord, punk.</desc>
+        <picture>raptureJesus</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>2</type>
+        <health>28</health>
+        <upgrade>
+            <level>2</level>
+            <skill id='rally' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+           	<health>36</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>40</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='rally' x='3' />
+        </upgrade>
+    </unit>
+     <unit>
+        <id>218003</id>
+        <name>Antichrist</name>
+        <desc>You can walk on water, eh? Let's see if you can swim on land!</desc>
+        <picture>antichrist</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>2</type>
+        <health>28</health>
+        <upgrade>
+            <level>2</level>
+            <skill id='weaken' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>32</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>40</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='weaken' x='3' />
+        </upgrade>
+    </unit>
+	<unit>
+        <id>215001</id>
+        <name>Grunka Lunka</name>
+        <desc>Basically slaves for the Slurm corporation.</desc>
+        <picture>grunkaLunka</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>5</type>
+        <health>24</health>
+        <upgrade>
+            <level>2</level>
+            <health>28</health>
+            <skill id='heal' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <skill id='heal' x='3' />
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>32</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='heal' x='4' />
+        </upgrade>
+    </unit>
+     <unit>
+        <id>215002</id>
+        <name>Glurmo</name>
+        <desc>Your golly-rific guide to the splend-tacular Slurm factory.</desc>
+        <picture>glurmo</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>5</type>
+        <health>24</health>
+        <upgrade>
+            <level>2</level>
+            <skill id='rally' x='3' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>32</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>36</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='rally' x='4' />
+        </upgrade>
+    </unit>
+     <unit>
+        <id>215003</id>
+        <name>Slurm Queen</name>
+        <desc>Roll around in her Royal Slurm and become a Slurm Queen yourself.</desc>
+        <picture>queenWorm</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>5</type>
+        <health>24</health>
+        <upgrade>
+            <level>2</level>
+            <skill id='weaken' x='3' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>32</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>36</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='weaken' x='4' />
+        </upgrade>
+    </unit>
+	<unit>
+        <id>219001</id>
+        <name>Bobby</name>
+        <desc>I'm a little worried about being a slut.</desc>
+        <picture>bobby</picture>
+        <asset_bundle>1</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>4</type>
+        <health>28</health>
+        <upgrade>
+            <level>2</level>
+            <skill id='barrier' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>32</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>36</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='barrier' x='3' />
+        </upgrade>
+     </unit>
+     <unit>
+        <id>219002</id>
+        <name>Mr. Fortner</name>
+        <desc>When he shakes your hand, boy, it stays shook.</desc>
+        <picture>mrFortner</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>4</type>
+        <health>28</health>
+        <upgrade>
+            <level>2</level>
+             <skill id='strike' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>32</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>36</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='strike' x='3' />
+        </upgrade>
+     </unit>
+     <unit>
+        <id>219003</id>
+        <name>Hank</name>
+        <desc>You gotta give 110%. That's whats gonna give you the winning edge.</desc>
+        <picture>hank</picture>
+        <asset_bundle>2</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>4</type>
+        <health>26</health>
+        <upgrade>
+            <level>2</level>
+            <health>30</health>
+            <skill id='barrier' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>34</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <skill id='barrier' x='3' />
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>40</health>
+        </upgrade>
+     </unit>
+	 <unit>
+        <id>217004</id>
+        <name>Mustache Peter</name>
+        <desc>Probably listens to "The Little River Band" with giant headphones.</desc>
+        <picture>mustachePeter</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>1</type>
+        <health>28</health>
+        <upgrade>
+            <level>2</level>
+            <health>32</health>
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <skill id='barrier' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>36</health>
+            <skill id='strike' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <health>40</health>
+        </upgrade>
+    </unit>
+     <unit>
+        <id>217005</id>
+        <name>McStroke Peter</name>
+        <desc>Don't look at me!!</desc>
+        <picture>mcStrokePeter</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>1</type>
+        <health>28</health>
+        <upgrade>
+            <level>2</level>
+            <skill id='weaken' x='3' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+           	<health>36</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>44</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='weaken' x='4' />
+        </upgrade>
+    </unit>
+     <unit>
+        <id>217006</id>
+        <name>Mr. Cow</name>
+        <desc>Why hello. Nice to see you here. Welcome.</desc>
+        <picture>mrCow</picture>
+        <asset_bundle>3</asset_bundle>
+		<commander>1</commander>
+        <rarity>1</rarity>
+        <set>5000</set>
+        <type>1</type>
+        <health>28</health>
+        <upgrade>
+            <level>2</level>
+             <skill id='weakenall' x='2' />
+        </upgrade>
+        <upgrade>
+            <level>3</level>
+            <health>36</health>
+        </upgrade>
+        <upgrade>
+            <level>4</level>
+            <health>40</health>
+        </upgrade>
+        <upgrade>
+            <level>5</level>
+            <skill id='weakenall' x='3' />
+        </upgrade>
+    </unit>
+
+	<!-- End AB test commanders -->
+
+
 	<!-- Family Guy -->
 	<unit>
 		<id>10001</id>
@@ -18902,7 +19938,123 @@
 		<skill id="bunker" x="6"/>
 		<skill id="rallyall" x="6" y="rich"/>
 	</upgrade>
-</unit>				
+</unit>	
+<unit>
+	<id>10115</id>
+	<name>Learning to Drive</name>
+	<picture>FG_DriversEdPeter</picture>
+	<asset_bundle>48</asset_bundle>
+	<attack>12</attack>
+	<health>39</health>
+	<rarity>4</rarity>
+	<skill id="armored" x="4"/>
+	<skill id="heal" x="6"/>
+	<skill id="barrier" x="6"/>
+	<type>1</type>
+	<trait>educated</trait>
+	<set>2</set>
+	<upgrade>
+		<level>2</level>
+		<health>40</health>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>41</health>
+		<skill id="armored" x="5"/>
+		<skill id="heal" x="6"/>
+		<skill id="barrier" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>42</health>
+		<attack>13</attack>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>44</health>
+		<skill id="armored" x="5"/>
+		<skill id="heal" x="6"/>
+		<skill id="barrier" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>45</health>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>46</health>
+		<skill id="armored" x="5"/>
+		<skill id="heal" x="7"/>
+		<skill id="barrier" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>48</health>
+		<skill id="armored" x="6"/>
+		<skill id="heal" x="7"/>
+		<skill id="barrier" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>49</health>
+		<attack>14</attack>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>50</health>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>51</health>
+		<skill id="armored" x="6"/>
+		<skill id="heal" x="7"/>
+		<skill id="barrier" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>53</health>
+		<skill id="armored" x="6"/>
+		<skill id="heal" x="8"/>
+		<skill id="barrier" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>54</health>
+		<skill id="armored" x="7"/>
+		<skill id="heal" x="8"/>
+		<skill id="barrier" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>55</health>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>57</health>
+		<attack>15</attack>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>58</health>
+		<skill id="armored" x="8"/>
+		<skill id="heal" x="8"/>
+		<skill id="barrier" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>59</health>
+		<skill id="armored" x="8"/>
+		<skill id="heal" x="8"/>
+		<skill id="barrier" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<health>61</health>
+		<skill id="armored" x="8"/>
+		<skill id="heal" x="9"/>
+		<skill id="barrier" x="9"/>
+	</upgrade>
+</unit>			
 	<!-- End Family Guy Input -->	
 	<!--  stop at id 14000 -->
 	<!-- Family Guy Combos -->
@@ -23005,10 +24157,40 @@
         <trait>rich</trait>
         <attack_multiplier>0.75</attack_multiplier>
         <health_multiplier>0.76</health_multiplier>
-        <skill id='shrapnel'  p='30' v='8'/>
+        <skill id='shrapnel'  p='30' v='9'/>
         <skill id='hijack' p='30' v='10' />
 		<skill id='weakenall' p='50' v='5' />
-    </unit>                                           				
+    </unit> 
+	<unit>
+    	<id>15276</id>
+        <name>Prof Comedy</name>
+		<picture>FG_ProfComedy</picture>
+        <asset_bundle>59</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>1</type>
+        <trait>educated</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.73</health_multiplier>
+        <skill id='weakenall'  p='30' v='11'/>
+        <skill id='enlarge' p='30' v='9' />
+		<skill id='heal' p='30' v='11' />
+    </unit>
+	<unit>
+    	<id>15277</id>
+        <name>Sunday School Teacher Peter</name>
+		<picture>FG_SundaySchoolPeter</picture>
+        <asset_bundle>48</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>1</type>
+        <trait>educated</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.72</health_multiplier>
+        <skill id='leech'  p='30' v='13'/>
+        <skill id='inspire' p='30' v='9' />
+		<skill id='outlast' p='30' v='13' />
+    </unit>                                          				
 	<!-- End Family Guy combo -->			
 	<!-- American Dad Input -->
 
@@ -34403,6 +35585,129 @@
 		<skill id="barrier" x="9"/>
 	</upgrade>
 </unit>
+<unit>
+	<id>20109</id>
+	<name>Spitz</name>
+	<picture>AD_Spitz</picture>
+	<asset_bundle>59</asset_bundle>
+	<attack>9</attack>
+	<health>41</health>
+	<rarity>4</rarity>
+	<skill id="invigorate" x="4"/>
+	<skill id="rally" x="5"/>
+	<skill id="hijack" x="5"/>
+	<type>2</type>
+	<trait>educated</trait>
+	<set>3</set>
+	<upgrade>
+		<level>2</level>
+		<health>42</health>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>43</health>
+		<attack>10</attack>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>44</health>
+		<skill id="invigorate" x="4"/>
+		<skill id="rally" x="5"/>
+		<skill id="hijack" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>45</health>
+		<skill id="invigorate" x="4"/>
+		<skill id="rally" x="6"/>
+		<skill id="hijack" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>46</health>
+		<skill id="invigorate" x="5"/>
+		<skill id="rally" x="6"/>
+		<skill id="hijack" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>47</health>
+		<attack>11</attack>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>48</health>
+		<skill id="invigorate" x="5"/>
+		<skill id="rally" x="6"/>
+		<skill id="hijack" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>49</health>
+		<skill id="invigorate" x="5"/>
+		<skill id="rally" x="7"/>
+		<skill id="hijack" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>50</health>
+		<skill id="invigorate" x="6"/>
+		<skill id="rally" x="7"/>
+		<skill id="hijack" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>51</health>
+		<attack>12</attack>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>52</health>
+		<skill id="invigorate" x="6"/>
+		<skill id="rally" x="7"/>
+		<skill id="hijack" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>53</health>
+		<skill id="invigorate" x="6"/>
+		<skill id="rally" x="8"/>
+		<skill id="hijack" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>54</health>
+		<skill id="invigorate" x="7"/>
+		<skill id="rally" x="8"/>
+		<skill id="hijack" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>55</health>
+		<attack>13</attack>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>56</health>
+		<skill id="invigorate" x="7"/>
+		<skill id="rally" x="8"/>
+		<skill id="hijack" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>57</health>
+		<skill id="invigorate" x="7"/>
+		<skill id="rally" x="9"/>
+		<skill id="hijack" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<health>59</health>
+		<skill id="invigorate" x="8"/>
+		<skill id="rally" x="9"/>
+		<skill id="hijack" x="9"/>
+	</upgrade>
+</unit>
 	<!--  end american dad input -->		
 	<!--  stop at id 24000 -->
 
@@ -38237,6 +39542,7 @@
 	<unit>
         <id>25252</id>
         <name>Lifeguard Roger</name>
+		<desc>Is that a bomb pop? They told me they were out!</desc>
         <picture>ad_lifeguardroger</picture>
         <asset_bundle>33</asset_bundle>
         <rarity>1</rarity>
@@ -38294,6 +39600,21 @@
         <skill id='counter' p='30' v='11'  />
         <skill id='pierce' p='30' v='10' />
     </unit> 
+	<unit>
+        <id>25256</id>
+        <name>Essay Jeff</name>
+        <picture>AD_EssayJeff</picture>
+        <asset_bundle>88</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>2</type>
+        <trait>educated</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.73</health_multiplier>
+        <skill id='strike' p='30' v='12' />         
+        <skill id='healall' p='30' v='7'  />
+        <skill id='rallyall' p='36' y='educated' v='7' />
+    </unit>
 	<!-- End american dad combo -->		
 	<!--  stop at id 26000 -->
 	<!-- Bob's Burgers input -->
@@ -51602,6 +52923,119 @@
 		<skill id="barrier" x="8"/>
 	</upgrade>
 </unit>
+<unit>
+	<id>30127</id>
+	<name>Student Frond</name>
+	<desc>May the Frond be with you!</desc>
+	<picture>BB_StudentFrond</picture>
+	<asset_bundle>43</asset_bundle>
+	<attack>10</attack>
+	<health>45</health>
+	<rarity>4</rarity>
+	<skill id="rally" x="5"/>
+	<skill id="pierce" x="6"/>
+	<skill id="poison" x="6"/>
+	<type>3</type>
+	<trait>educated</trait>
+	<set>2</set>
+	<upgrade>
+		<level>2</level>
+		<health>46</health>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<attack>11</attack>
+		<health>47</health>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>48</health>
+		<skill id="rally" x="6"/>
+		<skill id="pierce" x="6"/>
+		<skill id="poison" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<skill id="rally" x="6"/>
+		<skill id="pierce" x="7"/>
+		<skill id="poison" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<attack>12</attack>
+		<health>49</health>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>50</health>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>51</health>
+		<attack>13</attack>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<skill id="rally" x="7"/>
+		<skill id="pierce" x="7"/>
+		<skill id="poison" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>52</health>
+		<skill id="rally" x="7"/>
+		<skill id="pierce" x="8"/>
+		<skill id="poison" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>53</health>
+		<attack>14</attack>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>54</health>
+		<skill id="rally" x="8"/>
+		<skill id="pierce" x="8"/>
+		<skill id="poison" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<skill id="rally" x="8"/>
+		<skill id="pierce" x="8"/>
+		<skill id="poison" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>55</health>
+		<skill id="rally" x="8"/>
+		<skill id="pierce" x="9"/>
+		<skill id="poison" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<attack>15</attack>
+		<health>56</health>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>57</health>
+		<attack>16</attack>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>58</health>
+		<skill id="rally" x="9"/>
+		<skill id="pierce" x="9"/>
+		<skill id="poison" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<skill id="rally" x="9"/>
+		<skill id="pierce" x="10"/>
+		<skill id="poison" x="10"/>
+	</upgrade>
+</unit>
 	<!-- End Bob's Burgers Input -->	
 	<!-- Bob's Burgers Combos -->
 
@@ -55413,6 +56847,7 @@
 		<unit>
 			<id>35249</id>
 			<name>Fat Suit Bob</name>
+			<desc>At least I'm not dressed as Summer Frankenstein.</desc>
 			<picture>bb_fatsuitbob</picture>
 			<asset_bundle>14</asset_bundle>
 			<rarity>1</rarity>
@@ -67440,6 +68875,7 @@
 	<id>40113</id>
 	<name>Firefighter Interrogation</name>
 	<picture>KOTH_FirefighterInterrogation</picture>
+	<desc>Arlen's Bravest.</desc>
 	<asset_bundle>38</asset_bundle>
 	<release_time>1654009200</release_time>
 	<attack>9</attack>
@@ -71140,6 +72576,7 @@
     <unit>
         <id>45218</id>
         <name>Trendy Peggy</name>
+		<desc>I'll take the clear frames!</desc>
         <picture>koth_trendypeggy</picture>
         <asset_bundle>15</asset_bundle>
         <rarity>1</rarity>
@@ -71184,6 +72621,22 @@
         <skill id='counter' p='30' v='15' />
         <skill id='burn' p='30' v='8' />
     </unit>  
+	<unit>
+        <id>45221</id>
+        <name>High School Dale</name>
+		<desc>The most popular kid in class.</desc>
+		<picture>KOTH_HSDale</picture>
+		<asset_bundle>36</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>4</type>
+        <trait>educated</trait>
+        <attack_multiplier>0.73</attack_multiplier>
+        <health_multiplier>0.71</health_multiplier>
+        <skill id='berserk'  p='30' v='6' />
+        <skill id='burn' p='30' v='8' />
+        <skill id='counter' p='30' v='12' />
+    </unit>
 	<!-- End King of the Hill Combo -->								
 	<!-- Futurama Input -->
 
@@ -84863,6 +86316,129 @@
 		<skill id="barrierall" x="6" y="rich"/>
 	</upgrade>
 </unit>
+<unit>
+	<id>50126</id>
+	<name>Brown University</name>
+	<picture>FR_BrownUniversity</picture>
+	<asset_bundle>35</asset_bundle>
+	<attack>9</attack>
+	<health>48</health>
+	<rarity>4</rarity>
+	<skill id="bodyguard" x="4"/>
+	<skill id="healall" x="2" y="educated"/>
+	<skill id="barrierall" x="5" y="educated"/>
+	<type>5</type>
+	<trait>educated</trait>
+	<set>2</set>
+	<upgrade>
+		<level>2</level>
+		<health>49</health>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>50</health>
+		<attack>10</attack>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>51</health>
+		<skill id="bodyguard" x="5"/>
+		<skill id="healall" x="2" y="educated"/>
+		<skill id="barrierall" x="5" y="educated"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>52</health>
+		<skill id="bodyguard" x="5"/>
+		<skill id="healall" x="2" y="educated"/>
+		<skill id="barrierall" x="6" y="educated"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>53</health>
+		<skill id="bodyguard" x="5"/>
+		<skill id="healall" x="3" y="educated"/>
+		<skill id="barrierall" x="6" y="educated"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<attack>11</attack>
+		<health>54</health>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>55</health>
+		<skill id="bodyguard" x="6"/>
+		<skill id="healall" x="3" y="educated"/>
+		<skill id="barrierall" x="6" y="educated"/>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>56</health>
+		<skill id="bodyguard" x="6"/>
+		<skill id="healall" x="3" y="educated"/>
+		<skill id="barrierall" x="7" y="educated"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>57</health>
+		<skill id="bodyguard" x="6"/>
+		<skill id="healall" x="4" y="educated"/>
+		<skill id="barrierall" x="7" y="educated"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<attack>12</attack>
+		<health>58</health>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>59</health>
+		<skill id="bodyguard" x="7"/>
+		<skill id="healall" x="4" y="educated"/>
+		<skill id="barrierall" x="7" y="educated"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>60</health>
+		<skill id="bodyguard" x="7"/>
+		<skill id="healall" x="4" y="educated"/>
+		<skill id="barrierall" x="8" y="educated"/>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<attack>13</attack>
+		<skill id="bodyguard" x="7"/>
+		<skill id="healall" x="5" y="educated"/>
+		<skill id="barrierall" x="8" y="educated"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>61</health>
+		<attack>14</attack>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>62</health>
+		<skill id="bodyguard" x="8"/>
+		<skill id="healall" x="5" y="educated"/>
+		<skill id="barrierall" x="8" y="educated"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>63</health>
+		<skill id="bodyguard" x="8"/>
+		<skill id="healall" x="5" y="educated"/>
+		<skill id="barrierall" x="9" y="educated"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<health>64</health>
+		<skill id="bodyguard" x="8"/>
+		<skill id="healall" x="6" y="educated"/>
+		<skill id="barrierall" x="9" y="educated"/>
+	</upgrade>
+</unit>
 	<!-- end futurama input -->
 	<!--  stop at id 54000 -->
 	<!-- Futurama Combos -->
@@ -88663,6 +90239,38 @@
         <skill id='strike' p='30' v='10' />
         <skill id='outlast' p='30' v='10' />
     </unit>   
+	<unit>
+        <id>55247</id>
+        <name>Author Fry</name>
+		<desc>And then, for no reason, Fry won the card game!</desc>
+        <picture>FR_AuthorFry</picture>
+        <asset_bundle>35</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>5</type>
+        <trait>educated</trait>
+        <attack_multiplier>0.71</attack_multiplier>
+        <health_multiplier>0.74</health_multiplier>
+        <skill id='strike' p='30' v='8'  />
+        <skill id='bunker' p='30' v='8' />
+        <skill id='poison' p='30' v='12' />
+    </unit> 
+	<unit>
+        <id>55248</id>
+        <name>Professor-Bender Swap</name>
+		<desc>First, the nerdary. Then, we heist!</desc>
+        <picture>FR_ProfessorBenderSwap</picture>
+        <asset_bundle>43</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>5</type>
+        <trait>educated</trait>
+        <attack_multiplier>0.73</attack_multiplier>
+        <health_multiplier>0.72</health_multiplier>
+        <skill id='bomb' p='30' v='6'  />
+        <skill id='hijack' p='30' v='10' />
+        <skill id='rallyall' p='30' y='educated' v='8' />
+    </unit>  
 <!-- END Futurama Combos -->
 
 <!-- Generic Input Cards -->
@@ -91461,6 +93069,13 @@
 		<cardBack>cardBack</cardBack>
         <logo>genericLogo</logo>
 	</unit_type>
+	<!-- TU Set -->
+	<unit_type>
+		<id>7</id>
+		<name>Tyrant Unleashed</name>
+		<cardBack>cardBack</cardBack>
+        <logo>genericLogo</logo>
+	</unit_type> 
 	<!-- Card Traits -->
 
 	<unit_trait>

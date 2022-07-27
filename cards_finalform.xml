@@ -36057,6 +36057,198 @@
     <skill id="pierce" x="12"/>
   </upgrade>
  </unit>
+ <unit>
+	<id>120178</id>
+	<combo_card_id>25231</combo_card_id>
+	<attack>11</attack>
+	<health>57</health>
+	<name>Golden Blunt Wrapper</name>
+	<picture>AD_GoldenBluntWrapper</picture>
+	<asset_bundle>67</asset_bundle>
+	<rarity>4</rarity>
+	<set>3001</set>
+	<type>2</type>
+	<trait>rich</trait>
+	<skill id="bunker" x="5"/>
+	<skill id="healall" x="3" y="rich"/>
+	<skill id="inspire" x="5"/>
+	<card_type>object</card_type>
+	<upgrade>
+	  <level>2</level>
+	  <health>58</health>
+	</upgrade>
+	<upgrade>
+	  <level>3</level>
+	  <health>59</health>
+	  <skill id="healall" x="4" y="rich"/>
+	  <skill id="inspire" x="6"/>
+	</upgrade>
+	<upgrade>
+	  <level>4</level>
+	  <health>60</health>
+	</upgrade>
+	<upgrade>
+	  <level>5</level>
+	  <attack>12</attack>
+	  <health>61</health>
+	  <skill id="bunker" x="6"/>
+	</upgrade>
+	<upgrade>
+	  <level>6</level>
+	  <health>62</health>
+	</upgrade>
+	<upgrade>
+	  <level>7</level>
+	  <health>63</health>
+	  <skill id="inspire" x="7"/>
+	</upgrade>
+	<upgrade>
+	  <level>8</level>
+	  <attack>13</attack>
+	  <health>64</health>
+	  <skill id="healall" x="5" y="rich"/>
+	</upgrade>
+	<upgrade>
+	  <level>9</level>
+	  <health>65</health>
+	  <skill id="bunker" x="7"/>
+	  <skill id="inspire" x="8"/>
+	</upgrade>
+	<upgrade>
+	  <level>10</level>
+	  <health>66</health>
+	</upgrade>
+	<upgrade>
+	  <level>11</level>
+	  <health>67</health>
+	</upgrade>
+	<upgrade>
+	  <level>12</level>
+	  <attack>14</attack>
+	  <health>68</health>
+	  <skill id="bunker" x="8"/>
+	  <skill id="healall" x="6" y="rich"/>
+	  <skill id="inspire" x="9"/>
+	</upgrade>
+	<upgrade>
+	  <level>13</level>
+	  <health>69</health>
+	</upgrade>
+	<upgrade>
+	  <level>14</level>
+	  <health>70</health>
+	</upgrade>
+	<upgrade>
+	  <level>15</level>
+	  <attack>15</attack>
+	  <health>71</health>
+	</upgrade>
+	<upgrade>
+	  <level>16</level>
+	  <health>72</health>
+	  <skill id="bunker" x="9"/>
+	  <skill id="inspire" x="10"/>
+	</upgrade>
+	<upgrade>
+	  <level>17</level>
+	  <health>73</health>
+	  <skill id="healall" x="7" y="rich"/>
+	</upgrade>
+	<upgrade>
+	  <level>18</level>
+	  <attack>16</attack>
+	  <health>74</health>
+	  <skill id="inspire" x="11"/>
+	</upgrade>
+  </unit>
+  <unit>
+	<id>120179</id>
+	<combo_card_id>25231</combo_card_id>
+	<attack>10</attack>
+	<health>20</health>
+	<name>Golden Blunt Wrapper</name>
+	<picture>AD_GoldenBluntWrapper</picture>
+	<asset_bundle>67</asset_bundle>
+	<rarity>3</rarity>
+	<set>3001</set>
+	<type>2</type>
+	<trait>rich</trait>
+	<skill id="bunker" x="3"/>
+	<skill id="healall" x="2" y="rich"/>
+	<skill id="inspire" x="3"/>
+	<card_type>object</card_type>
+	<upgrade>
+	  <level>2</level>
+	  <health>21</health>
+	</upgrade>
+	<upgrade>
+	  <level>3</level>
+	  <health>23</health>
+	  <skill id="inspire" x="4"/>
+	</upgrade>
+	<upgrade>
+	  <level>4</level>
+	  <health>25</health>
+	  <skill id="bunker" x="4"/>
+	</upgrade>
+	<upgrade>
+	  <level>5</level>
+	  <health>26</health>
+	  <skill id="healall" x="3" y="rich"/>
+	</upgrade>
+	<upgrade>
+	  <level>6</level>
+	  <attack>11</attack>
+	  <health>28</health>
+	  <skill id="inspire" x="5"/>
+	</upgrade>
+	<upgrade>
+	  <level>7</level>
+	  <health>30</health>
+	  <skill id="bunker" x="5"/>
+	</upgrade>
+	<upgrade>
+	  <level>8</level>
+	  <health>32</health>
+	  <skill id="inspire" x="6"/>
+	</upgrade>
+	<upgrade>
+	  <level>9</level>
+	  <health>33</health>
+	  <skill id="healall" x="4" y="rich"/>
+	</upgrade>
+	<upgrade>
+	  <level>10</level>
+	  <health>35</health>
+	  <skill id="bunker" x="6"/>
+	</upgrade>
+	<upgrade>
+	  <level>11</level>
+	  <attack>12</attack>
+	  <health>37</health>
+	  <skill id="inspire" x="7"/>
+	</upgrade>
+	<upgrade>
+	  <level>12</level>
+	  <health>38</health>
+	</upgrade>
+	<upgrade>
+	  <level>13</level>
+	  <health>40</health>
+	  <skill id="bunker" x="7"/>
+	  <skill id="healall" x="5" y="rich"/>
+	</upgrade>
+	<upgrade>
+	  <level>14</level>
+	  <health>42</health>
+	  <skill id="inspire" x="8"/>
+	</upgrade>
+	<upgrade>
+	  <level>15</level>
+	  <attack>13</attack>
+	  <health>44</health>
+	</upgrade>
+  </unit>
 	<!-- end American Dad Final Forms -->
 	<!-- Bob's Burgers Final Forms -->
 	
