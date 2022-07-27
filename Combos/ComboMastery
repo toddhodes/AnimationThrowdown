@@ -100,6 +100,7 @@
 3 | Eggnog Roger
 3 | Emu Wrangler
 3 | Evening Beer Dale
+3 | Evil Stepsister Stewie
 3 | Evil Stepsister
 3 | Explorer Stan
 3 | Farnsworth's Cat
@@ -368,7 +369,6 @@
 2 | Duke
 2 | Dummy Fight | 20
 2 | Eugenia Chatterteeth | 30
-2 | Evil Stepsister Stewie | 100
 2 | Eyephone Fry | 100
 2 | Fake Daughter Louise | 25
 2 | Fake Son Gene | 90
@@ -378,8 +378,9 @@
 2 | Finch Hermes | 100
 2 | Flamethrower Stewie | 20
 2 | Fry's Macaroni Art | 50
+2 | Future Rich Snot
 2 | Garbage Shot Linda | 60
-2 | Gatsby Brian
+2 | Gatsby Brian | 30
 2 | Girl Next Door Stewie | 20
 2 | Glitter Spray | 10
 2 | Goddess of Beauty | 60
@@ -477,6 +478,7 @@
 2 | Serious Runner Brian | 50
 2 | Sexy Dance Fighting
 2 | Shaken Not Stirred | 10
+2 | Shipping King Zoidberg | 100
 2 | Sleighing Tonight
 2 | Slick'd Steve | 100
 2 | Slip 'n Slide Bob | 100
@@ -571,7 +573,7 @@
 1 | Freezerdome Linda | 35
 1 | Frydo | 5
 1 | Frykowski | 85
-1 | Future Rich Snot
+1 | Gallant Bender | 35
 1 | Garden Shovel Bobby | 125
 1 | Gargoyle Hunter | 5
 1 | Gas Class | 25
@@ -586,7 +588,7 @@
 1 | Home School Peter | 125
 1 | Honey Mustache Stewie | 5
 1 | Honeybucket Student | 125
-1 | House Hunting Tours | 5
+1 | House Hunting Tours | 60
 1 | Jellybean Phone Klaus | 80
 1 | Joystick Steve | 110
 1 | Keyboard Joe | 120
@@ -697,7 +699,6 @@
 0 | Butt Closet | 125
 0 | Too High to Drive | 120
 0 | Slurm Queen | 120
-0 | Shipping King Zoidberg | 120
 0 | Powderpuff | 120
 0 | Electric Love | 120
 0 | Wheels Steve | 115
@@ -824,6 +825,7 @@
 0 | Knight Louise | 10
 0 | Junk Food Klaus | 10
 0 | Hurdles Bobby | 10
+0 | Espresso Tina | 10
 0 | Cyclist Peggy | 10
 0 | Cuddly Little Pet Slinky | 10
 0 | Cheerleader Lois | 10
@@ -832,4 +834,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-378400 | Mastery Stone
+394400 | Mastery Stone
