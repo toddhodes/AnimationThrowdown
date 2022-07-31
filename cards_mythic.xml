@@ -6343,7 +6343,167 @@
 		<skill id="berserk" x="8"/>
 	</upgrade>
 </unit>
-
+<unit>
+	<id>1200020</id>
+	<name>Spitz</name>
+	<picture>AD_Spitz</picture>
+	<asset_bundle>59</asset_bundle>
+	<item_name>Spitz Fragment</item_name>
+	<item_desc>Collect Spitz Fragments to craft and upgrade a Mythic Spitz card</item_desc>
+	<item_icon>inventory_upgrade_50_inventory</item_icon>
+	<item_bundle_id>19</item_bundle_id>
+	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<release_time>1658426400</release_time>
+	<attack>15</attack>
+	<health>61</health>
+	<rarity>5</rarity>
+	<skill id="invigorate" x="8"/>
+	<skill id="rally" x="8"/>
+	<skill id="hijack" x="7"/>
+	<type>2</type>
+	<trait>educated</trait>
+	<set>7002</set>
+	<upgrade>
+		<level>2</level>
+		<health>62</health>
+		<skill id="invigorate" x="8"/>
+		<skill id="rally" x="8"/>
+		<skill id="hijack" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>63</health>
+		<skill id="invigorate" x="8"/>
+		<skill id="rally" x="9"/>
+		<skill id="hijack" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>64</health>
+		<attack>16</attack>
+		<skill id="invigorate" x="9"/>
+		<skill id="rally" x="9"/>
+		<skill id="hijack" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>65</health>
+		<skill id="invigorate" x="9"/>
+		<skill id="rally" x="9"/>
+		<skill id="hijack" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>67</health>
+		<skill id="invigorate" x="10"/>
+		<skill id="rally" x="10"/>
+		<skill id="hijack" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>68</health>
+		<attack>17</attack>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>69</health>
+		<skill id="invigorate" x="10"/>
+		<skill id="rally" x="11"/>
+		<skill id="hijack" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>70</health>
+		<skill id="invigorate" x="11"/>
+		<skill id="rally" x="11"/>
+		<skill id="hijack" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>71</health>
+		<skill id="invigorate" x="11"/>
+		<skill id="rally" x="12"/>
+		<skill id="hijack" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>73</health>
+		<skill id="invigorate" x="12"/>
+		<skill id="rally" x="12"/>
+		<skill id="hijack" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>74</health>
+		<attack>18</attack>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>75</health>
+		<skill id="invigorate" x="12"/>
+		<skill id="rally" x="13"/>
+		<skill id="hijack" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>76</health>
+		<skill id="invigorate" x="13"/>
+		<skill id="rally" x="13"/>
+		<skill id="hijack" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>77</health>
+		<skill id="invigorate" x="13"/>
+		<skill id="rally" x="14"/>
+		<skill id="hijack" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>79</health>
+		<skill id="invigorate" x="14"/>
+		<skill id="rally" x="14"/>
+		<skill id="hijack" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<attack>19</attack>
+		<health>80</health>
+		<skill id="invigorate" x="14"/>
+		<skill id="rally" x="14"/>
+		<skill id="hijack" x="14"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<health>81</health>
+		<skill id="invigorate" x="14"/>
+		<skill id="rally" x="15"/>
+		<skill id="hijack" x="14"/>
+	</upgrade>
+	<upgrade>
+		<level>19</level>
+		<health>82</health>
+		<attack>20</attack>
+		<skill id="invigorate" x="15"/>
+		<skill id="rally" x="15"/>
+		<skill id="hijack" x="14"/>
+	</upgrade>
+	<upgrade>
+		<level>20</level>
+		<health>83</health>
+		<skill id="invigorate" x="15"/>
+		<skill id="rally" x="15"/>
+		<skill id="hijack" x="15"/>
+	</upgrade>
+	<upgrade>
+		<level>21</level>
+		<health>85</health>
+		<skill id="invigorate" x="16"/>
+		<skill id="rally" x="16"/>
+		<skill id="hijack" x="15"/>
+	</upgrade>
+</unit>
+<!--End American Dad Mythic -->
 	<!-- BB Mythics -->	
 	<unit>
 		<id>1300001</id>

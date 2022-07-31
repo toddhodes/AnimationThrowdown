@@ -35589,6 +35589,7 @@
 	<id>20109</id>
 	<name>Spitz</name>
 	<picture>AD_Spitz</picture>
+	<linked_card_id>1200020</linked_card_id>
 	<asset_bundle>59</asset_bundle>
 	<attack>9</attack>
 	<health>41</health>
@@ -69199,6 +69200,132 @@
 		<skill id="poison" x="9"/>
 	</upgrade>
 </unit>
+<unit>
+	<id>40116</id>
+	<name>Cotton</name>
+	<character>kh_cotton</character>
+	<picture>KOTH_CottonLegendary</picture>
+	<asset_bundle>56</asset_bundle>
+	<attack>8</attack>
+	<health>30</health>
+	<rarity>4</rarity>
+	<skill id="armored" x="4"/>
+	<skill id="burn" x="3"/>
+	<skill id="strike" x="5"/>
+	<type>4</type>
+	<set>2</set>
+	<upgrade>
+		<level>2</level>
+		<health>31</health>
+		<attack>9</attack>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>32</health>
+		<skill id="armored" x="4"/>
+		<skill id="burn" x="3"/>
+		<skill id="strike" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>33</health>
+		<skill id="armored" x="5"/>
+		<skill id="burn" x="3"/>
+		<skill id="strike" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<attack>10</attack>
+		<health>34</health>
+		<skill id="armored" x="5"/>
+		<skill id="burn" x="4"/>
+		<skill id="strike" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>35</health>
+		<skill id="armored" x="5"/>
+		<skill id="burn" x="4"/>
+		<skill id="strike" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<attack>11</attack>
+		<health>36</health>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>37</health>
+		<attack>12</attack>
+		<skill id="armored" x="6"/>
+		<skill id="burn" x="4"/>
+		<skill id="strike" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>38</health>
+		<skill id="armored" x="6"/>
+		<skill id="burn" x="5"/>
+		<skill id="strike" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>39</health>
+		<skill id="armored" x="6"/>
+		<skill id="burn" x="5"/>
+		<skill id="strike" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<attack>13</attack>
+		<health>40</health>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>41</health>
+		<skill id="armored" x="7"/>
+		<skill id="burn" x="5"/>
+		<skill id="strike" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<attack>14</attack>
+		<health>42</health>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>43</health>
+		<skill id="armored" x="7"/>
+		<skill id="burn" x="6"/>
+		<skill id="strike" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<attack>15</attack>
+		<health>44</health>
+		<skill id="armored" x="8"/>
+		<skill id="burn" x="6"/>
+		<skill id="strike" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>45</health>
+		<skill id="armored" x="8"/>
+		<skill id="burn" x="6"/>
+		<skill id="strike" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<attack>16</attack>
+		<health>46</health>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<skill id="armored" x="9"/>
+		<skill id="burn" x="7"/>
+		<skill id="strike" x="11"/>
+	</upgrade>
+</unit>
 	<!-- End King of the Hill Input -->	
 	<!--  stop at id 44000 -->
 	<!-- King of the Hill combos -->
@@ -72636,6 +72763,96 @@
         <skill id='berserk'  p='30' v='6' />
         <skill id='burn' p='30' v='8' />
         <skill id='counter' p='30' v='12' />
+    </unit>
+	<unit>
+        <id>45222</id>
+        <name>Sauna Cotton</name>
+		<picture>KOTH_SaunaCotton</picture>
+		<asset_bundle>55</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>4</type>
+        <trait>athletic</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.72</health_multiplier>
+        <skill id='heal'  p='30' v='9' />
+        <skill id='poison' p='30' v='13' />
+        <skill id='counter' p='30' v='12' />
+    </unit>
+	<unit>
+        <id>45223</id>
+        <name>Sombrero Cotton</name>
+		<picture>KOTH_SombreroCotton</picture>
+		<asset_bundle>55</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>4</type>
+        <trait>disguised</trait>
+        <attack_multiplier>0.68</attack_multiplier>
+        <health_multiplier>0.75</health_multiplier>
+        <skill id='shrapnel'  p='30' v='8' />
+        <skill id='bodyguard' p='30' v='10' />
+        <skill id='rally' p='30' v= '10' />
+    </unit>
+	<unit>
+        <id>45224</id>
+        <name>El Presidente</name>
+		<picture>KOTH_elPresidenteCotton</picture>
+		<asset_bundle>55</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>4</type>
+        <trait>rich</trait>
+        <attack_multiplier>0.73</attack_multiplier>
+        <health_multiplier>0.7</health_multiplier>
+        <skill id='weaken'  p='30' v='10' />
+        <skill id='hijack' p='30' v='11' />
+        <skill id='bunker' p='30' v='7' />
+    </unit>
+	<unit>
+        <id>45225</id>
+        <name>Whiskey Cotton</name>
+		<picture>KOTH_WhiskeyCotton</picture>
+		<asset_bundle>55</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>4</type>
+        <trait>drunk</trait>
+        <attack_multiplier>0.67</attack_multiplier>
+        <health_multiplier>0.72</health_multiplier>
+        <skill id='burn'  p='30' v='7' />
+        <skill id='weaken' p='30' v='12' />
+        <skill id='berserk' p='30' v='8' />
+    </unit>
+	<unit>
+        <id>45226</id>
+        <name>Bayonet Cotton</name>
+		<picture>KOTH_BayonetCotton</picture>
+		<asset_bundle>44</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>4</type>
+        <trait>armed</trait>
+        <attack_multiplier>0.7</attack_multiplier>
+        <health_multiplier>0.67</health_multiplier>
+        <skill id='pierce'  p='30' v='14' />
+        <skill id='shrapnel' p='30' v='6' />
+        <skill id='enlarge' p='30' v='9' />
+    </unit>
+	<unit>
+        <id>45227</id>
+        <name>Veteran Cotton</name>
+		<picture>KOTH_VeteranCotton</picture>
+		<asset_bundle>55</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>4</type>
+        <trait>educated</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.76</health_multiplier>
+        <skill id='armored'  p='30' v='9' />
+        <skill id='inspire' p='30' v='9' />
+        <skill id='barrierall' p='36' v='5' />
     </unit>
 	<!-- End King of the Hill Combo -->								
 	<!-- Futurama Input -->
@@ -90267,9 +90484,9 @@
         <trait>educated</trait>
         <attack_multiplier>0.73</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
-        <skill id='bomb' p='30' v='6'  />
+        <skill id='shrapnel' p='30' v='6'  />
         <skill id='hijack' p='30' v='10' />
-        <skill id='rallyall' p='30' y='educated' v='8' />
+        <skill id='rallyall' p='36' y='educated' v='8' />
     </unit>  
 <!-- END Futurama Combos -->
 
