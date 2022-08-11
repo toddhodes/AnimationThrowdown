@@ -69203,6 +69203,7 @@
 <unit>
 	<id>40116</id>
 	<name>Cotton</name>
+	<desc>I killed fiddy men.</desc>
 	<character>kh_cotton</character>
 	<picture>KOTH_CottonLegendary</picture>
 	<asset_bundle>56</asset_bundle>
@@ -93286,13 +93287,6 @@
 		<cardBack>cardBack</cardBack>
         <logo>genericLogo</logo>
 	</unit_type>
-	<!-- TU Set -->
-	<unit_type>
-		<id>7</id>
-		<name>Tyrant Unleashed</name>
-		<cardBack>cardBack</cardBack>
-        <logo>genericLogo</logo>
-	</unit_type> 
 	<!-- Card Traits -->
 
 	<unit_trait>
