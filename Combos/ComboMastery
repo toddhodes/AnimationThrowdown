@@ -139,6 +139,7 @@
 3 | Heckler Zoidberg
 3 | Hermaphrodite
 3 | High Diver Zoidberg
+3 | High School Bill
 3 | High School Linda
 3 | Hip Hop Bob
 3 | Home Ec Teacher
@@ -246,6 +247,7 @@
 3 | Sewer Surfer Bender
 3 | Sewer Surfer Fry
 3 | Sexpun T'Come
+3 | Shipping King Zoidberg
 3 | Shop Teacher Hank
 3 | Shoplift Addict
 3 | Skiing Leela
@@ -310,7 +312,7 @@
 3 | Wrestler Stan
 3 | Zapp Figurines
 3 | Zombie Jimmy Jr.
-2 | 10k Bling Brian
+2 | 10k Bling Brian | 70
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
 2 | Alley Entertainment | 100
@@ -375,6 +377,7 @@
 2 | Fake Son Gene | 90
 2 | Falcon Attack Quagmire | 70
 2 | Falconer Hayley | 35
+2 | Family Fracas | 10
 2 | Fashion Fight
 2 | Finch Hermes | 100
 2 | Flamethrower Stewie | 20
@@ -403,6 +406,7 @@
 2 | Hot Cocoa Gene | 50
 2 | Hottyz Bill | 40
 2 | Hottyz Luanne
+2 | House Hunting Tours | 35
 2 | Hunky Killer Louise | 70
 2 | I Like Beer | 20
 2 | I am Mona
@@ -480,7 +484,6 @@
 2 | Serious Runner Brian | 50
 2 | Sexy Dance Fighting
 2 | Shaken Not Stirred | 10
-2 | Shipping King Zoidberg
 2 | Sleighing Tonight
 2 | Slick'd Steve | 100
 2 | Slip 'n Slide Bob | 100
@@ -586,10 +589,8 @@
 1 | High School Hank
 1 | Hipster Donald | 25
 1 | History Report Gene | 85
-1 | Home School Peter | 125
 1 | Honey Mustache Stewie | 5
 1 | Honeybucket Student | 125
-1 | House Hunting Tours | 60
 1 | Jellybean Phone Klaus | 80
 1 | Joystick Steve | 110
 1 | Keyboard Joe | 120
@@ -600,7 +601,7 @@
 1 | Laser Tag Quagmire | 125
 1 | Leela's Harpoon | 15
 1 | Love Potion | 125
-1 | Married Brian | 85
+1 | Married Brian | 125
 1 | Master Robaire | 25
 1 | Medieval Hank | 5
 1 | Meg's Evil Monkey | 125
@@ -617,9 +618,10 @@
 1 | Pesto Jeff | 125
 1 | Photographer Bender
 1 | Playlist Meg
-1 | Polling Peggy | 55
+1 | Polling Peggy | 65
 1 | Poppler Jingle Fry | 20
 1 | Pot Brownies Jeff | 125
+1 | Principal Louise | 25
 1 | Quicky Kiss-it | 55
 1 | RC Helicopter | 5
 1 | Raleigh St. Augustine | 125
@@ -726,6 +728,7 @@
 0 | Martini Peggy | 75
 0 | Doomsday Surplus | 75
 0 | Zinc Saucier | 70
+0 | Video Game Joe | 70
 0 | Topped Off Wine | 70
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
@@ -751,6 +754,7 @@
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
 0 | Rabbit Fight | 45
+0 | Professor-Bender Swap | 45
 0 | Football Stewie | 45
 0 | Young Hermes | 40
 0 | Texting Addict Stan | 40
@@ -760,7 +764,9 @@
 0 | Perfectly Symmetrical Violence | 40
 0 | Oktoberfest Fry | 40
 0 | Modest Painting | 40
+0 | Firecracker Jeff | 40
 0 | Drunk Fry | 40
+0 | Drink Point-O Brian | 40
 0 | Dodgeball Meg | 40
 0 | Party Board | 35
 0 | Painter Francine | 35
@@ -773,6 +779,7 @@
 0 | Stevie Wonderbra | 30
 0 | Stan's Grill | 30
 0 | Squirrel Suit Hayley | 30
+0 | Sled Armor Louise | 30
 0 | Show and Tell | 30
 0 | Sharpshooter Bobby | 30
 0 | Sexy Cowardly Lion Stan | 30
@@ -787,7 +794,9 @@
 0 | Mascot Race | 30
 0 | Karate Francine | 30
 0 | Junkie Hank | 30
+0 | Intern Doctor Meg | 30
 0 | Hungover Steve | 30
+0 | Goth Bullock | 30
 0 | Gene It On | 30
 0 | Freshman Chris | 30
 0 | Francine Painting | 30
@@ -811,6 +820,7 @@
 0 | Soccer Chris | 25
 0 | King Roger | 25
 0 | Delivery Marmoset | 25
+0 | Abstract Jeff | 25
 0 | Sister Peter | 20
 0 | Plops | 20
 0 | Knitting Peter | 20
@@ -832,7 +842,8 @@
 0 | Cheerleader Lois | 10
 0 | Butt Slapper Bobby | 10
 0 | Trippy Farnsworth | 5
+0 | Prof Comedy | 5
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-399100 | Mastery Stone
+358250 | Mastery Stone
