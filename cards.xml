@@ -20057,7 +20057,7 @@
 </unit>	
 <unit>
 	<id>10116</id>
-	<name>Miniature BB</name>
+	<name>Miniature B&amp;B</name>
 	<picture>FG_MiniatureBB</picture>
 	<asset_bundle>87</asset_bundle>
 	<release_time>1660586400</release_time>
@@ -24317,9 +24317,9 @@
     </unit>  
 	<unit>
     	<id>15278</id>
-        <name>Toy Fire Truck</name>
+        <name>Fire Truck Peter</name>
 		<picture>FG_ToyFiretruck</picture>
-        <asset_bundle>48</asset_bundle>
+        <asset_bundle>64</asset_bundle>
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
@@ -87102,6 +87102,7 @@
 <unit>
 	<id>50128</id>
 	<name>Murdelator</name>
+	<linked_card_id>1500023</linked_card_id>
 	<picture>FR_Murdelator</picture>
 	<asset_bundle>87</asset_bundle>
 	<release_time>1660586400</release_time>
