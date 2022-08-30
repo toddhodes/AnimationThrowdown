@@ -119,6 +119,7 @@
 3 | Fry in Robot Disguise
 3 | Fry's Painting
 3 | Fur Coat Lois
+3 | Future Rich Snot
 3 | Gaga Ball
 3 | Garage Rock Chris
 3 | Garden Dance Bob
@@ -143,6 +144,7 @@
 3 | High School Linda
 3 | Hip Hop Bob
 3 | Home Ec Teacher
+3 | Honeybucket Student
 3 | Hot Cocoa Tina
 3 | Humplings
 3 | Ice Cream Gene
@@ -365,6 +367,7 @@
 2 | Diamond Ring Lois | 100
 2 | Doghouse Bobby | 75
 2 | Dolphin Rider Peter | 15
+2 | Doomsday Surplus | 45
 2 | Down to the Bone | 55
 2 | Draw Me Gene
 2 | Draw Me Tina | 70
@@ -382,7 +385,6 @@
 2 | Finch Hermes | 100
 2 | Flamethrower Stewie | 20
 2 | Fry's Macaroni Art | 50
-2 | Future Rich Snot
 2 | Gallant Bender | 35
 2 | Garbage Shot Linda | 60
 2 | Gatsby Brian | 30
@@ -452,11 +454,14 @@
 2 | Pan Flute Stewie | 70
 2 | Ping Pong Brian
 2 | Pirate Cannon Peter | 30
+2 | Polling Peggy | 40
 2 | Poppler Addict Leela | 5
 2 | Positron Shooter Fry | 20
 2 | Principal Peter | 30
 2 | Private Brian | 100
+2 | Prof Comedy | 20
 2 | Professor of Emerald Laboratory | 65
+2 | Professor-Bender Swap | 15
 2 | Prom Beer Joe | 85
 2 | Prom Luanne | 70
 2 | Propane Sculpture | 20
@@ -464,7 +469,7 @@
 2 | QB Boomhauer | 60
 2 | Quagmire's Cat James | 90
 2 | Rapture Stan | 55
-2 | Rastafarian Jingle Hayley | 85
+2 | Rastafarian Jingle Hayley | 100
 2 | Record Holder Stan | 60
 2 | Reflection | 20
 2 | Remote Cars Circuit Bob | 30
@@ -477,7 +482,7 @@
 2 | S and M Lois | 65
 2 | S and M Peter | 100
 2 | Sailing Addict Linda
-2 | Salmon Fry | 45
+2 | Salmon Fry | 50
 2 | Sandwitch | 75
 2 | Screwdrive Chris
 2 | Sculptor Peter | 25
@@ -538,7 +543,7 @@
 1 | Amy's Talking Tattoo | 125
 1 | Anally Defaced | 125
 1 | Anger Management Class | 80
-1 | Appetizer Addict Brian | 15
+1 | Appetizer Addict Brian | 95
 1 | Artsy Tina | 5
 1 | Baseball Dale | 35
 1 | Basketball Joe | 15
@@ -572,11 +577,10 @@
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
 1 | Empty Bowl Painting | 5
-1 | Family Fracas | 35
 1 | Farnsworth on Skiis | 125
 1 | Flag Defender | 125
 1 | Freezerdome Linda | 35
-1 | Frydo | 5
+1 | Frydo | 125
 1 | Frykowski | 85
 1 | Garden Shovel Bobby | 125
 1 | Gargoyle Hunter | 5
@@ -586,11 +590,11 @@
 1 | Guenter | 30
 1 | Gut Punch Zapp | 125
 1 | Half-Horse Peter | 55
-1 | High School Hank
+1 | High School Hank | 20
 1 | Hipster Donald | 25
-1 | History Report Gene | 85
+1 | History Report Gene | 125
 1 | Honey Mustache Stewie | 5
-1 | Honeybucket Student | 125
+1 | Intern Doctor Meg | 25
 1 | Jellybean Phone Klaus | 80
 1 | Joystick Steve | 110
 1 | Keyboard Joe | 120
@@ -618,7 +622,6 @@
 1 | Pesto Jeff | 125
 1 | Photographer Bender
 1 | Playlist Meg
-1 | Polling Peggy | 65
 1 | Poppler Jingle Fry | 20
 1 | Pot Brownies Jeff | 125
 1 | Principal Louise | 25
@@ -632,7 +635,7 @@
 1 | Roller Derby Luanne | 110
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
-1 | Running Back Hank | 120
+1 | Running Back Hank | 125
 1 | Shark Killer | 65
 1 | Sherlock Zoidberg
 1 | Shiny Pebbles | 45
@@ -662,6 +665,7 @@
 1 | Toga Bill | 5
 1 | Torah Snot | 20
 1 | Treasure Hunter Peter | 15
+1 | Veteran Cotton | 5
 1 | Water Polo Steve | 5
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
@@ -713,6 +717,7 @@
 0 | Santa Bender | 105
 0 | Heavenly Hank | 105
 0 | Delivery Boy | 105
+0 | Bible Study Stan | 105
 0 | Francine Roger | 100
 0 | Bondage Klaus | 100
 0 | Rambo Lois | 95
@@ -726,7 +731,7 @@
 0 | Art Student | 80
 0 | Rich Dress Leela | 75
 0 | Martini Peggy | 75
-0 | Doomsday Surplus | 75
+0 | History Test Chris | 75
 0 | Zinc Saucier | 70
 0 | Video Game Joe | 70
 0 | Topped Off Wine | 70
@@ -742,7 +747,6 @@
 0 | Sex Ed Peter | 60
 0 | Oktoberfest Amy | 60
 0 | Line Dancer Amy | 60
-0 | History Test Chris | 60
 0 | Fowl Fighter Linda | 60
 0 | Flying Machine Stewie | 60
 0 | Baby Bender | 60
@@ -754,7 +758,6 @@
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
 0 | Rabbit Fight | 45
-0 | Professor-Bender Swap | 45
 0 | Football Stewie | 45
 0 | Young Hermes | 40
 0 | Texting Addict Stan | 40
@@ -794,7 +797,6 @@
 0 | Mascot Race | 30
 0 | Karate Francine | 30
 0 | Junkie Hank | 30
-0 | Intern Doctor Meg | 30
 0 | Hungover Steve | 30
 0 | Goth Bullock | 30
 0 | Gene It On | 30
@@ -805,6 +807,7 @@
 0 | Drunk Leela | 30
 0 | Drunk Hermes | 30
 0 | Dodgeball Louise | 30
+0 | Credit Card Joe | 30
 0 | Cinderella Lois | 30
 0 | Christian Rock | 30
 0 | Chest Harpoon | 30
@@ -821,6 +824,7 @@
 0 | King Roger | 25
 0 | Delivery Marmoset | 25
 0 | Abstract Jeff | 25
+0 | Tentacle Pope | 20
 0 | Sister Peter | 20
 0 | Plops | 20
 0 | Knitting Peter | 20
@@ -842,8 +846,7 @@
 0 | Cheerleader Lois | 10
 0 | Butt Slapper Bobby | 10
 0 | Trippy Farnsworth | 5
-0 | Prof Comedy | 5
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-358250 | Mastery Stone
+346100 | Mastery Stone
