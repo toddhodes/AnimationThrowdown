@@ -321,6 +321,7 @@
 3 | Zombie Jimmy Jr.
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
+2 | Agent Kazak | 30
 2 | Alley Entertainment | 100
 2 | Archer Klaus
 2 | Army Tank Zapp | 5
@@ -337,6 +338,7 @@
 2 | Bob's Pigeon Bath | 100
 2 | Bong Rips Francine | 75
 2 | Booty Shaking Drunk | 100
+2 | Borthday Bash | 30
 2 | Boy Crazy Louise | 5
 2 | Boy Crazy | 25
 2 | Buff Fry
@@ -374,6 +376,7 @@
 2 | Down to the Bone | 55
 2 | Draw Me Gene
 2 | Draw Me Tina | 70
+2 | Dreamland Band
 2 | Drunk Francine | 30
 2 | Duke
 2 | Dummy Fight | 20
@@ -636,6 +639,7 @@
 1 | Raleigh St. Augustine | 125
 1 | Ravenous Porcelain Babies | 25
 1 | Ready for Santa | 95
+1 | Reluctant French Maid | 100
 1 | Rich Hayley | 5
 1 | Roach Coach Francine | 55
 1 | Roller Derby Luanne | 110
@@ -678,6 +682,7 @@
 0 | Zac Sawyer | 130
 0 | Tranq Gun Steve | 130
 0 | Towel Manager Dale | 130
+0 | The Environmentalist | 130
 0 | Sniper Zoidberg | 130
 0 | Sexy Lifeguard | 130
 0 | Sexy Cat | 130
@@ -686,6 +691,7 @@
 0 | Robot Arms Bender | 130
 0 | Reverse Stink Hold | 130
 0 | Pumping Iron | 130
+0 | Princess Lanaluakalani | 130
 0 | Party Crashers | 130
 0 | Nun Francine | 130
 0 | Money Retriever | 130
@@ -703,6 +709,7 @@
 0 | Douchebag Chris | 130
 0 | DJ Klaus | 130
 0 | Cubert Farnsworth | 130
+0 | Bounty Hunter Lana | 130
 0 | Bouldering Bob | 130
 0 | Big Bad Brian | 130
 0 | Beer Funnel Peter | 130
@@ -753,6 +760,7 @@
 0 | Sex Ed Peter | 60
 0 | Oktoberfest Amy | 60
 0 | Line Dancer Amy | 60
+0 | Krieger's Clone Brothers | 60
 0 | Fowl Fighter Linda | 60
 0 | Flying Machine Stewie | 60
 0 | Baby Bender | 60
@@ -763,8 +771,11 @@
 0 | Steve Crossing the Alps | 50
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
+0 | Gambling Drunk | 50
+0 | Smoke Bomb! | 45
 0 | Rabbit Fight | 45
 0 | Football Stewie | 45
+0 | Danger Zone | 45
 0 | Young Hermes | 40
 0 | Skydiving Peggy | 40
 0 | Rocker Bullock | 40
@@ -822,20 +833,24 @@
 0 | Boy Tina | 30
 0 | Bob in the Wall | 30
 0 | Becky | 30
+0 | BABOU!!!! | 30
 0 | ADD Luanne | 30
 0 | 71 Ounce Beef Bobby | 30
 0 | $300 Knife | 30
 0 | Tractor Boy | 25
 0 | Soccer Chris | 25
+0 | Magic Breath Strips | 25
 0 | King Roger | 25
 0 | Delivery Marmoset | 25
 0 | Abstract Jeff | 25
 0 | Tentacle Pope | 20
 0 | Sister Peter | 20
 0 | Plops | 20
+0 | Perfect Husband | 20
 0 | Knitting Peter | 20
 0 | Wrestler Peggy | 10
 0 | Wrestler Amy | 10
+0 | The Honeypot | 10
 0 | Sower of Revenge | 10
 0 | Sniper Stewie | 10
 0 | Secret Asian Man | 10
@@ -843,6 +858,7 @@
 0 | Pirate Car Peter | 10
 0 | Nude Painting Bullock | 10
 0 | Model Builder Roger | 10
+0 | Mitsuko Miyazumi | 10
 0 | Knight Louise | 10
 0 | Junk Food Klaus | 10
 0 | Hurdles Bobby | 10
@@ -852,6 +868,7 @@
 0 | Cheerleader Lois | 10
 0 | Butt Slapper Bobby | 10
 0 | Trippy Farnsworth | 5
+0 | Stuffed Alligator | 5
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
