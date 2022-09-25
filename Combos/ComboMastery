@@ -42,6 +42,7 @@
 3 | Burger Hermes
 3 | Burgerboss Bob
 3 | Butt Fever
+3 | CIA Student
 3 | Cadet Hill
 3 | Cartel Klaus
 3 | Cat Fight Hayley
@@ -91,6 +92,7 @@
 3 | Dr. Bobbenstein
 3 | Dream Guitar
 3 | Dream Millionaire
+3 | Dreamland Band
 3 | Drummer Roger
 3 | Drunk Bullock
 3 | Drunk Hank
@@ -343,7 +345,6 @@
 2 | Boy Crazy | 25
 2 | Buff Fry
 2 | Burgers and Fries Louise | 30
-2 | CIA Student | 85
 2 | Captain Bender | 50
 2 | Captain Feathers
 2 | Captain Leela | 60
@@ -376,7 +377,6 @@
 2 | Down to the Bone | 55
 2 | Draw Me Gene
 2 | Draw Me Tina | 70
-2 | Dreamland Band
 2 | Drunk Francine | 30
 2 | Duke
 2 | Dummy Fight | 20
@@ -511,7 +511,7 @@
 2 | Spray Painter | 100
 2 | Spray on Army Fry
 2 | Squirrel Death | 100
-2 | Stan vs Mafia | 85
+2 | Stan vs Mafia
 2 | Stickin' Hank | 5
 2 | Stuffington Roger | 100
 2 | Super Dance Squad
@@ -734,6 +734,7 @@
 0 | Francine Roger | 100
 0 | Bondage Klaus | 100
 0 | Rambo Lois | 95
+0 | Gambling Drunk | 95
 0 | Frank the Snake | 95
 0 | Were-Car | 85
 0 | Deer Daddy Steve | 85
@@ -743,6 +744,7 @@
 0 | More Forever | 80
 0 | Mathy Cathy | 80
 0 | Art Student | 80
+0 | The Honeypot | 75
 0 | Rich Dress Leela | 75
 0 | Martini Peggy | 75
 0 | History Test Chris | 75
@@ -771,7 +773,6 @@
 0 | Steve Crossing the Alps | 50
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
-0 | Gambling Drunk | 50
 0 | Smoke Bomb! | 45
 0 | Rabbit Fight | 45
 0 | Football Stewie | 45
@@ -850,7 +851,6 @@
 0 | Knitting Peter | 20
 0 | Wrestler Peggy | 10
 0 | Wrestler Amy | 10
-0 | The Honeypot | 10
 0 | Sower of Revenge | 10
 0 | Sniper Stewie | 10
 0 | Secret Asian Man | 10
@@ -872,4 +872,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-349700 | Mastery Stone
+377800 | Mastery Stone
