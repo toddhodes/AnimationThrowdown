@@ -93764,7 +93764,7 @@
 
 	<unit>
 		<id>70026</id>
-		<name>Nightvision Goggles</name>
+		<name>Night Vision Goggles</name>
 		<picture>AR_Night Vision Goggles</picture>
 		<asset_bundle>89</asset_bundle>
 		<release_time>1656612000</release_time>
@@ -93811,7 +93811,7 @@
 
 	<unit>
 		<id>70027</id>
-		<name>Nightvision Goggles</name>
+		<name>Night Vision Goggles</name>
 		<picture>AR_Night Vision Goggles</picture>
 		<asset_bundle>89</asset_bundle>
 		<release_time>1656612000</release_time>
@@ -93875,7 +93875,7 @@
 
 	<unit>
 		<id>70028</id>
-		<name>Nightvision Goggles</name>
+		<name>Night Vision Goggles</name>
 		<picture>AR_Night Vision Goggles</picture>
 		<asset_bundle>89</asset_bundle>
 		<release_time>1656612000</release_time>
@@ -98635,6 +98635,11 @@
 	<cardSet>
 		<id>7002</id>
 		<name>Object Mythic</name>
+		<visible>1</visible>
+	</cardSet>	
+	<cardSet>
+		<id>7003</id>
+		<name>Prize Mythic</name>
 		<visible>1</visible>
 	</cardSet>	
 	<cardSet>
