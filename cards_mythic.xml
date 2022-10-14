@@ -9125,6 +9125,153 @@
 		<skill id="burn" x="11"/>
 	</upgrade>
 </unit>
+<unit>
+	<id>1300019</id>
+	<name>Dodgeball</name>
+	<picture>BB_DodgeballGene</picture>
+	<asset_bundle>31</asset_bundle>
+	<item_name>Dodgeball Fragment</item_name>
+	<item_desc>Collect Dodgeball Fragments to craft and upgrade a Mythic Dodgeball card</item_desc>
+	<item_icon>inventory_upgrade_50_inventory</item_icon>
+	<item_bundle_id>19</item_bundle_id>
+	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<attack>13</attack>
+	<health>67</health>
+	<rarity>5</rarity>
+	<skill id="invigorate" x="5"/>
+	<skill id="weaken" x="9"/>
+	<skill id="shrapnel" x="8"/>
+	<type>3</type>
+	<trait>athletic</trait>
+	<set>7002</set>
+	<upgrade>
+		<level>2</level>
+		<health>68</health>
+		<attack>14</attack>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>69</health>
+		<skill id="invigorate" x="5"/>
+		<skill id="weaken" x="10"/>
+		<skill id="shrapnel" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>70</health>
+		<skill id="invigorate" x="6"/>
+		<skill id="weaken" x="10"/>
+		<skill id="shrapnel" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>71</health>
+		<attack>15</attack>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>72</health>
+		<skill id="invigorate" x="6"/>
+		<skill id="weaken" x="11"/>
+		<skill id="shrapnel" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>73</health>
+		<skill id="invigorate" x="6"/>
+		<skill id="weaken" x="12"/>
+		<skill id="shrapnel" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>74</health>
+		<attack>16</attack>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>75</health>
+		<skill id="invigorate" x="7"/>
+		<skill id="weaken" x="13"/>
+		<skill id="shrapnel" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>76</health>
+		<attack>17</attack>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>77</health>
+		<skill id="invigorate" x="7"/>
+		<skill id="weaken" x="13"/>
+		<skill id="shrapnel" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>78</health>
+		<skill id="invigorate" x="8"/>
+		<skill id="weaken" x="14"/>
+		<skill id="shrapnel" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>79</health>
+		<attack>18</attack>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>80</health>
+		<skill id="invigorate" x="8"/>
+		<skill id="weaken" x="15"/>
+		<skill id="shrapnel" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>81</health>
+		<attack>19</attack>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>82</health>
+		<skill id="invigorate" x="9"/>
+		<skill id="weaken" x="15"/>
+		<skill id="shrapnel" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>83</health>
+		<skill id="invigorate" x="9"/>
+		<skill id="weaken" x="16"/>
+		<skill id="shrapnel" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<health>84</health>
+		<attack>20</attack>
+	</upgrade>
+	<upgrade>
+		<level>19</level>
+		<health>85</health>
+		<attack>21</attack>
+		<skill id="invigorate" x="9"/>
+		<skill id="weaken" x="17"/>
+		<skill id="shrapnel" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>20</level>
+		<health>86</health>
+		<skill id="invigorate" x="10"/>
+		<skill id="weaken" x="17"/>
+		<skill id="shrapnel" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>21</level>
+		<health>88</health>
+		<skill id="invigorate" x="10"/>
+		<skill id="weaken" x="18"/>
+		<skill id="shrapnel" x="14"/>
+	</upgrade>
+</unit>
 <!-- End Bob's Burgers Mythic -->	
 	<!-- KH Mythics -->	
 	<unit>
@@ -15478,6 +15625,190 @@
 			<skill id="burn" x="8"/>
 			<skill id="heal" x="10"/>
 			<skill id="strike" x="12"/>
+		</upgrade>
+	</unit>
+
+	<!-- ARG Reward -->
+
+	<unit>
+		<id>2000001</id>
+		<name>Mole Hunt Suspect</name>
+		<picture>AR_JokeCard</picture>
+		<asset_bundle>89</asset_bundle>
+		<item_name>"Archer-y" Fragment</item_name>
+		<item_desc>Collect "Archer-y" Fragments to craft and upgrade a Mythic "Archer-y" card</item_desc>
+		<item_icon>inventory_upgrade_50_inventory</item_icon>
+		<item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<release_time>1663964380</release_time>
+		<attack>9</attack>
+		<health>9</health>
+		<rarity>5</rarity>
+		<skill id="outlast" x="6"/>
+		<skill id="invigorate" x="6"/>
+		<skill id="rally" x="6"/>
+		<type>6</type>
+		<trait>hyper</trait>
+		<set>7003</set>
+		<upgrade>
+			<level>2</level>
+			<attack>11</attack>
+			<health>11</health>
+			<skill id="outlast" x="8"/>
+			<skill id="invigorate" x="8"/>
+			<skill id="rally" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<attack>13</attack>
+			<health>13</health>
+			<skill id="outlast" x="10"/>
+			<skill id="invigorate" x="10"/>
+			<skill id="rally" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<attack>15</attack>
+			<health>15</health>
+			<skill id="outlast" x="12"/>
+			<skill id="invigorate" x="12"/>
+			<skill id="rally" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<attack>17</attack>
+			<health>17</health>
+			<skill id="outlast" x="14"/>
+			<skill id="invigorate" x="14"/>
+			<skill id="rally" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>19</attack>
+			<health>19</health>
+			<skill id="outlast" x="17"/>
+			<skill id="invigorate" x="17"/>
+			<skill id="rally" x="17"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<attack>21</attack>
+			<health>21</health>
+			<skill id="outlast" x="19"/>
+			<skill id="invigorate" x="19"/>
+			<skill id="rally" x="19"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<attack>23</attack>
+			<health>23</health>
+			<skill id="outlast" x="21"/>
+			<skill id="invigorate" x="21"/>
+			<skill id="rally" x="21"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<attack>25</attack>
+			<health>25</health>
+			<skill id="outlast" x="23"/>
+			<skill id="invigorate" x="23"/>
+			<skill id="rally" x="23"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>27</attack>
+			<health>27</health>
+			<skill id="outlast" x="25"/>
+			<skill id="invigorate" x="25"/>
+			<skill id="rally" x="25"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<attack>29</attack>
+			<health>29</health>
+			<skill id="outlast" x="28"/>
+			<skill id="invigorate" x="28"/>
+			<skill id="rally" x="28"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<attack>31</attack>
+			<health>31</health>
+			<skill id="outlast" x="30"/>
+			<skill id="invigorate" x="30"/>
+			<skill id="rally" x="30"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<attack>33</attack>
+			<health>33</health>
+			<skill id="outlast" x="32"/>
+			<skill id="invigorate" x="32"/>
+			<skill id="rally" x="32"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>35</attack>
+			<health>35</health>
+			<skill id="outlast" x="34"/>
+			<skill id="invigorate" x="34"/>
+			<skill id="rally" x="34"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<attack>37</attack>
+			<health>37</health>
+			<skill id="outlast" x="36"/>
+			<skill id="invigorate" x="36"/>
+			<skill id="rally" x="36"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<attack>39</attack>
+			<health>39</health>
+			<skill id="outlast" x="39"/>
+			<skill id="invigorate" x="39"/>
+			<skill id="rally" x="39"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<attack>41</attack>
+			<health>41</health>
+			<skill id="outlast" x="41"/>
+			<skill id="invigorate" x="41"/>
+			<skill id="rally" x="41"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>43</attack>
+			<health>43</health>
+			<skill id="outlast" x="43"/>
+			<skill id="invigorate" x="43"/>
+			<skill id="rally" x="43"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<attack>45</attack>
+			<health>45</health>
+			<skill id="outlast" x="45"/>
+			<skill id="invigorate" x="45"/>
+			<skill id="rally" x="45"/>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<attack>47</attack>
+			<health>47</health>
+			<skill id="outlast" x="47"/>
+			<skill id="invigorate" x="47"/>
+			<skill id="rally" x="47"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<attack>50</attack>
+			<health>50</health>
+			<skill id="outlast" x="50"/>
+			<skill id="invigorate" x="50"/>
+			<skill id="rally" x="50"/>
 		</upgrade>
 	</unit>
 
