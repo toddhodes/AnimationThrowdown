@@ -12724,8 +12724,7 @@
 	  <skill id="hijack" x="5"/>
 	  <skill id="bunker" x="4"/>
 	  <skill id="heal" x="6"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>31</health>
@@ -12832,8 +12831,7 @@
 	  <skill id="hijack" x="5"/>
 	  <skill id="enlarge" x="5"/>
 	  <skill id="pierce" x="8"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>32</health>
@@ -12941,8 +12939,7 @@
 	  <skill id="shrapnel" x="3"/>
 	  <skill id="poison" x="8"/>
 	  <skill id="weaken" x="7"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>31</health>
@@ -13053,8 +13050,7 @@
 	  <skill id="burn" x="4"/>
 	  <skill id="outlast" x="5"/>
 	  <skill id="strike" x="8"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>34</health>
@@ -13163,8 +13159,7 @@
 	  <skill id="hijack" x="5"/>
 	  <skill id="heal" x="7"/>
 	  <skill id="leech" x="8"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>35</health>
@@ -13275,8 +13270,7 @@
 	  <skill id="burn" x="3"/>
 	  <skill id="armored" x="6"/>
 	  <skill id="heal" x="6"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>33</health>
@@ -13382,8 +13376,7 @@
 	  <skill id="weaken" x="7"/>
 	  <skill id="weakenall" x="3"/>
 	  <skill id="enlarge" x="5"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>39</health>
@@ -13489,8 +13482,7 @@
 	  <skill id="berserk" x="5"/>
 	  <skill id="pierce" x="8"/>
 	  <skill id="heal" x="6"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>35</health>
@@ -13601,8 +13593,7 @@
 	<skill id="inspire" x="4" y="athletic"/>
 	<skill id="weaken" x="5"/>
 	<skill id="poison" x="6"/>
-	<card_type>object</card_type>
-	<hidden>1</hidden>
+	<card_type>object</card_type>	
 	<upgrade>
 		<level>2</level>
 		<health>36</health>
@@ -18941,6 +18932,118 @@
 		  <health>58</health>
 		</upgrade>
 	  </unit>
+	  <unit>
+		<id>110191</id>
+		<combo_card_id>15191</combo_card_id>
+		<name>Count of Monty Hall</name>
+		<picture>FG_CountMontyHall</picture>
+		<asset_bundle>52</asset_bundle>
+		<release_time>1665514628</release_time>
+		<attack>9</attack>
+		<health>29</health>
+		<rarity>3</rarity>
+		<skill id="counter" x="4"/>
+		<skill id="rally" x="5"/>
+		<skill id="leech" x="4"/> 
+		<type>1</type>
+		<trait>rich</trait>
+		<set>3001</set>
+		<upgrade>
+			<level>2</level>
+			<health>31</health>
+			<skill id="counter" x="4"/>
+			<skill id="rally" x="6"/>
+			<skill id="leech" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>33</health>
+			<skill id="counter" x="4"/>
+			<skill id="rally" x="6"/>
+			<skill id="leech" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>35</health>
+			<skill id="counter" x="5"/>
+			<skill id="rally" x="6"/>
+			<skill id="leech" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>37</health>
+			<attack>10</attack>
+			<skill id="counter" x="5"/>
+			<skill id="rally" x="7"/>
+			<skill id="leech" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>40</health>
+			<skill id="counter" x="5"/>
+			<skill id="rally" x="7"/>
+			<skill id="leech" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>42</health>
+			<skill id="counter" x="6"/>
+			<skill id="rally" x="7"/>
+			<skill id="leech" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>44</health>
+			<skill id="counter" x="6"/>
+			<skill id="rally" x="8"/>
+			<skill id="leech" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>46</health>
+			<skill id="counter" x="7"/>
+			<skill id="rally" x="8"/>
+			<skill id="leech" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>48</health>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>51</health>
+			<skill id="counter" x="7"/>
+			<skill id="rally" x="9"/>
+			<skill id="leech" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>53</health>
+			<skill id="counter" x="8"/>
+			<skill id="rally" x="9"/>
+			<skill id="leech" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>55</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>57</health>
+			<skill id="counter" x="8"/>
+			<skill id="rally" x="10"/>
+			<skill id="leech" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>60</health>
+			<skill id="counter" x="9"/>
+			<skill id="rally" x="10"/>
+			<skill id="leech" x="9"/>
+		</upgrade>
+	</unit>
 <!-- end Family Guy Final Forms -->
 	
 	<!-- American Dad Final Forms -->
@@ -30719,8 +30822,7 @@
 	  <skill id="burn" x="4"/>
 	  <skill id="leech" x="7"/>
 	  <skill id="armored" x="6"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>33</health>
@@ -30832,8 +30934,7 @@
 	  <skill id="inspire" x="5"/>
 	  <skill id="weaken" x="6"/>
 	  <skill id="burn" x="4"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>26</health>
@@ -30939,8 +31040,7 @@
 	  <skill id="leech" x="8"/>
 	  <skill id="weakenall" x="3"/>
 	  <skill id="burn" x="4"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>33</health>
@@ -31048,8 +31148,7 @@
 	  <skill id="hijack" x="5"/>
 	  <skill id="burn" x="4"/>
 	  <skill id="leech" x="8"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>32</health>
@@ -31154,8 +31253,7 @@
 	  <skill id="bodyguard" x="5"/>
 	  <skill id="burn" x="4"/>
 	  <skill id="poison" x="8"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>39</health>
@@ -31263,8 +31361,7 @@
 	  <skill id="berserk" x="5"/>
 	  <skill id="enlarge" x="5"/>
 	  <skill id="counter" x="8"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>41</health>
@@ -49833,8 +49930,7 @@
 	  <skill id="healall" x="4" y="disguised"/>
 	  <skill id="bodyguard" x="5"/>
 	  <skill id="hijack" x="5"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>32</health>
@@ -49939,8 +50035,7 @@
 	  <skill id="burn" x="4"/>
 	  <skill id="shrapnel" x="3"/>
 	  <skill id="bunker" x="4"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>34</health>
@@ -50044,8 +50139,7 @@
 	  <skill id="inspire" x="5"/>
 	  <skill id="shrapnel" x="3"/>
 	  <skill id="bunker" x="5"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>34</health>
@@ -50252,8 +50346,7 @@
 	  <skill id="bunker" x="3"/>
 	  <skill id="rally" x="4" y="educated"/>
 	  <skill id="weaken" x="4"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>26</health>
@@ -50350,8 +50443,7 @@
 	  <skill id="armored" x="7"/>
 	  <skill id="weakenall" x="3"/>
 	  <skill id="healall" x="3" y="educated"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>34</health>
@@ -50458,8 +50550,7 @@
 	  <skill id="enlarge" x="5"/>
 	  <skill id="pierce" x="8"/>
 	  <skill id="leech" x="9"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>39</health>
@@ -50577,8 +50668,7 @@
 	  <skill id="hijack" x="5"/>
 	  <skill id="enlarge" x="5"/>
 	  <skill id="counter" x="8"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>40</health>
@@ -50688,8 +50778,7 @@
 	  <skill id="poison" x="8"/>
 	  <skill id="pierce" x="8"/>
 	  <skill id="enlarge" x="5"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>32</health>
@@ -50803,8 +50892,7 @@
 	  <skill id="burn" x="4"/>
 	  <skill id="weakenall" x="3"/>
 	  <skill id="bunker" x="5"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>41</health>
@@ -50908,8 +50996,7 @@
 	  <skill id="heal" x="8" y="rich"/>
 	  <skill id="armored" x="5"/>
 	  <skill id="weaken" x="7"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>37</health>
@@ -51020,8 +51107,7 @@
 	  <skill id="shrapnel" x="3"/>
 	  <skill id="burn" x="5"/>
 	  <skill id="leech" x="8"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>44</health>
@@ -51127,8 +51213,7 @@
 	  <skill id="inspire" x="5"/>
 	  <skill id="armored" x="5"/>
 	  <skill id="heal" x="6"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>46</health>
@@ -55922,6 +56007,137 @@
 		<skill id="weakenall" x="5"/>
 	</upgrade>
 </unit>
+	<unit>
+		<id>130184</id>
+		<combo_card_id>35046</combo_card_id>
+		<name>Sower of Revenge</name>
+		<picture>SowerOfRevenge</picture>
+		<asset_bundle>5</asset_bundle>
+		<release_time>1665514628</release_time>
+		<attack>11</attack>
+		<health>55</health>
+		<rarity>4</rarity>
+		<skill id="outlast" x="5"/>
+		<skill id="weaken" x="5"/>
+		<skill id="poison" x="6"/>
+		<type>3</type>
+		<trait>armed</trait>
+		<set>3001</set>
+		<upgrade>
+			<level>2</level>
+			<health>56</health>
+			<skill id="outlast" x="5"/>
+			<skill id="weaken" x="6"/>
+			<skill id="poison" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>58</health>
+			<skill id="outlast" x="5"/>
+			<skill id="weaken" x="6"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>59</health>
+			<skill id="outlast" x="6"/>
+			<skill id="weaken" x="6"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>61</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>62</health>
+			<skill id="outlast" x="6"/>
+			<skill id="weaken" x="7"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>64</health>
+			<skill id="outlast" x="7"/>
+			<skill id="weaken" x="7"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>66</health>
+			<skill id="outlast" x="7"/>
+			<skill id="weaken" x="8"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>67</health>
+			<skill id="outlast" x="7"/>
+			<skill id="weaken" x="8"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>69</health>
+			<skill id="outlast" x="8"/>
+			<skill id="weaken" x="8"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>70</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>72</health>
+			<skill id="outlast" x="8"/>
+			<skill id="weaken" x="9"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>74</health>
+			<skill id="outlast" x="9"/>
+			<skill id="weaken" x="9"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>75</health>
+			<skill id="outlast" x="9"/>
+			<skill id="weaken" x="10"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>77</health>
+			<skill id="outlast" x="9"/>
+			<skill id="weaken" x="10"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>78</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>80</health>
+			<skill id="outlast" x="10"/>
+			<skill id="weaken" x="10"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>82</health>
+			<skill id="outlast" x="10"/>
+			<skill id="weaken" x="11"/>
+			<skill id="poison" x="12"/>
+		</upgrade>
+	</unit>
+
 
 
 	<!-- end Bob's Burgers Final Forms -->
@@ -67354,8 +67570,7 @@
 	  <skill id="healall" x="3" y="artistic"/>
 	  <skill id="bunker" x="3"/>
 	  <skill id="armored" x="5"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>37</health>
@@ -67458,8 +67673,7 @@
 	  <skill id="hijack" x="5"/>
 	  <skill id="inspire" x="4"/>
 	  <skill id="leech" x="7"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>34</health>
@@ -67569,8 +67783,7 @@
 	  <skill id="shrapnel" x="2"/>
 	  <skill id="bunker" x="3"/>
 	  <skill id="leech" x="4"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>25</health>
@@ -67663,8 +67876,7 @@
 	  <skill id="berserk" x="5"/>
 	  <skill id="bunker" x="5"/>
 	  <skill id="pierce" x="8"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>41</health>
@@ -67769,8 +67981,7 @@
 	  <skill id="heal" x="7" y="musical"/>
 	  <skill id="strike" x="7"/>
 	  <skill id="enlarge" x="5"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	  </upgrade>
@@ -86377,7 +86588,6 @@
 	  <skill id="strike" x="7"/>
 	  <skill id="bunker" x="4"/>
 	  <card_type>object</card_type>
-	  <hidden>1</hidden>
 	  <upgrade>
 	    <level>2</level>
 	    <health>30</health>
@@ -86489,8 +86699,7 @@
 	  <skill id="strike" x="4"/>
 	  <skill id="weakenall" x="3"/>
 	  <skill id="pierce" x="8"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>31</health>
@@ -86603,8 +86812,7 @@
 	  <skill id="inspire" x="5"/>
 	  <skill id="poison" x="8"/>
 	  <skill id="bunker" x="4"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>38</health>
@@ -86714,8 +86922,7 @@
 	  <skill id="poison" x="8"/>
 	  <skill id="enlarge" x="5"/>
 	  <skill id="bunker" x="5"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>31</health>
@@ -86826,8 +87033,7 @@
 	  <skill id="poison" x="8"/>
 	  <skill id="hijack" x="5"/>
 	  <skill id="outlast" x="6"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>35</health>
@@ -86935,8 +87141,7 @@
 	  <skill id="bodyguard" x="5"/>
 	  <skill id="bunker" x="5"/>
 	  <skill id="weaken" x="8"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>34</health>
@@ -87042,8 +87247,7 @@
 	  <skill id="counter" x="8"/>
 	  <skill id="leech" x="9"/>
 	  <skill id="bodyguard" x="5"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>42</health>
@@ -87155,8 +87359,7 @@
 	  <skill id="counter" x="7"/>
 	  <skill id="weaken" x="6"/>
 	  <skill id="leech" x="7"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>33</health>
@@ -87270,8 +87473,7 @@
 	  <skill id="strike" x="6"/>
 	  <skill id="berserk" x="3"/>
 	  <skill id="pierce" x="7"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>36</health>
@@ -87379,8 +87581,7 @@
 	  <skill id="inspire" x="5"/>
 	  <skill id="burn" x="4"/>
 	  <skill id="bunker" x="5"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>41</health>
@@ -87484,8 +87685,7 @@
 	  <skill id="hijack" x="5"/>
 	  <skill id="strike" x="5"/>
 	  <skill id="burn" x="4"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>36</health>
@@ -87590,8 +87790,7 @@
 	  <skill id="bodyguard" x="5"/>
 	  <skill id="shrapnel" x="3"/>
 	  <skill id="armored" x="3"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>38</health>
@@ -87694,8 +87893,7 @@
 	  <skill id="strike" x="6"/>
 	  <skill id="enlarge" x="5"/>
 	  <skill id="armored" x="4"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>31</health>
@@ -87801,8 +87999,7 @@
 	  <skill id="bunker" x="6"/>
 	  <skill id="barrierall" x="3" y="musical"/>
 	  <skill id="hijack" x="5"/>
-	  <card_type>object</card_type>
-	  <hidden>1</hidden>
+	  <card_type>object</card_type>	  
 	  <upgrade>
 	    <level>2</level>
 	    <health>49</health>
@@ -93612,5 +93809,133 @@
 		  <skill id="inspire" x="11"/>
 		</upgrade>
 	  </unit>
+	  <unit>
+		<id>170019</id>
+		<combo_card_id>77019</combo_card_id>
+		<name>Krieger's Clone Brothers</name>
+		<picture>AR_Krieger Clones</picture>
+		<asset_bundle>89</asset_bundle>
+		<release_time>1665514628</release_time>
+		<attack>15</attack>
+		<health>45</health>
+		<rarity>4</rarity>
+		<skill id="rallyall" x="4"/>
+		<skill id="strike" x="6"/>
+		<skill id="weakenall" x="3"/>
+		<type>7</type>
+		<trait>disguised</trait>
+		<set>3001</set>
+		<hidden>1</hidden>
+		<upgrade>
+			<level>2</level>
+			<health>46</health>
+			<attack>16</attack>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>47</health>
+			<skill id="rallyall" x="4"/>
+			<skill id="strike" x="7"/>
+			<skill id="weakenall" x="3"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>48</health>
+			<skill id="rallyall" x="5"/>
+			<skill id="strike" x="7"/>
+			<skill id="weakenall" x="3"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<attack>17</attack>
+			<skill id="rallyall" x="5"/>
+			<skill id="strike" x="8"/>
+			<skill id="weakenall" x="3"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>49</health>
+			<skill id="rallyall" x="5"/>
+			<skill id="strike" x="8"/>
+			<skill id="weakenall" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>50</health>
+			<attack>18</attack>
+			<skill id="rallyall" x="6"/>
+			<skill id="strike" x="8"/>
+			<skill id="weakenall" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>51</health>
+			<skill id="rallyall" x="6"/>
+			<skill id="strike" x="9"/>
+			<skill id="weakenall" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<skill id="rallyall" x="7"/>
+			<skill id="strike" x="9"/>
+			<skill id="weakenall" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>19</attack>
+			<health>52</health>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>53</health>
+			<skill id="rallyall" x="7"/>
+			<skill id="strike" x="10"/>
+			<skill id="weakenall" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>54</health>
+			<skill id="rallyall" x="8"/>
+			<skill id="strike" x="10"/>
+			<skill id="weakenall" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<attack>20</attack>
+			<skill id="rallyall" x="8"/>
+			<skill id="strike" x="11"/>
+			<skill id="weakenall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>55</health>
+			<attack>21</attack>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>56</health>
+			<skill id="rallyall" x="8"/>
+			<skill id="strike" x="12"/>
+			<skill id="weakenall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>57</health>
+			<skill id="rallyall" x="9"/>
+			<skill id="strike" x="12"/>
+			<skill id="weakenall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<attack>22</attack>
+			<health>58</health>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<skill id="rallyall" x="10"/>
+			<skill id="strike" x="13"/>
+			<skill id="weakenall" x="7"/>
+		</upgrade>
+	</unit>
 
 </root>	
