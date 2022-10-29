@@ -19044,6 +19044,134 @@
 			<skill id="leech" x="9"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>110192</id>
+		<combo_card_id>15281</combo_card_id>
+		<name>Handful of Peter</name>
+		<picture>fg_HandfulOfPeter</picture>
+		<asset_bundle>31</asset_bundle>
+		<release_time>1666289638</release_time>
+		<attack>11</attack>
+		<health>57</health>
+		<rarity>4</rarity>
+		<skill id="outlast" x="8"/>
+		<skill id="shrapnel" x="5"/>
+		<skill id="berserk" x="4"/>
+		<type>1</type>
+		<trait>musical</trait>
+		<set>3001</set>
+		<upgrade>
+			<level>2</level>
+			<health>58</health>
+			<skill id="outlast" x="9"/>
+			<skill id="shrapnel" x="5"/>
+			<skill id="berserk" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>59</health>
+			<skill id="outlast" x="9"/>
+			<skill id="shrapnel" x="5"/>
+			<skill id="berserk" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>60</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>62</health>
+			<skill id="outlast" x="9"/>
+			<skill id="shrapnel" x="6"/>
+			<skill id="berserk" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>63</health>
+			<skill id="outlast" x="10"/>
+			<skill id="shrapnel" x="6"/>
+			<skill id="berserk" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>64</health>
+			<skill id="outlast" x="11"/>
+			<skill id="shrapnel" x="6"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>66</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>67</health>
+			<skill id="outlast" x="11"/>
+			<skill id="shrapnel" x="7"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>68</health>
+			<skill id="outlast" x="12"/>
+			<skill id="shrapnel" x="7"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>69</health>
+			<skill id="outlast" x="12"/>
+			<skill id="shrapnel" x="7"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>71</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>72</health>
+			<skill id="outlast" x="13"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>73</health>
+			<skill id="outlast" x="13"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>75</health>
+			<skill id="outlast" x="14"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>76</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>77</health>
+			<skill id="outlast" x="14"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="berserk" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>79</health>
+			<skill id="outlast" x="15"/>
+			<skill id="shrapnel" x="9"/>
+			<skill id="berserk" x="9"/>
+		</upgrade>
+	</unit>
 <!-- end Family Guy Final Forms -->
 	
 	<!-- American Dad Final Forms -->
@@ -37527,6 +37655,143 @@
 	  <health>70</health>
 	</upgrade>
   </unit>
+  <unit>
+	<id>120186</id>
+	<combo_card_id>25262</combo_card_id>
+	<name>Pole Dance Jeff</name>
+	<picture>AD_PoleDanceJeff</picture>
+	<asset_bundle>86</asset_bundle>
+	<release_time>1666289638</release_time>
+	<attack>12</attack>
+	<health>54</health>
+	<rarity>4</rarity>
+	<skill id="bunker" x="4"/>
+	<skill id="weaken" x="6"/>
+	<skill id="poison" x="8"/>
+	<type>2</type>
+	<trait>musical</trait>
+	<set>3001</set>
+	<upgrade>
+		<level>2</level>
+		<health>55</health>
+		<skill id="bunker" x="4"/>
+		<skill id="weaken" x="6"/>
+		<skill id="poison" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>56</health>
+		<skill id="bunker" x="4"/>
+		<skill id="weaken" x="7"/>
+		<skill id="poison" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>57</health>
+		<attack>13</attack>
+		<skill id="bunker" x="5"/>
+		<skill id="weaken" x="7"/>
+		<skill id="poison" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>59</health>
+		<skill id="bunker" x="5"/>
+		<skill id="weaken" x="7"/>
+		<skill id="poison" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>60</health>
+		<skill id="bunker" x="5"/>
+		<skill id="weaken" x="8"/>
+		<skill id="poison" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>61</health>
+		<skill id="bunker" x="6"/>
+		<skill id="weaken" x="8"/>
+		<skill id="poison" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>63</health>
+		<skill id="bunker" x="6"/>
+		<skill id="weaken" x="9"/>
+		<skill id="poison" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>64</health>
+		<attack>14</attack>
+		<skill id="bunker" x="6"/>
+		<skill id="weaken" x="9"/>
+		<skill id="poison" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>65</health>
+		<skill id="bunker" x="6"/>
+		<skill id="weaken" x="10"/>
+		<skill id="poison" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>66</health>
+		<skill id="bunker" x="7"/>
+		<skill id="weaken" x="10"/>
+		<skill id="poison" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>68</health>
+		<attack>15</attack>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>69</health>
+		<skill id="bunker" x="7"/>
+		<skill id="weaken" x="10"/>
+		<skill id="poison" x="14"/>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>70</health>
+		<skill id="bunker" x="8"/>
+		<skill id="weaken" x="11"/>
+		<skill id="poison" x="14"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>72</health>
+		<skill id="bunker" x="8"/>
+		<skill id="weaken" x="11"/>
+		<skill id="poison" x="15"/>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>73</health>
+		<attack>16</attack>
+		<skill id="bunker" x="8"/>
+		<skill id="weaken" x="12"/>
+		<skill id="poison" x="15"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>74</health>
+		<skill id="bunker" x="8"/>
+		<skill id="weaken" x="12"/>
+		<skill id="poison" x="16"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<health>76</health>
+		<skill id="bunker" x="9"/>
+		<skill id="weaken" x="13"/>
+		<skill id="poison" x="16"/>
+	</upgrade>
+	</unit>
 	<!-- end American Dad Final Forms -->
 	<!-- Bob's Burgers Final Forms -->
 	
@@ -56137,8 +56402,136 @@
 			<skill id="poison" x="12"/>
 		</upgrade>
 	</unit>
-
-
+	<unit>
+	<id>130185</id>
+	<combo_card_id>35251</combo_card_id>
+	<name>Toilet Song Bob</name>
+	<picture>BB_BathroomSongBob</picture>
+	<asset_bundle>32</asset_bundle>
+	<release_time>1666289638</release_time>
+	<attack>10</attack>
+	<health>60</health>
+	<rarity>4</rarity>
+	<skill id="bodyguard" x="6"/>
+	<skill id="enlarge" x="5"/>
+	<skill id="healall" x="4"/>
+	<type>3</type>
+	<trait>musical</trait>
+	<set>3001</set>
+	<upgrade>
+		<level>2</level>
+		<health>61</health>
+		<skill id="bodyguard" x="6"/>
+		<skill id="enlarge" x="6"/>
+		<skill id="healall" x="4"/>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>62</health>
+		<skill id="bodyguard" x="7"/>
+		<skill id="enlarge" x="6"/>
+		<skill id="healall" x="4"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>64</health>
+		<skill id="bodyguard" x="7"/>
+		<skill id="enlarge" x="6"/>
+		<skill id="healall" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>65</health>
+		<attack>11</attack>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>67</health>
+		<skill id="bodyguard" x="7"/>
+		<skill id="enlarge" x="7"/>
+		<skill id="healall" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>68</health>
+		<skill id="bodyguard" x="8"/>
+		<skill id="enlarge" x="7"/>
+		<skill id="healall" x="5"/>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>70</health>
+		<skill id="bodyguard" x="8"/>
+		<skill id="enlarge" x="7"/>
+		<skill id="healall" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>71</health>
+		<skill id="bodyguard" x="8"/>
+		<skill id="enlarge" x="8"/>
+		<skill id="healall" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>73</health>
+		<skill id="bodyguard" x="9"/>
+		<skill id="enlarge" x="8"/>
+		<skill id="healall" x="6"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>74</health>
+		<attack>12</attack>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>76</health>
+		<skill id="bodyguard" x="9"/>
+		<skill id="enlarge" x="8"/>
+		<skill id="healall" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>77</health>
+		<skill id="bodyguard" x="9"/>
+		<skill id="enlarge" x="9"/>
+		<skill id="healall" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>79</health>
+		<skill id="bodyguard" x="10"/>
+		<skill id="enlarge" x="9"/>
+		<skill id="healall" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>80</health>
+		<attack>13</attack>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>82</health>
+		<skill id="bodyguard" x="10"/>
+		<skill id="enlarge" x="10"/>
+		<skill id="healall" x="7"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>83</health>
+		<skill id="bodyguard" x="10"/>
+		<skill id="enlarge" x="10"/>
+		<skill id="healall" x="8"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<health>85</health>
+		<skill id="bodyguard" x="11"/>
+		<skill id="enlarge" x="10"/>
+		<skill id="healall" x="8"/>
+	</upgrade>
+	</unit>
 
 	<!-- end Bob's Burgers Final Forms -->
 	<!-- King of the Hill Final Forms -->
@@ -72859,6 +73252,7 @@
   </unit>
   <unit>
 	<id>140167</id>
+	<combo_card_id>45222</combo_card_id>
 	<name>Sauna Cotton</name>
 	<picture>KOTH_SaunaCotton</picture>
 	<asset_bundle>55</asset_bundle>
@@ -92887,6 +93281,237 @@
 		  <skill id="shrapnel" x="9"/>
 		</upgrade>
 	  </unit>
+	  <unit>
+		<id>150197</id>
+		<combo_card_id>55251</combo_card_id>
+		<name>Ramblin' Rodriguez</name>
+		<picture>fr_ramblinrodriguez</picture>
+		<asset_bundle>31</asset_bundle>
+		<release_time>1666289638</release_time>
+		<attack>11</attack>
+		<health>57</health>
+		<rarity>4</rarity>
+		<skill id="invigorate" x="8"/>
+		<skill id="barrierall" x="4"/>
+		<skill id="weakenall" x="4"/>
+		<type>5</type>
+		<trait>musical</trait>
+		<set>3001</set>
+		<upgrade>
+			<level>2</level>
+			<health>58</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="barrierall" x="4"/>
+			<skill id="weakenall" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>59</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="barrierall" x="4"/>
+			<skill id="weakenall" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>61</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="barrierall" x="5"/>
+			<skill id="weakenall" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>62</health>
+			<skill id="invigorate" x="10"/>
+			<skill id="barrierall" x="5"/>
+			<skill id="weakenall" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>64</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>65</health>
+			<skill id="invigorate" x="11"/>
+			<skill id="barrierall" x="5"/>
+			<skill id="weakenall" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>67</health>
+			<skill id="invigorate" x="11"/>
+			<skill id="barrierall" x="5"/>
+			<skill id="weakenall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>68</health>
+			<skill id="invigorate" x="11"/>
+			<skill id="barrierall" x="6"/>
+			<skill id="weakenall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>70</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="barrierall" x="6"/>
+			<skill id="weakenall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>71</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>73</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="barrierall" x="6"/>
+			<skill id="weakenall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>74</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="barrierall" x="7"/>
+			<skill id="weakenall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>76</health>
+			<skill id="invigorate" x="13"/>
+			<skill id="barrierall" x="7"/>
+			<skill id="weakenall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>77</health>
+			<skill id="invigorate" x="14"/>
+			<skill id="barrierall" x="7"/>
+			<skill id="weakenall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>79</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>80</health>
+			<skill id="invigorate" x="14"/>
+			<skill id="barrierall" x="7"/>
+			<skill id="weakenall" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>82</health>
+			<skill id="invigorate" x="15"/>
+			<skill id="barrierall" x="8"/>
+			<skill id="weakenall" x="8"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>150198</id>
+		<combo_card_id>55006</combo_card_id>
+		<attack>10</attack>
+		<health>60</health>
+		<name>Robot Devil's Hands</name>
+		<desc>The other ones were always touching me in... places.</desc>
+		<picture>RobotDevilHands</picture>
+		<asset_bundle>9</asset_bundle>
+		<rarity>4</rarity>
+		<set>3001</set>
+		<type>5</type>
+		<trait>musical</trait>
+		<skill id="counter" x="5"/>
+		<skill id="inspire" x="4"/>
+		<card_type>object</card_type>
+		<upgrade>
+		  <level>2</level>
+		  <health>61</health>
+		  <skill id="counter" x="6"/>
+		</upgrade>
+		<upgrade>
+		  <level>3</level>
+		  <health>62</health>
+		</upgrade>
+		<upgrade>
+		  <level>4</level>
+		  <health>63</health>
+		</upgrade>
+		<upgrade>
+		  <level>5</level>
+		  <attack>11</attack>
+		  <health>64</health>
+		  <skill id="counter" x="7"/>
+		  <skill id="inspire" x="5"/>
+		</upgrade>
+		<upgrade>
+		  <level>6</level>
+		  <health>65</health>
+		</upgrade>
+		<upgrade>
+		  <level>7</level>
+		  <health>66</health>
+		  <skill id="counter" x="8"/>
+		</upgrade>
+		<upgrade>
+		  <level>8</level>
+		  <attack>12</attack>
+		  <health>67</health>
+		</upgrade>
+		<upgrade>
+		  <level>9</level>
+		  <health>68</health>
+		  <skill id="inspire" x="6"/>
+		</upgrade>
+		<upgrade>
+		  <level>10</level>
+		  <health>70</health>
+		  <skill id="counter" x="9"/>
+		</upgrade>
+		<upgrade>
+		  <level>11</level>
+		  <health>71</health>
+		</upgrade>
+		<upgrade>
+		  <level>12</level>
+		  <attack>13</attack>
+		  <health>72</health>
+		  <skill id="counter" x="10"/>
+		  <skill id="inspire" x="7"/>
+		</upgrade>
+		<upgrade>
+		  <level>13</level>
+		  <health>73</health>
+		</upgrade>
+		<upgrade>
+		  <level>14</level>
+		  <health>74</health>
+		</upgrade>
+		<upgrade>
+		  <level>15</level>
+		  <attack>14</attack>
+		  <health>75</health>
+		</upgrade>
+		<upgrade>
+		  <level>16</level>
+		  <health>76</health>
+		  <skill id="counter" x="11"/>
+		  <skill id="inspire" x="8"/>
+		</upgrade>
+		<upgrade>
+		  <level>17</level>
+		  <health>77</health>
+		  <skill id="counter" x="12"/>
+		</upgrade>
+		<upgrade>
+		  <level>18</level>
+		  <attack>15</attack>
+		  <health>79</health>
+		</upgrade>
+	  </unit>
 	<!-- end Futurama Final Forms -->
 
 	<!-- Archer Final Forms -->
@@ -94069,5 +94694,273 @@
 			<skill id="weakenall" x="7"/>
 		</upgrade>
 	</unit>
-
+	<unit>
+		<id>170020</id>
+		<combo_card_id>77033</combo_card_id>
+		<name>Dreamland Band</name>
+		<picture>AR_Dreamland Lana</picture>
+		<asset_bundle>89</asset_bundle>
+		<release_time>1666289638</release_time>
+		<attack>12</attack>
+		<health>54</health>
+		<rarity>4</rarity>
+		<skill id="burn" x="5"/>
+		<skill id="strike" x="7"/>
+		<skill id="leech" x="7"/>
+		<type>7</type>
+		<trait>musical</trait>
+		<set>3001</set>
+		<upgrade>
+			<level>2</level>
+			<health>55</health>
+			<skill id="burn" x="5"/>
+			<skill id="strike" x="7"/>
+			<skill id="leech" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>57</health>
+			<skill id="burn" x="5"/>
+			<skill id="strike" x="8"/>
+			<skill id="leech" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>59</health>
+			<skill id="burn" x="5"/>
+			<skill id="strike" x="8"/>
+			<skill id="leech" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>61</health>
+			<skill id="burn" x="6"/>
+			<skill id="strike" x="8"/>
+			<skill id="leech" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>63</health>
+			<skill id="burn" x="6"/>
+			<skill id="strike" x="9"/>
+			<skill id="leech" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>64</health>
+			<skill id="burn" x="6"/>
+			<skill id="strike" x="10"/>
+			<skill id="leech" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>66</health>
+			<skill id="burn" x="6"/>
+			<skill id="strike" x="10"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>68</health>
+			<skill id="burn" x="7"/>
+			<skill id="strike" x="10"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>70</health>
+			<skill id="burn" x="7"/>
+			<skill id="strike" x="11"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>72</health>
+			<skill id="burn" x="7"/>
+			<skill id="strike" x="12"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>74</health>
+			<skill id="burn" x="7"/>
+			<skill id="strike" x="12"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>75</health>
+			<skill id="burn" x="8"/>
+			<skill id="strike" x="12"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>77</health>
+			<skill id="burn" x="8"/>
+			<skill id="strike" x="13"/>
+			<skill id="leech" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>79</health>
+			<skill id="burn" x="8"/>
+			<skill id="strike" x="14"/>
+			<skill id="leech" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>81</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>83</health>
+			<skill id="burn" x="8"/>
+			<skill id="strike" x="14"/>
+			<skill id="leech" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>85</health>
+			<skill id="burn" x="9"/>
+			<skill id="strike" x="15"/>
+			<skill id="leech" x="15"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>170021</id>
+		<combo_card_id>77021</combo_card_id>
+		<name>Jazz Hands</name>
+		<picture>AR_JazzHands</picture>
+		<asset_bundle>89</asset_bundle>
+		<release_time>1666289638</release_time>
+		<attack>10</attack>
+		<health>60</health>
+		<rarity>4</rarity>
+		<skill id="inspire" x="6"/>
+		<skill id="barrier" x="7"/>
+		<skill id="pierce" x="7"/>
+		<type>7</type>
+		<trait>musical</trait>
+		<set>3001</set>
+		<upgrade>
+			<level>2</level>
+			<health>61</health>
+			<skill id="inspire" x="7"/>
+			<skill id="barrier" x="7"/>
+			<skill id="pierce" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>63</health>
+			<skill id="inspire" x="7"/>
+			<skill id="barrier" x="8"/>
+			<skill id="pierce" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>64</health>
+			<skill id="inspire" x="7"/>
+			<skill id="barrier" x="8"/>
+			<skill id="pierce" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>66</health>
+			<skill id="inspire" x="8"/>
+			<skill id="barrier" x="8"/>
+			<skill id="pierce" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>68</health>
+			<skill id="inspire" x="8"/>
+			<skill id="barrier" x="9"/>
+			<skill id="pierce" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>69</health>
+			<skill id="inspire" x="8"/>
+			<skill id="barrier" x="9"/>
+			<skill id="pierce" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>71</health>
+			<attack>11</attack>
+			<skill id="inspire" x="9"/>
+			<skill id="barrier" x="9"/>
+			<skill id="pierce" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>73</health>
+			<skill id="inspire" x="9"/>
+			<skill id="barrier" x="10"/>
+			<skill id="pierce" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>74</health>
+			<skill id="inspire" x="9"/>
+			<skill id="barrier" x="10"/>
+			<skill id="pierce" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>76</health>
+			<skill id="inspire" x="9"/>
+			<skill id="barrier" x="10"/>
+			<skill id="pierce" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>78</health>
+			<skill id="inspire" x="10"/>
+			<skill id="barrier" x="11"/>
+			<skill id="pierce" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>79</health>
+			<skill id="inspire" x="10"/>
+			<skill id="barrier" x="11"/>
+			<skill id="pierce" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>81</health>
+			<skill id="inspire" x="11"/>
+			<skill id="barrier" x="11"/>
+			<skill id="pierce" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>83</health>
+			<skill id="inspire" x="11"/>
+			<skill id="barrier" x="12"/>
+			<skill id="pierce" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>84</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>86</health>
+			<skill id="inspire" x="12"/>
+			<skill id="barrier" x="12"/>
+			<skill id="pierce" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>88</health>
+			<skill id="inspire" x="12"/>
+			<skill id="barrier" x="13"/>
+			<skill id="pierce" x="15"/>
+		</upgrade>
+	</unit>
 </root>	

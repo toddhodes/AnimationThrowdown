@@ -20766,7 +20766,7 @@
 		<rarity>4</rarity>
 		<skill id="armored" x="5"/>
 		<skill id="heal" x="5"/>
-		<skill id="rallyall" x="4" y="music"/>
+		<skill id="rallyall" x="4" y="musical"/>
 		<type>1</type>
 		<trait>musical</trait>
 		<set>2</set>
@@ -20779,49 +20779,49 @@
 			<attack>13</attack>
 			<skill id="armored" x="5"/>
 			<skill id="heal" x="6"/>
-			<skill id="rallyall" x="4" y="music"/>
+			<skill id="rallyall" x="4" y="musical"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
 			<health>41</health>
 			<skill id="armored" x="5"/>
 			<skill id="heal" x="6"/>
-			<skill id="rallyall" x="5" y="music"/>
+			<skill id="rallyall" x="5" y="musical"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
 			<attack>14</attack>
 			<skill id="armored" x="6"/>
 			<skill id="heal" x="6"/>
-			<skill id="rallyall" x="5" y="music"/>
+			<skill id="rallyall" x="5" y="musical"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
 			<health>42</health>
 			<skill id="armored" x="6"/>
 			<skill id="heal" x="7"/>
-			<skill id="rallyall" x="5" y="music"/>
+			<skill id="rallyall" x="5" y="musical"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
 			<health>43</health>
 			<skill id="armored" x="6"/>
 			<skill id="heal" x="7"/>
-			<skill id="rallyall" x="6" y="music"/>
+			<skill id="rallyall" x="6" y="musical"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
 			<attack>15</attack>
 			<skill id="armored" x="7"/>
 			<skill id="heal" x="7"/>
-			<skill id="rallyall" x="6" y="music"/>
+			<skill id="rallyall" x="6" y="musical"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
 			<health>44</health>
 			<skill id="armored" x="7"/>
 			<skill id="heal" x="8"/>
-			<skill id="rallyall" x="6" y="music"/>
+			<skill id="rallyall" x="6" y="musical"/>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
@@ -20832,14 +20832,14 @@
 			<level>11</level>
 			<skill id="armored" x="8"/>
 			<skill id="heal" x="8"/>
-			<skill id="rallyall" x="7" y="music"/>
+			<skill id="rallyall" x="7" y="musical"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
 			<health>46</health>
 			<skill id="armored" x="8"/>
 			<skill id="heal" x="9"/>
-			<skill id="rallyall" x="7" y="music"/>
+			<skill id="rallyall" x="7" y="musical"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
@@ -20850,14 +20850,14 @@
 			<level>14</level>
 			<skill id="armored" x="9"/>
 			<skill id="heal" x="9"/>
-			<skill id="rallyall" x="8" y="music"/>
+			<skill id="rallyall" x="8" y="musical"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
 			<attack>18</attack>
 			<skill id="armored" x="9"/>
 			<skill id="heal" x="10"/>
-			<skill id="rallyall" x="8" y="music"/>
+			<skill id="rallyall" x="8" y="musical"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
@@ -20869,13 +20869,13 @@
 			<health>49</health>
 			<skill id="armored" x="9"/>
 			<skill id="heal" x="11"/>
-			<skill id="rallyall" x="8" y="music"/>
+			<skill id="rallyall" x="8" y="musical"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
 			<skill id="armored" x="10"/>
 			<skill id="heal" x="11"/>
-			<skill id="rallyall" x="9" y="music"/>
+			<skill id="rallyall" x="9" y="musical"/>
 		</upgrade>
 	</unit>
 	<!-- End Family Guy Input -->	
@@ -25067,7 +25067,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>music</trait>
+        <trait>musical</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.73</health_multiplier>
         <skill id='berserk'  p='30' v='8'/>
@@ -36838,6 +36838,7 @@
 	<name>Cutie Patooties</name>
 	<picture>bb_CutiePatooties</picture>
 	<asset_bundle>32</asset_bundle>
+	<linked_card_id>1300020</linked_card_id>
 	<attack>8</attack>
 	<health>46</health>
 	<rarity>4</rarity>
@@ -40947,7 +40948,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>music</trait>
+        <trait>musical</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
         <skill id='poison' p='30' v='14' />         
@@ -58456,7 +58457,7 @@
 			<rarity>1</rarity>
 			<set>1002</set>
 			<type>3</type>
-			<trait>music</trait>
+			<trait>musical</trait>
 			<attack_multiplier>0.71</attack_multiplier>
 			<health_multiplier>0.74</health_multiplier>
 			<skill id='enlarge' p='30' v='8'/>
@@ -92901,6 +92902,21 @@
         <skill id='shrapnel' p='30' v='9'  />
         <skill id='hijack' p='30' v='9' />
         <skill id='bunker' p='30' v='9' />
+    </unit> 
+	<unit>
+        <id>55251</id>
+        <name>Ramblin' Rodriguez</name>
+		<picture>fr_ramblinrodriguez</picture>
+        <asset_bundle>31</asset_bundle>
+        <rarity>1</rarity>
+        <set>1002</set>
+        <type>5</type>
+        <trait>musical</trait>
+        <attack_multiplier>0.72</attack_multiplier>
+        <health_multiplier>0.76</health_multiplier>
+        <skill id='weakenall' p='36' v='6'  />
+        <skill id='barrierall' p='30' v='6' />
+        <skill id='invigorate' p='30' v='13' />
     </unit> 
 <!-- END Futurama Combos -->
 
