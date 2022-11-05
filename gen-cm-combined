@@ -21,4 +21,4 @@ join -t '|' -o 2.2,2.1 -v 2 -1 2 -2 2 \
    | sed 's/^/0 |/' \
    | grep -v 'Mastery Stone'
 
-grep --colour=never 'Mastery Stone' Combos/ComboMasteryTokens
+grep --colour=never 'Mastery Token' Combos/ComboMasteryTokens
