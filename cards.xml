@@ -36725,6 +36725,7 @@
 	<skill id="rally" x="5"/>
 	<type>3</type>
 	<trait>musical</trait>
+	<release_time>1667239200</release_time>
 	<set>2</set>
 	<upgrade>
 		<level>2</level>
@@ -36847,6 +36848,7 @@
 	<skill id="berserk" x="3"/>
 	<type>3</type>
 	<trait>musical</trait>
+	<release_time>1667239200</release_time>
 	<set>3</set>
 	<upgrade>
 		<level>2</level>
@@ -58463,6 +58465,22 @@
 			<skill id='enlarge' p='30' v='8'/>
 			<skill id='healall' p='30' v='6' />
 			<skill id='bodyguard' p='30' v='9' />
+		</unit>
+		<unit>
+			<id>35252</id>
+			<name>Hormone-iums Tina</name>
+			<picture>bb_HormoniumsTina</picture>
+			<asset_bundle>32</asset_bundle>
+			<rarity>1</rarity>
+			<set>1002</set>
+			<type>3</type>
+			<trait>musical</trait>
+			<trait>hyper</trait>
+			<attack_multiplier>0.74</attack_multiplier>
+			<health_multiplier>0.73</health_multiplier>
+			<skill id='rallyall' p='50' v='7'/>
+			<skill id='strike' p='30' v='15' />
+			<skill id='armored' p='30' v='11' />
 		</unit>
 	<!-- End Bob's Burgers combos -->					
 	<!-- King of the Hill -->
@@ -89039,7 +89057,128 @@
 			<skill id="shrapnel" x="8"/>
 		</upgrade>
 	</unit>
-
+	<unit>
+		<id>50131</id>
+		<name>Leelu</name>
+		<picture>FR_Leelu</picture>
+		<asset_bundle>73</asset_bundle>
+		<linked_card_id>1500025</linked_card_id>
+		<attack>9</attack>
+		<health>43</health>
+		<rarity>4</rarity>
+		<skill id="rallyall" x="2"/>
+		<skill id="strike" x="4"/>
+		<skill id="pierce" x="7"/>
+		<type>5</type>
+		<trait>animal</trait>
+		<set>3</set>
+		<upgrade>
+			<level>2</level>
+			<health>44</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>45</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>46</health>
+			<skill id="rallyall" x="3"/>
+			<skill id="strike" x="4"/>
+			<skill id="pierce" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>47</health>
+			<skill id="rallyall" x="3"/>
+			<skill id="strike" x="4"/>
+			<skill id="pierce" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>11</attack>
+			<skill id="rallyall" x="3"/>
+			<skill id="strike" x="5"/>
+			<skill id="pierce" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>48</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>49</health>
+			<skill id="rallyall" x="4"/>
+			<skill id="strike" x="5"/>
+			<skill id="pierce" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>50</health>
+			<skill id="rallyall" x="4"/>
+			<skill id="strike" x="5"/>
+			<skill id="pierce" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>51</health>
+			<skill id="rallyall" x="4"/>
+			<skill id="strike" x="6"/>
+			<skill id="pierce" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<attack>12</attack>
+			<health>52</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>53</health>
+			<skill id="rallyall" x="5"/>
+			<skill id="strike" x="6"/>
+			<skill id="pierce" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<skill id="rallyall" x="5"/>
+			<skill id="strike" x="6"/>
+			<skill id="pierce" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>13</attack>
+			<skill id="rallyall" x="5"/>
+			<skill id="strike" x="7"/>
+			<skill id="pierce" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>54</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>55</health>
+			<skill id="rallyall" x="6"/>
+			<skill id="strike" x="7"/>
+			<skill id="pierce" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>56</health>
+			<skill id="rallyall" x="6"/>
+			<skill id="strike" x="7"/>
+			<skill id="pierce" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>57</health>
+			<skill id="rallyall" x="6"/>
+			<skill id="strike" x="8"/>
+			<skill id="pierce" x="11"/>
+		</upgrade>
+	</unit>
 
 	<!-- end futurama input -->
 	<!--  stop at id 54000 -->

@@ -7,10 +7,12 @@
 3 | Antique Robots
 3 | Arlen Men's Choir
 3 | Army Quagmire
+3 | Army Tank Zapp
 3 | Art of War
 3 | Arts and Crafts Bob
 3 | Ass-Kicker Hank
 3 | Assassin Bender
+3 | Assault Dolphin
 3 | Bacon Weight
 3 | Bad Tina
 3 | Badminton Roger
@@ -127,6 +129,7 @@
 3 | Fur Coat Lois
 3 | Future Rich Snot
 3 | Gaga Ball
+3 | Gambling Drunk
 3 | Garage Rock Chris
 3 | Garden Dance Bob
 3 | Garden Shovel Peggy
@@ -153,6 +156,7 @@
 3 | Honeybucket Student
 3 | Hot Cocoa Tina
 3 | Humplings
+3 | Hunky Killer Louise
 3 | Ice Cream Gene
 3 | Jacuzzi Drinks Hank
 3 | Jealous Bobby
@@ -185,9 +189,11 @@
 3 | Max Jets
 3 | Meatman Sculptor
 3 | Medicated Stewie
+3 | Meg Football Kickoff
 3 | Meg's Voodoo Doll
 3 | Michael Dangle-low
 3 | Military Tux Bill
+3 | Mind Switcher Farnsworth
 3 | Mission Doctor
 3 | More Anchovies
 3 | Motivational Poster
@@ -271,6 +277,7 @@
 3 | Softball Boomhauer
 3 | Softball Dale
 3 | Solo Party
+3 | Sower of Revenge
 3 | Space Honey
 3 | Space Pistol Fry
 3 | Sportsfan Joe
@@ -329,9 +336,7 @@
 2 | Action Delivery Force Zoidberg
 2 | Agent Kazak | 30
 2 | Alley Entertainment | 100
-2 | Archer Klaus
-2 | Army Tank Zapp | 100
-2 | Assault Dolphin | 75
+2 | Archer Klaus | 50
 2 | Bakaneko Fighter Louise
 2 | Balloon Sniper | 100
 2 | Baseball Bobby | 15
@@ -356,12 +361,14 @@
 2 | Catcher Luanne | 35
 2 | Celebeartions | 100
 2 | Censor Stan
+2 | Chamber of Understanding | 100
 2 | Charts and Graphs | 20
 2 | Cheerleader Peggy | 80
 2 | Chef Cat Binge | 5
 2 | Chicken Fight | 45
 2 | Chosen Brain Fry | 100
 2 | Chris Painting
+2 | Clarinet Stan
 2 | Claw Machine | 20
 2 | Clothes Made of Cash | 20
 2 | Cloud Painter | 100
@@ -371,6 +378,7 @@
 2 | Corporate Training | 35
 2 | Counting Klaus | 50
 2 | Country Club Steve | 85
+2 | Crime Addict Joe | 5
 2 | Dancing Peggy | 10
 2 | Date Wine Zoidberg | 100
 2 | Diamond Ring Lois | 100
@@ -397,7 +405,7 @@
 2 | Gallant Bender | 35
 2 | Game Machine Zoidberg | 35
 2 | Gamer Stan
-2 | Garbage Shot Linda | 60
+2 | Garbage Shot Linda | 85
 2 | Gatsby Brian | 30
 2 | Girl Next Door Stewie | 20
 2 | Glitter Spray | 10
@@ -421,10 +429,10 @@
 2 | Hottyz Bill | 40
 2 | Hottyz Luanne
 2 | House Hunting Tours | 35
-2 | Hunky Killer Louise | 70
 2 | I Like Beer | 20
 2 | I am Mona
 2 | Ira | 45
+2 | Island Lacrosse | 100
 2 | Jellybean Phone Klaus | 55
 2 | Joy of Painting | 40
 2 | Karaoke Zapp | 85
@@ -435,6 +443,7 @@
 2 | Klaus's Comic
 2 | Klaus's Fish Wife | 20
 2 | Klepto Bender | 30
+2 | Krieger's Clone Brothers | 60
 2 | Kuchi Kopi Sculptor | 5
 2 | Lab Student Meg | 100
 2 | Laser Razor
@@ -444,13 +453,11 @@
 2 | Louise Chatterteeth | 60
 2 | Marionette Chris | 100
 2 | Marionette Louise | 20
-2 | Meg Football Kickoff | 15
 2 | Meg Meggy Meg | 5
 2 | Meg Portrait | 100
 2 | Menstrual Cycle | 75
 2 | Merlot Klaus | 70
 2 | Mike Pulaski | 95
-2 | Mind Switcher Farnsworth | 100
 2 | Mocktrial Louise
 2 | Mount Toy Louise | 5
 2 | Mural Restorer | 100
@@ -461,12 +468,14 @@
 2 | Nun Linda | 30
 2 | One Art Please | 30
 2 | Opera Singer Leela | 60
+2 | Paddler Jeff
 2 | Paddlin' Peggy | 100
 2 | Paintball Boomhauer | 100
 2 | Painter Zoidberg | 20
 2 | Pan Flute Stewie | 70
 2 | Ping Pong Brian
 2 | Pirate Cannon Peter | 30
+2 | Placebo Effect | 5
 2 | Polling Peggy | 40
 2 | Poppler Addict Leela | 5
 2 | Positron Shooter Fry | 20
@@ -474,7 +483,7 @@
 2 | Principal Peter | 100
 2 | Private Brian | 100
 2 | Prof Comedy | 20
-2 | Professor of Emerald Laboratory | 65
+2 | Professor of Emerald Laboratory | 100
 2 | Professor-Bender Swap | 15
 2 | Prom Beer Joe | 85
 2 | Prom Luanne | 70
@@ -529,10 +538,11 @@
 2 | The Billdozer | 100
 2 | The Carnival With Rupert | 100
 2 | The Gender Bender | 65
-2 | Torch Bearer Hank | 40
+2 | Torch Bearer Hank | 80
+2 | Training Luanne | 15
 2 | Trash Can Drunk | 70
 2 | Tree | 65
-2 | Trippy Zoidberg | 60
+2 | Trippy Zoidberg | 100
 2 | Tuning Fork | 100
 2 | Two Butt Goat
 2 | Umbriel | 100
@@ -561,13 +571,13 @@
 1 | Artsy Tina | 5
 1 | Author Fry | 20
 1 | Baseball Dale | 35
-1 | Basketball Joe | 15
+1 | Basketball Joe | 80
 1 | Battle Axe Peggy | 5
 1 | Belcher Date Night | 115
 1 | Bender's Electric Eel | 125
 1 | Benderbrau | 75
 1 | Betsy | 125
-1 | Bobsled Hermes | 10
+1 | Bobsled Hermes | 45
 1 | Body Paint Date | 5
 1 | Boombox Teddy
 1 | Bruce the Goose | 25
@@ -575,17 +585,14 @@
 1 | Butcher Knife Jeff
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
-1 | Chamber of Understanding | 125
 1 | Chipmunk Mask Francine | 10
 1 | Chocolate Addict Zapp | 20
 1 | Chris's Favorite Chicken | 55
-1 | Clarinet Stan | 25
 1 | Congo Jack | 5
-1 | Conventional Turkey Gene | 55
+1 | Conventional Turkey Gene | 30
 1 | Cough Syrup Drunk | 50
 1 | Cowpoke | 125
 1 | Crayon Drawing | 125
-1 | Crime Addict Joe | 5
 1 | DJ Buttercup | 120
 1 | Dog Bone Stan | 5
 1 | Dog Lois | 90
@@ -599,7 +606,6 @@
 1 | Freezerdome Linda | 35
 1 | Frydo | 125
 1 | Frykowski | 85
-1 | Gambling Drunk | 95
 1 | Garden Shovel Bobby | 125
 1 | Gargoyle Hunter | 5
 1 | Gas Class | 25
@@ -616,7 +622,6 @@
 1 | Keyboard Joe | 120
 1 | Keyboardist Dale | 25
 1 | Kidney Killer | 25
-1 | Krieger's Clone Brothers | 55
 1 | Lady Bird | 65
 1 | Laser Tag Brian | 125
 1 | Laser Tag Quagmire | 125
@@ -624,7 +629,7 @@
 1 | Love Potion | 125
 1 | Magic Breath Strips | 20
 1 | Married Brian | 125
-1 | Master Robaire | 25
+1 | Master Robaire | 70
 1 | Medieval Hank | 5
 1 | Meg's Evil Monkey | 125
 1 | Meg's In Charge | 10
@@ -641,7 +646,7 @@
 1 | Poppler Jingle Fry | 20
 1 | Principal Louise | 25
 1 | Quicky Kiss-it | 55
-1 | RC Helicopter | 5
+1 | RC Helicopter | 75
 1 | Raleigh St. Augustine | 125
 1 | Ravenous Porcelain Babies | 25
 1 | Ready for Santa | 95
@@ -678,15 +683,18 @@
 1 | Tennis Francine | 15
 1 | Tina Tackle | 125
 1 | Toga Bill | 5
-1 | Torah Snot | 20
+1 | Torah Snot | 70
 1 | Treasure Hunter Peter | 15
 1 | Veteran Cotton | 5
 1 | Water Polo Steve | 5
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
+0 | Mastery Token | 325050
 0 | Zac Sawyer | 130
+0 | Treasure Hunter Lois | 130
 0 | Tranq Gun Steve | 130
 0 | Towel Manager Dale | 130
+0 | The Honeypot | 130
 0 | The Environmentalist | 130
 0 | Texting Addict Stan | 130
 0 | Sniper Zoidberg | 130
@@ -706,6 +714,7 @@
 0 | Maracas Peter | 130
 0 | Male Leela | 130
 0 | Krav Maga Dale | 130
+0 | Hot Tubbin Bobby | 130
 0 | Hot Cocoa Louise | 130
 0 | Home School Chris | 130
 0 | Fried Chick | 130
@@ -732,6 +741,9 @@
 0 | High Roller Stewie | 115
 0 | Furry Bullock | 115
 0 | Fire Stuntman | 115
+0 | BABOU!!!! | 115
+0 | The Butler | 110
+0 | Blernsball Fry | 110
 0 | Workout Klaus | 105
 0 | Skydiver Quagmire | 105
 0 | Santa Bender | 105
@@ -744,14 +756,17 @@
 0 | Rambo Lois | 95
 0 | Frank the Snake | 95
 0 | Were-Car | 85
+0 | Mitsuko Miyazumi | 85
 0 | Deer Daddy Steve | 85
+0 | Danger Zone | 85
 0 | Dance Party Bobby | 85
 0 | Spaceship Pilot | 80
+0 | Sniper Stewie | 80
 0 | More Forever | 80
 0 | Mathy Cathy | 80
 0 | Art Student | 80
-0 | The Honeypot | 75
 0 | Rich Dress Leela | 75
+0 | Pigley | 75
 0 | Martini Peggy | 75
 0 | History Test Chris | 75
 0 | Zinc Saucier | 70
@@ -760,8 +775,8 @@
 0 | Roach Coach Stan | 70
 0 | I Get What I Want | 70
 0 | Top of the Pecking Order | 65
+0 | Swiss Miss | 65
 0 | Paranoid Louise | 65
-0 | Island Lacrosse | 65
 0 | Cat Dragon | 65
 0 | Space Walk | 60
 0 | Solid Gold Tuxedo | 60
@@ -776,12 +791,11 @@
 0 | Oktoberfest Fry | 55
 0 | Luanne's 21st Birthday | 55
 0 | Galapagos Tortoise | 55
-0 | Danger Zone | 55
 0 | Steve Crossing the Alps | 50
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
-0 | BABOU!!!! | 50
 0 | Smoke Bomb! | 45
+0 | Ripped Bullock | 45
 0 | Rabbit Fight | 45
 0 | Football Stewie | 45
 0 | Young Hermes | 40
@@ -790,10 +804,12 @@
 0 | Pick Up Lines | 40
 0 | Perfectly Symmetrical Violence | 40
 0 | Modest Painting | 40
+0 | Laughing Gas Bob | 40
 0 | Firecracker Jeff | 40
 0 | Drunk Fry | 40
 0 | Drink Point-O Brian | 40
 0 | Dodgeball Meg | 40
+0 | Stuffed Alligator | 35
 0 | Party Board | 35
 0 | Painter Francine | 35
 0 | One Eyed Orphan | 35
@@ -807,11 +823,13 @@
 0 | Squirrel Suit Hayley | 30
 0 | Sled Armor Louise | 30
 0 | Show and Tell | 30
+0 | Shop Class Bobby | 30
 0 | Sharpshooter Bobby | 30
 0 | Sexy Cowardly Lion Stan | 30
 0 | Sex Ed Teacher | 30
 0 | Secret Beer Dale | 30
 0 | Roller Skate Peter | 30
+0 | Roller Derby Hayley | 30
 0 | Road Rage | 30
 0 | Rich Francine | 30
 0 | Pimp Peter | 30
@@ -852,17 +870,13 @@
 0 | Plops | 20
 0 | Perfect Husband | 20
 0 | Knitting Peter | 20
-0 | Stuffed Alligator | 15
 0 | Wrestler Peggy | 10
 0 | Wrestler Amy | 10
-0 | Sower of Revenge | 10
-0 | Sniper Stewie | 10
 0 | Secret Asian Man | 10
 0 | Scooty-Puff Jr | 10
 0 | Pirate Car Peter | 10
 0 | Nude Painting Bullock | 10
 0 | Model Builder Roger | 10
-0 | Mitsuko Miyazumi | 10
 0 | Knight Louise | 10
 0 | Junk Food Klaus | 10
 0 | Hurdles Bobby | 10
@@ -875,4 +889,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dark Arts Tina | 5
 0 | Bounty Hunter Roger | 5
-353150 | Mastery Stone
+325050 | Mastery Token
