@@ -3485,6 +3485,300 @@
 			<skill id="rallyall" x="12" y="rich"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>1100024</id>
+		<name>Room for Improv-Ment</name>
+		<picture>FG_RoomforImprov-ment</picture>
+		<asset_bundle>86</asset_bundle>
+		<item_name>Room for Improv-Ment Fragment</item_name>
+		<item_desc>Collect Room for Improv-Ment Fragments to craft and upgrade a Mythic Room for Improv-Ment card</item_desc>
+		<item_icon>inventory_upgrade_50_inventory</item_icon>
+		<item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<attack>15</attack>
+		<health>59</health>
+		<rarity>5</rarity>
+		<skill id="healall" x="6" y="artistic"/>
+		<skill id="barrier" x="8"/>
+		<skill id="rally" x="8"/>
+		<type>1</type>
+		<trait>artistic</trait>
+		<set>7002</set>
+		<upgrade>
+			<level>2</level>
+			<health>60</health>
+			<skill id="healall" x="6" y="artistic"/>
+			<skill id="barrier" x="8"/>
+			<skill id="rally" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>61</health>
+			<skill id="healall" x="6" y="artistic"/>
+			<skill id="barrier" x="9"/>
+			<skill id="rally" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>62</health>
+			<attack>16</attack>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>63</health>
+			<skill id="healall" x="6" y="artistic"/>
+			<skill id="barrier" x="10"/>
+			<skill id="rally" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>64</health>
+			<attack>17</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>65</health>
+			<skill id="healall" x="7" y="artistic"/>
+			<skill id="barrier" x="10"/>
+			<skill id="rally" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>67</health>
+			<skill id="healall" x="7" y="artistic"/>
+			<skill id="barrier" x="10"/>
+			<skill id="rally" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>68</health>
+			<attack>18</attack>
+			<skill id="healall" x="7" y="artistic"/>
+			<skill id="barrier" x="11"/>
+			<skill id="rally" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>69</health>
+			<skill id="healall" x="7" y="artistic"/>
+			<skill id="barrier" x="11"/>
+			<skill id="rally" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>70</health>
+			<skill id="healall" x="7" y="artistic"/>
+			<skill id="barrier" x="12"/>
+			<skill id="rally" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>71</health>
+			<skill id="healall" x="7" y="artistic"/>
+			<skill id="barrier" x="12"/>
+			<skill id="rally" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>72</health>
+			<attack>19</attack>
+			<skill id="healall" x="7" y="artistic"/>
+			<skill id="barrier" x="13"/>
+			<skill id="rally" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>73</health>
+			<skill id="healall" x="8" y="artistic"/>
+			<skill id="barrier" x="13"/>
+			<skill id="rally" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>75</health>
+			<skill id="healall" x="8" y="artistic"/>
+			<skill id="barrier" x="13"/>
+			<skill id="rally" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>76</health>
+			<skill id="healall" x="8" y="artistic"/>
+			<skill id="barrier" x="14"/>
+			<skill id="rally" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>77</health>
+			<attack>20</attack>
+			<skill id="healall" x="8" y="artistic"/>
+			<skill id="barrier" x="14"/>
+			<skill id="rally" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>78</health>
+			<skill id="healall" x="8" y="artistic"/>
+			<skill id="barrier" x="15"/>
+			<skill id="rally" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>79</health>
+			<attack>21</attack>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>80</health>
+			<skill id="healall" x="8" y="artistic"/>
+			<skill id="barrier" x="15"/>
+			<skill id="rally" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>82</health>
+			<skill id="healall" x="9" y="artistic"/>
+			<skill id="barrier" x="16"/>
+			<skill id="rally" x="16"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>1100025</id>
+		<picture>FG_Cleveland Brown</picture>
+		<name>Cleveland Brown</name>
+		<desc>I'm having a real nice time.</desc>
+		<character>fg_cleveland</character>
+		<asset_bundle>88</asset_bundle>
+		<item_desc>Collect Cleveland Brown to craft and upgrade a Mythic Cleveland Brown card</item_desc>
+		<item_icon>inventory_upgrade_50_inventory</item_icon>
+		<item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<attack>12</attack>
+		<health>61</health>
+		<rarity>5</rarity>
+		<skill id="counter" x="12"/>
+		<skill id="shrapnel" x="6"/>
+		<skill id="leech" x="15"/>
+		<type>1</type>
+		<set>7001</set>
+		<upgrade>
+			<level>2</level>
+			<health>62</health>
+			<skill id="counter" x="13"/>
+			<skill id="shrapnel" x="6"/>
+			<skill id="leech" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>63</health>
+			<skill id="counter" x="13"/>
+			<skill id="shrapnel" x="6"/>
+			<skill id="leech" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>64</health>
+			<skill id="counter" x="13"/>
+			<skill id="shrapnel" x="7"/>
+			<skill id="leech" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>66</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>67</health>
+			<skill id="counter" x="14"/>
+			<skill id="shrapnel" x="7"/>
+			<skill id="leech" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>68</health>
+			<skill id="counter" x="14"/>
+			<skill id="shrapnel" x="7"/>
+			<skill id="leech" x="17"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>70</health>
+			<skill id="counter" x="14"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="leech" x="17"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>71</health>
+			<skill id="counter" x="15"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="leech" x="17"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>72</health>
+			<attack>14</attack>
+			<skill id="counter" x="15"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="leech" x="18"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>73</health>
+			<skill id="counter" x="16"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="leech" x="18"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>75</health>
+			<skill id="counter" x="16"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="leech" x="19"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>76</health>
+			<skill id="counter" x="16"/>
+			<skill id="shrapnel" x="9"/>
+			<skill id="leech" x="19"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>77</health>
+			<skill id="counter" x="17"/>
+			<skill id="shrapnel" x="9"/>
+			<skill id="leech" x="19"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>79</health>
+			<skill id="counter" x="17"/>
+			<skill id="shrapnel" x="9"/>
+			<skill id="leech" x="20"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>80</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>81</health>
+			<skill id="counter" x="17"/>
+			<skill id="shrapnel" x="10"/>
+			<skill id="leech" x="20"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>83</health>
+			<skill id="counter" x="18"/>
+			<skill id="shrapnel" x="10"/>
+			<skill id="leech" x="21"/>
+		</upgrade>
+	</unit>
+	<!-- End Family Guy Mythic -->
 
 	<!-- AD American Dad Mythics -->
 	<unit>
@@ -6501,6 +6795,163 @@
 		<skill id="invigorate" x="16"/>
 		<skill id="rally" x="16"/>
 		<skill id="hijack" x="15"/>
+	</upgrade>
+</unit>
+<unit>
+	<id>1200021</id>
+	<name>Private Reserves</name>
+	<picture>AD_PrivateReserves</picture>
+	<asset_bundle>78</asset_bundle>
+	<item_name>Private Reserves Fragment</item_name>
+	<item_desc>Collect Private Reserves Fragments to craft and upgrade a Mythic Private Reserves card</item_desc>
+	<item_icon>inventory_upgrade_50_inventory</item_icon>
+	<item_bundle_id>19</item_bundle_id>
+	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<attack>13</attack>
+	<health>65</health>
+	<rarity>5</rarity>
+	<skill id="armored" x="8"/>
+	<skill id="burn" x="5"/>
+	<skill id="rally" x="8"/>
+	<type>2</type>
+	<trait>drunk</trait>
+	<set>7002</set>
+	<upgrade>
+		<level>2</level>
+		<health>66</health>
+		<skill id="armored" x="8"/>
+		<skill id="burn" x="5"/>
+		<skill id="rally" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>3</level>
+		<health>67</health>
+		<skill id="armored" x="9"/>
+		<skill id="burn" x="5"/>
+		<skill id="rally" x="9"/>
+	</upgrade>
+	<upgrade>
+		<level>4</level>
+		<health>68</health>
+		<attack>14</attack>
+	</upgrade>
+	<upgrade>
+		<level>5</level>
+		<health>69</health>
+		<skill id="armored" x="10"/>
+		<skill id="burn" x="5"/>
+		<skill id="rally" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>6</level>
+		<health>70</health>
+		<attack>15</attack>
+	</upgrade>
+	<upgrade>
+		<level>7</level>
+		<health>71</health>
+		<skill id="armored" x="10"/>
+		<skill id="burn" x="6"/>
+		<skill id="rally" x="10"/>
+	</upgrade>
+	<upgrade>
+		<level>8</level>
+		<health>73</health>
+		<skill id="armored" x="10"/>
+		<skill id="burn" x="6"/>
+		<skill id="rally" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>9</level>
+		<health>74</health>
+		<attack>16</attack>
+		<skill id="armored" x="11"/>
+		<skill id="burn" x="6"/>
+		<skill id="rally" x="11"/>
+	</upgrade>
+	<upgrade>
+		<level>10</level>
+		<health>75</health>
+		<skill id="armored" x="11"/>
+		<skill id="burn" x="6"/>
+		<skill id="rally" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>11</level>
+		<health>76</health>
+		<skill id="armored" x="12"/>
+		<skill id="burn" x="6"/>
+		<skill id="rally" x="12"/>
+	</upgrade>
+	<upgrade>
+		<level>12</level>
+		<health>77</health>
+		<skill id="armored" x="12"/>
+		<skill id="burn" x="6"/>
+		<skill id="rally" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>13</level>
+		<health>78</health>
+		<attack>17</attack>
+		<skill id="armored" x="13"/>
+		<skill id="burn" x="6"/>
+		<skill id="rally" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>14</level>
+		<health>79</health>
+		<skill id="armored" x="13"/>
+		<skill id="burn" x="7"/>
+		<skill id="rally" x="13"/>
+	</upgrade>
+	<upgrade>
+		<level>15</level>
+		<health>81</health>
+		<skill id="armored" x="13"/>
+		<skill id="burn" x="7"/>
+		<skill id="rally" x="14"/>
+	</upgrade>
+	<upgrade>
+		<level>16</level>
+		<health>82</health>
+		<skill id="armored" x="14"/>
+		<skill id="burn" x="7"/>
+		<skill id="rally" x="14"/>
+	</upgrade>
+	<upgrade>
+		<level>17</level>
+		<health>83</health>
+		<attack>18</attack>
+		<skill id="armored" x="14"/>
+		<skill id="burn" x="7"/>
+		<skill id="rally" x="15"/>
+	</upgrade>
+	<upgrade>
+		<level>18</level>
+		<health>84</health>
+		<skill id="armored" x="15"/>
+		<skill id="burn" x="7"/>
+		<skill id="rally" x="15"/>
+	</upgrade>
+	<upgrade>
+		<level>19</level>
+		<health>85</health>
+		<attack>19</attack>
+	</upgrade>
+	<upgrade>
+		<level>20</level>
+		<health>86</health>
+		<skill id="armored" x="15"/>
+		<skill id="burn" x="7"/>
+		<skill id="rally" x="16"/>
+	</upgrade>
+	<upgrade>
+		<level>21</level>
+		<health>88</health>
+		<skill id="armored" x="16"/>
+		<skill id="burn" x="8"/>
+		<skill id="rally" x="16"/>
 	</upgrade>
 </unit>
 <!--End American Dad Mythic -->
@@ -11834,7 +12285,7 @@
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
 		<attack>13</attack>
-		<health>51</health>
+		<health>57</health>
 		<rarity>5</rarity>
 		<skill id="armored" x="8"/>
 		<skill id="burn" x="6"/>
@@ -11843,53 +12294,50 @@
 		<set>7001</set>
 		<upgrade>
 			<level>2</level>
-			<health>52</health>
+			<health>58</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>53</health>
 			<skill id="armored" x="9"/>
 			<skill id="burn" x="6"/>
 			<skill id="strike" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>55</health>
+			<health>59</health>
 			<skill id="armored" x="9"/>
 			<skill id="burn" x="7"/>
 			<skill id="strike" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>56</health>
+			<health>60</health>
 			<skill id="armored" x="9"/>
 			<skill id="burn" x="7"/>
 			<skill id="strike" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>58</health>
+			<health>61</health>
 			<skill id="armored" x="10"/>
 			<skill id="burn" x="7"/>
 			<skill id="strike" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<health>59</health>
 			<skill id="armored" x="10"/>
 			<skill id="burn" x="8"/>
 			<skill id="strike" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>60</health>
+			<health>62</health>
 			<skill id="armored" x="10"/>
 			<skill id="burn" x="8"/>
 			<skill id="strike" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>62</health>
 			<skill id="armored" x="11"/>
 			<skill id="burn" x="8"/>
 			<skill id="strike" x="13"/>
