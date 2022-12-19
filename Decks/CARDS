@@ -33,11 +33,10 @@
    5 L Action Sequence: 6**
    1 L Adrenaline Steve: 1
    3 L Adrenaline Steve: 6**
-   1 L Alamo ID: 2*
-   9 L Alamo ID: 6**
    1 L Alamo Merch: 1**
    8 L Alamo Merch: 6**
    9 L Alien Bagpipes: 6**
+   1 L Alien Squish Toy: 1
    1 L Alien Squish Toy: 2*
    6 L Alien Squish Toy: 6**
    6 L Alpha House: 6**
@@ -86,6 +85,9 @@
    8 L Bandit: 6**
    1 L Barbados Slim: 2*
    1 L Barbados Slim: 6**
+   1 L Barfest: 1
+   1 L Barfest: 6*
+   1 L Barfest: 6**
    9 L Barry's Meds: 6**
    6 L Baseball Beers: 6**
    5 L Baseball Chris: 6**
@@ -141,8 +143,7 @@
    1 L Bob: 6
    1 L Bob: 6*
   13 L Bob: 6**
-   1 L Bobby: 1
-   1 L Bobby: 2*
+   1 L Bobby: 1**
   15 L Bobby: 6**
    1 L Bobsled Hermes: 1
    1 L Body Builder Stan: 2*
@@ -185,7 +186,7 @@
    1 L Bruce the Goose: 1
    1 L Bruce the Goose: 2*
    2 L Buff Fry: 6**
-   1 L Bullock: 6
+   1 L Bullock: 6*
    9 L Bullock: 6**
    1 L Burger Addict Teddy: 1
    1 L Burger Hermes: 6
@@ -274,8 +275,7 @@
    1 L Conventional Turkey Gene: 6**
    1 L Costume Construction: 1**
    8 L Costume Construction: 6**
-   1 L Cotton: 6
-   6 L Cotton: 6*
+   7 L Cotton: 6*
    1 L Cotton: 6**
    1 L Counting Klaus: 2*
   13 L Country Club Stan: 6**
@@ -296,7 +296,8 @@
   10 L Cyclist Jimmy Jr.: 6**
    1 L DJ Elev8: 1
    8 L DJ Elev8: 6**
-  10 L Dale: 6**
+   1 L Dale: 2*
+  13 L Dale: 6**
    1 L Dancing Cans: 6**
    1 L Dark Arts Tina: 1
    1 L Dating Game Steve: 6*
@@ -338,6 +339,7 @@
    1 L Dr. Tate: 1
    1 L Dr. Tate: 2*
    2 L Dr. Tate: 6**
+   1 L Dr. Zoidberg: 1
   14 L Dr. Zoidberg: 6**
    1 L Dream Guitar: 6**
    2 L Dreamland Band: 6**
@@ -567,7 +569,6 @@
    1 L Jeff: 1**
    1 L Jeff: 6
   16 L Jeff: 6**
-   1 L Jelly Bean Schnapps: 1
    7 L Jelly Bean Schnapps: 6**
    1 L Jellybean Phone Klaus: 1
    1 L Jellybean Phone Klaus: 6**
@@ -639,6 +640,7 @@
    8 L Learning to Drive: 6**
    1 L Leela: 2*
   11 L Leela: 6**
+   1 L Leelu: 1
    1 L Leelu: 2*
    2 L Leelu: 6**
    1 L Lenore the Iguana: 1
@@ -706,8 +708,7 @@
    8 L Mexican Drug Dealer: 6**
    1 L Mexican Masks: 1
    1 L Mexican Masks: 6*
-   1 L Mexican Police: 2*
-   7 L Mexican Police: 6**
+   8 L Mexican Police: 6**
    1 L Michael Dangle-low: 2*
   10 L Michael Dangle-low: 6**
    3 L Michael Savage: 6**
@@ -831,6 +832,7 @@
   20 L Peter with a Knife: 6**
    9 L Peter's Drawing: 6**
    1 L Peter: 1
+   1 L Peter: 2*
   13 L Peter: 6**
    9 L Pewterschmidt Mansion: 6**
   11 L PhD Amy: 6**
@@ -877,7 +879,6 @@
    1 L Princess Little Piddles: 2*
   11 L Princess Little Piddles: 6**
    2 L Principal Peter: 6**
-   4 L Principal Shepard: 6**
    1 L Private Reserves: 6**
    8 L Pro-Pain!: 6**
    1 L Prof Comedy: 1
@@ -900,6 +901,7 @@
    3 L QB Quagmire: 6**
   10 L Quagmire: 6**
    9 L Quahog College: 6**
+   1 L Quahog Community College: 1
    1 L Quahog Community College: 2*
    3 L Quahog Community College: 6**
    9 L Quahog Martial Arts Academy: 6**
@@ -939,9 +941,11 @@
   11 L Roger's Closet: 6**
    9 L Roger's Sexy Shorts: 6**
    1 L Roger: 1
+   1 L Roger: 1**
   13 L Roger: 6**
    6 L Roller Disco Courtney: 6**
   13 L Roller Skating Ballad Gene: 6**
+   1 L Room For Improv-ment: 1
    1 L Royal Crown: 1
    3 L Royal Crown: 6**
    8 L Rupert Recalls: 6**
@@ -970,7 +974,8 @@
    1 L Sewer Surfer Bender: 6**
    9 L Sewer Surfer Fry: 6**
    1 L Sexy Dance Fighting: 6**
-   4 L Shaken Not Stirred: 6**
+   1 L Shaken Not Stirred: 1
+   9 L Shaken Not Stirred: 6**
    9 L Shakespeare Calculon: 6**
    8 L Sheldon: 6**
    1 L Sherlock Zoidberg: 1
@@ -1001,6 +1006,7 @@
    3 L Snake Scarf Bob: 6**
    1 L Sneak Tackle Hank: 1
    9 L Snot and Dreidal: 6**
+   1 L Snot: 1
   14 L Snot: 6**
    4 L Soda Celebration: 6**
   12 L Softball Dale: 6**
@@ -1012,6 +1018,7 @@
    1 L Sower of Revenge: 2*
   13 L Sower of Revenge: 6**
    2 L Space Pistol Fry: 6**
+   1 L Space Sewer Surfer: 1
    1 L Space Sewer Surfer: 2*
    3 L Space Sewer Surfer: 6**
    1 L Space Suit: 2*
@@ -1020,6 +1027,7 @@
    1 L Spirit: 1
    1 L Spirit: 2*
    4 L Spirit: 6**
+   2 L Spitting Out Beer: 6**
    1 L Spitz: 1
    4 L Spitz: 6**
    9 L SportsBot 5000: 6**
@@ -1038,8 +1046,7 @@
   11 L Steak Cows: 6**
    9 L Sterling House: 6**
    1 L Steve Bucks: 1
-   1 L Steve Bucks: 2*
-   2 L Steve Bucks: 6**
+   3 L Steve Bucks: 6**
    1 L Steve Smith: 1
   10 L Steve Smith: 6**
    1 L Stewie's Tricycle: 1
@@ -1110,8 +1117,7 @@
    1 L Tina: 2*
   15 L Tina: 6**
    1 L Tinfoil: 1
-   1 L Tinfoil: 2*
-   4 L Tinfoil: 6**
+   5 L Tinfoil: 6**
    9 L Toad Licking: 6**
    5 L Tom Landry Baseball Team: 6**
    9 L Tom Landry Middle School: 6**
@@ -1151,8 +1157,11 @@
    9 L Walking Man Exhibit: 6**
    1 L Walkman Boomhauer: 1
    2 L Walkman Boomhauer: 6**
-   1 L War Horse: 1
+   1 L War Horse: 2*
    9 L War Horse: 6**
+   1 L Warm Chardonnay: 1
+   1 L Warm Chardonnay: 2*
+   2 L Warm Chardonnay: 6**
    9 L Wedding Dress: 6**
    1 L Wedding Luanne: 1
    1 L Wedding Luanne: 6**
@@ -1219,6 +1228,7 @@
    1 M Child-sized Beers: 6
    1 M Chris: 7**
    1 M Christmas Cigar Bomb: 1*
+   1 M Cleveland Brown: 4
    1 M Click Addiction: 2*
    1 M Clone Fight: 7
    1 M Cotton: 3*
@@ -1275,6 +1285,7 @@
    1 M Peter's Drawing: 6
    1 M Peter: 7**
    1 M Poker Winnings: 5
+   1 M Private Reserves: 1
    1 M Professor Farnsworth: 7**
    1 M Prosthetic Slap: 1*
    1 M Quagmire: 7**
