@@ -37,6 +37,7 @@
 5 | Body Builder Stan
 5 | Bong Rips Francine
 5 | Boob Tube
+5 | Borthday Bash
 5 | Boxing Luanne
 5 | Boy Witch Steve
 5 | Brainwashed Hayley
@@ -250,6 +251,7 @@
 5 | Prince Charming Peter
 5 | Prince Faisal
 5 | Princess Little Piddles
+5 | Prof Comedy
 5 | Psych Meds
 5 | QB Quagmire
 5 | Rabid Dale
@@ -332,6 +334,7 @@
 5 | Whiskey Bartender
 5 | Wild Brian
 5 | Wild Woman Jeff
+5 | Wine Tasting Linda
 5 | Wingnut Amy
 5 | Wingnut Leela
 5 | Wizard Greyfarn
@@ -339,16 +342,14 @@
 5 | Wrestler Stan
 5 | Zapp Figurines
 5 | Zombie Jimmy Jr.
-4 | Agent Kazak | 15
+4 | Agent Kazak | 30
 4 | Little King Trashmouth | 20
 4 | Merlot Klaus | 10
 4 | Shaken Not Stirred | 35
 3 | Beer Jeff | 5
-3 | Borthday Bash | 5
 3 | Captain Bender | 25
 3 | Drunk Francine | 5
 3 | Remote Cars Circuit Bob | 5
-3 | Wine Tasting Linda | 75
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
 2 | Alley Entertainment | 100
@@ -439,7 +440,6 @@
 2 | Horse Whisperer Joe | 30
 2 | Horseback Rider Hank
 2 | Hose to the Head
-2 | Hot Cocoa Gene | 25
 2 | Hottyz Bill | 40
 2 | Hottyz Luanne
 2 | House Hunting Tours | 35
@@ -447,7 +447,6 @@
 2 | I am Mona
 2 | Ira | 45
 2 | Jellybean Phone Klaus | 55
-2 | Joy of Painting | 40
 2 | Karaoke Zapp | 85
 2 | Karate Stewie
 2 | Kawaii Klaus | 100
@@ -455,7 +454,6 @@
 2 | Klaus's Comic
 2 | Klaus's Fish Wife | 20
 2 | Klepto Bender | 30
-2 | Krieger's Clone Brothers | 85
 2 | Kuchi Kopi Sculptor | 5
 2 | Lab Student Meg | 100
 2 | Laser Razor
@@ -468,7 +466,6 @@
 2 | Meg Meggy Meg | 5
 2 | Meg Portrait | 100
 2 | Menstrual Cycle | 75
-2 | Mike Pulaski | 95
 2 | Mocktrial Louise
 2 | Mount Toy Louise | 5
 2 | Mural Restorer | 100
@@ -477,7 +474,7 @@
 2 | Nasal Spray Peter | 100
 2 | Never Have I Ever | 100
 2 | Nun Linda | 30
-2 | One Art Please | 30
+2 | One Art Please | 5
 2 | Opera Singer Leela | 60
 2 | Paddler Jeff
 2 | Paddlin' Peggy | 100
@@ -486,14 +483,13 @@
 2 | Pan Flute Stewie | 70
 2 | Ping Pong Brian
 2 | Pirate Cannon Peter | 30
-2 | Placebo Effect | 5
+2 | Placebo Effect | 15
 2 | Polling Peggy | 40
 2 | Poppler Addict Leela | 5
 2 | Positron Shooter Fry | 20
 2 | Pot Brownies Jeff | 100
 2 | Principal Peter | 100
 2 | Private Brian | 100
-2 | Prof Comedy | 20
 2 | Professor of Emerald Laboratory | 100
 2 | Professor-Bender Swap | 15
 2 | Prom Beer Joe | 85
@@ -770,28 +766,28 @@
 0 | Bondage Klaus | 100
 0 | Rambo Lois | 95
 0 | Frank the Snake | 95
+0 | Danger Zone | 95
 0 | Painter Tina | 90
-0 | Fort Kickass | 90
 0 | Were-Car | 85
 0 | Deer Daddy Steve | 85
-0 | Danger Zone | 85
 0 | Dance Party Bobby | 85
 0 | Spaceship Pilot | 80
 0 | Sniper Stewie | 80
 0 | More Forever | 80
 0 | Mathy Cathy | 80
+0 | Lobster Tub | 80
 0 | Art Student | 80
 0 | Rich Dress Leela | 75
 0 | Martini Peggy | 75
 0 | History Test Chris | 75
 0 | Zinc Saucier | 70
 0 | Topped Off Wine | 70
+0 | Swiss Miss | 70
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
 0 | I Get What I Want | 70
 0 | Born Fighter | 70
 0 | Top of the Pecking Order | 65
-0 | Swiss Miss | 65
 0 | Paranoid Louise | 65
 0 | Cat Dragon | 65
 0 | Space Walk | 60
@@ -810,6 +806,7 @@
 0 | Steve Crossing the Alps | 50
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
+0 | Top of the Morning | 45
 0 | Ripped Bullock | 45
 0 | Rabbit Fight | 45
 0 | Football Stewie | 45
@@ -901,6 +898,7 @@
 0 | Junk Food Klaus | 10
 0 | Hurdles Bobby | 10
 0 | Espresso Tina | 10
+0 | Dr. C | 10
 0 | Cyclist Peggy | 10
 0 | Cuddly Little Pet Slinky | 10
 0 | Cheerleader Lois | 10
@@ -909,4 +907,5 @@
 0 | Trippy Farnsworth | 5
 0 | Just Mow a Lawn | 5
 0 | Bounty Hunter Roger | 5
-245350 | Mastery Stone
+0 | Board Game Cleveland | 5
+225900 | Mastery Stone
