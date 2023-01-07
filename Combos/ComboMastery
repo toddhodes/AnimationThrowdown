@@ -343,12 +343,25 @@
 5 | Zapp Figurines
 5 | Zombie Jimmy Jr.
 4 | Agent Kazak | 30
+4 | Krieger's Clone Brothers | 25
 4 | Little King Trashmouth | 20
 4 | Merlot Klaus | 10
 4 | Shaken Not Stirred | 35
+4 | Upgraded Hermes | 5
 3 | Beer Jeff | 5
 3 | Captain Bender | 25
+3 | Down to the Bone | 30
+3 | Draw Me Tina | 45
 3 | Drunk Francine | 5
+3 | Fort Kickass | 35
+3 | Fry's Macaroni Art | 25
+3 | Game Machine Zoidberg | 10
+3 | Hank Hill, Running Back | 35
+3 | Hot Cocoa Gene | 25
+3 | Joy of Painting | 15
+3 | Magic Breath Strips | 50
+3 | Mike Pulaski | 70
+3 | One Art Please | 5
 3 | Remote Cars Circuit Bob | 5
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
@@ -401,9 +414,7 @@
 2 | Doghouse Bobby | 75
 2 | Dolphin Rider Peter | 15
 2 | Doomsday Surplus | 45
-2 | Down to the Bone | 55
 2 | Draw Me Gene
-2 | Draw Me Tina | 70
 2 | Duke
 2 | Dummy Fight | 20
 2 | Eugenia Chatterteeth | 30
@@ -416,9 +427,7 @@
 2 | Fashion Fight | 30
 2 | Finch Hermes | 100
 2 | Flamethrower Stewie | 20
-2 | Fry's Macaroni Art | 50
 2 | Gallant Bender | 35
-2 | Game Machine Zoidberg | 35
 2 | Gamer Stan
 2 | Garbage Shot Linda | 85
 2 | Gatsby Brian | 30
@@ -431,7 +440,6 @@
 2 | Greaser Stan | 95
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
-2 | Hank Hill, Running Back | 95
 2 | High School Hank | 20
 2 | Home School Peter | 100
 2 | Homecoming King Chris | 100
@@ -460,7 +468,6 @@
 2 | Leela Balloon Art
 2 | Life Drawing Hayley | 10
 2 | Louise Chatterteeth | 60
-2 | Magic Breath Strips | 75
 2 | Marionette Chris | 100
 2 | Marionette Louise | 20
 2 | Meg Meggy Meg | 5
@@ -474,14 +481,13 @@
 2 | Nasal Spray Peter | 100
 2 | Never Have I Ever | 100
 2 | Nun Linda | 30
-2 | One Art Please | 5
 2 | Opera Singer Leela | 60
 2 | Paddler Jeff
 2 | Paddlin' Peggy | 100
 2 | Paintball Boomhauer | 100
 2 | Painter Zoidberg | 20
 2 | Pan Flute Stewie | 70
-2 | Ping Pong Brian
+2 | Ping Pong Brian | 60
 2 | Pirate Cannon Peter | 30
 2 | Placebo Effect | 15
 2 | Polling Peggy | 40
@@ -550,7 +556,6 @@
 2 | Tuning Fork | 100
 2 | Two Butt Goat
 2 | Umbriel | 100
-2 | Upgraded Hermes | 55
 2 | Vengeance Quagmire | 40
 2 | Victorian Knife Lois | 100
 2 | Victory Dance | 40
@@ -566,9 +571,11 @@
 2 | Yacht Dreams
 2 | Zoidberg vs Bot | 10
 1 | ABC Quagmire | 45
+1 | Abstract Jeff | 20
 1 | Alcohol Bath | 95
 1 | Amy's Talking Tattoo | 125
 1 | Anally Defaced | 125
+1 | Ancient Cave Writing | 125
 1 | Anger Management Class | 125
 1 | Appetizer Addict Brian | 95
 1 | Artsy Tina | 5
@@ -589,7 +596,7 @@
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
 1 | Chipmunk Mask Francine | 10
-1 | Chocolate Addict Zapp | 20
+1 | Chocolate Addict Zapp | 90
 1 | Chris's Favorite Chicken | 55
 1 | Congo Jack | 5
 1 | Cough Syrup Drunk | 50
@@ -675,7 +682,7 @@
 1 | Song and Dance Stewie | 75
 1 | Space Queen | 125
 1 | Spin Out Louise | 125
-1 | Spirit Bird | 115
+1 | Spirit Bird | 125
 1 | Steak Addict Bobby | 60
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
@@ -741,7 +748,6 @@
 0 | Beer Funnel Peter | 130
 0 | Beefsquatch | 130
 0 | Armadillo Boomhauer | 130
-0 | Ancient Cave Writing | 130
 0 | Butt Closet | 125
 0 | Too High to Drive | 120
 0 | Smoke Bomb! | 120
@@ -768,6 +774,7 @@
 0 | Frank the Snake | 95
 0 | Danger Zone | 95
 0 | Painter Tina | 90
+0 | Dodgeball Louise | 90
 0 | Were-Car | 85
 0 | Deer Daddy Steve | 85
 0 | Dance Party Bobby | 85
@@ -864,7 +871,6 @@
 0 | El Presidente | 30
 0 | Drunk Leela | 30
 0 | Drunk Hermes | 30
-0 | Dodgeball Louise | 30
 0 | Credit Card Joe | 30
 0 | Cinderella Lois | 30
 0 | Christian Rock | 30
@@ -879,7 +885,6 @@
 0 | Soccer Chris | 25
 0 | King Roger | 25
 0 | Delivery Marmoset | 25
-0 | Abstract Jeff | 25
 0 | Tentacle Pope | 20
 0 | Sombrero Cotton | 20
 0 | Sister Peter | 20
@@ -887,6 +892,8 @@
 0 | Perfect Husband | 20
 0 | Knitting Peter | 20
 0 | Green Russians | 20
+0 | Paintball Bill | 15
+0 | Bayonet Cotton | 15
 0 | Wrestler Peggy | 10
 0 | Wrestler Amy | 10
 0 | Secret Asian Man | 10
@@ -903,9 +910,11 @@
 0 | Cuddly Little Pet Slinky | 10
 0 | Cheerleader Lois | 10
 0 | Butt Slapper Bobby | 10
-0 | Bayonet Cotton | 10
+0 | Beer Decision Bill | 10
 0 | Trippy Farnsworth | 5
 0 | Just Mow a Lawn | 5
+0 | Jentleman Jessie's | 5
 0 | Bounty Hunter Roger | 5
 0 | Board Game Cleveland | 5
-225900 | Mastery Stone
+0 | Accordian Bill | 5
+214350 | Mastery Stone

@@ -97332,7 +97332,7 @@
 		<health>9</health>
 		<rarity>2</rarity>
 		<skill id="rally" x="1"/>
-		<skill id="weakenall"/>
+		<!-- <skill id="weakenall"/>  REMOVE SKILL WRONG DISPLAY -->
 		<type>7</type>
 		<trait>toy</trait>
 		<set>2</set>
