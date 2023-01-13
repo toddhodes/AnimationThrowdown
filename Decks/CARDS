@@ -55,8 +55,7 @@
    8 L Ark Sketch: 6**
    1 L Arlen YMCA: 2*
    7 L Arlen YMCA: 6**
-   2 L Armed Booby Traps: 1**
-   2 L Armed Booby Traps: 6**
+   4 L Armed Booby Traps: 6**
    1 L Army Tank Zapp: 2*
    1 L Army Tank Zapp: 6**
    1 L Arts and Crafts Bob: 1
@@ -103,6 +102,7 @@
    3 L Bender's Clowns: 6**
    1 L Bender's Ducklings: 1
   15 L Bender's Ducklings: 6**
+   1 L Bender: 1
   16 L Bender: 6**
    1 L BenderIsGreat34: 1
    1 L BenderIsGreat34: 2*
@@ -207,6 +207,7 @@
    3 L Capoeira Reginald: 6**
    1 L Captain Bender: 2*
    2 L Captain Bender: 6**
+   8 L Cardboard Boat Tina: 6**
    1 L Cardboard Rowing Boats: 2*
    2 L Cardboard Rowing Boats: 6**
    3 L Cartel Klaus: 6**
@@ -216,8 +217,8 @@
    7 L Cat Guards: 6**
    2 L Cat Launcher: 6**
    8 L Cat with Gun: 6**
-   1 L Ceramics Gene: 2*
-  17 L Ceramics Gene: 6**
+   1 L Ceramics Gene: 6*
+  19 L Ceramics Gene: 6**
    1 L Cham-Pag-En Zapp: 1
    8 L Cham-Pag-En Zapp: 6**
    9 L Champagne Toast Fry: 6**
@@ -226,7 +227,7 @@
    1 L Chicken Fight: 1
    1 L Chicken Fight: 2*
    2 L Chicken Fight: 6**
-   1 L Child-sized Beers: 1
+   1 L Child-sized Beers: 2*
    6 L Child-sized Beers: 6**
    1 L Children's Author: 1
    1 L Children's Author: 2*
@@ -273,8 +274,7 @@
    4 L Contact High Stewie: 6**
    1 L Conventional Turkey Gene: 1
    1 L Conventional Turkey Gene: 6**
-   1 L Costume Construction: 1**
-   8 L Costume Construction: 6**
+   9 L Costume Construction: 6**
    1 L Cotton: 1
    7 L Cotton: 6*
    1 L Cotton: 6**
@@ -300,6 +300,8 @@
    8 L DJ Elev8: 6**
    1 L Dale: 2*
   13 L Dale: 6**
+   1 L Dallas Museum of Modern Art: 2*
+   4 L Dallas Museum of Modern Art: 6**
    1 L Dancing Cans: 6**
    1 L Dark Arts Tina: 1
    1 L Dating Game Steve: 6*
@@ -357,7 +359,8 @@
    5 L Equestranaut Costume: 6**
    1 L Essay Jeff: 2*
    2 L Essay Jeff: 6**
-   1 L Eugene Belcher: 1
+   2 L Eugene Belcher: 1
+   4 L Eugene Belcher: 1**
   13 L Eugene Belcher: 6**
    2 L Eugenia Chatterteeth: 6**
    6 L Evil Monkey: 6**
@@ -469,7 +472,7 @@
   14 L Hank Hill: 6**
    3 L Hatchet Boomhauer: 6**
    1 L Hayley Potter: 6**
-   2 L Hayley: 6*
+   4 L Hayley: 6*
    9 L Hayley: 6**
   10 L Headmistress Mahoney: 6**
    5 L Heat Packing Priest: 6**
@@ -733,6 +736,7 @@
    1 L Museum of Really Modern Art: 2*
    6 L Museum of Really Modern Art: 6**
    3 L Music Teacher Lois: 6**
+   1 L Music Video Stewie: 1
    1 L Music Video Stewie: 2*
    7 L Music Video Stewie: 6**
    1 L Musical Linda: 1
@@ -880,6 +884,8 @@
    1 L Prosthetic Slap: 2*
    2 L Prosthetic Slap: 6**
    1 L Puberty Pirate: 6**
+   1 L Public Art: 2*
+   5 L Public Art: 6**
    5 L Purity Dads: 6**
    9 L Push Ups: 6**
    1 L QB Quagmire: 1
@@ -1089,6 +1095,9 @@
    9 L Theater: 6**
    8 L Thunder Cocktails: 6**
    2 L Time for Hard Liquor: 6**
+   1 L Tina: 1
+   1 L Tina: 1*
+   8 L Tina: 1**
   17 L Tina: 6**
    1 L Tinfoil: 1
    5 L Tinfoil: 6**
@@ -1203,10 +1212,10 @@
    1 M Child-sized Beers: 6
    1 M Chris: 7**
    1 M Christmas Cigar Bomb: 1*
-   1 M Cleveland Brown: 6*
+   1 M Cleveland Brown: 1**
    1 M Click Addiction: 2*
    1 M Clone Fight: 7
-   1 M Cotton: 6*
+   1 M Cotton: 1**
    1 M Cuddles: 6
    1 M Cutie Patooties: 7
    1 M Dale: 7**
@@ -1230,7 +1239,7 @@
    1 M Hermes: 7**
    1 M Hooked On A Feline: 4
    1 M Hypnotoad: 5*
-   1 M Jeff: 5**
+   1 M Jeff: 7**
    1 M Jimmy Jr.: 7**
    1 M Joe Swanson: 7**
    1 M Karaoke Principal: 2*
@@ -1241,7 +1250,7 @@
    1 M Lana: 7**
    1 M Leela: 7**
    1 M Leelu: 7
-   1 M Linda Belcher: 6**
+   1 M Linda Belcher: 7**
    1 M Lois: 7**
    1 M Louise: 7**
    1 M Luanne: 7**
@@ -1260,7 +1269,7 @@
    1 M Peter's Drawing: 6
    1 M Peter: 7**
    1 M Poker Winnings: 5
-   1 M Private Reserves: 7
+   1 M Private Reserves: 2*
    1 M Professor Farnsworth: 7**
    1 M Prosthetic Slap: 1*
    1 M Quagmire: 7**
