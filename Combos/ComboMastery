@@ -48,6 +48,7 @@
 5 | Butt Fever
 5 | CIA Student
 5 | Cadet Hill
+5 | Cardboard Boat Tina
 5 | Cartel Klaus
 5 | Cat Fight Hayley
 5 | Ceramics Gene
@@ -174,6 +175,7 @@
 5 | Katz
 5 | Kiss and Clarinet
 5 | Knife Fight Stewie
+5 | Krieger's Clone Brothers
 5 | Laser Gun Stewie
 5 | Laser Tag Joe
 5 | Laser Tag Stan
@@ -226,6 +228,7 @@
 5 | Organ Hermes
 5 | PTA Treasurer Linda
 5 | Pachinko Amy
+5 | Paintball Boomhauer
 5 | Paintball Dale
 5 | Paintball Hank
 5 | Painting Class Joe
@@ -343,18 +346,19 @@
 5 | Zapp Figurines
 5 | Zombie Jimmy Jr.
 4 | Agent Kazak | 30
-4 | Cardboard Boat Tina
+4 | Glitter Spray | 10
 4 | Hank Hill, Running Back | 35
-4 | Krieger's Clone Brothers | 25
 4 | Little King Trashmouth | 20
 4 | Merlot Klaus | 10
 4 | Shaken Not Stirred | 35
 4 | Upgraded Hermes | 5
 3 | Beer Jeff | 5
+3 | Bounty Hunter Lana | 75
 3 | Captain Bender | 25
-3 | Down to the Bone | 30
-3 | Draw Me Tina | 45
+3 | Down to the Bone | 75
+3 | Draw Me Tina | 10
 3 | Drunk Francine | 5
+3 | Firecracker Jeff | 15
 3 | Fort Kickass | 35
 3 | Fry's Macaroni Art | 25
 3 | Game Machine Zoidberg | 10
@@ -364,7 +368,6 @@
 3 | Magic Breath Strips | 50
 3 | Mike Pulaski | 70
 3 | One Art Please | 5
-3 | Paintball Boomhauer | 75
 3 | Remote Cars Circuit Bob | 5
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
@@ -378,7 +381,7 @@
 2 | Beer Helmet | 45
 2 | Bender in Love | 80
 2 | Bender's Orphanarium | 70
-2 | Betting it All
+2 | Betting it All | 60
 2 | Blueberry Picker | 100
 2 | Bob's Pigeon Bath | 100
 2 | Booty Shaking Drunk | 100
@@ -404,6 +407,7 @@
 2 | Claw Machine | 20
 2 | Clothes Made of Cash | 20
 2 | Cloud Painter | 100
+2 | Clumpsy Claws Zoidberg | 5
 2 | Coach Farnsworth | 30
 2 | Colonel Fluffers | 70
 2 | Comic Artist Peter | 100
@@ -435,7 +439,6 @@
 2 | Garbage Shot Linda | 85
 2 | Gatsby Brian | 30
 2 | Girl Next Door Stewie | 20
-2 | Glitter Spray | 10
 2 | Goddess of Beauty | 60
 2 | Golf Club Amy | 100
 2 | Golfer Amy
@@ -451,7 +454,7 @@
 2 | Horse Whisperer Joe | 30
 2 | Horseback Rider Hank
 2 | Hose to the Head
-2 | Hottyz Bill | 40
+2 | Hottyz Bill | 60
 2 | Hottyz Luanne
 2 | House Hunting Tours | 35
 2 | I Like Beer | 20
@@ -464,7 +467,7 @@
 2 | Klaus's Comic
 2 | Klaus's Fish Wife | 20
 2 | Klepto Bender | 30
-2 | Kuchi Kopi Sculptor | 5
+2 | Kuchi Kopi Sculptor | 60
 2 | Lab Student Meg | 100
 2 | Laser Razor
 2 | Leela Balloon Art
@@ -509,6 +512,7 @@
 2 | Rastafarian Jingle Hayley | 100
 2 | Record Holder Stan | 60
 2 | Reflection | 20
+2 | Reluctant French Maid | 90
 2 | Rich Leela | 100
 2 | Road Kill | 100
 2 | Robo Tina | 20
@@ -590,9 +594,8 @@
 1 | Benderbrau | 75
 1 | Betsy | 125
 1 | Bobsled Hermes | 45
-1 | Body Paint Date | 5
+1 | Body Paint Date | 60
 1 | Boombox Teddy
-1 | Bounty Hunter Lana | 125
 1 | Burobu Addict | 125
 1 | Butcher Knife Jeff
 1 | Butt Toucher Tina | 5
@@ -655,7 +658,7 @@
 1 | Pam's Back Tattoo | 125
 1 | Party Beer Implant | 5
 1 | Pesto Jeff | 125
-1 | Photographer Bender
+1 | Photographer Bender | 55
 1 | Pigley | 125
 1 | Playlist Meg
 1 | Poppler Jingle Fry | 20
@@ -665,7 +668,6 @@
 1 | Raleigh St. Augustine | 125
 1 | Ravenous Porcelain Babies | 25
 1 | Ready for Santa | 95
-1 | Reluctant French Maid | 115
 1 | Rich Hayley | 5
 1 | Roach Coach Francine | 55
 1 | Roller Derby Luanne | 110
@@ -680,6 +682,7 @@
 1 | Skating Roger | 25
 1 | Sketch Artist Dale | 25
 1 | Sketch Artist Peter | 5
+1 | Sled Armor Tina
 1 | Sledgehammer Dale | 125
 1 | Snake Hunter | 90
 1 | Sneak Tackle Hank | 95
@@ -700,7 +703,7 @@
 1 | Toga Bill | 5
 1 | Torah Snot | 70
 1 | Treasure Hunter Peter | 15
-1 | Veteran Cotton | 15
+1 | Veteran Cotton | 85
 1 | Water Polo Steve | 5
 1 | Whiskey Cotton | 5
 1 | Yeti Fighter Leela | 120
@@ -712,6 +715,7 @@
 0 | The Honeypot | 130
 0 | The Environmentalist | 130
 0 | Texting Addict Stan | 130
+0 | Swiss Miss | 130
 0 | Space Tank | 130
 0 | Sniper Zoidberg | 130
 0 | Sexy Lifeguard | 130
@@ -782,9 +786,9 @@
 0 | Were-Car | 85
 0 | Deer Daddy Steve | 85
 0 | Dance Party Bobby | 85
-0 | Swiss Miss | 80
 0 | Spaceship Pilot | 80
 0 | Sniper Stewie | 80
+0 | Sled Armor Louise | 80
 0 | More Forever | 80
 0 | Mathy Cathy | 80
 0 | Lobster Tub | 80
@@ -819,6 +823,7 @@
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
 0 | Top of the Morning | 45
+0 | Stabbing Farnsworth | 45
 0 | Ripped Bullock | 45
 0 | Rabbit Fight | 45
 0 | Football Stewie | 45
@@ -831,7 +836,6 @@
 0 | Perfectly Symmetrical Violence | 40
 0 | Modest Painting | 40
 0 | Laughing Gas Bob | 40
-0 | Firecracker Jeff | 40
 0 | Drunk Fry | 40
 0 | Dodgeball Meg | 40
 0 | Board Game Bobby | 40
@@ -845,10 +849,10 @@
 0 | Withdrawal Steve | 30
 0 | Water Gun Steve | 30
 0 | Tweaker Peter | 30
+0 | Turkey Handprint | 30
 0 | Stevie Wonderbra | 30
 0 | Stan's Grill | 30
 0 | Squirrel Suit Hayley | 30
-0 | Sled Armor Louise | 30
 0 | Show and Tell | 30
 0 | Shop Class Bobby | 30
 0 | Sharpshooter Bobby | 30
@@ -920,4 +924,4 @@
 0 | Bounty Hunter Roger | 5
 0 | Board Game Cleveland | 5
 0 | Accordian Bill | 5
-213600 | Mastery Stone
+187750 | Mastery Stone
