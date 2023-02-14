@@ -8,48 +8,52 @@
   10 L Michael Dangle-low: 6**
    1 L Cupid Bobby: 6**
 
-2021/2/18: won #1 
+2021/2/18: won #1
 
--------S and M Peter------
+----S and M Peter----
 2 | S and M Peter | 100
--------S and M Lois------
+----S and M Lois----
 2 | S and M Lois | 65
-   2 E S and M Lois: 5*
--------Michael Dangle-low------
-3 | Michael Dangle-low
+   1 E S and M Lois: 5**
+----Michael Dangle-low----
+5 | Michael Dangle-low
+   1 L Michael Dangle-low: 1
    1 L Michael Dangle-low: 2*
   10 L Michael Dangle-low: 6**
--------Sexpun T'Come------
-3 | Sexpun T'Come
+----Sexpun T.Come----
+5 | Sexpun T'Come
    2 E Sexpun T'Come: 5**
--------Lounge Singer Hayley------
-2 | Lounge Singer Hayley | 100
--------Roger Goes Down------
+----Lounge Singer Hayley----
+5 | Lounge Singer Hayley
+----Roger Goes Down----
 2 | Roger Goes Down | 35
--------Quicky Kiss-it------
+----Quicky Kiss-it----
 1 | Quicky Kiss-it | 55
--------Belcher Date Night------
+----Belcher Date Night----
 1 | Belcher Date Night | 115
--------Cupid Bobby------
-2 | Cupid Bobby | 30
+----Cupid Bobby----
+5 | Cupid Bobby
+   1 L Cupid Bobby: 1
    1 L Cupid Bobby: 6**
--------Fry's Macaroni Art------
-2 | Fry's Macaroni Art | 50
--------Goddess of Beauty------
+----Fry.s Macaroni Art----
+3 | Fry's Macaroni Art | 25
+----Goddess of Beauty----
 2 | Goddess of Beauty | 60
--------Bender in Love------
+----Bender in Love----
 2 | Bender in Love | 80
 
+
+$ tail -12 Decks/Clash/ValentinesClash | while read l; do echo ----$l----; ./cardAndCmGrep.sh "$l" ; done
 
 S and M Peter
 S and M Lois
 Michael Dangle-low
-Sexpun T'Come
+Sexpun T.Come
 Lounge Singer Hayley
 Roger Goes Down
 Quicky Kiss-it
 Belcher Date Night
 Cupid Bobby
-Fry's Macaroni Art
+Fry.s Macaroni Art
 Goddess of Beauty
 Bender in Love
