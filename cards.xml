@@ -38311,6 +38311,134 @@
 			<skill id="leech" x="13"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>20117</id>
+		<name>Tear Jerker Island</name>
+		<picture>AD_TearjerkerIsland</picture>
+		<asset_bundle>87</asset_bundle>
+		<attack>11</attack>
+		<health>40</health>
+		<rarity>4</rarity>
+		<skill id="invigorate" x="6"/>
+		<skill id="bunker" x="5"/>
+		<skill id="healall" x="4" y="Rich"/>
+		<type>2</type>
+		<trait>rich</trait>
+		<set>3</set>
+		<upgrade>
+			<level>2</level>
+			<health>41</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="bunker" x="5"/>
+			<skill id="healall" x="4" y="Rich"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>42</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="bunker" x="6"/>
+			<skill id="healall" x="4" y="Rich"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>43</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="bunker" x="6"/>
+			<skill id="healall" x="5" y="Rich"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>44</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>45</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="bunker" x="6"/>
+			<skill id="healall" x="5" y="Rich"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>46</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="bunker" x="7"/>
+			<skill id="healall" x="5" y="Rich"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>47</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="bunker" x="7"/>
+			<skill id="healall" x="5" y="Rich"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>48</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="bunker" x="7"/>
+			<skill id="healall" x="6" y="Rich"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>50</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="bunker" x="8"/>
+			<skill id="healall" x="6" y="Rich"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>51</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>52</health>
+			<skill id="invigorate" x="10"/>
+			<skill id="bunker" x="8"/>
+			<skill id="healall" x="6" y="Rich"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>53</health>
+			<skill id="invigorate" x="10"/>
+			<skill id="bunker" x="8"/>
+			<skill id="healall" x="7" y="Rich"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>54</health>
+			<skill id="invigorate" x="10"/>
+			<skill id="bunker" x="9"/>
+			<skill id="healall" x="7" y="Rich"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>55</health>
+			<skill id="invigorate" x="11"/>
+			<skill id="bunker" x="9"/>
+			<skill id="healall" x="7" y="Rich"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>56</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>57</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="bunker" x="9"/>
+			<skill id="healall" x="7" y="Rich"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>59</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="bunker" x="10"/>
+			<skill id="healall" x="8" y="Rich"/>
+		</upgrade>
+	</unit>
 	
 	<!--  end american dad input -->		
 	<!--  stop at id 24000 -->
@@ -42413,6 +42541,21 @@
 		<skill id='invigorate' p='30' v='11' />
 		<skill id='shrapnel' p='30' v='8' />
 		<skill id='pierce' p='30' v='9' />
+	</unit>
+	<unit>
+		<id>25270</id>
+		<name>Money Giver Bullock</name>
+		<picture>AD_MoneyGiverBullock</picture>
+		<asset_bundle>87</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>2</type>
+		<trait>rich</trait>
+		<attack_multiplier>0.7</attack_multiplier>
+		<health_multiplier>0.75</health_multiplier>
+		<skill id='burn' p='30' v='10' />
+		<skill id='poison' p='30' v='11' />
+		<skill id='leech' p='30' v='12' />
 	</unit>
 	<!-- End american dad combo -->		
 	<!--  stop at id 26000 -->
@@ -56314,6 +56457,7 @@
 	<unit>
 		<id>30132</id>
 		<name>Candy Thief Gorilla</name>
+		<linked_card_id>1300021</linked_card_id>
 		<picture>BB_CandyThiefGorilla</picture>
 		<asset_bundle>85</asset_bundle>
 		<attack>12</attack>
@@ -60443,6 +60587,21 @@
 			<skill id='strike' p='30' v='13'/>
 			<skill id='enlarge' p='30' v='8' />
 			<skill id='weakenall' p='36' v='5' />
+		</unit>
+	<unit>
+			<id>35262</id>
+			<name>Tote Bag Tussle</name>
+			<picture>BB_ToteBagTussle</picture>
+			<asset_bundle>82</asset_bundle>
+			<rarity>1</rarity>
+			<set>1002</set>
+			<type>3</type>
+			<trait>fighter</trait>
+			<attack_multiplier>0.72</attack_multiplier>
+			<health_multiplier>0.73</health_multiplier>
+			<skill id='counter' p='30' v='12'/>
+			<skill id='bodyguard' p='30' v='10' />
+			<skill id='enlarge' p='30' v='8' />
 		</unit>
 
 	<!-- End Bob's Burgers combos -->					
@@ -92047,6 +92206,137 @@
 			<skill id="berserk" x="8"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>50138</id>
+		<name>Butterjunk Fighters</name>
+		<picture>FR_ButterjunkFighters</picture>
+		<asset_bundle>82</asset_bundle>
+		<attack>11</attack>
+		<health>40</health>
+		<rarity>4</rarity>
+		<skill id="outlast" x="7"/>
+		<skill id="heal" x="6"/>
+		<skill id="barrier" x="6"/>
+		<type>5</type>
+		<trait>fighter</trait>
+		<set>3</set>
+		<upgrade>
+			<level>2</level>
+			<health>41</health>
+			<skill id="outlast" x="8"/>
+			<skill id="heal" x="6"/>
+			<skill id="barrier" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>42</health>
+			<skill id="outlast" x="8"/>
+			<skill id="heal" x="6"/>
+			<skill id="barrier" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>43</health>
+			<skill id="outlast" x="8"/>
+			<skill id="heal" x="7"/>
+			<skill id="barrier" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>44</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>45</health>
+			<skill id="outlast" x="9"/>
+			<skill id="heal" x="7"/>
+			<skill id="barrier" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>46</health>
+			<skill id="outlast" x="9"/>
+			<skill id="heal" x="8"/>
+			<skill id="barrier" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>47</health>
+			<skill id="outlast" x="10"/>
+			<skill id="heal" x="8"/>
+			<skill id="barrier" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>48</health>
+			<skill id="outlast" x="10"/>
+			<skill id="heal" x="8"/>
+			<skill id="barrier" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>50</health>
+			<attack>13</attack>
+			<skill id="outlast" x="10"/>
+			<skill id="heal" x="9"/>
+			<skill id="barrier" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>51</health>
+			<skill id="outlast" x="11"/>
+			<skill id="heal" x="9"/>
+			<skill id="barrier" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>52</health>
+			<skill id="outlast" x="11"/>
+			<skill id="heal" x="9"/>
+			<skill id="barrier" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>53</health>
+			<skill id="outlast" x="11"/>
+			<skill id="heal" x="10"/>
+			<skill id="barrier" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>54</health>
+			<skill id="outlast" x="12"/>
+			<skill id="heal" x="10"/>
+			<skill id="barrier" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>55</health>
+			<skill id="outlast" x="12"/>
+			<skill id="heal" x="11"/>
+			<skill id="barrier" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>56</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>57</health>
+			<skill id="outlast" x="13"/>
+			<skill id="heal" x="11"/>
+			<skill id="barrier" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>59</health>
+			<skill id="outlast" x="13"/>
+			<skill id="heal" x="12"/>
+			<skill id="barrier" x="12"/>
+		</upgrade>
+	</unit>
 
 	<!-- end futurama input -->
 	<!--  stop at id 54000 -->
@@ -99543,7 +99833,7 @@
 		<type>7</type>
 		<trait>disguised</trait>
 		<attack_multiplier>0.72</attack_multiplier>
-		<health_multiplier>0.73</health_multiplier>
+		<health_multiplier>0.74</health_multiplier>
 		<skill id='poison' p='30' v='14' />		
 		<skill id='hijack' p='30' v='12' />		
 		<skill id='counter' p='30' v='9' />
