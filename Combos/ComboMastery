@@ -23,6 +23,7 @@
 5 | Baseball Beers
 5 | Baseball Chris
 5 | Bedtime Doll Hayley
+5 | Beer Jeff
 5 | Beer Snot
 5 | Bender's Clowns
 5 | Bender's Ducklings
@@ -121,6 +122,7 @@
 5 | Feed the Dodo
 5 | Fever Dreams
 5 | Finch Leela
+5 | Firecracker Jeff
 5 | Firefighter Zoidberg
 5 | Flute Solo Jeff
 5 | Food Addict Leela
@@ -347,23 +349,25 @@
 5 | Zapp Figurines
 5 | Zombie Jimmy Jr.
 4 | Agent Kazak | 30
+4 | Clumpsy Claws Zoidberg | 25
 4 | Draw Me Tina | 10
 4 | Glitter Spray | 15
 4 | Hank Hill, Running Back | 35
 4 | Little King Trashmouth | 20
 4 | Merlot Klaus | 10
+4 | Reluctant French Maid | 30
+4 | Rubber Knife Peggy | 20
 4 | Shaken Not Stirred | 35
 4 | Upgraded Hermes | 5
-3 | Beer Jeff | 5
 3 | Captain Bender | 25
 3 | Doomsday Surplus | 20
 3 | Down to the Bone | 75
 3 | Drunk Francine | 5
-3 | Firecracker Jeff | 25
 3 | Fort Kickass | 35
 3 | Fry's Macaroni Art | 25
 3 | Game Machine Zoidberg | 10
 3 | Hot Cocoa Gene | 25
+3 | Hottyz Bill
 3 | Ira | 20
 3 | Joy of Painting | 15
 3 | Kitchen Knife Snot | 15
@@ -372,6 +376,8 @@
 3 | One Art Please | 5
 3 | Pirate Cannon Peter | 5
 3 | Remote Cars Circuit Bob | 5
+3 | Shark Killer | 15
+3 | Victorian Knife Lois | 75
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
 2 | Alley Entertainment | 100
@@ -410,7 +416,6 @@
 2 | Claw Machine | 20
 2 | Clothes Made of Cash | 20
 2 | Cloud Painter | 100
-2 | Clumpsy Claws Zoidberg | 10
 2 | Coach Farnsworth | 30
 2 | Colonel Fluffers | 70
 2 | Comic Artist Peter | 100
@@ -426,7 +431,7 @@
 2 | Draw Me Gene
 2 | Duke
 2 | Dummy Fight | 20
-2 | Eugenia Chatterteeth | 30
+2 | Eugenia Chatterteeth | 100
 2 | Eyephone Fry | 100
 2 | Fake Daughter Louise | 25
 2 | Fake Son Gene | 90
@@ -435,7 +440,7 @@
 2 | Family Fracas | 10
 2 | Fashion Fight | 30
 2 | Finch Hermes | 100
-2 | Flamethrower Stewie | 20
+2 | Flamethrower Stewie | 100
 2 | Gallant Bender | 35
 2 | Gamer Stan
 2 | Garbage Shot Linda | 85
@@ -456,7 +461,6 @@
 2 | Horse Whisperer Joe | 30
 2 | Horseback Rider Hank
 2 | Hose to the Head
-2 | Hottyz Bill | 60
 2 | Hottyz Luanne
 2 | House Hunting Tours | 35
 2 | I Like Beer | 20
@@ -468,7 +472,7 @@
 2 | Klaus's Comic
 2 | Klaus's Fish Wife | 20
 2 | Klepto Bender | 30
-2 | Kuchi Kopi Sculptor | 75
+2 | Kuchi Kopi Sculptor | 100
 2 | Lab Student Meg | 100
 2 | Laser Razor
 2 | Laser Tag Quagmire | 100
@@ -514,7 +518,6 @@
 2 | Ravenous Porcelain Babies
 2 | Record Holder Stan | 60
 2 | Reflection | 20
-2 | Reluctant French Maid | 90
 2 | Rich Leela | 100
 2 | Road Kill | 100
 2 | Robo Tina | 20
@@ -595,12 +598,13 @@
 1 | Benderbrau | 75
 1 | Betsy | 125
 1 | Bobsled Hermes | 45
-1 | Body Paint Date | 65
+1 | Body Paint Date | 125
 1 | Boombox Teddy
 1 | Burobu Addict | 125
 1 | Butcher Knife Jeff
 1 | Butt Toucher Tina | 5
 1 | Cake Knife | 20
+1 | Chainsaw Spider | 25
 1 | Chipmunk Mask Francine | 10
 1 | Chocolate Addict Zapp | 90
 1 | Chris's Favorite Chicken | 55
@@ -624,6 +628,7 @@
 1 | Garden Shovel Bobby | 125
 1 | Gargoyle Hunter | 5
 1 | Gas Class | 25
+1 | Goth Bullock | 25
 1 | Griffin and Quagmire | 5
 1 | Groupie Francine | 25
 1 | Guenter | 30
@@ -658,7 +663,7 @@
 1 | Pam's Back Tattoo | 125
 1 | Party Beer Implant | 5
 1 | Pesto Jeff | 125
-1 | Photographer Bender | 55
+1 | Photographer Bender | 90
 1 | Pigley | 125
 1 | Playlist Meg
 1 | Poppler Jingle Fry | 20
@@ -688,6 +693,7 @@
 1 | Space Queen | 125
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 125
+1 | Stabbing Farnsworth | 55
 1 | Steak Addict Bobby | 60
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
@@ -716,6 +722,8 @@
 0 | Swiss Miss | 130
 0 | Space Tank | 130
 0 | Sniper Zoidberg | 130
+0 | Smoke Bomb! | 130
+0 | Sled Armor Louise | 130
 0 | Sexy Lifeguard | 130
 0 | Sexy Cat | 130
 0 | Screen Repairer | 130
@@ -754,7 +762,6 @@
 0 | Armadillo Boomhauer | 130
 0 | Butt Closet | 125
 0 | Too High to Drive | 120
-0 | Smoke Bomb! | 120
 0 | Slurm Queen | 120
 0 | Powderpuff | 120
 0 | Electric Love | 120
@@ -775,6 +782,7 @@
 0 | Stoned Loser Roger | 100
 0 | Francine Roger | 100
 0 | Bondage Klaus | 100
+0 | Turkey Handprint | 95
 0 | Rambo Lois | 95
 0 | Frank the Snake | 95
 0 | Danger Zone | 95
@@ -813,7 +821,6 @@
 0 | Flying Machine Stewie | 60
 0 | Baby Bender | 60
 0 | Summer Lovin | 55
-0 | Stabbing Farnsworth | 55
 0 | Oktoberfest Fry | 55
 0 | Galapagos Tortoise | 55
 0 | Drink Point-O Brian | 55
@@ -836,7 +843,6 @@
 0 | Drunk Fry | 40
 0 | Dodgeball Meg | 40
 0 | Board Game Bobby | 40
-0 | Turkey Handprint | 35
 0 | Sauna Cotton | 35
 0 | Party Board | 35
 0 | Painter Francine | 35
@@ -866,7 +872,6 @@
 0 | Karate Francine | 30
 0 | Junkie Hank | 30
 0 | Hungover Steve | 30
-0 | Goth Bullock | 30
 0 | Gene It On | 30
 0 | Freshman Chris | 30
 0 | Francine Painting | 30
@@ -888,7 +893,6 @@
 0 | Soccer Chris | 25
 0 | King Roger | 25
 0 | Delivery Marmoset | 25
-0 | Chainsaw Spider | 25
 0 | Tentacle Pope | 20
 0 | Sombrero Cotton | 20
 0 | Sister Peter | 20
@@ -921,4 +925,4 @@
 0 | Bounty Hunter Roger | 5
 0 | Board Game Cleveland | 5
 0 | Accordian Bill | 5
-185350 | Mastery Stone
+319750 | Mastery Stone
