@@ -7119,6 +7119,164 @@
 		<skill id="shrapnel" x="12"/>
 	</upgrade>
 </unit>
+	<unit>
+		<id>1200023</id>
+		<name>Tear Jerker Island</name>
+		<picture>AD_TearjerkerIsland</picture>
+		<asset_bundle>87</asset_bundle>
+		<item_name>Tear Jerker Island Fragment</item_name>
+		<item_desc>Collect Tear Jerker Island Fragments to craft and upgrade a Mythic Tear Jerker Island card</item_desc>
+		<item_icon>inventory_upgrade_50_inventory</item_icon>
+		<item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<attack>16</attack>
+		<health>62</health>
+		<rarity>5</rarity>
+		<skill id="invigorate" x="10"/>
+		<skill id="bunker" x="8"/>
+		<skill id="healall" x="9" y="rich"/>
+		<type>2</type>
+		<trait>rich</trait>
+		<set>7002</set>
+		<upgrade>
+			<level>2</level>
+			<health>63</health>
+			<skill id="invigorate" x="10"/>
+			<skill id="bunker" x="8"/>
+			<skill id="healall" x="10" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>64</health>
+			<skill id="invigorate" x="10"/>
+			<skill id="bunker" x="9"/>
+			<skill id="healall" x="10" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>66</health>
+			<skill id="invigorate" x="11"/>
+			<skill id="bunker" x="9"/>
+			<skill id="healall" x="10" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>67</health>
+			<attack>17</attack>
+			<skill id="invigorate" x="11"/>
+			<skill id="bunker" x="9"/>
+			<skill id="healall" x="11" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>68</health>
+			<skill id="invigorate" x="11"/>
+			<skill id="bunker" x="10"/>
+			<skill id="healall" x="11" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>70</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="bunker" x="10"/>
+			<skill id="healall" x="11" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>71</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="bunker" x="11"/>
+			<skill id="healall" x="12" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>72</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="bunker" x="11"/>
+			<skill id="healall" x="13" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>74</health>
+			<attack>18</attack>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>75</health>
+			<skill id="invigorate" x="13"/>
+			<skill id="bunker" x="11"/>
+			<skill id="healall" x="13" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>76</health>
+			<skill id="invigorate" x="13"/>
+			<skill id="bunker" x="12"/>
+			<skill id="healall" x="14" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>78</health>
+			<skill id="invigorate" x="14"/>
+			<skill id="bunker" x="12"/>
+			<skill id="healall" x="14" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>79</health>
+			<skill id="invigorate" x="14"/>
+			<skill id="bunker" x="12"/>
+			<skill id="healall" x="15" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>80</health>
+			<attack>19</attack>
+			<skill id="invigorate" x="14"/>
+			<skill id="bunker" x="13"/>
+			<skill id="healall" x="15" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>82</health>
+			<skill id="invigorate" x="14"/>
+			<skill id="bunker" x="13"/>
+			<skill id="healall" x="16" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>83</health>
+			<skill id="invigorate" x="15"/>
+			<skill id="bunker" x="13"/>
+			<skill id="healall" x="16" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>84</health>
+			<skill id="invigorate" x="15"/>
+			<skill id="bunker" x="14"/>
+			<skill id="healall" x="17" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>86</health>
+			<attack>20</attack>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>87</health>
+			<skill id="invigorate" x="16"/>
+			<skill id="bunker" x="14"/>
+			<skill id="healall" x="17" y="rich"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>89</health>
+			<skill id="invigorate" x="16"/>
+			<skill id="bunker" x="15"/>
+			<skill id="healall" x="18" y="rich"/>
+		</upgrade>
+	</unit>
 <!--End American Dad Mythic -->
 	<!-- BB Mythics -->	
 	<unit>
@@ -10240,6 +10398,156 @@
 			<skill id="hijack" x="15"/>
 			<skill id="weaken" x="18"/>
 			<skill id="leech" x="20"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>1300022</id>
+		<name>Gayle Genarro</name>
+		<character>bb_gayle</character>
+		<picture>BB_Gayle_Mythic</picture>
+		<asset_bundle>88</asset_bundle>
+		<item_name>Gayle Genarro Fragment</item_name>
+		<item_desc>Collect Gayle Genarro Fragments to craft and upgrade a Mythic Gayle Genarro card</item_desc>
+		<item_icon>inventory_upgrade_50_inventory</item_icon>
+		<item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<attack>12</attack>
+		<health>67</health>
+		<rarity>5</rarity>
+		<skill id="burn" x="4"/>
+		<skill id="bunker" x="7"/>
+		<skill id="barrier" x="7"/>
+		<type>3</type>
+		<set>7001</set>
+		<upgrade>
+			<level>2</level>
+			<health>68</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>69</health>
+			<skill id="burn" x="4"/>
+			<skill id="bunker" x="8"/>
+			<skill id="barrier" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>70</health>
+			<skill id="burn" x="4"/>
+			<skill id="bunker" x="8"/>
+			<skill id="barrier" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>71</health>
+			<skill id="burn" x="5"/>
+			<skill id="bunker" x="8"/>
+			<skill id="barrier" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>72</health>
+			<skill id="burn" x="5"/>
+			<skill id="bunker" x="9"/>
+			<skill id="barrier" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<attack>13</attack>
+			<health>73</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>74</health>
+			<skill id="burn" x="5"/>
+			<skill id="bunker" x="9"/>
+			<skill id="barrier" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>75</health>
+			<skill id="burn" x="5"/>
+			<skill id="bunker" x="10"/>
+			<skill id="barrier" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>76</health>
+			<skill id="burn" x="6"/>
+			<skill id="bunker" x="10"/>
+			<skill id="barrier" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>77</health>
+			<skill id="burn" x="6"/>
+			<skill id="bunker" x="10"/>
+			<skill id="barrier" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>78</health>
+			<skill id="burn" x="6"/>
+			<skill id="bunker" x="11"/>
+			<skill id="barrier" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>79</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>80</health>
+			<skill id="burn" x="6"/>
+			<skill id="bunker" x="11"/>
+			<skill id="barrier" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>81</health>
+			<skill id="burn" x="6"/>
+			<skill id="bunker" x="12"/>
+			<skill id="barrier" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>82</health>
+			<skill id="burn" x="7"/>
+			<skill id="bunker" x="12"/>
+			<skill id="barrier" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>83</health>
+			<skill id="burn" x="7"/>
+			<skill id="bunker" x="12"/>
+			<skill id="barrier" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>84</health>
+			<skill id="burn" x="7"/>
+			<skill id="bunker" x="13"/>
+			<skill id="barrier" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>85</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>86</health>
+			<skill id="burn" x="7"/>
+			<skill id="bunker" x="14"/>
+			<skill id="barrier" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<skill id="burn" x="8"/>
+			<skill id="bunker" x="14"/>
+			<skill id="barrier" x="13"/>
 		</upgrade>
 	</unit>
 <!-- End Bob's Burgers Mythic -->	
