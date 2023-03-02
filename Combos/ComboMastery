@@ -160,6 +160,7 @@
 5 | High School Linda
 5 | Hip Hop Bob
 5 | Home Ec Teacher
+5 | Homecoming King Chris
 5 | Honeybucket Student
 5 | Hot Cocoa Tina
 5 | Humplings
@@ -351,13 +352,17 @@
 4 | Agent Kazak | 30
 4 | Clumpsy Claws Zoidberg | 25
 4 | Draw Me Tina | 10
-4 | Glitter Spray | 15
+4 | Frydo | 40
+4 | Glitter Spray | 40
 4 | Hank Hill, Running Back | 35
+4 | Hottyz Bill
+4 | Jentleman Jessie's
 4 | Little King Trashmouth | 20
 4 | Merlot Klaus | 10
 4 | Reluctant French Maid | 30
 4 | Rubber Knife Peggy | 20
 4 | Shaken Not Stirred | 35
+4 | Training Luanne | 5
 4 | Upgraded Hermes | 5
 3 | Captain Bender | 25
 3 | Doomsday Surplus | 20
@@ -367,7 +372,6 @@
 3 | Fry's Macaroni Art | 25
 3 | Game Machine Zoidberg | 10
 3 | Hot Cocoa Gene | 25
-3 | Hottyz Bill
 3 | Ira | 20
 3 | Joy of Painting | 15
 3 | Kitchen Knife Snot | 15
@@ -376,8 +380,10 @@
 3 | One Art Please | 5
 3 | Pirate Cannon Peter | 5
 3 | Remote Cars Circuit Bob | 5
+3 | Sandwitch | 50
 3 | Shark Killer | 15
 3 | Victorian Knife Lois | 75
+3 | Working Girl Tina | 40
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
 2 | Alley Entertainment | 100
@@ -439,6 +445,7 @@
 2 | Falconer Hayley | 35
 2 | Family Fracas | 10
 2 | Fashion Fight | 30
+2 | Father Archer | 10
 2 | Finch Hermes | 100
 2 | Flamethrower Stewie | 100
 2 | Gallant Bender | 35
@@ -455,7 +462,6 @@
 2 | Gun Safety Peter | 100
 2 | High School Hank | 20
 2 | Home School Peter | 100
-2 | Homecoming King Chris | 100
 2 | Hormone-iums Tina | 10
 2 | Horse Rider Tina | 100
 2 | Horse Whisperer Joe | 30
@@ -498,7 +504,7 @@
 2 | Painter Zoidberg | 20
 2 | Pan Flute Stewie | 70
 2 | Ping Pong Brian | 60
-2 | Placebo Effect | 20
+2 | Placebo Effect | 45
 2 | Polling Peggy | 40
 2 | Poppler Addict Leela | 5
 2 | Positron Shooter Fry | 20
@@ -528,7 +534,6 @@
 2 | S and M Peter | 100
 2 | Sailing Addict Linda
 2 | Salmon Fry | 50
-2 | Sandwitch | 75
 2 | Screwdrive Chris
 2 | Sculptor Peter | 25
 2 | Serious Runner Brian | 50
@@ -559,7 +564,6 @@
 2 | The Carnival With Rupert | 100
 2 | The Gender Bender | 65
 2 | Torch Bearer Hank | 80
-2 | Training Luanne | 65
 2 | Trash Can Drunk | 100
 2 | Tree | 65
 2 | Trippy Zoidberg | 100
@@ -575,7 +579,6 @@
 2 | Wild Francine | 50
 2 | Will of a Housewife | 10
 2 | Wine & Paint Quagmire | 90
-2 | Working Girl Tina | 65
 2 | Xerxes the Falcon | 40
 2 | Yacht Dreams
 2 | Zoidberg vs Bot | 10
@@ -623,7 +626,6 @@
 1 | Farnsworth on Skiis | 125
 1 | Flag Defender | 125
 1 | Freezerdome Linda | 35
-1 | Frydo | 125
 1 | Frykowski | 85
 1 | Garden Shovel Bobby | 125
 1 | Gargoyle Hunter | 5
@@ -662,6 +664,7 @@
 1 | Owl Stewie | 5
 1 | Pam's Back Tattoo | 125
 1 | Party Beer Implant | 5
+1 | Perfect Husband | 15
 1 | Pesto Jeff | 125
 1 | Photographer Bender | 90
 1 | Pigley | 125
@@ -752,6 +755,7 @@
 0 | Evening Beer Boomhauer | 130
 0 | Elf Fight Francine | 130
 0 | Douchebag Chris | 130
+0 | Danger Zone | 130
 0 | DJ Klaus | 130
 0 | Cubert Farnsworth | 130
 0 | Burger Mascot | 130
@@ -785,7 +789,6 @@
 0 | Turkey Handprint | 95
 0 | Rambo Lois | 95
 0 | Frank the Snake | 95
-0 | Danger Zone | 95
 0 | Slap Fight Teddy | 90
 0 | Painter Tina | 90
 0 | Dodgeball Louise | 90
@@ -803,6 +806,7 @@
 0 | History Test Chris | 75
 0 | Zinc Saucier | 70
 0 | Topped Off Wine | 70
+0 | Stuffed Alligator | 70
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
 0 | I Get What I Want | 70
@@ -810,7 +814,6 @@
 0 | Top of the Pecking Order | 65
 0 | Paranoid Louise | 65
 0 | Cat Dragon | 65
-0 | Stuffed Alligator | 60
 0 | Space Walk | 60
 0 | Solid Gold Tuxedo | 60
 0 | Sidearm Brian | 60
@@ -897,7 +900,6 @@
 0 | Sombrero Cotton | 20
 0 | Sister Peter | 20
 0 | Plops | 20
-0 | Perfect Husband | 20
 0 | Knitting Peter | 20
 0 | Green Russians | 20
 0 | Paintball Bill | 15
@@ -921,8 +923,7 @@
 0 | Beer Decision Bill | 10
 0 | Trippy Farnsworth | 5
 0 | Just Mow a Lawn | 5
-0 | Jentleman Jessie's | 5
 0 | Bounty Hunter Roger | 5
 0 | Board Game Cleveland | 5
 0 | Accordian Bill | 5
-319750 | Mastery Stone
+303500 | Mastery Stone
