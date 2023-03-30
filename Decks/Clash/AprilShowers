@@ -1,0 +1,74 @@
+
+
+   1 L Garden Dance Bob: 6**
+   1 L Firefighter Zoidberg: 6**
+   3 L Paddler Jeff: 6**
+   4 L Balloon Tosser: 6**
+  10 L Garden Shovel Peggy: 6**
+   6 L Dating Game Steve: 6**
+
+   6 L Hatchet Boomhauer: 6**
+
+
+--- Washboard.Bill -----
+--- Garden.Dance.Bob -----
+5 | Garden Dance Bob
+   1 L Garden Dance Bob: 1
+   1 L Garden Dance Bob: 6**
+--- Cloud.Painter -----
+2 | Cloud Painter | 100
+--- Hatchet.Boomhauer -----
+5 | Hatchet Boomhauer
+   6 L Hatchet Boomhauer: 6**
+--- DJ.Buttercup -----
+1 | DJ Buttercup | 120
+--- Sledgehammer.Dale -----
+1 | Sledgehammer Dale | 125
+--- Firefighter.Zoidberg -----
+5 | Firefighter Zoidberg
+   1 L Firefighter Zoidberg: 6**
+--- Gayle.Force.Winds -----
+--- Balloon.Sniper -----
+2 | Balloon Sniper | 100
+--- Hose.to.the.Head -----
+2 | Hose to the Head
+   1 L Hose to the Head: 6**
+--- Shower.Drunk.Hayley -----
+--- Paddler.Jeff -----
+2 | Paddler Jeff
+   3 L Paddler Jeff: 6**
+--- Balloon.Tosser -----
+5 | Balloon Tosser
+   4 L Balloon Tosser: 6**
+--- Garden.Shovel.Peggy -----
+5 | Garden Shovel Peggy
+   1 L Garden Shovel Peggy: 2*
+  10 L Garden Shovel Peggy: 6**
+--- Topped.Off.Wine -----
+0 | Topped Off Wine | 70
+--- Dating.Game.Steve -----
+5 | Dating Game Steve
+   1 L Dating Game Steve: 6*
+   6 L Dating Game Steve: 6**
+--- Tree -----
+2 | Tree | 65
+
+
+Washboard.Bill
+Garden.Dance.Bob
+Cloud.Painter
+Hatchet.Boomhauer
+DJ.Buttercup
+Sledgehammer.Dale
+Firefighter.Zoidberg
+Gayle.Force.Winds
+Balloon.Sniper
+Hose.to.the.Head
+Shower.Drunk.Hayley
+Paddler.Jeff
+Balloon.Tosser
+Garden.Shovel.Peggy
+Topped.Off.Wine
+Dating.Game.Steve
+Tree
+Gamer.Chris
