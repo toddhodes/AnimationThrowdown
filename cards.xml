@@ -61201,6 +61201,21 @@
 		<skill id='strike' p='30' v='9' />
 		<skill id='shrapnel' p='30' v='11' />
 	</unit>
+	<unit>
+		<id>35272</id>
+		<name>Gayle Force Winds</name>
+		<picture>BB_Gayle Force Wind</picture>
+		<asset_bundle>88</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>3</type>
+		<trait>toy</trait>
+		<attack_multiplier>0.71</attack_multiplier>
+		<health_multiplier>0.75</health_multiplier>
+		<skill id='weakenall' p='36' v='11' />
+		<skill id='bunker' p='30' v='9' />
+		<skill id='berserk' p='30' v='6' />
+	</unit>
 	<!-- End Bob's Burgers combos -->					
 	<!-- King of the Hill -->
 
