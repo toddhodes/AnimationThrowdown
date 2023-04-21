@@ -887,7 +887,7 @@
         <item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
 		<attack>15</attack>
-		<health>54</health>
+		<health>61</health>
 		<rarity>5</rarity>
 		<skill id="inspire" x="9"/>
 		<skill id="weaken" x="10"/>
@@ -897,132 +897,132 @@
 		<set>7002</set>
 		<upgrade>
 			<level>2</level>
-			<health>55</health>
+			<health>62</health>
 			<skill id="inspire" x="9"/>
 			<skill id="weaken" x="11"/>
 			<skill id="weakenall" x="6"/>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>56</health>
+			<health>63</health>
 			<skill id="inspire" x="10"/>
 			<skill id="weaken" x="11"/>
 			<skill id="weakenall" x="6"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>57</health>
+			<health>64</health>
 			<skill id="inspire" x="10"/>
 			<skill id="weaken" x="11"/>
 			<skill id="weakenall" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>59</health>
+			<health>65</health>
 			<attack>16</attack>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>60</health>
+			<health>67</health>
 			<skill id="inspire" x="10"/>
 			<skill id="weaken" x="12"/>
 			<skill id="weakenall" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<health>61</health>
+			<health>69</health>
 			<skill id="inspire" x="11"/>
 			<skill id="weaken" x="12"/>
 			<skill id="weakenall" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>62</health>
+			<health>71</health>
 			<skill id="inspire" x="11"/>
 			<skill id="weaken" x="12"/>
 			<skill id="weakenall" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>64</health>
+			<health>72</health>
 			<skill id="inspire" x="11"/>
 			<skill id="weaken" x="13"/>
 			<skill id="weakenall" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<health>65</health>
+			<health>73</health>
 			<attack>17</attack>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>66</health>
+			<health>74</health>
 			<skill id="inspire" x="12"/>
 			<skill id="weaken" x="13"/>
 			<skill id="weakenall" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<health>67</health>
+			<health>75</health>
 			<skill id="inspire" x="12"/>
 			<skill id="weaken" x="14"/>
 			<skill id="weakenall" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>69</health>
+			<health>76</health>
 			<skill id="inspire" x="12"/>
 			<skill id="weaken" x="14"/>
 			<skill id="weakenall" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>70</health>
+			<health>77</health>
 			<attack>18</attack>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<health>71</health>
+			<health>79</health>
 			<skill id="inspire" x="12"/>
 			<skill id="weaken" x="15"/>
 			<skill id="weakenall" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>72</health>
+			<health>80</health>
 			<skill id="inspire" x="13"/>
 			<skill id="weaken" x="15"/>
 			<skill id="weakenall" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<health>74</health>
+			<health>82</health>
 			<skill id="inspire" x="13"/>
 			<skill id="weaken" x="15"/>
 			<skill id="weakenall" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>75</health>
+			<health>84</health>
 			<skill id="inspire" x="13"/>
 			<skill id="weaken" x="16"/>
 			<skill id="weakenall" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<health>76</health>
+			<health>85</health>
 			<skill id="inspire" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
-			<health>77</health>
+			<health>87</health>
 			<skill id="inspire" x="14"/>
 			<skill id="weaken" x="16"/>
 			<skill id="weakenall" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
-			<health>79</health>
+			<health>88</health>
 			<attack>19</attack>
 			<skill id="inspire" x="14"/>
 			<skill id="weaken" x="17"/>
@@ -10484,6 +10484,160 @@
 			<skill id="barrier" x="13"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>1300023</id>
+		<name>Toilet Friend</name>
+		<picture>BB_ToiletFriendGene</picture>
+		<asset_bundle>64</asset_bundle>
+		<item_name>Toilet Friend Fragment</item_name>
+		<item_desc>Collect Toilet Friend Fragments to craft and upgrade a Mythic Toilet Friend card</item_desc>
+		<item_icon>inventory_upgrade_50_inventory</item_icon>
+		<item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<attack>14</attack>
+		<health>68</health>
+		<rarity>5</rarity>
+		<skill id="inspire" x="10"/>
+		<skill id="heal" x="11"/>
+		<skill id="poison" x="9"/>
+		<type>3</type>
+		<trait>toy</trait>
+		<set>7002</set>
+		<upgrade>
+			<level>2</level>
+			<health>69</health>
+			<skill id="inspire" x="10"/>
+			<skill id="heal" x="12"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>71</health>
+			<skill id="inspire" x="11"/>
+			<skill id="heal" x="12"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>72</health>
+			<skill id="inspire" x="11"/>
+			<skill id="heal" x="12"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>74</health>
+			<skill id="inspire" x="11"/>
+			<skill id="heal" x="13"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>75</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>77</health>
+			<skill id="inspire" x="12"/>
+			<skill id="heal" x="13"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>78</health>
+			<skill id="inspire" x="12"/>
+			<skill id="heal" x="13"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>80</health>
+			<skill id="inspire" x="12"/>
+			<skill id="heal" x="14"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>81</health>
+			<skill id="inspire" x="13"/>
+			<skill id="heal" x="14"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>83</health>
+			<skill id="inspire" x="13"/>
+			<skill id="heal" x="15"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>84</health>
+			<skill id="inspire" x="13"/>
+			<skill id="heal" x="15"/>
+			<skill id="poison" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>86</health>
+			<attack>16</attack>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>87</health>
+			<skill id="inspire" x="14"/>
+			<skill id="heal" x="15"/>
+			<skill id="poison" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>89</health>
+			<skill id="inspire" x="14"/>
+			<skill id="heal" x="16"/>
+			<skill id="poison" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>90</health>
+			<skill id="inspire" x="14"/>
+			<skill id="heal" x="16"/>
+			<skill id="poison" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>92</health>
+			<skill id="inspire" x="15"/>
+			<skill id="heal" x="16"/>
+			<skill id="poison" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>93</health>
+			<skill id="inspire" x="15"/>
+			<skill id="heal" x="17"/>
+			<skill id="poison" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>95</health>
+			<attack>17</attack>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>96</health>
+			<skill id="inspire" x="15"/>
+			<skill id="heal" x="18"/>
+			<skill id="poison" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>98</health>
+			<skill id="inspire" x="16"/>
+			<skill id="heal" x="18"/>
+			<skill id="poison" x="14"/>
+		</upgrade>
+	</unit>
 <!-- End Bob's Burgers Mythic -->	
 	<!-- KH Mythics -->	
 	<unit>
@@ -13042,7 +13196,7 @@
 		<type>5</type>
 		<trait>athletic</trait>
 		<attack>18</attack>
-		<health>40</health>
+		<health>46</health>
 		<skill id="inspire" x="8"/>
 		<skill id="strike" x="10"/>
 		<skill id="weakenall" x="6"/>
@@ -13052,31 +13206,29 @@
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>41</health>
+			<health>47</health>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>42</health>
 			<skill id="inspire" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>43</health>
+			<health>48</health>
 			<skill id="weakenall" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>44</health>
 			<attack>20</attack>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<health>45</health>
+			<health>49</health>
 			<skill id="strike" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>46</health>
+			<health>50</health>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
@@ -13088,7 +13240,7 @@
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>47</health>
+			<health>51</health>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
@@ -13096,12 +13248,12 @@
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>48</health>
+			<health>52</health>
 			<skill id="inspire" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>49</health>
+			<health>53</health>
 			<skill id="strike" x="13"/>
 		</upgrade>
 		<upgrade>
@@ -13110,30 +13262,30 @@
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>50</health>
+			<health>54</health>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<health>51</health>
+			<health>55</health>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>52</health>
+			<health>56</health>
 			<skill id="inspire" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<health>53</health>
+			<health>57</health>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
-			<health>54</health>
+			<health>58</health>
 			<skill id="strike" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
 			<skill id="weakenall" x="10"/>
-			<health>56</health>
+			<health>59</health>
 		</upgrade>												
 	</unit>
 	<unit>

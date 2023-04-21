@@ -59,6 +59,7 @@
 5 | Champagne Toast Leela
 5 | Chef Cat Munchies
 5 | Chick-Chicken Chick Fight
+5 | Chicken Fight
 5 | Children's Author
 5 | Christmas Punchout
 5 | Christmas Trap
@@ -141,11 +142,13 @@
 5 | Garden Shovel Peggy
 5 | Ghost Boomhauer
 5 | Gingerbread Sculptor
+5 | Glitter Spray
 5 | Golden Blunt Wrapper
 5 | Good Boy Witch Snot
 5 | Green Beer
 5 | Grenade Amy
 5 | Groovy Fry
+5 | Ground Brawling Glenn
 5 | Gymnast Fighter Stewie
 5 | Hail Science!
 5 | Half Dog Gene
@@ -191,6 +194,7 @@
 5 | Lobster Wedding
 5 | Lord Griffin
 5 | Lounge Singer Hayley
+5 | MVS Pam
 5 | Magazine Cover Zapp
 5 | Magazine Reader Francine
 5 | Magician Jimmy Jr.
@@ -354,54 +358,56 @@
 5 | Zombie Jimmy Jr.
 4 | Agent Kazak | 35
 4 | Betting it All
-4 | Chicken Fight | 40
 4 | Clumpsy Claws Zoidberg | 25
 4 | Draw Me Tina | 10
 4 | Frydo | 40
-4 | Glitter Spray | 40
-4 | Ground Brawling Glenn | 15
+4 | Game Machine Zoidberg | 5
+4 | Gayle Force Winds
 4 | Hank Hill, Running Back | 35
 4 | Hottyz Bill
+4 | Jetpack Kick Leela | 30
 4 | Little King Trashmouth | 40
 4 | Merlot Klaus | 10
-4 | Reluctant French Maid | 30
+4 | Reluctant French Maid | 40
 4 | Rubber Knife Peggy | 20
 4 | Sandwitch | 15
 4 | Shaken Not Stirred | 35
 4 | Slap Fight Teddy
-4 | Training Luanne | 5
+4 | Training Luanne | 40
 4 | Upgraded Hermes | 5
+3 | Balloon Sniper | 75
 3 | Captain Bender | 25
 3 | Country Club Steve | 60
+3 | Derby Brawling Luanne | 25
 3 | Doomsday Surplus | 20
 3 | Down to the Bone | 75
 3 | Drunk Francine | 5
+3 | Eyephone Fry | 75
 3 | Fake Daughter Louise | 10
 3 | Fort Kickass | 35
 3 | Fry's Macaroni Art | 25
 3 | Gallant Bender | 10
-3 | Game Machine Zoidberg | 40
 3 | Gatsby Brian | 5
 3 | Hot Cocoa Gene | 25
 3 | House Hunting Tours | 10
 3 | Ira | 20
+3 | Jellybean Phone Klaus | 30
 3 | Joy of Painting | 15
 3 | Kitchen Knife Snot | 15
-3 | MVS Pam | 75
 3 | Magic Breath Strips | 50
 3 | One Art Please | 5
 3 | Pirate Cannon Peter | 75
 3 | Remote Cars Circuit Bob | 5
 3 | Shark Killer | 15
 3 | Victorian Knife Lois | 75
+3 | Video Game Joe | 15
 3 | Working Girl Tina | 40
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
 2 | Alley Entertainment | 100
 2 | Archer Klaus | 50
-2 | BABOU!!!! | 110
+2 | BABOU!!!! | 100
 2 | Bakaneko Fighter Louise
-2 | Balloon Sniper | 100
 2 | Baseball Bobby | 15
 2 | Beer Bottle Toast | 10
 2 | Beer Helmet | 45
@@ -424,7 +430,7 @@
 2 | Chamber of Understanding | 100
 2 | Charts and Graphs | 20
 2 | Cheerleader Peggy | 80
-2 | Chef Cat Binge | 5
+2 | Chef Cat Binge | 100
 2 | Chipmunk Mask Francine | 5
 2 | Chosen Brain Fry | 100
 2 | Chris Painting
@@ -447,7 +453,6 @@
 2 | Duke
 2 | Dummy Fight | 20
 2 | Eugenia Chatterteeth | 100
-2 | Eyephone Fry | 100
 2 | Fake Son Gene | 90
 2 | Falcon Attack Quagmire | 70
 2 | Falconer Hayley | 35
@@ -477,7 +482,6 @@
 2 | Hottyz Luanne
 2 | I Like Beer | 20
 2 | I am Mona
-2 | Jellybean Phone Klaus | 55
 2 | Karaoke Zapp | 85
 2 | Karate Stewie
 2 | Kawaii Klaus | 100
@@ -569,6 +573,7 @@
 2 | The Billdozer | 100
 2 | The Carnival With Rupert | 100
 2 | The Gender Bender | 65
+2 | Tina Tackle | 100
 2 | Torch Bearer Hank | 80
 2 | Trash Can Drunk | 100
 2 | Tree | 65
@@ -578,7 +583,6 @@
 2 | Umbriel | 100
 2 | Vengeance Quagmire | 40
 2 | Victory Dance | 40
-2 | Video Game Joe | 40
 2 | Walkman Boomhauer
 2 | Water Nympho
 2 | Whiskey Drunk Brian | 100
@@ -671,7 +675,7 @@
 1 | Owl Stewie | 5
 1 | Pam's Back Tattoo | 125
 1 | Party Beer Implant | 5
-1 | Perfect Husband | 15
+1 | Perfect Husband | 85
 1 | Pesto Jeff | 125
 1 | Photographer Bender | 90
 1 | Pigley | 125
@@ -713,18 +717,19 @@
 1 | Sword Fighter Francine | 5
 1 | Taxidermy Artist | 5
 1 | Tennis Francine | 15
-1 | Tina Tackle | 125
 1 | Toga Bill | 5
 1 | Torah Snot | 70
 1 | Treasure Hunter Peter | 15
 1 | Veteran Cotton | 85
 1 | Water Polo Steve | 5
 1 | Whiskey Cotton | 5
+1 | Wrestler Peggy | 85
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
 0 | Zac Sawyer | 130
 0 | Tranq Gun Steve | 130
 0 | Towel Manager Dale | 130
+0 | The Honeypot | 130
 0 | Texting Addict Stan | 130
 0 | Space Tank | 130
 0 | Sniper Zoidberg | 130
@@ -757,6 +762,7 @@
 0 | Evening Beer Boomhauer | 130
 0 | Elf Fight Francine | 130
 0 | Douchebag Chris | 130
+0 | Danger Zone | 130
 0 | DJ Klaus | 130
 0 | Cubert Farnsworth | 130
 0 | Burger Mascot | 130
@@ -790,13 +796,12 @@
 0 | Turkey Handprint | 95
 0 | Rambo Lois | 95
 0 | Frank the Snake | 95
-0 | Wrestler Peggy | 90
+0 | Puppeteer Luanne | 90
 0 | Painter Tina | 90
 0 | Management Perks | 90
 0 | Dodgeball Louise | 90
 0 | Were-Car | 85
 0 | Shower Drunk Hayley | 85
-0 | Gayle Force Winds | 85
 0 | Deer Daddy Steve | 85
 0 | Dance Party Bobby | 85
 0 | Spaceship Pilot | 80
@@ -807,7 +812,6 @@
 0 | Art Student | 80
 0 | Rich Dress Leela | 75
 0 | Martini Peggy | 75
-0 | Jetpack Kick Leela | 75
 0 | History Test Chris | 75
 0 | Zinc Saucier | 70
 0 | Topped Off Wine | 70
@@ -931,4 +935,4 @@
 0 | Bounty Hunter Roger | 5
 0 | Board Game Cleveland | 5
 0 | Accordian Bill | 5
-433550 | Mastery Stone
+468450 | Mastery Stone
