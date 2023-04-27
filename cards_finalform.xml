@@ -110091,5 +110091,111 @@
 			<health>80</health>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>170040</id>
+		<combo_card_id>77014</combo_card_id>
+		<attack>11</attack>
+		<health>61</health>
+		<name>Mitsuko Miyazumi</name>
+		<picture>AR_Krieger_s Virtual GF</picture>
+		<asset_bundle>89</asset_bundle>
+		<rarity>4</rarity>
+		<set>3001</set>
+		<type>7</type>
+		<trait>educated</trait>
+		<skill id="hijack" x="7"/>
+		<skill id="counter" x="6"/>
+		<skill id="bodyguard" x="5"/>
+		<card_type>object</card_type>
+		<upgrade>
+			<level>2</level>
+			<health>62</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>63</health>
+			<skill id="hijack" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>64</health>
+			<skill id="counter" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>66</health>
+			<skill id="bodyguard" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>12</attack>
+			<health>67</health>
+			<skill id="hijack" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>68</health>
+			<skill id="counter" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>70</health>
+			<skill id="hijack" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>71</health>
+			<skill id="bodyguard" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>13</attack>
+			<health>72</health>
+			<skill id="hijack" x="11"/>
+			<skill id="counter" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>73</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>75</health>
+			<skill id="hijack" x="12"/>
+			<skill id="counter" x="10"/>
+			<skill id="bodyguard" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>76</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>14</attack>
+			<health>77</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>79</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>80</health>
+			<skill id="hijack" x="13"/>
+			<skill id="counter" x="11"/>
+			<skill id="bodyguard" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>81</health>
+			<skill id="hijack" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>15</attack>
+			<health>83</health>
+			<skill id="counter" x="12"/>
+		</upgrade>
+	</unit>
 	<!-- End Archer FF -->
 </root>	
