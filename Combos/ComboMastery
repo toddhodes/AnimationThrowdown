@@ -166,7 +166,9 @@
 5 | Home Ec Teacher
 5 | Homecoming King Chris
 5 | Honeybucket Student
+5 | Horse Rider Tina
 5 | Hot Cocoa Tina
+5 | Hottyz Luanne
 5 | Humplings
 5 | Hunky Killer Louise
 5 | Ice Cream Gene
@@ -333,6 +335,7 @@
 5 | Tin Man Bender
 5 | Toy Blocks Snot
 5 | Toy Farnsworth Ad
+5 | Training Luanne
 5 | Trapeze Bob
 5 | Traumatized Dale
 5 | Treasure Hunter Lois
@@ -360,23 +363,27 @@
 5 | Wrestler Stan
 5 | Zapp Figurines
 5 | Zombie Jimmy Jr.
+4 | Basketball Joe | 40
 4 | Betting it All
 4 | Clumpsy Claws Zoidberg | 25
 4 | Draw Me Tina | 10
 4 | Eyephone Fry | 40
 4 | Frydo | 40
 4 | Game Machine Zoidberg | 5
+4 | Garbage Shot Linda | 25
 4 | Gayle Force Winds
 4 | Hank Hill, Running Back | 35
 4 | Hottyz Bill
 4 | Jetpack Kick Leela | 30
 4 | Merlot Klaus | 10
+4 | Professor-Bender Swap | 25
 4 | Rubber Knife Peggy | 20
 4 | Sandwitch | 15
 4 | Shaken Not Stirred | 35
 4 | Slap Fight Teddy
-4 | Training Luanne | 40
 4 | Upgraded Hermes | 5
+4 | Veteran Cotton
+3 | Archer Klaus | 25
 3 | Balloon Sniper | 75
 3 | Captain Bender | 25
 3 | Chosen Brain Fry | 75
@@ -400,15 +407,16 @@
 3 | Magic Breath Strips | 50
 3 | One Art Please | 5
 3 | Pirate Cannon Peter | 75
+3 | Principal Peter | 75
 3 | Remote Cars Circuit Bob | 5
 3 | Shark Killer | 15
+3 | Swim Lesson | 10
 3 | Victorian Knife Lois | 75
 3 | Video Game Joe | 15
 3 | Working Girl Tina | 40
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
 2 | Alley Entertainment | 100
-2 | Archer Klaus | 50
 2 | BABOU!!!! | 100
 2 | Bakaneko Fighter Louise
 2 | Baseball Bobby | 15
@@ -464,7 +472,6 @@
 2 | Flamethrower Stewie | 100
 2 | Gambler Cotton | 10
 2 | Gamer Stan
-2 | Garbage Shot Linda | 85
 2 | Girl Next Door Stewie | 20
 2 | Goddess of Beauty | 60
 2 | Golf Club Amy | 100
@@ -476,11 +483,9 @@
 2 | High School Hank | 20
 2 | Home School Peter | 100
 2 | Hormone-iums Tina | 10
-2 | Horse Rider Tina | 100
 2 | Horse Whisperer Joe | 30
 2 | Horseback Rider Hank
 2 | Hose to the Head
-2 | Hottyz Luanne | 75
 2 | I Like Beer | 20
 2 | I am Mona
 2 | Karaoke Zapp | 85
@@ -520,10 +525,9 @@
 2 | Poppler Addict Leela | 5
 2 | Positron Shooter Fry | 20
 2 | Pot Brownies Jeff | 100
-2 | Principal Peter | 100
+2 | Principal Louise
 2 | Private Brian | 100
 2 | Professor of Emerald Laboratory | 100
-2 | Professor-Bender Swap | 85
 2 | Prom Beer Joe | 85
 2 | Prom Luanne | 70
 2 | Propane Sculpture | 20
@@ -540,15 +544,18 @@
 2 | Robo Tina | 20
 2 | Robot Making Fry
 2 | Roger Goes Down | 35
+2 | Roller Derby Luanne | 85
 2 | Rough Night Stan | 30
 2 | S and M Lois | 65
 2 | S and M Peter | 100
 2 | Sailing Addict Linda
 2 | Salmon Fry | 50
+2 | Sauna Cotton | 5
 2 | Screwdrive Chris
 2 | Sculptor Peter | 25
 2 | Serious Runner Brian | 50
 2 | Sexy Dance Fighting
+2 | Shop Class Bobby
 2 | Skiing Zoidberg | 100
 2 | Sleighing Tonight
 2 | Slick'd Steve | 100
@@ -564,7 +571,6 @@
 2 | Stuffington Roger | 100
 2 | Super Dance Squad
 2 | Survival Crafter Hank
-2 | Swim Lesson | 35
 2 | Swole Amy | 5
 2 | Tattooed Fat Guy | 30
 2 | Teagle | 100
@@ -595,6 +601,7 @@
 2 | Zoidberg vs Bot | 10
 1 | ABC Quagmire | 45
 1 | Abstract Jeff | 20
+1 | Air Glider Peter
 1 | Alcohol Bath | 95
 1 | Amy's Talking Tattoo | 125
 1 | Anally Defaced | 125
@@ -604,8 +611,8 @@
 1 | Artsy Tina | 5
 1 | Author Fry | 20
 1 | Baseball Dale | 35
-1 | Basketball Joe | 125
 1 | Battle Axe Peggy | 5
+1 | Bazooka Shark Fan Francine | 10
 1 | Beer Chugger Meg
 1 | Belcher Date Night | 115
 1 | Bender's Electric Eel | 125
@@ -620,7 +627,7 @@
 1 | Cake Knife | 20
 1 | Caveman Chris
 1 | Chainsaw Spider | 25
-1 | Chocolate Addict Zapp | 90
+1 | Chocolate Addict Zapp | 125
 1 | Chris's Favorite Chicken | 55
 1 | Congo Jack | 5
 1 | Cough Syrup Drunk | 50
@@ -684,20 +691,17 @@
 1 | Pigley | 125
 1 | Playlist Meg
 1 | Poppler Jingle Fry | 20
-1 | Principal Louise | 25
 1 | Quicky Kiss-it | 55
 1 | RC Helicopter | 75
 1 | Raleigh St. Augustine | 125
 1 | Ready for Santa | 95
 1 | Rich Hayley | 35
 1 | Roach Coach Francine | 55
-1 | Roller Derby Luanne | 110
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
 1 | Running Back Hank | 125
 1 | Sherlock Zoidberg
 1 | Shiny Pebbles | 125
-1 | Shop Class Bobby | 25
 1 | Shut Up and Take My Money | 85
 1 | Sing and Swing | 30
 1 | Skating Roger | 25
@@ -724,7 +728,6 @@
 1 | Toga Bill | 5
 1 | Torah Snot | 70
 1 | Treasure Hunter Peter | 15
-1 | Veteran Cotton | 85
 1 | Water Polo Steve | 5
 1 | Whiskey Cotton | 5
 1 | Wrestler Peggy | 85
@@ -863,7 +866,6 @@
 0 | Drunk Fry | 40
 0 | Dodgeball Meg | 40
 0 | Board Game Bobby | 40
-0 | Sauna Cotton | 35
 0 | Party Board | 35
 0 | Painter Francine | 35
 0 | One Eyed Orphan | 35
@@ -905,6 +907,7 @@
 0 | Chest Harpoon | 30
 0 | Bob in the Wall | 30
 0 | Becky | 30
+0 | Artsy Roger | 30
 0 | ADD Luanne | 30
 0 | 71 Ounce Beef Bobby | 30
 0 | $300 Knife | 30
@@ -942,4 +945,4 @@
 0 | Bounty Hunter Roger | 5
 0 | Board Game Cleveland | 5
 0 | Accordian Bill | 5
-351550 | Mastery Stone
+310350 | Mastery Stone
