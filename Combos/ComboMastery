@@ -23,6 +23,7 @@
 5 | Bamboo Boogie Boots Hermes
 5 | Baseball Beers
 5 | Baseball Chris
+5 | Basketball Joe
 5 | Bedtime Doll Hayley
 5 | Beer Jeff
 5 | Beer Snot
@@ -36,6 +37,7 @@
 5 | Billionaire Fry
 5 | Bloody Mary Mix
 5 | Blueberry Delivery Girl
+5 | Bob's Pigeon Bath
 5 | Body Builder Stan
 5 | Bong Rips Francine
 5 | Boob Tube
@@ -100,6 +102,7 @@
 5 | Dinner Wine Bob
 5 | Dojo Joe
 5 | Dojo Quagmire
+5 | Down to the Bone
 5 | Dr. Bobbenstein
 5 | Dream Guitar
 5 | Dream Millionaire
@@ -191,6 +194,7 @@
 5 | Laser Tag Joe
 5 | Laser Tag Stan
 5 | Last Minute Shopper Brian
+5 | Lawn Mower Cotton
 5 | Lenore the Iguana
 5 | Let's Go Fart
 5 | Limo Bob
@@ -340,6 +344,7 @@
 5 | Traumatized Dale
 5 | Treasure Hunter Lois
 5 | Tropical Drinks
+5 | Umbriel
 5 | Unsharp Scissors Zapp
 5 | VIP Chris
 5 | VIP Cruise
@@ -363,12 +368,15 @@
 5 | Wrestler Stan
 5 | Zapp Figurines
 5 | Zombie Jimmy Jr.
-4 | Basketball Joe | 40
+4 | Bazooka Shark Fan Francine | 10
 4 | Betting it All
 4 | Clumpsy Claws Zoidberg | 25
+4 | Doghouse Bobby | 15
 4 | Draw Me Tina | 10
 4 | Eyephone Fry | 40
+4 | Falcon Attack Quagmire | 10
 4 | Frydo | 40
+4 | Gambler Cotton
 4 | Game Machine Zoidberg | 5
 4 | Garbage Shot Linda | 25
 4 | Gayle Force Winds
@@ -387,19 +395,21 @@
 3 | Balloon Sniper | 75
 3 | Captain Bender | 25
 3 | Chosen Brain Fry | 75
+3 | Coach Farnsworth | 5
 3 | Country Club Steve | 60
 3 | Derby Brawling Luanne | 25
 3 | Doomsday Surplus | 20
-3 | Down to the Bone | 75
 3 | Drunk Francine | 5
 3 | Eugenia Chatterteeth | 75
 3 | Fake Daughter Louise | 10
+3 | Falconer Hayley | 10
 3 | Fort Kickass | 35
 3 | Fry's Macaroni Art | 25
 3 | Gallant Bender | 10
 3 | Gatsby Brian | 5
+3 | Horse Whisperer Joe | 5
 3 | Hot Cocoa Gene | 25
-3 | House Hunting Tours | 10
+3 | House Hunting Tours | 75
 3 | Ira | 20
 3 | Jellybean Phone Klaus | 30
 3 | Joy of Painting | 15
@@ -407,13 +417,18 @@
 3 | Magic Breath Strips | 50
 3 | One Art Please | 5
 3 | Pirate Cannon Peter | 75
+3 | Placebo Effect | 25
+3 | Polling Peggy | 15
 3 | Principal Peter | 75
 3 | Remote Cars Circuit Bob | 5
+3 | Salmon Fry | 25
 3 | Shark Killer | 15
+3 | Skiing Zoidberg | 75
 3 | Swim Lesson | 10
 3 | Victorian Knife Lois | 75
 3 | Video Game Joe | 15
 3 | Working Girl Tina | 40
+3 | Xerxes the Falcon | 15
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
 2 | Alley Entertainment | 100
@@ -425,7 +440,6 @@
 2 | Bender in Love | 80
 2 | Bender's Orphanarium | 70
 2 | Blueberry Picker | 100
-2 | Bob's Pigeon Bath | 100
 2 | Booty Shaking Drunk | 100
 2 | Boy Crazy Louise | 5
 2 | Boy Crazy | 25
@@ -448,7 +462,6 @@
 2 | Claw Machine | 20
 2 | Clothes Made of Cash | 20
 2 | Cloud Painter | 100
-2 | Coach Farnsworth | 30
 2 | Colonel Fluffers | 70
 2 | Comic Artist Peter | 100
 2 | Corporate Training | 35
@@ -457,20 +470,16 @@
 2 | Dancing Peggy | 10
 2 | Date Wine Zoidberg | 100
 2 | Diamond Ring Lois | 100
-2 | Doghouse Bobby | 75
 2 | Dolphin Rider Peter | 15
 2 | Draw Me Gene
 2 | Duke
 2 | Dummy Fight | 20
 2 | Fake Son Gene | 90
-2 | Falcon Attack Quagmire | 70
-2 | Falconer Hayley | 35
 2 | Family Fracas | 10
 2 | Fashion Fight | 30
 2 | Father Archer | 10
 2 | Finch Hermes | 100
 2 | Flamethrower Stewie | 100
-2 | Gambler Cotton | 10
 2 | Gamer Stan
 2 | Girl Next Door Stewie | 20
 2 | Goddess of Beauty | 60
@@ -483,7 +492,6 @@
 2 | High School Hank | 20
 2 | Home School Peter | 100
 2 | Hormone-iums Tina | 10
-2 | Horse Whisperer Joe | 30
 2 | Horseback Rider Hank
 2 | Hose to the Head
 2 | I Like Beer | 20
@@ -519,9 +527,8 @@
 2 | Paddlin' Peggy | 100
 2 | Painter Zoidberg | 30
 2 | Pan Flute Stewie | 70
+2 | Perfect Husband | 60
 2 | Ping Pong Brian | 60
-2 | Placebo Effect | 50
-2 | Polling Peggy | 40
 2 | Poppler Addict Leela | 5
 2 | Positron Shooter Fry | 20
 2 | Pot Brownies Jeff | 100
@@ -544,19 +551,18 @@
 2 | Robo Tina | 20
 2 | Robot Making Fry
 2 | Roger Goes Down | 35
-2 | Roller Derby Luanne | 85
+2 | Roller Derby Hayley
+2 | Roller Derby Luanne | 60
 2 | Rough Night Stan | 30
 2 | S and M Lois | 65
 2 | S and M Peter | 100
 2 | Sailing Addict Linda
-2 | Salmon Fry | 50
 2 | Sauna Cotton | 5
 2 | Screwdrive Chris
 2 | Sculptor Peter | 25
 2 | Serious Runner Brian | 50
 2 | Sexy Dance Fighting
 2 | Shop Class Bobby
-2 | Skiing Zoidberg | 100
 2 | Sleighing Tonight
 2 | Slick'd Steve | 100
 2 | Slip 'n Slide Bob | 100
@@ -571,6 +577,7 @@
 2 | Stuffington Roger | 100
 2 | Super Dance Squad
 2 | Survival Crafter Hank
+2 | Swimmer Tina | 10
 2 | Swole Amy | 5
 2 | Tattooed Fat Guy | 30
 2 | Teagle | 100
@@ -587,7 +594,6 @@
 2 | Trippy Zoidberg | 100
 2 | Tuning Fork | 100
 2 | Two Butt Goat
-2 | Umbriel | 100
 2 | Vengeance Quagmire | 40
 2 | Victory Dance | 40
 2 | Walkman Boomhauer
@@ -596,7 +602,6 @@
 2 | Wild Francine | 50
 2 | Will of a Housewife | 10
 2 | Wine & Paint Quagmire | 90
-2 | Xerxes the Falcon | 40
 2 | Yacht Dreams
 2 | Zoidberg vs Bot | 10
 1 | ABC Quagmire | 45
@@ -612,13 +617,12 @@
 1 | Author Fry | 20
 1 | Baseball Dale | 35
 1 | Battle Axe Peggy | 5
-1 | Bazooka Shark Fan Francine | 10
 1 | Beer Chugger Meg
 1 | Belcher Date Night | 115
 1 | Bender's Electric Eel | 125
 1 | Benderbrau | 75
 1 | Betsy | 125
-1 | Bobsled Hermes | 45
+1 | Bobsled Hermes | 50
 1 | Body Paint Date | 125
 1 | Boombox Teddy
 1 | Burobu Addict | 125
@@ -632,10 +636,12 @@
 1 | Congo Jack | 5
 1 | Cough Syrup Drunk | 50
 1 | Cowpoke | 125
+1 | Crackers
 1 | Crayon Drawing | 125
 1 | Credit Card Joe | 25
 1 | DJ Buttercup | 125
 1 | Debate Club Tina
+1 | Dodgeball Louise | 85
 1 | Dog Bone Stan | 5
 1 | Dog Lois | 90
 1 | Dog Meg
@@ -680,12 +686,11 @@
 1 | Money Giver Bullock
 1 | Mr. Deliver | 125
 1 | Nacho Bartiromo
-1 | Nigerian Prince
+1 | Nigerian Prince | 5
 1 | Old Steve | 30
 1 | Owl Stewie | 5
 1 | Pam's Back Tattoo | 125
 1 | Party Beer Implant | 5
-1 | Perfect Husband | 85
 1 | Pesto Jeff | 125
 1 | Photographer Bender | 90
 1 | Pigley | 125
@@ -720,7 +725,6 @@
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
 1 | Swim Teacher Bob | 90
-1 | Swimmer Tina | 35
 1 | Swing Dance Bobby | 5
 1 | Sword Fighter Francine | 5
 1 | Taxidermy Artist | 5
@@ -830,7 +834,6 @@
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
 0 | I Get What I Want | 70
-0 | Born Fighter | 70
 0 | Top of the Pecking Order | 65
 0 | Paranoid Louise | 65
 0 | Cat Dragon | 65
@@ -884,7 +887,6 @@
 0 | Sex Ed Teacher | 30
 0 | Secret Beer Dale | 30
 0 | Roller Skate Peter | 30
-0 | Roller Derby Hayley | 30
 0 | Road Rage | 30
 0 | Rich Francine | 30
 0 | Pimp Peter | 30
@@ -945,4 +947,4 @@
 0 | Bounty Hunter Roger | 5
 0 | Board Game Cleveland | 5
 0 | Accordian Bill | 5
-310350 | Mastery Stone
+261250 | Mastery Stone
