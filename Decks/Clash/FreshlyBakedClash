@@ -1,0 +1,51 @@
+
+   1 L Bong Rips Francine: 6**
+  11 L Pot Brownies Klaus: 6**
+   2 L Klepto Bender: 6**
+   1 L Burger Hermes: 6**
+   1 L Magic Breath Strips: 6**
+
+----Bong.Rips.Francine----
+5 | Bong Rips Francine
+   1 L Bong Rips Francine: 6**
+----Pot.Brownies.Jeff----
+2 | Pot Brownies Jeff | 100
+----Pot.Brownies.Klaus----
+5 | Pot Brownies Klaus
+  11 L Pot Brownies Klaus: 6**
+----Klepto.Bender----
+2 | Klepto Bender | 30
+   2 L Klepto Bender: 6**
+----Groovy.Fry----
+5 | Groovy Fry
+   1 L Groovy Fry: 2*
+----Burger.Hermes----
+5 | Burger Hermes
+   1 L Burger Hermes: 6**
+----Magic.Breath.Strips----
+3 | Magic Breath Strips | 50
+   1 L Magic Breath Strips: 1
+   1 L Magic Breath Strips: 2*
+   1 L Magic Breath Strips: 6**
+----High.Hank----
+   1 L High Hank: 1
+----Anti.Pot.PSA----
+----Free.Weed.Hayley----
+5 | Free Weed Hayley
+   1 E Free Weed Hayley: 5**
+
+
+tail -11 Decks/Clash/FreshlyBakedClash | while read l; do echo ----$l----; ./cardAndCmGrep.sh "$l" ; done
+
+
+Bong.Rips.Francine
+Pot.Brownies.Jeff
+Pot.Brownies.Klaus
+Klepto.Bender
+Groovy.Fry
+Burger.Hermes
+Magic.Breath.Strips
+High.Hank
+Anti.Pot.PSA
+Free.Weed.Hayley
+Too.High.to.Drive
