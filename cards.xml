@@ -41121,9 +41121,11 @@
 		<set>1001</set>
 		<type>2</type>
 		<trait>toy</trait>
-		<attack_multiplier>0.8</attack_multiplier>
-		<health_multiplier>0.6</health_multiplier>
-		<skill id='leech' p='35' v='12' />
+		<attack_multiplier>0.75</attack_multiplier>
+		<health_multiplier>0.7</health_multiplier>
+		<skill id='leech' p='30' v='12' />
+		<skill id='strike' p='30' v='9' />
+		<skill id='berserk' p='30' v='10'/>
 	</unit>
 	<unit>
 		<id>25083</id>
@@ -41310,10 +41312,11 @@
 		<set>1002</set>
 		<type>2</type>
 		<trait>armed</trait>
-		<attack_multiplier>0.62</attack_multiplier>
-		<health_multiplier>0.82</health_multiplier>
-		<skill id='pierce' p='25' v='15' />
-		<skill id='shrapnel' p='32' v='9' />
+		<attack_multiplier>0.7</attack_multiplier>
+		<health_multiplier>0.76</health_multiplier>
+		<skill id='pierce' p='30' v='15' />
+		<skill id='shrapnel' p='30' v='9' />
+		<skill id='strike' p='30' v='11' />
 	</unit>
 	<unit>
 		<id>25095</id>
@@ -41420,8 +41423,9 @@
 		<trait>musical</trait>
 		<attack_multiplier>0.70</attack_multiplier>
 		<health_multiplier>0.74</health_multiplier>
-		<skill id='rallyall' p='50' v='5' y='musical' />
-		<skill id='strike' p='27' v='10' />
+		<skill id='rallyall' p='36' v='6' />
+		<skill id='strike' p='30' v='10' />
+		<skill id='weakenall' p='36' v='8' />
 	</unit>
 	<unit>
 		<id>25102</id>
@@ -41954,9 +41958,9 @@
         <type>2</type>
         <trait>drunk</trait>
         <attack_multiplier>0.7</attack_multiplier>
-        <health_multiplier>0.7</health_multiplier>
-        <skill id='inspire' p='28' v='7' y='drunk' />
-        <skill id='healall' p='55' v='5' y='drunk' />
+        <health_multiplier>0.73</health_multiplier>
+        <skill id='inspire' p='30' v='8' />
+        <skill id='healall' p='36' v='7' y='drunk' />
         <skill id='leech' p='30' v='11' />
     </unit>
 	<unit>
@@ -42586,10 +42590,10 @@
         <type>2</type>
         <trait>fighter</trait>
         <attack_multiplier>0.72</attack_multiplier>
-        <health_multiplier>0.68</health_multiplier>
-        <skill id='berserk' p='33' v='7' />
-        <skill id='hijack' p='31' v='8'  />
-        <skill id='counter' p='29' v='10' />
+        <health_multiplier>0.69</health_multiplier>
+        <skill id='berserk' p='30' v='7' />
+        <skill id='hijack' p='30' v='10'  />
+        <skill id='counter' p='30' v='10' />
     </unit>
     <unit>
         <id>25176</id>
@@ -100369,6 +100373,21 @@
 		<skill id='poison' p='30' v='11'  />
 		<skill id='leech' p='30' v='12' />
 		<skill id='bunker' p='36' v='9' />
+	</unit>
+		<unit>
+		<id>55263</id>
+		<name>Very Sloshed</name>
+		<picture>FR_VerySloshed</picture>
+		<asset_bundle>93</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>5</type>
+		<trait>drunk</trait>
+		<attack_multiplier>0.7</attack_multiplier>
+		<health_multiplier>0.73</health_multiplier>
+		<skill id='bunker' p='30' v='8'  />
+		<skill id='strike' p='30' v='11' />
+		<skill id='rally' p='30' v='10' />
 	</unit>
 	<!-- END Futurama Combos -->
 
