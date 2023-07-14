@@ -267,6 +267,7 @@
 5 | Pool Shark
 5 | Poppler Jingle Bender
 5 | Postal Lois
+5 | Pot Brownies Jeff
 5 | Pot Brownies Klaus
 5 | Pottery Tina
 5 | Power Choir Roger
@@ -366,11 +367,14 @@
 5 | Wizard Greyfarn
 5 | Wolf Jeff
 5 | Wrestler Stan
+5 | Yard Sale Meg
 5 | Zapp Figurines
 5 | Zombie Jimmy Jr.
+4 | Artsy Steve
 4 | Bazooka Shark Fan Francine | 10
 4 | Betting it All
 4 | Clumpsy Claws Zoidberg | 25
+4 | Country Club Steve | 25
 4 | Doghouse Bobby | 15
 4 | Draw Me Tina | 10
 4 | Eyephone Fry | 40
@@ -383,7 +387,9 @@
 4 | Hank Hill, Running Back | 35
 4 | Hottyz Bill
 4 | Jetpack Kick Leela | 30
+4 | Magic Breath Strips | 15
 4 | Merlot Klaus | 10
+4 | Perfect Husband
 4 | Professor-Bender Swap | 25
 4 | Rubber Knife Peggy | 20
 4 | Sandwitch | 15
@@ -396,7 +402,6 @@
 3 | Captain Bender | 25
 3 | Chosen Brain Fry | 75
 3 | Coach Farnsworth | 5
-3 | Country Club Steve | 60
 3 | Derby Brawling Luanne | 25
 3 | Doomsday Surplus | 20
 3 | Drunk Francine | 5
@@ -414,16 +419,18 @@
 3 | Jellybean Phone Klaus | 30
 3 | Joy of Painting | 15
 3 | Kitchen Knife Snot | 15
-3 | Magic Breath Strips | 50
+3 | Klepto Bender | 5
 3 | One Art Please | 5
 3 | Pirate Cannon Peter | 75
 3 | Placebo Effect | 25
 3 | Polling Peggy | 15
 3 | Principal Peter | 75
 3 | Remote Cars Circuit Bob | 5
+3 | Roller Derby Luanne | 60
 3 | Salmon Fry | 25
 3 | Shark Killer | 15
 3 | Skiing Zoidberg | 75
+3 | Stuffed Alligator | 15
 3 | Swim Lesson | 10
 3 | Victorian Knife Lois | 75
 3 | Video Game Joe | 15
@@ -480,6 +487,7 @@
 2 | Father Archer | 10
 2 | Finch Hermes | 100
 2 | Flamethrower Stewie | 100
+2 | Furry Bullock | 65
 2 | Gamer Stan
 2 | Girl Next Door Stewie | 20
 2 | Goddess of Beauty | 60
@@ -501,7 +509,6 @@
 2 | Kawaii Klaus | 100
 2 | Klaus's Comic
 2 | Klaus's Fish Wife | 20
-2 | Klepto Bender | 30
 2 | Kuchi Kopi Sculptor | 100
 2 | Lab Student Meg | 100
 2 | Laser Razor
@@ -527,11 +534,9 @@
 2 | Paddlin' Peggy | 100
 2 | Painter Zoidberg | 30
 2 | Pan Flute Stewie | 70
-2 | Perfect Husband | 60
 2 | Ping Pong Brian | 60
 2 | Poppler Addict Leela | 5
 2 | Positron Shooter Fry | 20
-2 | Pot Brownies Jeff | 100
 2 | Principal Louise
 2 | Private Brian | 100
 2 | Professor of Emerald Laboratory | 100
@@ -552,7 +557,6 @@
 2 | Robot Making Fry
 2 | Roger Goes Down | 35
 2 | Roller Derby Hayley
-2 | Roller Derby Luanne | 60
 2 | Rough Night Stan | 30
 2 | S and M Lois | 65
 2 | S and M Peter | 100
@@ -646,6 +650,7 @@
 1 | Dog Lois | 90
 1 | Dog Meg
 1 | Dr. C | 5
+1 | Drunk Jeff
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
 1 | Empty Bowl Painting | 5
@@ -705,7 +710,7 @@
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
 1 | Running Back Hank | 125
-1 | Sherlock Zoidberg
+1 | Sherlock Zoidberg | 30
 1 | Shiny Pebbles | 125
 1 | Shut Up and Take My Money | 85
 1 | Sing and Swing | 30
@@ -735,7 +740,6 @@
 1 | Water Polo Steve | 5
 1 | Whiskey Cotton | 5
 1 | Wrestler Peggy | 85
-1 | Yard Sale Meg
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
 0 | Zac Sawyer | 130
@@ -792,7 +796,6 @@
 0 | Electric Love | 120
 0 | Wheels Steve | 115
 0 | High Roller Stewie | 115
-0 | Furry Bullock | 115
 0 | Fire Stuntman | 115
 0 | The Butler | 110
 0 | Blernsball Fry | 110
@@ -810,11 +813,13 @@
 0 | Turkey Handprint | 95
 0 | Rambo Lois | 95
 0 | Frank the Snake | 95
+0 | Wrong Snake | 90
 0 | Puppeteer Luanne | 90
 0 | Painter Tina | 90
 0 | Management Perks | 90
 0 | Grand Theft Hank | 90
-0 | Dodgeball Louise | 90
+0 | Dufflebag Cotton | 90
+0 | Born Fighter | 90
 0 | Were-Car | 85
 0 | Shower Drunk Hayley | 85
 0 | Deer Daddy Steve | 85
@@ -830,7 +835,6 @@
 0 | History Test Chris | 75
 0 | Zinc Saucier | 70
 0 | Topped Off Wine | 70
-0 | Stuffed Alligator | 70
 0 | Senora Hill | 70
 0 | Roach Coach Stan | 70
 0 | I Get What I Want | 70
@@ -907,6 +911,7 @@
 0 | Cinderella Lois | 30
 0 | Christian Rock | 30
 0 | Chest Harpoon | 30
+0 | Bunny Brian | 30
 0 | Bob in the Wall | 30
 0 | Becky | 30
 0 | Artsy Roger | 30
@@ -941,10 +946,11 @@
 0 | Butt Slapper Bobby | 10
 0 | Beer Decision Bill | 10
 0 | Trippy Farnsworth | 5
+0 | Toy Figurine Francine | 5
 0 | Tote Bag Tussle | 5
 0 | Just Mow a Lawn | 5
 0 | CEO Fry | 5
 0 | Bounty Hunter Roger | 5
 0 | Board Game Cleveland | 5
 0 | Accordian Bill | 5
-261250 | Mastery Stone
+240900 | Mastery Stone
