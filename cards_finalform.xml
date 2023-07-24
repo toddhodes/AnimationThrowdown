@@ -110295,6 +110295,112 @@
 			<skill id="rally" x="12"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>150223</id>
+		<combo_card_id>55265</combo_card_id>
+		<attack>9</attack>
+		<health>67</health>
+		<name>One Man Band</name>
+		<picture>FR_OneManBand</picture>
+		<asset_bundle>93</asset_bundle>
+		<rarity>4</rarity>
+		<set>3001</set>
+		<type>5</type>
+		<trait>musical</trait>
+		<skill id="hijack" x="8"/>
+		<skill id="weakenall" x="4"/>
+		<skill id="barrierall" x="4"/>
+		<card_type>object</card_type>
+		<upgrade>
+			<level>2</level>
+			<health>68</health>
+			<skill id="weakenall" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>69</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>70</health>
+			<skill id="hijack" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>72</health>
+			<skill id="barrierall" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>10</attack>
+			<health>73</health>
+			<skill id="weakenall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>74</health>
+			<skill id="hijack" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>76</health>
+			<skill id="hijack" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>77</health>
+			<skill id="weakenall" x="7"/>
+			<skill id="barrierall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>11</attack>
+			<health>78</health>
+			<skill id="hijack" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>79</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>81</health>
+			<skill id="hijack" x="13"/>
+			<skill id="weakenall" x="8"/>
+			<skill id="barrierall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>82</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>12</attack>
+			<health>83</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>85</health>
+			<skill id="hijack" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>86</health>
+			<skill id="weakenall" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>87</health>
+			<skill id="hijack" x="15"/>
+			<skill id="barrierall" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>13</attack>
+			<health>89</health>
+			<skill id="hijack" x="16"/>
+		</upgrade>
+	</unit>
 	<!-- end Futurama Final Forms -->
 
 	<!-- Archer Final Forms -->
