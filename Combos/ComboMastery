@@ -72,6 +72,7 @@
 5 | Cigarette Addicts
 5 | Class Spanker
 5 | Claw-Plach Fry
+5 | Clumpsy Claws Zoidberg
 5 | Cock Fight Steve
 5 | Cognac Bender
 5 | College Student Hayley
@@ -90,6 +91,7 @@
 5 | Cupid Bobby
 5 | Cute Witch of the North
 5 | Cyclist Jimmy Jr.
+5 | DJ Buttercup
 5 | Dance of Peace
 5 | Dancing Cans
 5 | Dating Game Steve
@@ -137,7 +139,9 @@
 5 | Freezerdome Gene
 5 | Fry in Robot Disguise
 5 | Fry's Painting
+5 | Frydo
 5 | Fur Coat Lois
+5 | Furry Bullock
 5 | Future Rich Snot
 5 | Gaga Ball
 5 | Gambling Drunk
@@ -373,24 +377,25 @@
 4 | Artsy Steve
 4 | Bazooka Shark Fan Francine | 10
 4 | Betting it All
-4 | Clumpsy Claws Zoidberg | 25
 4 | Country Club Steve | 25
-4 | Doghouse Bobby | 15
+4 | Doghouse Bobby | 40
 4 | Draw Me Tina | 10
 4 | Eyephone Fry | 40
 4 | Falcon Attack Quagmire | 10
-4 | Frydo | 40
 4 | Gambler Cotton
 4 | Game Machine Zoidberg | 5
 4 | Garbage Shot Linda | 25
 4 | Gayle Force Winds
+4 | Glasses Buyer Leela | 40
 4 | Hank Hill, Running Back | 35
 4 | Hottyz Bill
 4 | Jetpack Kick Leela | 30
 4 | Magic Breath Strips | 15
 4 | Merlot Klaus | 10
 4 | Perfect Husband
+4 | Principal Peter | 40
 4 | Professor-Bender Swap | 25
+4 | Roller Derby Luanne | 40
 4 | Rubber Knife Peggy | 20
 4 | Sandwitch | 15
 4 | Shaken Not Stirred | 35
@@ -408,9 +413,10 @@
 3 | Eugenia Chatterteeth | 75
 3 | Fake Daughter Louise | 10
 3 | Falconer Hayley | 10
+3 | Flamethrower Stewie | 75
 3 | Fort Kickass | 35
 3 | Fry's Macaroni Art | 25
-3 | Gallant Bender | 10
+3 | Gallant Bender | 75
 3 | Gatsby Brian | 5
 3 | Horse Whisperer Joe | 5
 3 | Hot Cocoa Gene | 25
@@ -420,13 +426,13 @@
 3 | Joy of Painting | 15
 3 | Kitchen Knife Snot | 15
 3 | Klepto Bender | 5
+3 | NRA Member | 75
 3 | One Art Please | 5
+3 | Painter Zoidberg | 5
 3 | Pirate Cannon Peter | 75
 3 | Placebo Effect | 25
 3 | Polling Peggy | 15
-3 | Principal Peter | 75
 3 | Remote Cars Circuit Bob | 5
-3 | Roller Derby Luanne | 60
 3 | Salmon Fry | 25
 3 | Shark Killer | 15
 3 | Skiing Zoidberg | 75
@@ -486,8 +492,6 @@
 2 | Fashion Fight | 30
 2 | Father Archer | 10
 2 | Finch Hermes | 100
-2 | Flamethrower Stewie | 100
-2 | Furry Bullock | 65
 2 | Gamer Stan
 2 | Girl Next Door Stewie | 20
 2 | Goddess of Beauty | 60
@@ -524,15 +528,14 @@
 2 | Mocktrial Louise
 2 | Mount Toy Louise | 5
 2 | Mural Restorer | 100
-2 | NRA Member | 100
 2 | Nacho Addict Bender | 100
 2 | Nasal Spray Peter | 100
 2 | Never Have I Ever | 100
+2 | New Outfit Klaus | 10
 2 | Nun Linda | 30
 2 | Opera Singer Leela | 60
 2 | Paddler Jeff
 2 | Paddlin' Peggy | 100
-2 | Painter Zoidberg | 30
 2 | Pan Flute Stewie | 70
 2 | Ping Pong Brian | 60
 2 | Poppler Addict Leela | 5
@@ -616,7 +619,7 @@
 1 | Anally Defaced | 125
 1 | Ancient Cave Writing | 125
 1 | Anger Management Class | 125
-1 | Appetizer Addict Brian | 95
+1 | Appetizer Addict Brian | 120
 1 | Artsy Tina | 5
 1 | Author Fry | 20
 1 | Baseball Dale | 35
@@ -643,7 +646,6 @@
 1 | Crackers
 1 | Crayon Drawing | 125
 1 | Credit Card Joe | 25
-1 | DJ Buttercup | 125
 1 | Debate Club Tina
 1 | Dodgeball Louise | 85
 1 | Dog Bone Stan | 5
@@ -662,6 +664,7 @@
 1 | Garden Shovel Bobby | 125
 1 | Gargoyle Hunter | 5
 1 | Gas Class | 25
+1 | Globe Racer Bill | 10
 1 | Goth Bullock | 25
 1 | Griffin and Quagmire | 5
 1 | Groupie Francine | 25
@@ -726,7 +729,7 @@
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 125
 1 | Stabbing Farnsworth | 55
-1 | Steak Addict Bobby | 100
+1 | Steak Addict Bobby | 125
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
 1 | Swim Teacher Bob | 90
@@ -736,6 +739,7 @@
 1 | Tennis Francine | 15
 1 | Toga Bill | 5
 1 | Torah Snot | 70
+1 | Toy Figurine Francine
 1 | Treasure Hunter Peter | 15
 1 | Water Polo Steve | 5
 1 | Whiskey Cotton | 5
@@ -794,7 +798,6 @@
 0 | Slurm Queen | 120
 0 | Powderpuff | 120
 0 | Electric Love | 120
-0 | Wheels Steve | 115
 0 | High Roller Stewie | 115
 0 | Fire Stuntman | 115
 0 | The Butler | 110
@@ -819,6 +822,7 @@
 0 | Management Perks | 90
 0 | Grand Theft Hank | 90
 0 | Dufflebag Cotton | 90
+0 | Dictator Roger | 90
 0 | Born Fighter | 90
 0 | Were-Car | 85
 0 | Shower Drunk Hayley | 85
@@ -841,6 +845,7 @@
 0 | Top of the Pecking Order | 65
 0 | Paranoid Louise | 65
 0 | Cat Dragon | 65
+0 | CEO Fry | 65
 0 | Space Walk | 60
 0 | Solid Gold Tuxedo | 60
 0 | Sidearm Brian | 60
@@ -928,6 +933,7 @@
 0 | Plops | 20
 0 | Knitting Peter | 20
 0 | Green Russians | 20
+0 | Breast Milk Addict | 20
 0 | Paintball Bill | 15
 0 | Bayonet Cotton | 15
 0 | Wrestler Amy | 10
@@ -946,11 +952,9 @@
 0 | Butt Slapper Bobby | 10
 0 | Beer Decision Bill | 10
 0 | Trippy Farnsworth | 5
-0 | Toy Figurine Francine | 5
 0 | Tote Bag Tussle | 5
 0 | Just Mow a Lawn | 5
-0 | CEO Fry | 5
 0 | Bounty Hunter Roger | 5
 0 | Board Game Cleveland | 5
 0 | Accordian Bill | 5
-240900 | Mastery Stone
+308500 | Mastery Stone
