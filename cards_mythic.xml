@@ -17833,7 +17833,7 @@
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
 		<release_time>1656612000</release_time>
 		<attack>14</attack>
-		<health>55</health>
+		<health>58</health>
 		<rarity>5</rarity>
 		<skill id="armored" x="6"/>
 		<skill id="enlarge" x="4"/>
@@ -17842,7 +17842,7 @@
 		<set>7001</set>
 		<upgrade>
 			<level>2</level>
-			<health>56</health>
+			<health>59</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
@@ -17850,7 +17850,6 @@
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>57</health>
 			<skill id="armored" x="6"/>
 			<skill id="enlarge" x="5"/>
 			<skill id="hijack" x="7"/>
@@ -17863,7 +17862,7 @@
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>58</health>
+			<health>60</health>
 			<skill id="armored" x="7"/>
 			<skill id="enlarge" x="5"/>
 			<skill id="hijack" x="8"/>
@@ -17874,12 +17873,12 @@
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>59</health>
+			<health>61</health>
 			<attack>17</attack>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>60</health>
+			<health>62</health>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
@@ -17895,16 +17894,16 @@
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<health>61</health>
+			<health>63</health>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>62</health>
+			<health>64</health>
 			<attack>18</attack>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>63</health>
+			<health>65</health>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
@@ -17921,16 +17920,16 @@
 		<upgrade>
 			<level>17</level>
 			<attack>19</attack>
-			<health>64</health>
+			<health>66</health>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>65</health>
+			<health>67</health>
 			</upgrade>
 		<upgrade>
 			<level>19</level>
 			<attack>20</attack>
-			<health>66</health>
+			<health>68</health>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
@@ -18467,7 +18466,305 @@
 			<skill id="weaken" x="17"/>
 		</upgrade>
 	</unit>
-
+	<unit>
+		<id>1700006</id>
+		<name>Ray Gillette</name>
+		<character>ar_ray</character>
+		<picture>AR_Ray_Mythic</picture>
+		<asset_bundle>91</asset_bundle>
+		<item_name>Ray Gillette Fragment</item_name>
+		<item_desc>Collect Ray Gillette Fragments to craft and upgrade a Mythic Ray Gillette card</item_desc>
+		<item_icon>inventory_upgrade_50_inventory</item_icon>
+		<item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<attack>14</attack>
+		<health>61</health>
+		<rarity>5</rarity>
+		<skill id="strike" x="8"/>
+		<skill id="weaken" x="9"/>
+		<skill id="berserk" x="6"/>
+		<type>7</type>
+		<set>7001</set>
+		<upgrade>
+			<level>2</level>
+			<health>62</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>63</health>
+			<skill id="strike" x="8"/>
+			<skill id="weaken" x="10"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>64</health>
+			<skill id="strike" x="8"/>
+			<skill id="weaken" x="10"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>65</health>
+			<skill id="strike" x="8"/>
+			<skill id="weaken" x="11"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>66</health>
+			<skill id="strike" x="9"/>
+			<skill id="weaken" x="11"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<attack>15</attack>
+			<health>67</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>68</health>
+			<skill id="strike" x="9"/>
+			<skill id="weaken" x="12"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>69</health>
+			<skill id="strike" x="9"/>
+			<skill id="weaken" x="12"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>70</health>
+			<skill id="strike" x="9"/>
+			<skill id="weaken" x="13"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>71</health>
+			<skill id="strike" x="10"/>
+			<skill id="weaken" x="13"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>72</health>
+			<skill id="strike" x="10"/>
+			<skill id="weaken" x="13"/>
+			<skill id="berserk" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>73</health>
+			<skill id="strike" x="10"/>
+			<skill id="weaken" x="14"/>
+			<skill id="berserk" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>16</attack>
+			<health>74</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>75</health>
+			<skill id="strike" x="10"/>
+			<skill id="weaken" x="15"/>
+			<skill id="berserk" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>76</health>
+			<skill id="strike" x="11"/>
+			<skill id="weaken" x="15"/>
+			<skill id="berserk" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>77</health>
+			<skill id="strike" x="11"/>
+			<skill id="weaken" x="15"/>
+			<skill id="berserk" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>78</health>
+			<skill id="strike" x="11"/>
+			<skill id="weaken" x="16"/>
+			<skill id="berserk" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>79</health>
+			<attack>17</attack>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>80</health>
+			<skill id="strike" x="11"/>
+			<skill id="weaken" x="17"/>
+			<skill id="berserk" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<skill id="strike" x="12"/>
+			<skill id="weaken" x="17"/>
+			<skill id="berserk" x="11"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>1700007</id>
+		<name>Brett Bunson</name>
+		<picture>AR_Brett Bunson</picture>
+		<asset_bundle>89</asset_bundle>
+		<item_name>Brett Bunson Fragment</item_name>
+		<item_desc>Collect Brett Bunson Fragments to craft and upgrade a Mythic Brett Bunson card</item_desc>
+		<item_icon>inventory_upgrade_50_inventory</item_icon>
+		<item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<attack>11</attack>
+		<health>77</health>
+		<rarity>5</rarity>
+		<skill id="outlast" x="11"/>
+		<skill id="strike" x="7"/>
+		<skill id="pierce" x="11"/>
+		<type>7</type>
+		<trait>armed</trait>
+		<set>7001</set>
+		<upgrade>
+			<level>2</level>
+			<health>78</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>79</health>
+			<skill id="outlast" x="11"/>
+			<skill id="strike" x="7"/>
+			<skill id="pierce" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>81</health>
+			<skill id="outlast" x="12"/>
+			<skill id="strike" x="7"/>
+			<skill id="pierce" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>82</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>83</health>
+			<skill id="outlast" x="12"/>
+			<skill id="strike" x="8"/>
+			<skill id="pierce" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>85</health>
+			<skill id="outlast" x="13"/>
+			<skill id="strike" x="8"/>
+			<skill id="pierce" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>86</health>
+			<skill id="outlast" x="13"/>
+			<skill id="strike" x="8"/>
+			<skill id="pierce" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>87</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>89</health>
+			<skill id="outlast" x="13"/>
+			<skill id="strike" x="9"/>
+			<skill id="pierce" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>90</health>
+			<skill id="outlast" x="14"/>
+			<skill id="strike" x="9"/>
+			<skill id="pierce" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>91</health>
+			<skill id="outlast" x="14"/>
+			<skill id="strike" x="9"/>
+			<skill id="pierce" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>93</health>
+			<skill id="outlast" x="15"/>
+			<skill id="strike" x="9"/>
+			<skill id="pierce" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>94</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>95</health>
+			<skill id="outlast" x="15"/>
+			<skill id="strike" x="10"/>
+			<skill id="pierce" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>97</health>
+			<skill id="outlast" x="15"/>
+			<skill id="strike" x="10"/>
+			<skill id="pierce" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>98</health>
+			<skill id="outlast" x="16"/>
+			<skill id="strike" x="10"/>
+			<skill id="pierce" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>99</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>101</health>
+			<skill id="outlast" x="16"/>
+			<skill id="strike" x="10"/>
+			<skill id="pierce" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>102</health>
+			<skill id="outlast" x="16"/>
+			<skill id="strike" x="11"/>
+			<skill id="pierce" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>104</health>
+			<skill id="outlast" x="17"/>
+			<skill id="strike" x="11"/>
+			<skill id="pierce" x="16"/>
+		</upgrade>
+	</unit>
 	<!-- ARG Reward -->
 
 	<unit>
