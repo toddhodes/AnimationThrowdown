@@ -87750,6 +87750,110 @@
 			<skill id="hijack" x="16"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>140205</id>
+		<combo_card_id>45033</combo_card_id>
+		<attack>11</attack>
+		<health>61</health>
+		<name>ADD Luanne</name>
+		<desc>FUN FACT: Children with ADD have difficulty getting along with others.</desc>
+		<picture>ADDLuanne</picture>
+		<asset_bundle>10</asset_bundle>
+		<rarity>4</rarity>
+		<set>3001</set>
+		<type>4</type>
+		<trait>addicted</trait>
+		<skill id="pierce" x="5"/>
+		<skill id="leech" x="6"/>
+		<skill id="berserk" x="3"/>
+		<card_type>object</card_type>
+		<upgrade>
+			<level>2</level>
+			<health>62</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>63</health>
+			<skill id="pierce" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>65</health>
+			<skill id="leech" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>66</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>68</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<attack>12</attack>
+			<health>69</health>
+			<skill id="pierce" x="7"/>
+			<skill id="leech" x="8"/>
+			<skill id="berserk" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>71</health>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>72</health>
+			<skill id="pierce" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>74</health>
+			<skill id="leech" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>75</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>77</health>
+			<skill id="pierce" x="9"/>
+			<skill id="leech" x="10"/>
+			<skill id="berserk" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<attack>13</attack>
+			<health>78</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>80</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>81</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>83</health>
+			<skill id="pierce" x="10"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>84</health>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>14</attack>
+			<health>86</health>
+			<skill id="pierce" x="11"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+	</unit>
 	<!-- end King of the Hill Final Forms -->
 	<!-- Futurama Final Forms -->
 	
@@ -116001,6 +116105,212 @@
 			<skill id="counter" x="17"/>
 			<skill id="leech" x="17"/>
 			<skill id="bodyguard" x="11"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>170054</id>
+		<combo_card_id>77042</combo_card_id>
+		<attack>12</attack>
+		<health>58</health>
+		<name>Space Tank</name>
+		<picture>AR_Space Tank</picture>
+		<asset_bundle>89</asset_bundle>
+		<rarity>4</rarity>
+		<set>3001</set>
+		<type>7</type>
+		<trait>armed</trait>
+		<skill id="shrapnel" x="5"/>
+		<skill id="bunker" x="5"/>
+		<skill id="enlarge" x="4"/>
+		<card_type>object</card_type>
+		<upgrade>
+			<level>2</level>
+			<health>59</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>60</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>61</health>
+			<skill id="enlarge" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>63</health>
+			<skill id="shrapnel" x="6"/>
+			<skill id="bunker" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>13</attack>
+			<health>64</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>65</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>67</health>
+			<skill id="enlarge" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>68</health>
+			<skill id="shrapnel" x="7"/>
+			<skill id="bunker" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>14</attack>
+			<health>69</health>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>70</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>72</health>
+			<skill id="shrapnel" x="8"/>
+			<skill id="bunker" x="8"/>
+			<skill id="enlarge" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>73</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>15</attack>
+			<health>74</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>76</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>77</health>
+			<skill id="shrapnel" x="9"/>
+			<skill id="bunker" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>78</health>
+			<skill id="enlarge" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>16</attack>
+			<health>80</health>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>170055</id>
+		<combo_card_id>77018</combo_card_id>
+		<attack>12</attack>
+		<health>58</health>
+		<name>Smoke Bomb!</name>
+		<picture>AR_Smoke Bomb</picture>
+		<asset_bundle>89</asset_bundle>
+		<rarity>4</rarity>
+		<set>3001</set>
+		<type>7</type>
+		<trait>armed</trait>
+		<skill id="bodyguard" x="5"/>
+		<skill id="shrapnel" x="5"/>
+		<skill id="pierce" x="7"/>
+		<card_type>object</card_type>
+		<upgrade>
+			<level>2</level>
+			<health>59</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>60</health>
+			<skill id="pierce" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>61</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<attack>13</attack>
+			<health>62</health>
+			<skill id="bodyguard" x="6"/>
+			<skill id="shrapnel" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>63</health>
+			<skill id="pierce" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>64</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<attack>14</attack>
+			<health>65</health>
+			<skill id="pierce" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>66</health>
+			<skill id="bodyguard" x="7"/>
+			<skill id="shrapnel" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>68</health>
+			<skill id="pierce" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>69</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<attack>15</attack>
+			<health>70</health>
+			<skill id="bodyguard" x="8"/>
+			<skill id="shrapnel" x="8"/>
+			<skill id="pierce" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>71</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>72</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<attack>16</attack>
+			<health>73</health>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>74</health>
+			<skill id="bodyguard" x="9"/>
+			<skill id="shrapnel" x="9"/>
+			<skill id="pierce" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>75</health>
+			<skill id="pierce" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>17</attack>
+			<health>77</health>
 		</upgrade>
 	</unit>
 	<!-- End Archer FF -->
