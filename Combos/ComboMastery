@@ -459,6 +459,7 @@
 2 | Bender's Orphanarium | 70
 2 | Blueberry Picker | 100
 2 | Booty Shaking Drunk | 100
+2 | Born Fighter | 60
 2 | Boy Crazy Louise | 5
 2 | Boy Crazy | 25
 2 | Bruce the Goose | 30
@@ -640,6 +641,7 @@
 1 | Burobu Addict | 125
 1 | Butcher Knife Jeff
 1 | Butt Toucher Tina | 5
+1 | CEO Fry | 125
 1 | Cake Knife | 20
 1 | Caveman Chris
 1 | Chainsaw Spider | 25
@@ -648,7 +650,7 @@
 1 | Congo Jack | 5
 1 | Cough Syrup Drunk | 50
 1 | Cowpoke | 125
-1 | Crackers
+1 | Crackers | 10
 1 | Crayon Drawing | 125
 1 | Credit Card Joe | 25
 1 | Debate Club Tina
@@ -732,6 +734,7 @@
 1 | Sneak Tackle Hank | 95
 1 | Song and Dance Stewie | 75
 1 | Space Queen | 125
+1 | Space Tank | 100
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 125
 1 | Steak Addict Bobby | 125
@@ -760,7 +763,6 @@
 0 | The Environmentalist | 130
 0 | Texting Addict Stan | 130
 0 | Swiss Miss | 130
-0 | Space Tank | 130
 0 | Sniper Zoidberg | 130
 0 | Smoke Bomb! | 130
 0 | Sled Armor Louise | 130
@@ -800,7 +802,6 @@
 0 | Beer Funnel Peter | 130
 0 | Beefsquatch | 130
 0 | Armadillo Boomhauer | 130
-0 | CEO Fry | 125
 0 | Butt Closet | 125
 0 | Too High to Drive | 120
 0 | Slurm Queen | 120
@@ -831,7 +832,6 @@
 0 | Management Perks | 90
 0 | Grand Theft Hank | 90
 0 | Dufflebag Cotton | 90
-0 | Born Fighter | 90
 0 | Were-Car | 85
 0 | Shower Drunk Hayley | 85
 0 | Deer Daddy Steve | 85
@@ -966,4 +966,4 @@
 0 | Bounty Hunter Roger | 5
 0 | Board Game Cleveland | 5
 0 | Accordian Bill | 5
-399950 | Mastery Stone
+409150 | Mastery Stone
