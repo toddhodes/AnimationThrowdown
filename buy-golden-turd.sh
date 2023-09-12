@@ -16,8 +16,11 @@ fi
 
 for i in `seq 1 $count`
 do
+
+#&cost_type=2&clisig=a35c58e95e1f4f7254182a5d7a220b5e&item_id=63&quantity=1&msgsig=06414570c81dfd5bf70811e4054f3fd5&client_time=1693037979&expected_cost=0' 
+
   curl -s 'https://cb-live.synapse-games.com/api.php?message=buyStoreItem&user_id='$user_id \
-    --data 'password='$password_hash'&cost_type=2&item_id=62&quantity=1' | jq . | tee o-golden | jq .new_units[].unit_id
+    --data 'password='$password_hash'&cost_type=2&item_id=63&quantity=1' | jq . | tee o-golden | jq .new_units[].unit_id
 
   if [ `cat o-golden | jq .result` == "false" ] 
   then
