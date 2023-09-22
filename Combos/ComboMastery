@@ -84,7 +84,7 @@
 5 | Country Club Stan
 5 | Coyote Fighter Chris
 5 | Crack Addict Stan
-5 | Crack Addicted Fish
+5 | Crack addicted Fish
 5 | Cranberry Bog
 5 | Crate Trained Steve
 5 | CrippleTron
@@ -127,6 +127,7 @@
 5 | Farnsworth's Cat
 5 | Fart School Louise
 5 | Fart in a Jar
+5 | Father Archer
 5 | Feed the Dodo
 5 | Fever Dreams
 5 | Finch Leela
@@ -322,6 +323,7 @@
 5 | Sower of Revenge
 5 | Space Honey
 5 | Space Pistol Fry
+5 | Space Tank
 5 | Sportsfan Joe
 5 | Squirrel Death
 5 | Stan vs Mafia
@@ -354,6 +356,7 @@
 5 | Trapeze Bob
 5 | Traumatized Dale
 5 | Treasure Hunter Lois
+5 | Trippy Zoidberg
 5 | Tropical Drinks
 5 | Umbriel
 5 | Unsharp Scissors Zapp
@@ -383,6 +386,7 @@
 4 | Artsy Steve
 4 | Bazooka Shark Fan Francine | 10
 4 | Betting it All
+4 | Born Fighter
 4 | Country Club Steve | 25
 4 | Dictator Roger
 4 | Doghouse Bobby | 40
@@ -401,6 +405,7 @@
 4 | Magic Breath Strips | 15
 4 | Merlot Klaus | 10
 4 | Perfect Husband
+4 | Placebo Effect | 5
 4 | Poppler Addict Leela | 10
 4 | Principal Peter | 40
 4 | Professor-Bender Swap | 25
@@ -414,11 +419,13 @@
 3 | Archer Klaus | 25
 3 | BABOU!!!! | 75
 3 | Balloon Sniper | 75
+3 | Burobu Addict | 40
 3 | Captain Bender | 25
 3 | Chosen Brain Fry | 75
 3 | Coach Farnsworth | 5
+3 | Crackers | 10
 3 | Derby Brawling Luanne | 25
-3 | Doomsday Surplus | 20
+3 | Doomsday Surplus | 75
 3 | Drunk Francine | 5
 3 | Eugenia Chatterteeth | 75
 3 | Fake Daughter Louise | 10
@@ -431,12 +438,11 @@
 3 | Ira | 20
 3 | Jellybean Phone Klaus | 30
 3 | Joy of Painting | 15
-3 | Kitchen Knife Snot | 15
+3 | Kitchen Knife Snot | 75
 3 | Klepto Bender | 5
 3 | One Art Please | 5
 3 | Painter Zoidberg | 5
 3 | Pirate Cannon Peter | 75
-3 | Placebo Effect | 25
 3 | Polling Peggy | 15
 3 | Remote Cars Circuit Bob | 5
 3 | Salmon Fry | 25
@@ -447,6 +453,7 @@
 3 | Video Game Joe | 15
 3 | Working Girl Tina | 40
 3 | Xerxes the Falcon | 15
+2 | "Malory"
 2 | 60s Amy | 10
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg
@@ -459,12 +466,12 @@
 2 | Bender's Orphanarium | 70
 2 | Blueberry Picker | 100
 2 | Booty Shaking Drunk | 100
-2 | Born Fighter | 60
 2 | Boy Crazy Louise | 5
 2 | Boy Crazy | 25
-2 | Bruce the Goose | 30
+2 | Bruce the Goose | 100
 2 | Buff Fry
 2 | Burgers and Fries Louise | 30
+2 | CEO Fry | 100
 2 | Captain Feathers
 2 | Captain Leela | 60
 2 | Castanet Zoidberg | 70
@@ -485,7 +492,7 @@
 2 | Comic Artist Peter | 100
 2 | Corporate Training | 35
 2 | Counting Klaus | 50
-2 | Crime Addict Joe | 5
+2 | Crime Addict Joe | 30
 2 | Dancing Peggy | 10
 2 | Date Wine Zoidberg | 100
 2 | Diamond Ring Lois | 100
@@ -496,7 +503,6 @@
 2 | Fake Son Gene | 90
 2 | Family Fracas | 10
 2 | Fashion Fight | 30
-2 | Father Archer | 10
 2 | Finch Hermes | 100
 2 | Gamer Stan
 2 | Girl Next Door Stewie | 20
@@ -526,6 +532,7 @@
 2 | Leela Balloon Art
 2 | Life Drawing Hayley | 10
 2 | Louise Chatterteeth | 60
+2 | Luxury Yacht | 15
 2 | Marionette Chris | 100
 2 | Marionette Louise | 20
 2 | Meg Meggy Meg | 5
@@ -604,7 +611,6 @@
 2 | Torch Bearer Hank | 80
 2 | Trash Can Drunk | 100
 2 | Tree | 65
-2 | Trippy Zoidberg | 100
 2 | Tuning Fork | 100
 2 | Two Butt Goat
 2 | Vengeance Quagmire | 40
@@ -625,6 +631,7 @@
 1 | Anally Defaced | 125
 1 | Ancient Cave Writing | 125
 1 | Anger Management Class | 125
+1 | Angry Drunk | 20
 1 | Appetizer Addict Brian | 120
 1 | Artsy Tina | 5
 1 | Author Fry | 20
@@ -638,10 +645,8 @@
 1 | Bobsled Hermes | 50
 1 | Body Paint Date | 125
 1 | Boombox Teddy
-1 | Burobu Addict | 125
 1 | Butcher Knife Jeff
 1 | Butt Toucher Tina | 5
-1 | CEO Fry | 125
 1 | Cake Knife | 20
 1 | Caveman Chris
 1 | Chainsaw Spider | 25
@@ -650,7 +655,6 @@
 1 | Congo Jack | 5
 1 | Cough Syrup Drunk | 50
 1 | Cowpoke | 125
-1 | Crackers | 10
 1 | Crayon Drawing | 125
 1 | Credit Card Joe | 25
 1 | Debate Club Tina
@@ -662,6 +666,7 @@
 1 | Drunk Jeff
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
+1 | Elephant Seal Kif | 5
 1 | Empty Bowl Painting | 5
 1 | Essay Jeff | 10
 1 | Farnsworth on Skiis | 125
@@ -677,6 +682,7 @@
 1 | Groupie Francine | 25
 1 | Guenter | 30
 1 | Gut Punch Zapp | 125
+1 | Gut Punch | 25
 1 | Half-Horse Peter | 55
 1 | Hipster Donald | 25
 1 | History Report Gene | 125
@@ -690,7 +696,9 @@
 1 | Knife Sharpener Linda | 125
 1 | Lady Bird | 65
 1 | Laser Tag Brian | 125
+1 | Laughing Gas Bob | 55
 1 | Leela's Harpoon | 15
+1 | Lonely Lacrosse | 20
 1 | Love Potion | 125
 1 | Married Brian | 125
 1 | Master Robaire | 70
@@ -734,7 +742,6 @@
 1 | Sneak Tackle Hank | 95
 1 | Song and Dance Stewie | 75
 1 | Space Queen | 125
-1 | Space Tank | 100
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 125
 1 | Steak Addict Bobby | 125
@@ -749,6 +756,7 @@
 1 | Torah Snot | 70
 1 | Toy Figurine Francine
 1 | Treasure Hunter Peter | 15
+1 | Very Sloshed | 5
 1 | Water Polo Steve | 5
 1 | Wedding Decorator
 1 | Whiskey Cotton | 5
@@ -829,9 +837,12 @@
 0 | Tuxedo Bob | 90
 0 | Puppeteer Luanne | 90
 0 | Painter Tina | 90
+0 | Mech Suit Francine | 90
 0 | Management Perks | 90
+0 | High School Dale | 90
 0 | Grand Theft Hank | 90
 0 | Dufflebag Cotton | 90
+0 | Chainsaw Hank | 90
 0 | Were-Car | 85
 0 | Shower Drunk Hayley | 85
 0 | Deer Daddy Steve | 85
@@ -859,7 +870,6 @@
 0 | Sex Ed Peter | 60
 0 | Oktoberfest Amy | 60
 0 | Line Dancer Amy | 60
-0 | Laughing Gas Bob | 60
 0 | Fowl Fighter Linda | 60
 0 | Flying Machine Stewie | 60
 0 | Baby Bender | 60
@@ -874,6 +884,7 @@
 0 | Top of the Morning | 45
 0 | Ripped Bullock | 45
 0 | Rabbit Fight | 45
+0 | Pilot Training | 45
 0 | Football Stewie | 45
 0 | Dark Arts Tina | 45
 0 | Young Hermes | 40
@@ -886,6 +897,7 @@
 0 | Drunk Fry | 40
 0 | Dodgeball Meg | 40
 0 | Board Game Bobby | 40
+0 | Ray-Bot | 35
 0 | Party Board | 35
 0 | Painter Francine | 35
 0 | One Eyed Orphan | 35
@@ -899,6 +911,7 @@
 0 | Stevie Wonderbra | 30
 0 | Stan's Grill | 30
 0 | Squirrel Suit Hayley | 30
+0 | Spy Brian | 30
 0 | Show and Tell | 30
 0 | Sharpshooter Bobby | 30
 0 | Sexy Cowardly Lion Stan | 30
@@ -912,6 +925,7 @@
 0 | Mascot Race | 30
 0 | Karate Francine | 30
 0 | Junkie Hank | 30
+0 | Jungle Machete | 30
 0 | Hungover Steve | 30
 0 | Gene It On | 30
 0 | Game Night Jeff | 30
@@ -959,11 +973,14 @@
 0 | Cheerleader Lois | 10
 0 | Butt Slapper Bobby | 10
 0 | Beer Decision Bill | 10
+0 | War Paint Kif | 5
 0 | Trippy Farnsworth | 5
 0 | Tote Bag Tussle | 5
 0 | Rocket Launcher Bullock | 5
+0 | Redneck Ray | 5
 0 | Just Mow a Lawn | 5
+0 | Jungle Spider | 5
 0 | Bounty Hunter Roger | 5
 0 | Board Game Cleveland | 5
 0 | Accordian Bill | 5
-409150 | Mastery Stone
+313500 | Mastery Stone
