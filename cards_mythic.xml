@@ -144,7 +144,7 @@
         <item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
 		<attack>16</attack>
-		<health>48</health>
+		<health>52</health>
 		<rarity>5</rarity>
 		<skill id="shrapnel" x="6"/>
 		<skill id="leech" x="14"/>
@@ -153,7 +153,7 @@
 		<set>7001</set>
 		<upgrade>
 			<level>2</level>
-			<health>49</health>
+			<health>53</health>
 			<skill id="shrapnel" x="6"/>
 			<skill id="leech" x="14"/>
 			<skill id="poison" x="11"/>
@@ -167,17 +167,18 @@
 		<upgrade>
 			<level>4</level>
 			<attack>16</attack>
-			<health>50</health>
+			<health>54</health>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>51</health>
+			<health>55</health>
 			<skill id="shrapnel" x="7"/>
 			<skill id="leech" x="15"/>
 			<skill id="poison" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
+			<health>56</health>
 			<skill id="shrapnel" x="7"/>
 			<skill id="leech" x="15"/>
 			<skill id="poison" x="12"/>
@@ -185,7 +186,7 @@
 		<upgrade>
 			<level>7</level>
 			<attack>16</attack>
-			<health>53</health>
+			<health>57</health>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
@@ -195,7 +196,7 @@
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>55</health>
+			<health>58</health>
 			<skill id="shrapnel" x="7"/>
 			<skill id="leech" x="16"/>
 			<skill id="poison" x="13"/>
@@ -203,29 +204,30 @@
 		<upgrade>
 			<level>10</level>
 			<attack>17</attack>
-			<health>56</health>
+			<health>59</health>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>57</health>
+			<health>60</health>
 			<skill id="shrapnel" x="8"/>
 			<skill id="leech" x="16"/>
 			<skill id="poison" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
+			<health>61</health>
 			<skill id="shrapnel" x="8"/>
 			<skill id="leech" x="17"/>
 			<skill id="poison" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>58</health>
+			<health>62</health>
 			<attack>18</attack>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>59</health>
+			<health>63</health>
 			<skill id="shrapnel" x="8"/>
 			<skill id="leech" x="17"/>
 			<skill id="poison" x="15"/>
@@ -245,32 +247,33 @@
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<health>59</health>
+			<health>64</health>
 			<skill id="shrapnel" x="9"/>
 			<skill id="leech" x="18"/>
 			<skill id="poison" x="16"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>60</health>
+			<health>65</health>
 			<skill id="shrapnel" x="9"/>
 			<skill id="leech" x="19"/>
 			<skill id="poison" x="16"/>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<health>62</health>
+			<health>66</health>
 			<attack>20</attack>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
-			<health>64</health>
+			<health>67</health>
 			<skill id="shrapnel" x="9"/>
 			<skill id="leech" x="20"/>
 			<skill id="poison" x="17"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
+			<health>68</health>
 			<skill id="shrapnel" x="10"/>
 			<skill id="leech" x="21"/>
 			<skill id="poison" x="17"/>
@@ -595,7 +598,7 @@
         <item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
 		<attack>16</attack>
-		<health>46</health>
+		<health>58</health>
 		<rarity>5</rarity>
 		<skill id="inspire" x="7"/>
 		<skill id="healall" x="4" y="artistic"/>
@@ -605,26 +608,24 @@
 		<set>7002</set>
 		<upgrade>
 			<level>2</level>
-			<health>47</health>
 			<attack>17</attack>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>48</health>
 			<skill id="inspire" x="8"/>
 			<skill id="healall" x="4" y="artistic"/>
 			<skill id="hijack" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>49</health>
+			<health>58</health>
 			<skill id="inspire" x="8"/>
 			<skill id="healall" x="5" y="artistic"/>
 			<skill id="hijack" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>50</health>
+			<health>59</health>
 			<skill id="inspire" x="8"/>
 			<skill id="healall" x="5" y="artistic"/>
 			<skill id="hijack" x="9"/>
@@ -632,18 +633,18 @@
 		<upgrade>
 			<level>6</level>
 			<attack>18</attack>
-			<health>51</health>
+			<health>61</health>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<health>52</health>
+			<health>62</health>
 			<skill id="inspire" x="9"/>
 			<skill id="healall" x="6" y="artistic"/>
 			<skill id="hijack" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>53</health>
+			<health>63</health>
 			<skill id="inspire" x="9"/>
 			<skill id="healall" x="6" y="artistic"/>
 			<skill id="hijack" x="10"/>
@@ -651,18 +652,18 @@
 		<upgrade>
 			<level>9</level>
 			<attack>19</attack>
-			<health>54</health>
+			<health>64</health>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<health>55</health>
+			<health>65</health>
 			<skill id="inspire" x="10"/>
 			<skill id="healall" x="7" y="artistic"/>
 			<skill id="hijack" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>56</health>
+			<health>66</health>
 			<skill id="inspire" x="10"/>
 			<skill id="healall" x="7" y="artistic"/>
 			<skill id="hijack" x="11"/>
@@ -670,18 +671,18 @@
 		<upgrade>
 			<level>12</level>
 			<attack>20</attack>
-			<health>57</health>
+			<health>67</health>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>58</health>
+			<health>68</health>
 			<skill id="inspire" x="11"/>
 			<skill id="healall" x="7" y="artistic"/>
 			<skill id="hijack" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>59</health>
+			<health>69</health>
 			<skill id="inspire" x="11"/>
 			<skill id="healall" x="8" y="artistic"/>
 			<skill id="hijack" x="12"/>
@@ -689,18 +690,18 @@
 		<upgrade>
 			<level>15</level>
 			<attack>21</attack>
-			<health>60</health>
+			<health>70</health>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>61</health>
+			<health>71</health>
 			<skill id="inspire" x="12"/>
 			<skill id="healall" x="8" y="artistic"/>
 			<skill id="hijack" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<health>62</health>
+			<health>72</health>
 			<skill id="inspire" x="12"/>
 			<skill id="healall" x="9" y="artistic"/>
 			<skill id="hijack" x="13"/>
@@ -708,22 +709,23 @@
 		<upgrade>
 			<level>18</level>
 			<attack>22</attack>
-			<health>63</health>
+			<health>73</health>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<health>64</health>
+			<health>74</health>
 			<skill id="inspire" x="13"/>
 			<skill id="healall" x="9" y="artistic"/>			
 		</upgrade>
 		<upgrade>
 			<level>20</level>			
 			<skill id="hijack" x="14"/>
-			<health>65</health>
+			<health>75</health>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
 			<attack>23</attack>
+			<health>76</health>
 			<skill id="inspire" x="14"/>
 			<skill id="healall" x="10" y="artistic"/>
 			<skill id="hijack" x="15"/>
