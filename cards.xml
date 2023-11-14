@@ -9918,7 +9918,7 @@
 		<rarity>2</rarity>
 		<set>1</set>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack>3</attack>
 		<health>9</health>
 		<skill id='leech' x='1' />
@@ -13587,14 +13587,14 @@
 			<level>3</level>
 			<skill id="inspire" x="3"/>
 			<skill id="armored" x="3"/>
-			<skill id="pierce" x="4" y="1"/>
+			<skill id="pierce" x="4"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
 			<health>36</health>
 			<skill id="inspire" x="3"/>
 			<skill id="armored" x="3"/>
-			<skill id="pierce" x="5" y="1"/>
+			<skill id="pierce" x="5"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
@@ -13605,14 +13605,14 @@
 			<level>6</level>
 			<skill id="inspire" x="4"/>
 			<skill id="armored" x="4"/>
-			<skill id="pierce" x="5" y="1"/>
+			<skill id="pierce" x="5"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
 			<health>38</health>
 			<skill id="inspire" x="4"/>
 			<skill id="armored" x="4"/>
-			<skill id="pierce" x="6" y="1"/>
+			<skill id="pierce" x="6"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
@@ -13623,14 +13623,14 @@
 			<level>9</level>
 			<skill id="inspire" x="5"/>
 			<skill id="armored" x="5"/>
-			<skill id="pierce" x="6" y="1"/>
+			<skill id="pierce" x="6"/>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
 			<health>40</health>
 			<skill id="inspire" x="5"/>
 			<skill id="armored" x="5"/>
-			<skill id="pierce" x="7" y="1"/>
+			<skill id="pierce" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
@@ -13641,27 +13641,27 @@
 			<level>12</level>
 			<skill id="inspire" x="6"/>
 			<skill id="armored" x="6"/>
-			<skill id="pierce" x="7" y="1"/>
+			<skill id="pierce" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
 			<health>42</health>
 			<skill id="inspire" x="6"/>
 			<skill id="armored" x="6"/>
-			<skill id="pierce" x="8" y="1"/>
+			<skill id="pierce" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
 			<attack>17</attack>
 			<skill id="inspire" x="7"/>
 			<skill id="armored" x="6"/>
-			<skill id="pierce" x="8" y="1"/>
+			<skill id="pierce" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
 			<skill id="inspire" x="7"/>
 			<skill id="armored" x="7"/>
-			<skill id="pierce" x="9" y="1"/>
+			<skill id="pierce" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
@@ -13673,13 +13673,13 @@
 			<health>44</health>
 			<skill id="inspire" x="8"/>
 			<skill id="armored" x="7"/>
-			<skill id="pierce" x="9" y="1"/>
+			<skill id="pierce" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
 			<skill id="inspire" x="8"/>
 			<skill id="armored" x="8"/>
-			<skill id="pierce" x="10" y="1"/>
+			<skill id="pierce" x="10"/>
 		</upgrade>
 	 </unit> 
 	<unit>
@@ -14903,7 +14903,7 @@
 		<skill id="hijack" x="2"/>
 		<skill id="leech" x="3"/>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>1</set>
 		<upgrade>
 			<level>2</level>
@@ -15023,7 +15023,7 @@
 		<skill id="armored" x="4"/>
 		<skill id="leech" x="5"/>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -15139,7 +15139,7 @@
 		<skill id="weaken" x="3"/>
 		<skill id="poison" x="4"/>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>3</set>
 		<upgrade>
 			<level>2</level>
@@ -21519,7 +21519,7 @@
 		<skill id="barrier" x="3"/>
 		<skill id="hijack" x="4"/>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -23396,7 +23396,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.70</attack_multiplier>
 		<health_multiplier>0.70</health_multiplier>
 		<skill id='poison' p='35' v='12' />
@@ -23573,7 +23573,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='pierce' p='25' v='11' />
@@ -23588,7 +23588,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='armored' p='35' v='10' />
@@ -23602,7 +23602,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='counter' p='25' v='8' />
@@ -23618,7 +23618,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='outlast' p='40' v='8' />
@@ -24409,7 +24409,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='barrier' p='28' v='10' y='1' />
@@ -24561,7 +24561,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.75</health_multiplier>
 		<skill id='berserk' p='30' v='8' />
@@ -25826,10 +25826,10 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.67</attack_multiplier>
         <health_multiplier>0.75</health_multiplier>
-        <skill id='barrierall' p='55' v='5' y='addicted' />
+        <skill id='barrierall' p='55' v='5' y='hyper' />
         <skill id='weaken'  p='25' v='10'   />
         <skill id='armored' p='30' v='8'  />
     </unit> 
@@ -25842,7 +25842,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.73</attack_multiplier>
         <health_multiplier>0.7</health_multiplier>
         <skill id='berserk' p='32' v='7'  />
@@ -25858,7 +25858,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.74</attack_multiplier>
         <health_multiplier>0.7</health_multiplier>
         <skill id='weaken' p='30' v='11'  />
@@ -26234,7 +26234,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.68</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
         <skill id='strike'  p='30' v='11'  />
@@ -26249,7 +26249,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.71</attack_multiplier>
         <health_multiplier>0.71</health_multiplier>
         <skill id='invigorate'  p='30' v='10'  />
@@ -26642,7 +26642,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.73</health_multiplier>
         <skill id='pierce' p='30' v='13'  />
@@ -26657,7 +26657,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.7</attack_multiplier>
         <health_multiplier>0.74</health_multiplier>
         <skill id='berserk' p='30' v='8'  />
@@ -26856,7 +26856,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.7</attack_multiplier>
         <health_multiplier>0.73</health_multiplier>
         <skill id='shrapnel' p='50' v='7'  />
@@ -27149,7 +27149,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.7</health_multiplier>
         <skill id='enlarge' p='30' v='7'  />
@@ -27164,11 +27164,11 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.73</health_multiplier>
         <skill id='weaken' p='30' v='10'  />
-        <skill id='healall' y='addicted' p='36' v='5'/>
+        <skill id='healall' y='hyper' p='36' v='5'/>
         <skill id='hijack' p='30' v='10' />
     </unit>
 	<unit>
@@ -27363,7 +27363,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.71</attack_multiplier>
         <health_multiplier>0.73</health_multiplier>
         <skill id='pierce' p='30' v='11'  />
@@ -27498,7 +27498,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.7</attack_multiplier>
         <health_multiplier>0.74</health_multiplier>
         <skill id='weaken'  p='30' v='12'/>
@@ -27513,7 +27513,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>1</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.73</attack_multiplier>
         <health_multiplier>0.74</health_multiplier>
         <skill id='berserk'  p='30' v='7'/>
@@ -27873,7 +27873,7 @@
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.73</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='counter' p='30' v='11'/>
@@ -28880,7 +28880,7 @@
 		<rarity>2</rarity>
 		<set>1</set>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack>3</attack>
 		<health>10</health>
 		<upgrade>
@@ -32177,7 +32177,7 @@
 		<skill id="leech" x="4"/>
 		<skill id="poison" x="5"/>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -33466,7 +33466,7 @@
 		<skill id="hijack" x="4"/>
 		<skill id="berserk" x="3"/>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<release_time>1558634400</release_time>
 		<set>2</set>
 		<upgrade>
@@ -35001,9 +35001,9 @@
 		<rarity>4</rarity>
 		<skill id="burn" x="3"/>
 		<skill id="barrier" x="5"/>
-		<skill id="rally" x="6" y="addicted"/>
+		<skill id="rally" x="6" y="hyper"/>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>3</set>
 		<upgrade>
 			<level>2</level>
@@ -35015,14 +35015,14 @@
 			<health>37</health>
 			<skill id="burn" x="3"/>
 			<skill id="barrier" x="5"/>
-			<skill id="rally" x="7" y="addicted"/>
+			<skill id="rally" x="7" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
 			<health>38</health>
 			<skill id="burn" x="3"/>
 			<skill id="barrier" x="6"/>
-			<skill id="rally" x="7" y="addicted"/>
+			<skill id="rally" x="7" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
@@ -35034,14 +35034,14 @@
 			<health>40</health>
 			<skill id="burn" x="4"/>
 			<skill id="barrier" x="6"/>
-			<skill id="rally" x="7" y="addicted"/>
+			<skill id="rally" x="7" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
 			<health>41</health>
 			<skill id="burn" x="4"/>
 			<skill id="barrier" x="6"/>
-			<skill id="rally" x="8" y="addicted"/>
+			<skill id="rally" x="8" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
@@ -35053,14 +35053,14 @@
 			<health>43</health>
 			<skill id="burn" x="4"/>
 			<skill id="barrier" x="7"/>
-			<skill id="rally" x="8" y="addicted"/>
+			<skill id="rally" x="8" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
 			<health>44</health>
 			<skill id="burn" x="4"/>
 			<skill id="barrier" x="7"/>
-			<skill id="rally" x="9" y="addicted"/>
+			<skill id="rally" x="9" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
@@ -35072,21 +35072,21 @@
 			<health>46</health>
 			<skill id="burn" x="5"/>
 			<skill id="barrier" x="7"/>
-			<skill id="rally" x="9" y="addicted"/>
+			<skill id="rally" x="9" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
 			<health>47</health>
 			<skill id="burn" x="5"/>
 			<skill id="barrier" x="8"/>
-			<skill id="rally" x="9" y="addicted"/>
+			<skill id="rally" x="9" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
 			<health>48</health>
 			<skill id="burn" x="5"/>
 			<skill id="barrier" x="8"/>
-			<skill id="rally" x="10" y="addicted"/>
+			<skill id="rally" x="10" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
@@ -35103,14 +35103,14 @@
 			<health>51</health>
 			<skill id="burn" x="6"/>
 			<skill id="barrier" x="8"/>
-			<skill id="rally" x="10" y="addicted"/>
+			<skill id="rally" x="10" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
 			<health>53</health>
 			<skill id="burn" x="6"/>
 			<skill id="barrier" x="9"/>
-			<skill id="rally" x="11" y="addicted"/>
+			<skill id="rally" x="11" y="hyper"/>
 		</upgrade>
 	</unit>
 	<unit>
@@ -36134,7 +36134,7 @@
 		<skill id="barrier" x="5"/>
 		<skill id="rally" x="5"/>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -37149,7 +37149,7 @@
 		<skill id="burn" x="4"/>
 		<skill id="strike" x="4"/>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>3</set>
 		<upgrade>
 			<level>2</level>
@@ -38623,7 +38623,7 @@
 	<skill id="bunker" x="5"/>
 	<skill id="leech" x="4"/>
 	<type>2</type>
-	<trait>addicted</trait>
+	<trait>hyper</trait>
 	<set>2</set>
 	<upgrade>
 		<level>2</level>
@@ -41570,7 +41570,6 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>2</type>
-		<trait>addicted</trait>
 		<trait>hyper</trait>
 		<attack_multiplier>0.6</attack_multiplier>
 		<health_multiplier>0.8</health_multiplier>
@@ -41585,7 +41584,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='invigorate' p='30' v='8' />
@@ -41631,7 +41630,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='invigorate' p='30' v='8' />
@@ -42041,7 +42040,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='armored' p='25' v='8' />
@@ -42057,7 +42056,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.75</attack_multiplier>
 		<health_multiplier>0.75</health_multiplier>
 	</unit>
@@ -42402,7 +42401,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='poison' p='32' v='11' />
@@ -42417,7 +42416,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='counter' p='30' v='8' />
@@ -42592,7 +42591,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='armored' p='35' v='9' />
@@ -43745,11 +43744,11 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.7</attack_multiplier>
         <health_multiplier>0.7</health_multiplier>
         <skill id='outlast' p='28' v='12'  />
-        <skill id='healall' p='55' v='6' y='addicted'  />
+        <skill id='healall' p='55' v='6' y='hyper'  />
         <skill id='hijack' p='34' v='8'  />
     </unit>       
 	<unit>
@@ -43761,10 +43760,10 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.68</attack_multiplier>
         <health_multiplier>0.75</health_multiplier>
-        <skill id='heal' p='28' v='14' y='addicted'  />
+        <skill id='heal' p='28' v='14' y='hyper'  />
         <skill id='invigorate' p='30' v='11' />
         <skill id='poison' p='32' v='12'  />
     </unit>       
@@ -44059,7 +44058,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.71</attack_multiplier>
         <health_multiplier>0.71</health_multiplier>
         <skill id='hijack' p='30' v='10' />
@@ -44074,12 +44073,12 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.7</attack_multiplier>
         <health_multiplier>0.7</health_multiplier>
         <skill id='hijack' p='30' v='10' />
         <skill id='pierce' p='30' v='12'  />
-        <skill id='rallyall' p='32' v='6' y='addicted'  />
+        <skill id='rallyall' p='32' v='6' y='hyper'  />
     </unit> 
     <unit>
         <id>25173</id>
@@ -44089,7 +44088,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.68</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
         <skill id='shrapnel' p='33' v='6' />
@@ -44335,7 +44334,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.73</attack_multiplier>
         <health_multiplier>0.73</health_multiplier>
         <skill id='shrapnel' p='30' v='7'  />
@@ -44566,7 +44565,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.73</attack_multiplier>
         <health_multiplier>0.69</health_multiplier>
         <skill id='weaken' p='30' v='12'  />
@@ -44657,7 +44656,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.69</attack_multiplier>
         <health_multiplier>0.73</health_multiplier>
         <skill id='armored' p='30' v='8'  />
@@ -44672,7 +44671,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.75</health_multiplier>
         <skill id='poison' p='30' v='12'  />
@@ -44687,7 +44686,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.64</attack_multiplier>
         <health_multiplier>0.75</health_multiplier>
         <skill id='bodyguard' p='30' v='8'  />
@@ -44900,7 +44899,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.75</attack_multiplier>
         <health_multiplier>0.73</health_multiplier>
         <skill id='shrapnel' p='30' v='7'  />
@@ -44960,11 +44959,11 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.76</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
         <skill id='berserk' p='30' v='8'  />
-        <skill id='rallyall' y='addicted' p='36' v='5' />
+        <skill id='rallyall' y='hyper' p='36' v='5' />
         <skill id='barrier' p='30' v='11' />
     </unit>
     <unit>
@@ -45400,7 +45399,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>2</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.71</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
         <skill id='poison' p='30' v='12' />         
@@ -46950,7 +46949,7 @@
 		<rarity>1</rarity>
 		<set>1</set>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack>3</attack>
 		<health>4</health>
 		<upgrade>
@@ -48571,10 +48570,10 @@
 		<rarity>4</rarity>
 		<set>2</set>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack>5</attack>
 		<health>55</health>
-		<skill id="healall" x="2" y="addicted"/>
+		<skill id="healall" x="2" y="hyper"/>
 		<skill id="berserk" x="2"/>
 		<upgrade>
 			<level>2</level>
@@ -48587,7 +48586,7 @@
 		<upgrade>
 			<level>4</level>
 			<attack>7</attack>
-			<skill id="healall" x="3" y="addicted"/>
+			<skill id="healall" x="3" y="hyper"/>
 			<skill id="berserk" x="2"/>
 		</upgrade>
 		<upgrade>
@@ -48596,13 +48595,13 @@
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<skill id="healall" x="3" y="addicted"/>
+			<skill id="healall" x="3" y="hyper"/>
 			<skill id="berserk" x="3"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
 			<attack>8</attack>
-			<skill id="healall" x="4" y="addicted"/>
+			<skill id="healall" x="4" y="hyper"/>
 			<skill id="berserk" x="3"/>
 		</upgrade>
 		<upgrade>
@@ -48611,7 +48610,7 @@
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<skill id="healall" x="4" y="addicted"/>
+			<skill id="healall" x="4" y="hyper"/>
 			<skill id="berserk" x="4"/>
 		</upgrade>
 		<upgrade>
@@ -48621,7 +48620,7 @@
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<skill id="healall" x="5" y="addicted"/>
+			<skill id="healall" x="5" y="hyper"/>
 			<skill id="berserk" x="4"/>
 		</upgrade>
 		<upgrade>
@@ -48631,12 +48630,12 @@
 		<upgrade>
 			<level>13</level>
 			<health>60</health>
-			<skill id="healall" x="5" y="addicted"/>
+			<skill id="healall" x="5" y="hyper"/>
 			<skill id="berserk" x="5"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<skill id="healall" x="6" y="addicted"/>
+			<skill id="healall" x="6" y="hyper"/>
 			<skill id="berserk" x="5"/>
 		</upgrade>
 		<upgrade>
@@ -48654,7 +48653,7 @@
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<skill id="healall" x="7" y="addicted"/>
+			<skill id="healall" x="7" y="hyper"/>
 			<skill id="berserk" x="6"/>
 		</upgrade>
 	</unit>
@@ -51387,7 +51386,7 @@
 		<skill id="bodyguard" x="4"/>
 		<skill id="berserk" x="1"/>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -52535,7 +52534,7 @@
 		<skill id="outlast" x="4"/>
 		<skill id="invigorate" x="4"/>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<release_time>1558634400</release_time>
 		<set>2</set>
 		<upgrade>
@@ -54657,10 +54656,10 @@
 		<health>40</health>
 		<rarity>4</rarity>
 		<skill id="bodyguard" x="4"/>
-		<skill id="rally" x="6" y="addicted"/>
+		<skill id="rally" x="6" y="hyper"/>
 		<skill id="strike" x="6"/>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -54671,21 +54670,21 @@
 			<level>3</level>
 			<health>42</health>
 			<skill id="bodyguard" x="4"/>
-			<skill id="rally" x="6" y="addicted"/>
+			<skill id="rally" x="6" y="hyper"/>
 			<skill id="strike" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
 			<health>43</health>
 			<skill id="bodyguard" x="4"/>
-			<skill id="rally" x="7" y="addicted"/>
+			<skill id="rally" x="7" y="hyper"/>
 			<skill id="strike" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
 			<health>45</health>
 			<skill id="bodyguard" x="5"/>
-			<skill id="rally" x="7" y="addicted"/>
+			<skill id="rally" x="7" y="hyper"/>
 			<skill id="strike" x="7"/>
 		</upgrade>
 		<upgrade>
@@ -54697,21 +54696,21 @@
 			<level>7</level>
 			<health>47</health>
 			<skill id="bodyguard" x="5"/>
-			<skill id="rally" x="7" y="addicted"/>
+			<skill id="rally" x="7" y="hyper"/>
 			<skill id="strike" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
 			<health>49</health>
 			<skill id="bodyguard" x="5"/>
-			<skill id="rally" x="8" y="addicted"/>
+			<skill id="rally" x="8" y="hyper"/>
 			<skill id="strike" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
 			<health>50</health>
 			<skill id="bodyguard" x="6"/>
-			<skill id="rally" x="8" y="addicted"/>
+			<skill id="rally" x="8" y="hyper"/>
 			<skill id="strike" x="8"/>
 		</upgrade>
 		<upgrade>
@@ -54719,21 +54718,21 @@
 			<health>51</health>
 			<attack>10</attack>
 			<skill id="bodyguard" x="6"/>
-			<skill id="rally" x="8" y="addicted"/>
+			<skill id="rally" x="8" y="hyper"/>
 			<skill id="strike" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
 			<health>52</health>
 			<skill id="bodyguard" x="6"/>
-			<skill id="rally" x="9" y="addicted"/>
+			<skill id="rally" x="9" y="hyper"/>
 			<skill id="strike" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
 			<health>54</health>
 			<skill id="bodyguard" x="7"/>
-			<skill id="rally" x="9" y="addicted"/>
+			<skill id="rally" x="9" y="hyper"/>
 			<skill id="strike" x="9"/>
 		</upgrade>
 		<upgrade>
@@ -54745,14 +54744,14 @@
 			<level>14</level>
 			<health>56</health>
 			<skill id="bodyguard" x="7"/>
-			<skill id="rally" x="9" y="addicted"/>
+			<skill id="rally" x="9" y="hyper"/>
 			<skill id="strike" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
 			<health>58</health>
 			<skill id="bodyguard" x="7"/>
-			<skill id="rally" x="10" y="addicted"/>
+			<skill id="rally" x="10" y="hyper"/>
 			<skill id="strike" x="10"/>
 		</upgrade>
 		<upgrade>
@@ -54764,14 +54763,14 @@
 			<level>17</level>
 			<health>60</health>
 			<skill id="bodyguard" x="7"/>
-			<skill id="rally" x="10" y="addicted"/>
+			<skill id="rally" x="10" y="hyper"/>
 			<skill id="strike" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
 			<health>62</health>
 			<skill id="bodyguard" x="8"/>
-			<skill id="rally" x="11" y="addicted"/>
+			<skill id="rally" x="11" y="hyper"/>
 			<skill id="strike" x="11"/>
 		</upgrade>
 	</unit>
@@ -56028,7 +56027,7 @@
 		<skill id="pierce" x="5"/>
 		<skill id="poison" x="6"/>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>3</set>
 		<upgrade>
 			<level>2</level>
@@ -56152,7 +56151,7 @@
 		<skill id="bunker" x="4"/>
 		<skill id="poison" x="7"/>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -57558,7 +57557,7 @@
 		<skill id="rally" x="5"/>
 		<skill id="berserk" x="4"/>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -58782,7 +58781,7 @@
 	<skill id="heal" x="5"/>
 	<skill id="enlarge" x="4"/>
 	<type>3</type>
-	<trait>addicted</trait>
+	<trait>hyper</trait>
 	<set>2</set>
 	<upgrade>
 		<level>2</level>
@@ -60479,7 +60478,7 @@
 		<skill id="heal" x="6"/>
 		<skill id="rally" x="5"/>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -61560,7 +61559,7 @@
 		<set>1001</set>
 		<type>3</type>
 		<trait>educated</trait>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='strike' p='25' v='9' />
@@ -61594,7 +61593,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<trait>toy</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
@@ -62478,7 +62477,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='barrierall' p='50' v='4' />
@@ -63517,10 +63516,10 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>3</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
-        <skill id='heal' p='28' v='14' y='addicted' />
+        <skill id='heal' p='28' v='14' y='hyper' />
         <skill id='inspire' p='32' v='7' />
         <skill id='weakenall' p='50' v='5' />
     </unit> 
@@ -63533,7 +63532,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>3</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.73</attack_multiplier>
         <health_multiplier>0.7</health_multiplier>
         <skill id='strike' p='30' v='11' />
@@ -63549,7 +63548,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>3</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.7</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
         <skill id='strike' p='28' v='10' />
@@ -63847,12 +63846,12 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>3</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.67</attack_multiplier>
         <health_multiplier>0.73</health_multiplier>
         <skill id='strike' p='30' v='10' />
         <skill id='armored' p='30' v='8'  />
-        <skill id='heal' p='32' v='12' y='addicted' />
+        <skill id='heal' p='32' v='12' y='hyper' />
     </unit> 
     <unit>
         <id>35171</id>
@@ -63863,10 +63862,10 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>3</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.68</health_multiplier>
-        <skill id='barrierall' p='32' v='6' y='addicted' />
+        <skill id='barrierall' p='32' v='6' y='hyper' />
         <skill id='leech' p='30' v='12'  />
         <skill id='weaken' p='30' v='10'  />
     </unit> 
@@ -63878,7 +63877,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>3</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.71</attack_multiplier>
         <health_multiplier>0.71</health_multiplier>
         <skill id='barrierall' p='32' v='6' />
@@ -64166,7 +64165,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>3</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
         <skill id='burn' p='30' v='7'/>
@@ -64705,10 +64704,10 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>3</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.74</health_multiplier>
-        <skill id='rallyall' y='addicted' p='36' v='6'/>
+        <skill id='rallyall' y='hyper' p='36' v='6'/>
         <skill id='enlarge' p='30' v='9' />
         <skill id='invigorate' p='30' v='7' />
     </unit>
@@ -64720,10 +64719,10 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>3</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.75</health_multiplier>
-        <skill id='healall' y='addicted' p='36' v='5'/>
+        <skill id='healall' y='hyper' p='36' v='5'/>
         <skill id='inspire' p='30' v='7' />
         <skill id='bunker' p='30' v='8' />
     </unit>
@@ -64966,7 +64965,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>3</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.74</attack_multiplier>
         <health_multiplier>0.7</health_multiplier>
         <skill id='berserk' p='30' v='8'/>
@@ -64981,7 +64980,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>3</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.73</attack_multiplier>
         <health_multiplier>0.71</health_multiplier>
         <skill id='poison' p='30' v='11'/>
@@ -65494,7 +65493,7 @@
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.68</attack_multiplier>
 		<health_multiplier>0.73</health_multiplier>
 		<skill id='hijack' p='30' v='12' />
@@ -66668,7 +66667,7 @@
 		<rarity>1</rarity>
 		<set>1</set>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack>2</attack>
 		<health>5</health>
 		<upgrade>
@@ -69994,7 +69993,7 @@
 		<skill id="armored" x="3"/>
 		<skill id="bodyguard" x="1"/>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -70087,7 +70086,7 @@
 		<skill id="counter" x="4"/>
 		<skill id="leech" x="4"/>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>3</set>
 		<upgrade>
 			<level>2</level>
@@ -71531,7 +71530,7 @@
 		<skill id="healall" x="2"/>
 		<skill id="strike" x="4"/>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<release_time>1558634400</release_time>
 		<set>2</set>
 		<upgrade>
@@ -73745,7 +73744,7 @@
 		<skill id="bunker" x="3"/>
 		<skill id="strike" x="6"/>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -73869,7 +73868,7 @@
 		<skill id="armored" x="4"/>
 		<skill id="invigorate" x="5"/>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -75247,7 +75246,7 @@
 		<skill id="heal" x="6"/>
 		<skill id="hijack" x="4"/>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -76760,7 +76759,7 @@
 		<skill id="outlast" x="4"/>
 		<skill id="enlarge" x="5"/>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -79236,7 +79235,7 @@
 		<skill id="invigorate" x="6"/>
 		<skill id="enlarge" x="5"/>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>3</set>
 		<upgrade>
 			<level>2</level>
@@ -79349,6 +79348,519 @@
 			<skill id="enlarge" x="9"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>40126</id>
+		<name>Martial Arts</name>
+		<picture>KOTH_martialArtsKahn</picture>
+		<asset_bundle>38</asset_bundle>
+		<attack>8</attack>
+		<health>52</health>
+		<rarity>4</rarity>
+		<skill id="bunker" x="4"/>
+		<skill id="strike" x="4"/>
+		<skill id="berserk" x="3"/>
+		<type>4</type>
+		<trait>fighter</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>53</health>
+			<attack>9</attack>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>54</health>
+			<skill id="bunker" x="4"/>
+			<skill id="strike" x="5"/>
+			<skill id="berserk" x="3"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>55</health>
+			<skill id="bunker" x="4"/>
+			<skill id="strike" x="5"/>
+			<skill id="berserk" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>56</health>
+			<skill id="bunker" x="5"/>
+			<skill id="strike" x="5"/>
+			<skill id="berserk" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>57</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>58</health>
+			<skill id="bunker" x="5"/>
+			<skill id="strike" x="6"/>
+			<skill id="berserk" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>59</health>
+			<skill id="bunker" x="5"/>
+			<skill id="strike" x="6"/>
+			<skill id="berserk" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>60</health>
+			<skill id="bunker" x="6"/>
+			<skill id="strike" x="6"/>
+			<skill id="berserk" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>61</health>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>62</health>
+			<skill id="bunker" x="6"/>
+			<skill id="strike" x="7"/>
+			<skill id="berserk" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>63</health>
+			<skill id="bunker" x="6"/>
+			<skill id="strike" x="7"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>64</health>
+			<skill id="bunker" x="7"/>
+			<skill id="strike" x="7"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>65</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>66</health>
+			<skill id="bunker" x="7"/>
+			<skill id="strike" x="8"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>67</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>68</health>
+			<skill id="bunker" x="7"/>
+			<skill id="strike" x="9"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>69</health>
+			<skill id="bunker" x="8"/>
+			<skill id="strike" x="9"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>40127</id>
+		<name>Straight Pipe</name>
+		<picture>KOTH_StraightPipeHank</picture>
+		<asset_bundle>44</asset_bundle>
+		<attack>10</attack>
+		<health>46</health>
+		<rarity>4</rarity>
+		<skill id="barrier" x="4"/>
+		<skill id="weaken" x="5"/>
+		<skill id="pierce" x="5"/>
+		<type>4</type>
+		<trait>armed</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>47</health>
+			<skill id="barrier" x="4"/>
+			<skill id="weaken" x="5"/>
+			<skill id="pierce" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>48</health>
+			<skill id="barrier" x="5"/>
+			<skill id="weaken" x="5"/>
+			<skill id="pierce" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>49</health>
+			<skill id="barrier" x="5"/>
+			<skill id="weaken" x="6"/>
+			<skill id="pierce" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>50</health>
+			<attack>11</attack>
+			<skill id="barrier" x="5"/>
+			<skill id="weaken" x="6"/>
+			<skill id="pierce" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>51</health>
+			<skill id="barrier" x="6"/>
+			<skill id="weaken" x="6"/>
+			<skill id="pierce" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>53</health>
+			<skill id="barrier" x="6"/>
+			<skill id="weaken" x="7"/>
+			<skill id="pierce" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>54</health>
+			<attack>12</attack>
+			<skill id="barrier" x="6"/>
+			<skill id="weaken" x="7"/>
+			<skill id="pierce" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>55</health>
+			<skill id="barrier" x="7"/>
+			<skill id="weaken" x="7"/>
+			<skill id="pierce" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>56</health>
+			<skill id="barrier" x="7"/>
+			<skill id="weaken" x="7"/>
+			<skill id="pierce" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>57</health>
+			<skill id="barrier" x="7"/>
+			<skill id="weaken" x="8"/>
+			<skill id="pierce" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>58</health>
+			<attack>13</attack>
+			<skill id="barrier" x="8"/>
+			<skill id="weaken" x="8"/>
+			<skill id="pierce" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>60</health>
+			<skill id="barrier" x="8"/>
+			<skill id="weaken" x="8"/>
+			<skill id="pierce" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>61</health>
+			<skill id="barrier" x="8"/>
+			<skill id="weaken" x="9"/>
+			<skill id="pierce" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>62</health>
+			<skill id="barrier" x="9"/>
+			<skill id="weaken" x="9"/>
+			<skill id="pierce" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>63</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>64</health>
+			<skill id="barrier" x="9"/>
+			<skill id="weaken" x="9"/>
+			<skill id="pierce" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>66</health>
+			<skill id="barrier" x="10"/>
+			<skill id="weaken" x="10"/>
+			<skill id="pierce" x="12"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>40128</id>
+		<name>Kahn Portrait</name>
+		<picture>KOTH_KahnPortrait</picture>
+		<asset_bundle>40</asset_bundle>
+		<attack>9</attack>
+		<health>49</health>
+		<rarity>4</rarity>
+		<skill id="heal" x="4"/>
+		<skill id="burn" x="3"/>
+		<skill id="poison" x="6"/>
+		<type>4</type>
+		<trait>artistic</trait>
+		<set>2</set>
+		<upgrade>
+			<level>2</level>
+			<health>50</health>
+			<skill id="heal" x="4"/>
+			<skill id="burn" x="3"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>51</health>
+			<skill id="heal" x="5"/>
+			<skill id="burn" x="3"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>53</health>
+			<skill id="heal" x="5"/>
+			<skill id="burn" x="4"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>54</health>
+			<attack>10</attack>
+			<skill id="heal" x="6"/>
+			<skill id="burn" x="4"/>
+			<skill id="poison" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>55</health>
+			<skill id="heal" x="6"/>
+			<skill id="burn" x="4"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>57</health>
+			<skill id="heal" x="6"/>
+			<skill id="burn" x="5"/>
+			<skill id="poison" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>58</health>
+			<skill id="heal" x="7"/>
+			<skill id="burn" x="5"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>59</health>
+			<skill id="heal" x="7"/>
+			<skill id="burn" x="6"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>61</health>
+			<skill id="heal" x="8"/>
+			<skill id="burn" x="6"/>
+			<skill id="poison" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>62</health>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>63</health>
+			<skill id="heal" x="8"/>
+			<skill id="burn" x="7"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>65</health>
+			<skill id="heal" x="9"/>
+			<skill id="burn" x="7"/>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>66</health>
+			<skill id="heal" x="9"/>
+			<skill id="burn" x="7"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>67</health>
+			<skill id="heal" x="10"/>
+			<skill id="burn" x="8"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>69</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>70</health>
+			<skill id="heal" x="10"/>
+			<skill id="burn" x="8"/>
+			<skill id="poison" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>72</health>
+			<skill id="heal" x="11"/>
+			<skill id="burn" x="9"/>
+			<skill id="poison" x="12"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>40129</id>
+		<name>Boxing Ring</name>
+		<picture>KOTH_BoxingRing</picture>
+		<asset_bundle>84</asset_bundle>
+		<linked_card_id>1400020</linked_card_id>
+		<attack>7</attack>
+		<health>52</health>
+		<rarity>4</rarity>
+		<skill id="armored" x="6"/>
+		<skill id="strike" x="5"/>
+		<skill id="shrapnel" x="5"/>
+		<type>4</type>
+		<trait>fighter</trait>
+		<set>3</set>
+		<upgrade>
+			<level>2</level>
+			<health>53</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>54</health>
+			<skill id="armored" x="6"/>
+			<skill id="strike" x="6"/>
+			<skill id="shrapnel" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>55</health>
+			<skill id="armored" x="6"/>
+			<skill id="strike" x="6"/>
+			<skill id="shrapnel" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>56</health>
+			<skill id="armored" x="7"/>
+			<skill id="strike" x="6"/>
+			<skill id="shrapnel" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>57</health>
+			<attack>8</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>58</health>
+			<skill id="armored" x="7"/>
+			<skill id="strike" x="7"/>
+			<skill id="shrapnel" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>59</health>
+			<skill id="armored" x="7"/>
+			<skill id="strike" x="7"/>
+			<skill id="shrapnel" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>60</health>
+			<skill id="armored" x="8"/>
+			<skill id="strike" x="7"/>
+			<skill id="shrapnel" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>62</health>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>63</health>
+			<attack>9</attack>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>64</health>
+			<skill id="armored" x="8"/>
+			<skill id="strike" x="8"/>
+			<skill id="shrapnel" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>65</health>
+			<skill id="armored" x="8"/>
+			<skill id="strike" x="8"/>
+			<skill id="shrapnel" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>66</health>
+			<skill id="armored" x="9"/>
+			<skill id="strike" x="8"/>
+			<skill id="shrapnel" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>67</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>68</health>
+			<skill id="armored" x="9"/>
+			<skill id="strike" x="9"/>
+			<skill id="shrapnel" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>69</health>
+			<skill id="armored" x="9"/>
+			<skill id="strike" x="9"/>
+			<skill id="shrapnel" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>71</health>
+			<skill id="armored" x="10"/>
+			<skill id="strike" x="9"/>
+			<skill id="shrapnel" x="9"/>
+		</upgrade>
+	</unit>
 	<!-- End King of the Hill Input -->	
 	<!--  stop at id 44000 -->
 	<!-- King of the Hill combos -->
@@ -79362,7 +79874,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='counter' p='32' v='9' />
@@ -79409,7 +79921,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='strike' p='30' v='10' />
@@ -79439,7 +79951,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='counter' p='30' v='16' />
@@ -79851,7 +80363,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='shrapnel' p='25' v='7' />
@@ -79867,7 +80379,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='pierce' p='35' v='9' />
@@ -79970,7 +80482,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='pierce' p='25' v='13' />
@@ -80196,7 +80708,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='outlast' p='30' v='8' />
@@ -81467,7 +81979,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>4</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.69</attack_multiplier>
         <health_multiplier>0.74</health_multiplier>
         <skill id='poison' p='30' v='12' />
@@ -81476,14 +81988,14 @@
     </unit>   
  	<unit>
         <id>45137</id>
-        <name>Crack addicted Fish</name>
+        <name>Crack Addicted Fish</name>
         <desc>Ho ho, wingo man!</desc> 
         <picture>KOTH_CrackAddictFish</picture>
         <asset_bundle>46</asset_bundle>
         <rarity>1</rarity>
         <set>1002</set>
         <type>4</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.7</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
         <skill id='inspire' p='32' v='7' />
@@ -81826,7 +82338,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>4</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.73</attack_multiplier>
         <health_multiplier>0.67</health_multiplier>
         <skill id='pierce' p='29' v='12' />
@@ -81841,7 +82353,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>4</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.7</attack_multiplier>
         <health_multiplier>0.7</health_multiplier>
         <skill id='berserk' p='29' v='6' />
@@ -82104,12 +82616,12 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>4</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.69</attack_multiplier>
         <health_multiplier>0.74</health_multiplier>
         <skill id='bodyguard' p='30' v='9' />
         <skill id='bunker' p='30' v='6' />
-        <skill id='barrierall' y='addicted' p='30' v='6' />
+        <skill id='barrierall' y='hyper' p='30' v='6' />
     </unit>
     <unit>
         <id>45178</id>
@@ -82212,7 +82724,7 @@
         <set>1002</set>
         <type>4</type>
         <trait>toy</trait>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.71</attack_multiplier>
         <health_multiplier>0.73</health_multiplier>
         <skill id='shrapnel' p='30' v='8' />
@@ -82243,7 +82755,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>4</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.75</health_multiplier>
         <skill id='inspire' p='30' v='8' />
@@ -82258,7 +82770,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>4</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.71</attack_multiplier>
         <health_multiplier>0.74</health_multiplier>
         <skill id='burn' p='30' v='8' />
@@ -82273,7 +82785,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>4</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.73</health_multiplier>
         <skill id='heal' p='30' v='11' />
@@ -82686,7 +83198,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>4</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.7</attack_multiplier>
         <health_multiplier>0.73</health_multiplier>
         <skill id='outlast'  p='28' v='12' />
@@ -82915,7 +83427,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>4</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.7</health_multiplier>
         <skill id='strike'  p='30' v='10' />
@@ -83170,7 +83682,7 @@
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.72</attack_multiplier>
 		<health_multiplier>0.74</health_multiplier>
 		<skill id='strike'  p='30' v='11' />
@@ -83191,6 +83703,96 @@
 		<skill id='heal'  p='30' v='14' />
 		<skill id='berserk' p='30' v='8' />
 		<skill id='pierce' p='30' v='15' />
+	</unit>
+	<unit>
+		<id>45249</id>
+		<name>Boxing Hank</name>
+		<picture>KOTH_BoxingHank</picture>
+		<asset_bundle>70</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>4</type>
+		<trait>fighter</trait>
+		<attack_multiplier>0.71</attack_multiplier>
+		<health_multiplier>0.75</health_multiplier>
+		<skill id='strike'  p='30' v='15' />
+		<skill id='counter' p='30' v='13' />
+		<skill id='armored' p='30' v='9' />
+	</unit>
+	<unit>
+		<id>45250</id>
+		<name>Butt Kicking Peggy</name>
+		<picture>KOTH_ButtKickingPeggy</picture>
+		<asset_bundle>82</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>4</type>
+		<trait>fighter</trait>
+		<attack_multiplier>0.7</attack_multiplier>
+		<health_multiplier>0.78</health_multiplier>
+		<skill id='weakenall'  p='36' v='8' />
+		<skill id='inspire' p='30' v='10' />
+		<skill id='bodyguard' p='30' v='13' />
+	</unit>
+	<unit>
+		<id>45251</id>
+		<name>Plastic Bat Hank</name>
+		<picture>KOTH_PlasticBatHank</picture>
+		<asset_bundle>53</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>4</type>
+		<trait>armed</trait>
+		<attack_multiplier>0.74</attack_multiplier>
+		<health_multiplier>0.7</health_multiplier>
+		<skill id='burn'  p='30' v='13' />
+		<skill id='bunker' p='30' v='10' />
+		<skill id='enlarge' p='30' v='10' />
+	</unit>
+	<unit>
+		<id>45252</id>
+		<name>Ankle Gun Cotton</name>
+		<picture>KOTH_AnklegunCotton</picture>
+		<asset_bundle>44</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>4</type>
+		<trait>armed</trait>
+		<attack_multiplier>0.72</attack_multiplier>
+		<health_multiplier>0.77</health_multiplier>
+		<skill id='counter'  p='30' v='13' />
+		<skill id='poison' p='30' v='16' />
+		<skill id='rallyall' p='36' v='7' />
+	</unit>
+	<unit>
+		<id>45253</id>
+		<name>Play Bobby</name>
+		<picture>KOTH_PlayBobby</picture>
+		<asset_bundle>73</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>4</type>
+		<trait>artistic</trait>
+		<attack_multiplier>0.71</attack_multiplier>
+		<health_multiplier>0.75</health_multiplier>
+		<skill id='bunker'  p='30' v='6' />
+		<skill id='weaken' p='30' v='14' />
+		<skill id='berserk' p='30' v='9' />
+	</unit>
+	<unit>
+		<id>45254</id>
+		<name>Paper Mache Pear</name>
+		<picture>KOTH_PaperMachePear</picture>
+		<asset_bundle>78</asset_bundle>
+		<rarity>1</rarity>
+		<set>1002</set>
+		<type>4</type>
+		<trait>artistic</trait>
+		<attack_multiplier>0.71</attack_multiplier>
+		<health_multiplier>0.75</health_multiplier>
+		<skill id='barrierall'  p='36' v='6' />
+		<skill id='pierce' p='30' v='18' />
+		<skill id='burn' p='30' v='12' />
 	</unit>
 	<!-- End King of the Hill Combos -->								
 	<!-- Futurama Input -->
@@ -88095,23 +88697,23 @@
 		<attack>6</attack>
 		<health>52</health>
 		<rarity>4</rarity>
-		<skill id="heal" x="5" y="addicted"/>
+		<skill id="heal" x="5" y="hyper"/>
 		<skill id="hijack" x="1"/>
 		<skill id="weaken" x="3"/>
 		<type>5</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
 			<health>53</health>
-			<skill id="heal" x="6" y="addicted"/>
+			<skill id="heal" x="6" y="hyper"/>
 			<skill id="hijack" x="1"/>
 			<skill id="weaken" x="3"/>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
 			<health>54</health>
-			<skill id="heal" x="6" y="addicted"/>
+			<skill id="heal" x="6" y="hyper"/>
 			<skill id="hijack" x="1"/>
 			<skill id="weaken" x="4"/>
 		</upgrade>
@@ -88122,14 +88724,14 @@
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<skill id="heal" x="7" y="addicted"/>
+			<skill id="heal" x="7" y="hyper"/>
 			<skill id="hijack" x="2"/>
 			<skill id="weaken" x="5"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
 			<health>56</health>
-			<skill id="heal" x="8" y="addicted"/>
+			<skill id="heal" x="8" y="hyper"/>
 			<skill id="hijack" x="2"/>
 			<skill id="weaken" x="5"/>
 		</upgrade>
@@ -88141,20 +88743,20 @@
 		<upgrade>
 			<level>8</level>
 			<health>58</health>
-			<skill id="heal" x="9" y="addicted"/>
+			<skill id="heal" x="9" y="hyper"/>
 			<skill id="hijack" x="3"/>
 			<skill id="weaken" x="5"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
 			<health>59</health>
-			<skill id="heal" x="9" y="addicted"/>
+			<skill id="heal" x="9" y="hyper"/>
 			<skill id="hijack" x="3"/>
 			<skill id="weaken" x="6"/>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<skill id="heal" x="10" y="addicted"/>
+			<skill id="heal" x="10" y="hyper"/>
 			<skill id="hijack" x="3"/>
 			<skill id="weaken" x="7"/>
 		</upgrade>
@@ -88166,35 +88768,35 @@
 		<upgrade>
 			<level>12</level>
 			<health>61</health>
-			<skill id="heal" x="11" y="addicted"/>
+			<skill id="heal" x="11" y="hyper"/>
 			<skill id="hijack" x="4"/>
 			<skill id="weaken" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
 			<attack>10</attack>
-			<skill id="heal" x="11" y="addicted"/>
+			<skill id="heal" x="11" y="hyper"/>
 			<skill id="hijack" x="4"/>
 			<skill id="weaken" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
 			<health>62</health>
-			<skill id="heal" x="12" y="addicted"/>
+			<skill id="heal" x="12" y="hyper"/>
 			<skill id="hijack" x="4"/>
 			<skill id="weaken" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
 			<health>63</health>
-			<skill id="heal" x="12" y="addicted"/>
+			<skill id="heal" x="12" y="hyper"/>
 			<skill id="hijack" x="5"/>
 			<skill id="weaken" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
 			<health>64</health>
-			<skill id="heal" x="13" y="addicted"/>
+			<skill id="heal" x="13" y="hyper"/>
 			<skill id="hijack" x="5"/>
 			<skill id="weaken" x="9"/>
 		</upgrade>
@@ -88205,7 +88807,7 @@
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<skill id="heal" x="14" y="addicted"/>
+			<skill id="heal" x="14" y="hyper"/>
 			<skill id="hijack" x="6"/>
 			<skill id="weaken" x="10"/>
 		</upgrade>
@@ -88224,7 +88826,7 @@
 		<skill id="pierce" x="3"/>
 		<skill id="leech" x="2"/>
 		<type>5</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -89740,7 +90342,7 @@
 		<skill id="pierce" x="3"/>
 		<skill id="poison" x="5"/>
 		<type>5</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<release_time>1558634400</release_time>
 		<set>2</set>
 		<upgrade>
@@ -89873,7 +90475,7 @@
 		<skill id="armored" x="3"/>
 		<skill id="berserk" x="4"/>
 		<type>5</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<release_time>1558634400</release_time>
 		<set>3</set>
 		<upgrade>
@@ -95036,7 +95638,7 @@
 	<skill id="shrapnel" x="3"/>
 	<skill id="berserk" x="4"/>
 	<type>5</type>
-	<trait>addicted</trait>
+	<trait>hyper</trait>
 	<set>2</set>
 	<upgrade>
 		<level>2</level>
@@ -96265,7 +96867,7 @@
 	<skill id="bunker" x="5"/>
 	<skill id="barrier" x="5"/>
 	<type>5</type>
-	<trait>addicted</trait>
+	<trait>hyper</trait>
 	<set>3</set>
 	<upgrade>
 		<level>2</level>
@@ -96377,7 +96979,7 @@
 	<skill id="rally" x="5"/>
 	<skill id="strike" x="5"/>
 	<type>5</type>
-	<trait>addicted</trait>
+	<trait>hyper</trait>
 	<set>2</set>
 	<upgrade>
 		<level>2</level>
@@ -97229,10 +97831,10 @@
 		<health>48</health>
 		<rarity>4</rarity>
 		<skill id="healall" x="3"/>
-		<skill id="rally" x="6" y="addicted"/>
+		<skill id="rally" x="6" y="hyper"/>
 		<skill id="weaken" x="6"/>
 		<type>5</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -97247,49 +97849,49 @@
 			<level>4</level>
 			<health>51</health>
 			<skill id="healall" x="3"/>
-			<skill id="rally" x="6" y="addicted"/>
+			<skill id="rally" x="6" y="hyper"/>
 			<skill id="weaken" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
 			<attack>11</attack>
 			<skill id="healall" x="3"/>
-			<skill id="rally" x="7" y="addicted"/>
+			<skill id="rally" x="7" y="hyper"/>
 			<skill id="weaken" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
 			<health>52</health>
 			<skill id="healall" x="4"/>
-			<skill id="rally" x="7" y="addicted"/>
+			<skill id="rally" x="7" y="hyper"/>
 			<skill id="weaken" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
 			<health>53</health>
 			<skill id="healall" x="4"/>
-			<skill id="rally" x="7" y="addicted"/>
+			<skill id="rally" x="7" y="hyper"/>
 			<skill id="weaken" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
 			<health>54</health>
 			<skill id="healall" x="4"/>
-			<skill id="rally" x="8" y="addicted"/>
+			<skill id="rally" x="8" y="hyper"/>
 			<skill id="weaken" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
 			<attack>12</attack>
 			<skill id="healall" x="4"/>
-			<skill id="rally" x="8" y="addicted"/>
+			<skill id="rally" x="8" y="hyper"/>
 			<skill id="weaken" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
 			<health>55</health>
 			<skill id="healall" x="4"/>
-			<skill id="rally" x="9" y="addicted"/>
+			<skill id="rally" x="9" y="hyper"/>
 			<skill id="weaken" x="9"/>
 		</upgrade>
 		<upgrade>
@@ -97301,28 +97903,28 @@
 			<level>12</level>
 			<health>57</health>
 			<skill id="healall" x="5"/>
-			<skill id="rally" x="9" y="addicted"/>
+			<skill id="rally" x="9" y="hyper"/>
 			<skill id="weaken" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
 			<health>58</health>
 			<skill id="healall" x="5"/>
-			<skill id="rally" x="9" y="addicted"/>
+			<skill id="rally" x="9" y="hyper"/>
 			<skill id="weaken" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
 			<attack>14</attack>
 			<skill id="healall" x="5"/>
-			<skill id="rally" x="10" y="addicted"/>
+			<skill id="rally" x="10" y="hyper"/>
 			<skill id="weaken" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
 			<health>59</health>
 			<skill id="healall" x="5"/>
-			<skill id="rally" x="10" y="addicted"/>
+			<skill id="rally" x="10" y="hyper"/>
 			<skill id="weaken" x="11"/>
 		</upgrade>
 		<upgrade>
@@ -97334,13 +97936,13 @@
 			<level>17</level>
 			<health>61</health>
 			<skill id="healall" x="6"/>
-			<skill id="rally" x="10" y="addicted"/>
+			<skill id="rally" x="10" y="hyper"/>
 			<skill id="weaken" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
 			<skill id="healall" x="6"/>
-			<skill id="rally" x="11" y="addicted"/>
+			<skill id="rally" x="11" y="hyper"/>
 			<skill id="weaken" x="12"/>
 		</upgrade>
 	</unit>
@@ -97358,7 +97960,7 @@
 		<skill id="barrierall" x="2"/>
 		<skill id="shrapnel" x="4"/>
 		<type>5</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>3</set>
 		<upgrade>
 			<level>2</level>
@@ -99742,7 +100344,7 @@
 		<set>1001</set>
 		<type>5</type>
 		<trait>disguised</trait>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='inspire' p='30' v='7' />
@@ -99788,7 +100390,7 @@
 		<set>1001</set>
 		<type>5</type>
 		<trait>disguised</trait>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.75</health_multiplier>
 		<skill id='shrapnel' p='30' v='7' />
@@ -100160,7 +100762,7 @@
 		<set>1001</set>
 		<type>5</type>
 		<trait>athletic</trait>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='armored' p='35' v='8' />
@@ -100177,7 +100779,7 @@
 		<rarity>1</rarity>
 		<set>1001</set>
 		<type>5</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='inspire' p='35' v='7' />
@@ -100194,7 +100796,7 @@
 		<set>1001</set>
 		<type>5</type>
 		<trait>athletic</trait>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.7</attack_multiplier>
 		<health_multiplier>0.7</health_multiplier>
 		<skill id='armored' p='30' v='8' />
@@ -101878,7 +102480,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>5</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.68</attack_multiplier>
         <health_multiplier>0.74</health_multiplier>
         <skill id='hijack' p='30' v='8' />
@@ -101894,7 +102496,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>5</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.7</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
         <skill id='invigorate' p='30' v='10' />
@@ -101910,7 +102512,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>5</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.7</attack_multiplier>
         <health_multiplier>0.7</health_multiplier>
         <skill id='leech' p='28' v='11' />
@@ -101926,7 +102528,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>5</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.7</attack_multiplier>
         <health_multiplier>0.7</health_multiplier>
         <skill id='hijack' p='30' v='8' />
@@ -102256,7 +102858,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>5</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.71</health_multiplier>
         <skill id='counter' p='30' v='9' />
@@ -102271,7 +102873,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>5</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.68</health_multiplier>
         <skill id='shrapnel' p='30' v='9' />
@@ -102626,12 +103228,12 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>5</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.73</health_multiplier>
         <skill id='inspire' p='30' v='9' />
         <skill id='weakenall' p='30' v='6' />
-		<skill id='barrierall' y='addicted' p='30' v='6'/>
+		<skill id='barrierall' y='hyper' p='30' v='6'/>
     </unit>
     <unit>
     	<id>55191</id>
@@ -102642,7 +103244,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>5</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.71</attack_multiplier>
         <health_multiplier>0.74</health_multiplier>
         <skill id='berserk' p='30' v='8' />
@@ -102917,7 +103519,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>5</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.71</health_multiplier>
         <skill id='counter' p='30' v='11' />
@@ -102932,7 +103534,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>5</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.71</attack_multiplier>
         <health_multiplier>0.74</health_multiplier>
         <skill id='bodyguard' p='30' v='9' />
@@ -103158,12 +103760,12 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>5</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.73</attack_multiplier>
         <health_multiplier>0.71</health_multiplier>
         <skill id='heal' p='30' v='12' />
         <skill id='poison' p='30' v='9' />
-		<skill id='rallyall' y='addicted' p='36' v='6'/>
+		<skill id='rallyall' y='hyper' p='36' v='6'/>
     </unit> 
 	<unit>
     	<id>55226</id>
@@ -103388,7 +103990,7 @@
         <rarity>1</rarity>
         <set>1002</set>
         <type>5</type>
-        <trait>addicted</trait>
+        <trait>hyper</trait>
         <attack_multiplier>0.72</attack_multiplier>
         <health_multiplier>0.72</health_multiplier>
         <skill id='burn' p='30' v='8'  />
@@ -103930,7 +104532,7 @@
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>5</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.71</attack_multiplier>
 		<health_multiplier>0.73</health_multiplier>
 		<skill id='armored' p='30' v='13'  />
@@ -104991,7 +105593,7 @@
 		<skill id="invigorate" x="6"/>
 		<skill id="heal" x="4"/>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>1</set>
 		<upgrade>
 			<level>2</level>
@@ -105706,7 +106308,7 @@
 		<health>4</health>
 		<rarity>1</rarity>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>1</set>
 		<upgrade>
 			<level>2</level>
@@ -105754,7 +106356,7 @@
 		<health>9</health>
 		<rarity>2</rarity>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>1</set>
 		<upgrade>
 			<level>2</level>
@@ -105821,7 +106423,7 @@
 		<skill id="counter" x="1"/>
 		<skill id="invigorate" x="2"/>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>1</set>
 		<upgrade>
 			<level>2</level>
@@ -107715,7 +108317,7 @@
 		<skill id="weaken" x="5"/>
 		<skill id="berserk" x="5"/>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -107848,7 +108450,7 @@
 		<skill id="pierce" x="4"/>
 		<skill id="poison" x="4"/>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
@@ -108013,7 +108615,7 @@
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.73</attack_multiplier>
 		<health_multiplier>0.75</health_multiplier>
 		<skill id='weakenall' p='36' v='10' />
@@ -108201,7 +108803,7 @@
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.73</attack_multiplier>
 		<health_multiplier>0.75</health_multiplier>
 		<skill id='berserk' p='30' v='8' />
@@ -108396,7 +108998,7 @@
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.71</attack_multiplier>
 		<health_multiplier>0.74</health_multiplier>
 		<skill id='invigorate' p='30' v='12' />
@@ -108898,7 +109500,7 @@
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.72</attack_multiplier>
 		<health_multiplier>0.73</health_multiplier>
 		<skill id='enlarge' p='30' v='9' />
@@ -108913,7 +109515,7 @@
 		<rarity>1</rarity>
 		<set>1002</set>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack_multiplier>0.71</attack_multiplier>
 		<health_multiplier>0.73</health_multiplier>
 		<skill id='inspire' p='30' v='10' />
@@ -109071,7 +109673,7 @@
 		<rarity>1</rarity>
 		<set>1</set>
 		<type>6</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack>3</attack>
 		<health>3</health>
 		<upgrade>
@@ -109529,7 +110131,7 @@
 		<set>9999</set>
 		<hidden>1</hidden>
 		<type>6</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<release_time>1555351200</release_time>
         <skill id='burn' x='5' />
 		<attack>5</attack>
@@ -109606,7 +110208,7 @@
 		<set>9999</set>
 		<hidden>1</hidden>
 		<type>6</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<release_time>1555351200</release_time>
 		<attack>5</attack>
 		<health>50</health>
@@ -109647,7 +110249,7 @@
 		<set>9999</set>
 		<hidden>1</hidden>
 		<type>6</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<release_time>1555351200</release_time>
 		<attack>4</attack>
 		<health>20</health>
@@ -109688,7 +110290,7 @@
 		<set>9999</set>
 		<hidden>1</hidden>
 		<type>6</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<release_time>1555351200</release_time>
 		<attack>4</attack>
 		<health>20</health>
@@ -109742,7 +110344,7 @@
 		<set>9999</set>
 		<hidden>1</hidden>
 		<type>6</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<release_time>1555351200</release_time>
 		<attack>5</attack>
 		<health>50</health>
@@ -111137,7 +111739,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>1</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="counter" x="2"/>
 	  <skill id="shrapnel" x="1"/>
 	  <skill id="poison" x="3"/>

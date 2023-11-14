@@ -400,7 +400,7 @@
 	<rarity>3</rarity>
 	<set>3001</set>
 	<type>1</type>
-	<trait>addicted</trait>
+	<trait>hyper</trait>
 	<skill id='berserk' x='3' />
 	<attack>6</attack>
 	<health>21</health>
@@ -6912,7 +6912,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>1</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1536429600</release_time>
 	  <skill id="weaken" x="4"/>
 	  <skill id="armored" x="3"/>
@@ -6922,7 +6922,7 @@
 	  <upgrade>
 	    <level>2</level>
 	    <health>19</health>
-	    <skill id="barrierall" x="1" y="addicted"/>
+	    <skill id="barrierall" x="1" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>3</level>
@@ -6943,7 +6943,7 @@
 	  <upgrade>
 	    <level>6</level>
 	    <health>25</health>
-	    <skill id="barrierall" x="2" y="addicted"/>
+	    <skill id="barrierall" x="2" y="hyper"/>
 	    <skill id="weaken" x="6"/>
 	  </upgrade>
 	  <upgrade>
@@ -6966,7 +6966,7 @@
 	    <level>10</level>
 	    <attack>12</attack>
 	    <health>30</health>
-	    <skill id="barrierall" x="3" y="addicted"/>
+	    <skill id="barrierall" x="3" y="hyper"/>
 	    <skill id="armored" x="6"/>
 	  </upgrade>
 	  <upgrade>
@@ -6982,7 +6982,7 @@
 	  <upgrade>
 	    <level>13</level>
 	    <health>35</health>
-	    <skill id="barrierall" x="4" y="addicted"/>
+	    <skill id="barrierall" x="4" y="hyper"/>
 	    <skill id="armored" x="7"/>
 	  </upgrade>
 	  <upgrade>
@@ -7005,7 +7005,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>1</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1536429600</release_time>
 	  <skill id="berserk" x="4"/>
 	  <skill id="leech" x="6"/>
@@ -7116,7 +7116,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>1</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1536429600</release_time>
 	  <skill id="weaken" x="4"/>
 	  <skill id="leech" x="4"/>
@@ -8016,7 +8016,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>1</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="counter" x="5"/>
 	  <skill id="shrapnel" x="4"/>
 	  <skill id="poison" x="6"/>
@@ -9656,7 +9656,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>1</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1558029600</release_time>
 	  <skill id="strike" x="6"/>
 	  <skill id="leech" x="7"/>
@@ -9770,7 +9770,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>1</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="invigorate" x="3"/>
 	  <skill id="outlast" x="3"/>
 	  <skill id="leech" x="4"/>
@@ -12181,7 +12181,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>1</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="pierce" x="8"/>
 	  <skill id="poison" x="8"/>
 	  <skill id="bunker" x="4"/>
@@ -12292,7 +12292,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>1</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="berserk" x="5"/>
 	  <skill id="invigorate" x="6"/>
 	  <skill id="bunker" x="4"/>
@@ -14015,7 +14015,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>1</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="shrapnel" x="3"/>
 	  <skill id="leech" x="8"/>
 	  <skill id="berserk" x="4"/>
@@ -16158,7 +16158,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>1</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="enlarge" x="4"/>
 	  <skill id="leech" x="8"/>
 	  <skill id="bunker" x="5"/>
@@ -16265,9 +16265,9 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>1</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="weaken" x="6"/>
-	  <skill id="healall" x="3" y="addicted"/>
+	  <skill id="healall" x="3" y="hyper"/>
 	  <skill id="hijack" x="6"/>
 	  <card_type>object</card_type>
 	  <upgrade>
@@ -16298,7 +16298,7 @@
 	    <attack>14</attack>
 	    <health>48</health>
 	    <skill id="weaken" x="8"/>
-	    <skill id="healall" x="4" y="addicted"/>
+	    <skill id="healall" x="4" y="hyper"/>
 	    <skill id="hijack" x="8"/>
 	  </upgrade>
 	  <upgrade>
@@ -16324,7 +16324,7 @@
 	    <level>12</level>
 	    <health>56</health>
 	    <skill id="weaken" x="10"/>
-	    <skill id="healall" x="5" y="addicted"/>
+	    <skill id="healall" x="5" y="hyper"/>
 	    <skill id="hijack" x="10"/>
 	  </upgrade>
 	  <upgrade>
@@ -16355,7 +16355,7 @@
 	    <level>18</level>
 	    <health>66</health>
 	    <skill id="weaken" x="12"/>
-	    <skill id="healall" x="6" y="addicted"/>
+	    <skill id="healall" x="6" y="hyper"/>
 	    <skill id="hijack" x="12"/>
 	  </upgrade>
 	</unit>
@@ -17759,7 +17759,7 @@
   <rarity>4</rarity>
   <set>3001</set>
   <type>1</type>
-  <trait>addicted</trait>
+  <trait>hyper</trait>
   <skill id="pierce" x="6"/>
   <skill id="strike" x="6"/>
   <skill id="berserk" x="4"/>
@@ -18727,7 +18727,7 @@
 		<rarity>4</rarity>
 		<set>3001</set>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<skill id="weaken" x="7"/>
 		<skill id="heal" x="6"/>
 		<skill id="armored" x="6"/>
@@ -18836,7 +18836,7 @@
 		<rarity>4</rarity>
 		<set>3001</set>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<skill id="berserk" x="4"/>
 		<skill id="shrapnel" x="3"/>
 		<skill id="pierce" x="7"/>
@@ -21967,7 +21967,7 @@
 		<rarity>4</rarity>
 		<set>3001</set>
 		<type>1</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<skill id="counter" x="6"/>
 		<skill id="strike" x="7"/>
 		<skill id="berserk" x="5"/>
@@ -23039,7 +23039,7 @@
 	<rarity>3</rarity>
 	<set>3001</set>
 	<type>2</type>
-	<trait>addicted</trait>
+	<trait>hyper</trait>
 	<skill id='armored' x='3' />
 	<skill id='berserk' x='2' />
 	<skill id='poison' x='4' />
@@ -29959,7 +29959,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>2</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1536429600</release_time>
 	  <skill id="outlast" x="4"/>
 	  <skill id="hijack" x="2"/>
@@ -29970,7 +29970,7 @@
 	    <level>2</level>
 	    <health>26</health>
 	    <skill id="outlast" x="5"/>
-	    <skill id="healall" x="1" y="addicted"/>
+	    <skill id="healall" x="1" y="hyper"/>
 	    <skill id="hijack" x="3"/>
 	  </upgrade>
 	  <upgrade>
@@ -29986,7 +29986,7 @@
 	  <upgrade>
 	    <level>5</level>
 	    <health>32</health>
-	    <skill id="healall" x="2" y="addicted"/>
+	    <skill id="healall" x="2" y="hyper"/>
 	    <skill id="hijack" x="4"/>
 	  </upgrade>
 	  <upgrade>
@@ -30003,7 +30003,7 @@
 	    <level>8</level>
 	    <health>38</health>
 	    <skill id="outlast" x="8"/>
-	    <skill id="healall" x="3" y="addicted"/>
+	    <skill id="healall" x="3" y="hyper"/>
 	    <skill id="hijack" x="5"/>
 	  </upgrade>
 	  <upgrade>
@@ -30019,7 +30019,7 @@
 	    <level>11</level>
 	    <health>44</health>
 	    <skill id="outlast" x="9"/>
-	    <skill id="healall" x="4" y="addicted"/>
+	    <skill id="healall" x="4" y="hyper"/>
 	    <skill id="hijack" x="6"/>
 	  </upgrade>
 	  <upgrade>
@@ -30035,7 +30035,7 @@
 	  <upgrade>
 	    <level>14</level>
 	    <health>50</health>
-	    <skill id="healall" x="5" y="addicted"/>
+	    <skill id="healall" x="5" y="hyper"/>
 	    <skill id="hijack" x="7"/>
 	  </upgrade>
 	  <upgrade>
@@ -30053,9 +30053,9 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>2</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1536429600</release_time>
-	  <skill id="heal" x="5" y="addicted"/>
+	  <skill id="heal" x="5" y="hyper"/>
 	  <skill id="invigorate" x="4"/>
 	  <skill id="poison" x="4"/>
 	  <combo_card_id>25152</combo_card_id>
@@ -30068,7 +30068,7 @@
 	  <upgrade>
 	    <level>3</level>
 	    <health>32</health>
-	    <skill id="heal" x="6" y="addicted"/>
+	    <skill id="heal" x="6" y="hyper"/>
 	    <skill id="invigorate" x="5"/>
 	    <skill id="poison" x="5"/>
 	  </upgrade>
@@ -30080,13 +30080,13 @@
 	    <level>5</level>
 	    <attack>5</attack>
 	    <health>36</health>
-	    <skill id="heal" x="7" y="addicted"/>
+	    <skill id="heal" x="7" y="hyper"/>
 	    <skill id="poison" x="6"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>6</level>
 	    <health>39</health>
-	    <skill id="heal" x="8" y="addicted"/>
+	    <skill id="heal" x="8" y="hyper"/>
 	    <skill id="invigorate" x="6"/>
 	  </upgrade>
 	  <upgrade>
@@ -30098,7 +30098,7 @@
 	    <level>8</level>
 	    <attack>6</attack>
 	    <health>43</health>
-	    <skill id="heal" x="9" y="addicted"/>
+	    <skill id="heal" x="9" y="hyper"/>
 	    <skill id="invigorate" x="7"/>
 	  </upgrade>
 	  <upgrade>
@@ -30109,13 +30109,13 @@
 	  <upgrade>
 	    <level>10</level>
 	    <health>47</health>
-	    <skill id="heal" x="10" y="addicted"/>
+	    <skill id="heal" x="10" y="hyper"/>
 	    <skill id="invigorate" x="8"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>11</level>
 	    <health>50</health>
-	    <skill id="heal" x="11" y="addicted"/>
+	    <skill id="heal" x="11" y="hyper"/>
 	    <skill id="poison" x="9"/>
 	  </upgrade>
 	  <upgrade>
@@ -30127,7 +30127,7 @@
 	  <upgrade>
 	    <level>13</level>
 	    <health>54</health>
-	    <skill id="heal" x="12" y="addicted"/>
+	    <skill id="heal" x="12" y="hyper"/>
 	    <skill id="poison" x="10"/>
 	  </upgrade>
 	  <upgrade>
@@ -30139,7 +30139,7 @@
 	    <level>15</level>
 	    <attack>8</attack>
 	    <health>59</health>
-	    <skill id="heal" x="13" y="addicted"/>
+	    <skill id="heal" x="13" y="hyper"/>
 	    <skill id="poison" x="11"/>
 	  </upgrade>
 	</unit>
@@ -32505,7 +32505,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>2</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1558029600</release_time>
 	  <skill id="hijack" x="6"/>
 	  <skill id="inspire" x="4"/>
@@ -32613,7 +32613,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>2</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1558029600</release_time>
 	  <skill id="shrapnel" x="3"/>
 	  <skill id="weaken" x="6"/>
@@ -32720,10 +32720,10 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>2</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="hijack" x="3"/>
 	  <skill id="pierce" x="4"/>
-	  <skill id="rallyall" x="2" y="addicted"/>
+	  <skill id="rallyall" x="2" y="hyper"/>
 	  <card_type>object</card_type>
 	  <combo_card_id>25172</combo_card_id>
 	  <attack>5</attack>
@@ -32742,7 +32742,7 @@
 	    <level>4</level>
 	    <attack>6</attack>
 	    <health>27</health>
-	    <skill id="rallyall" x="3" y="addicted"/>
+	    <skill id="rallyall" x="3" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>5</level>
@@ -32765,7 +32765,7 @@
 	    <level>8</level>
 	    <attack>8</attack>
 	    <health>34</health>
-	    <skill id="rallyall" x="4" y="addicted"/>
+	    <skill id="rallyall" x="4" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>9</level>
@@ -32787,7 +32787,7 @@
 	    <level>12</level>
 	    <health>41</health>
 	    <skill id="hijack" x="8"/>
-	    <skill id="rallyall" x="5" y="addicted"/>
+	    <skill id="rallyall" x="5" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>13</level>
@@ -35773,7 +35773,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>2</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="armored" x="5"/>
 	  <skill id="weakenall" x="3"/>
 	  <skill id="hijack" x="3"/>
@@ -35879,7 +35879,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>2</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="poison" x="7"/>
 	  <skill id="heal" x="6"/>
 	  <skill id="bunker" x="5"/>
@@ -35988,7 +35988,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>2</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="bodyguard" x="5"/>
 	  <skill id="armored" x="6"/>
 	  <skill id="hijack" x="4"/>
@@ -37823,7 +37823,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>2</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="shrapnel" x="4"/>
 	  <skill id="inspire" x="4"/>
 	  <skill id="poison" x="7"/>
@@ -39421,7 +39421,7 @@
   <rarity>4</rarity>
   <set>3001</set>
   <type>2</type>
-  <trait>addicted</trait>
+  <trait>hyper</trait>
   <skill id="weaken" x="7"/>
   <skill id="bodyguard" x="5"/>
   <skill id="hijack" x="5"/>
@@ -41098,7 +41098,7 @@
 	<rarity>4</rarity>
 	<set>3001</set>
 	<type>2</type>
-	<trait>addicted</trait>
+	<trait>hyper</trait>
 	<skill id="poison" x="7"/>
 	<skill id="bodyguard" x="5"/>
 	<skill id="counter" x="7"/>
@@ -41562,7 +41562,7 @@
 		<rarity>4</rarity>
 		<set>3001</set>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<skill id="poison" x="6"/>
 		<skill id="shrapnel" x="4"/>
 		<card_type>object</card_type>
@@ -45995,9 +45995,9 @@
 		<rarity>4</rarity>
 		<set>3001</set>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<skill id="berserk" x="5"/>
-		<skill id="rallyall" x="3" y="addicted"/>
+		<skill id="rallyall" x="3" y="hyper"/>
 		<skill id="barrier" x="6"/>
 		<card_type>object</card_type>
 		<upgrade>
@@ -46026,7 +46026,7 @@
 		<upgrade>
 			<level>7</level>
 			<health>61</health>
-			<skill id="rallyall" x="4" y="addicted"/>
+			<skill id="rallyall" x="4" y="hyper"/>
 			<skill id="barrier" x="9"/>
 		</upgrade>
 		<upgrade>
@@ -46052,7 +46052,7 @@
 			<attack>17</attack>
 			<health>65</health>
 			<skill id="berserk" x="8"/>
-			<skill id="rallyall" x="5" y="addicted"/>
+			<skill id="rallyall" x="5" y="hyper"/>
 			<skill id="barrier" x="11"/>
 		</upgrade>
 		<upgrade>
@@ -46083,7 +46083,7 @@
 			<level>18</level>
 			<attack>19</attack>
 			<health>71</health>
-			<skill id="rallyall" x="6" y="addicted"/>
+			<skill id="rallyall" x="6" y="hyper"/>
 		</upgrade>
 	</unit>
 	<unit>
@@ -46388,7 +46388,7 @@
 	<set>3001</set>
 	<type>3</type>
 	<trait>educated</trait>
-	<trait>addicted</trait>
+	<trait>hyper</trait>
 	<skill id='strike' x='3' />
 	<skill id='pierce' x='4' />
 	<skill id='berserk' x='2' />
@@ -53308,9 +53308,9 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>3</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1536429600</release_time>
-	  <skill id="heal" x="5" y="addicted"/>
+	  <skill id="heal" x="5" y="hyper"/>
 	  <skill id="inspire" x="2"/>
 	  <skill id="weakenall" x="1"/>
 	  <combo_card_id>35149</combo_card_id>
@@ -53325,7 +53325,7 @@
 	    <level>3</level>
 	    <attack>8</attack>
 	    <health>26</health>
-	    <skill id="heal" x="6" y="addicted"/>
+	    <skill id="heal" x="6" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>4</level>
@@ -53335,13 +53335,13 @@
 	    <level>5</level>
 	    <attack>9</attack>
 	    <health>29</health>
-	    <skill id="heal" x="7" y="addicted"/>
+	    <skill id="heal" x="7" y="hyper"/>
 	    <skill id="weakenall" x="2"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>6</level>
 	    <health>30</health>
-	    <skill id="heal" x="8" y="addicted"/>
+	    <skill id="heal" x="8" y="hyper"/>
 	    <skill id="inspire" x="4"/>
 	  </upgrade>
 	  <upgrade>
@@ -53352,7 +53352,7 @@
 	  <upgrade>
 	    <level>8</level>
 	    <health>33</health>
-	    <skill id="heal" x="9" y="addicted"/>
+	    <skill id="heal" x="9" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>9</level>
@@ -53363,14 +53363,14 @@
 	  <upgrade>
 	    <level>10</level>
 	    <health>36</health>
-	    <skill id="heal" x="10" y="addicted"/>
+	    <skill id="heal" x="10" y="hyper"/>
 	    <skill id="inspire" x="5"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>11</level>
 	    <attack>12</attack>
 	    <health>38</health>
-	    <skill id="heal" x="11" y="addicted"/>
+	    <skill id="heal" x="11" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>12</level>
@@ -53380,7 +53380,7 @@
 	    <level>13</level>
 	    <attack>13</attack>
 	    <health>41</health>
-	    <skill id="heal" x="12" y="addicted"/>
+	    <skill id="heal" x="12" y="hyper"/>
 	    <skill id="inspire" x="6"/>
 	    <skill id="weakenall" x="4"/>
 	  </upgrade>
@@ -53392,7 +53392,7 @@
 	    <level>15</level>
 	    <attack>14</attack>
 	    <health>44</health>
-	    <skill id="heal" x="13" y="addicted"/>
+	    <skill id="heal" x="13" y="hyper"/>
 	  </upgrade>
 	</unit>	
 	<unit>
@@ -53403,7 +53403,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>3</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1536429600</release_time>
 	  <skill id="strike" x="6"/>
 	  <skill id="leech" x="7"/>
@@ -53519,7 +53519,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>3</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1536429600</release_time>
 	  <skill id="strike" x="4"/>
 	  <combo_card_id>35151</combo_card_id>
@@ -54362,7 +54362,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>3</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <trait>toy</trait>
 	  <skill id="pierce" x="7"/>
 	  <skill id="berserk" x="4"/>
@@ -55618,11 +55618,11 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>3</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1558029600</release_time>
 	  <skill id="strike" x="6"/>
 	  <skill id="armored" x="5"/>
-	  <skill id="heal" x="7" y="addicted"/>
+	  <skill id="heal" x="7" y="hyper"/>
 	  <card_type>object</card_type>
 	  <combo_card_id>35170</combo_card_id>
 	  <attack>9</attack>
@@ -55635,7 +55635,7 @@
 	    <level>3</level>
 	    <attack>10</attack>
 	    <health>28</health>
-	    <skill id="heal" x="8" y="addicted"/>
+	    <skill id="heal" x="8" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>4</level>
@@ -55651,7 +55651,7 @@
 	  <upgrade>
 	    <level>6</level>
 	    <health>32</health>
-	    <skill id="heal" x="9" y="addicted"/>
+	    <skill id="heal" x="9" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>7</level>
@@ -55663,7 +55663,7 @@
 	    <level>8</level>
 	    <attack>13</attack>
 	    <health>36</health>
-	    <skill id="heal" x="10" y="addicted"/>
+	    <skill id="heal" x="10" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>9</level>
@@ -55675,7 +55675,7 @@
 	    <attack>14</attack>
 	    <health>39</health>
 	    <skill id="strike" x="9"/>
-	    <skill id="heal" x="11" y="addicted"/>
+	    <skill id="heal" x="11" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>11</level>
@@ -55687,7 +55687,7 @@
 	    <health>42</health>
 	    <skill id="strike" x="10"/>
 	    <skill id="armored" x="8"/>
-	    <skill id="heal" x="12" y="addicted"/>
+	    <skill id="heal" x="12" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>13</level>
@@ -55708,13 +55708,13 @@
 	    <health>48</health>
 	    <skill id="strike" x="11"/>
 	    <skill id="armored" x="9"/>
-	    <skill id="heal" x="13" y="addicted"/>
+	    <skill id="heal" x="13" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>17</level>
 	    <attack>18</attack>
 	    <health>50</health>
-	    <skill id="heal" x="14" y="addicted"/>
+	    <skill id="heal" x="14" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>18</level>
@@ -55731,7 +55731,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>3</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1558029600</release_time>
 	  <skill id="barrierall" x="3"/>
 	  <skill id="hijack" x="6"/>
@@ -55843,8 +55843,8 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>3</type>
-	  <trait>addicted</trait>
-	  <skill id="barrierall" x="2" y="addicted"/>
+	  <trait>hyper</trait>
+	  <skill id="barrierall" x="2" y="hyper"/>
 	  <skill id="leech" x="4"/>
 	  <skill id="weaken" x="3"/>
 	  <card_type>object</card_type>
@@ -55865,7 +55865,7 @@
 	  <upgrade>
 	    <level>4</level>
 	    <health>24</health>
-	    <skill id="barrierall" x="3" y="addicted"/>
+	    <skill id="barrierall" x="3" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>5</level>
@@ -55889,7 +55889,7 @@
 	    <level>8</level>
 	    <attack>11</attack>
 	    <health>29</health>
-	    <skill id="barrierall" x="4" y="addicted"/>
+	    <skill id="barrierall" x="4" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>9</level>
@@ -55911,7 +55911,7 @@
 	    <level>12</level>
 	    <attack>13</attack>
 	    <health>34</health>
-	    <skill id="barrierall" x="5" y="addicted"/>
+	    <skill id="barrierall" x="5" y="hyper"/>
 	    <skill id="weaken" x="8"/>
 	  </upgrade>
 	  <upgrade>
@@ -58158,7 +58158,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>3</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="burn" x="4"/>
 	  <skill id="enlarge" x="5"/>
 	  <skill id="invigorate" x="7"/>
@@ -61580,8 +61580,8 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>3</type>
-	  <trait>addicted</trait>
-	  <skill id="rallyall" x="3" y="addicted"/>
+	  <trait>hyper</trait>
+	  <skill id="rallyall" x="3" y="hyper"/>
 	  <skill id="enlarge" x="5"/>
 	  <skill id="invigorate" x="4"/>
 	  <card_type>object</card_type>
@@ -61592,7 +61592,7 @@
 	  <upgrade>
 	    <level>3</level>
 	    <health>40</health>
-	    <skill id="rallyall" x="4" y="addicted"/>
+	    <skill id="rallyall" x="4" y="hyper"/>
 	    <skill id="enlarge" x="6"/>
 	  </upgrade>
 	  <upgrade>
@@ -61618,7 +61618,7 @@
 	    <level>8</level>
 	    <attack>14</attack>
 	    <health>48</health>
-	    <skill id="rallyall" x="5" y="addicted"/>
+	    <skill id="rallyall" x="5" y="hyper"/>
 	    <skill id="invigorate" x="6"/>
 	  </upgrade>
 	  <upgrade>
@@ -61638,7 +61638,7 @@
 	    <level>12</level>
 	    <attack>15</attack>
 	    <health>54</health>
-	    <skill id="rallyall" x="6" y="addicted"/>
+	    <skill id="rallyall" x="6" y="hyper"/>
 	    <skill id="enlarge" x="9"/>
 	    <skill id="invigorate" x="7"/>
 	  </upgrade>
@@ -61663,7 +61663,7 @@
 	  <upgrade>
 	    <level>17</level>
 	    <health>62</health>
-	    <skill id="rallyall" x="7" y="addicted"/>
+	    <skill id="rallyall" x="7" y="hyper"/>
 	    <skill id="invigorate" x="8"/>
 	  </upgrade>
 	  <upgrade>
@@ -61684,8 +61684,8 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>3</type>
-	  <trait>addicted</trait>
-	  <skill id="healall" x="3" y="addicted"/>
+	  <trait>hyper</trait>
+	  <skill id="healall" x="3" y="hyper"/>
 	  <skill id="inspire" x="4"/>
 	  <skill id="bunker" x="5"/>
 	  <card_type>object</card_type>
@@ -61715,7 +61715,7 @@
 	  <upgrade>
 	    <level>7</level>
 	    <health>45</health>
-	    <skill id="healall" x="4" y="addicted"/>
+	    <skill id="healall" x="4" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>8</level>
@@ -61740,7 +61740,7 @@
 	    <level>12</level>
 	    <attack>14</attack>
 	    <health>55</health>
-	    <skill id="healall" x="5" y="addicted"/>
+	    <skill id="healall" x="5" y="hyper"/>
 	    <skill id="inspire" x="7"/>
 	    <skill id="bunker" x="8"/>
 	  </upgrade>
@@ -61771,7 +61771,7 @@
 	    <level>18</level>
 	    <attack>16</attack>
 	    <health>66</health>
-	    <skill id="healall" x="6" y="addicted"/>
+	    <skill id="healall" x="6" y="hyper"/>
 	  </upgrade>
 	</unit>
 	<unit>
@@ -63499,7 +63499,7 @@
   <rarity>4</rarity>
   <set>3001</set>
   <type>3</type>
-  <trait>addicted</trait>
+  <trait>hyper</trait>
   <skill id="berserk" x="5"/>
   <skill id="weaken" x="8"/>
   <skill id="hijack" x="6"/>
@@ -63607,7 +63607,7 @@
   <rarity>4</rarity>
   <set>3001</set>
   <type>3</type>
-  <trait>addicted</trait>
+  <trait>hyper</trait>
   <skill id="poison" x="6"/>
   <skill id="inspire" x="4"/>
   <skill id="shrapnel" x="5"/>
@@ -68196,7 +68196,7 @@
 		<rarity>4</rarity>
 		<set>3001</set>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<skill id="hijack" x="7"/>
 		<skill id="weaken" x="7"/>
 		<skill id="leech" x="6"/>
@@ -68307,7 +68307,7 @@
 		<rarity>4</rarity>
 		<set>3001</set>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<skill id="strike" x="6"/>
 		<skill id="rallyall" x="2" y="3"/>
 		<skill id="barrierall" x="2" y="3"/>
@@ -69292,7 +69292,7 @@
 		<rarity>4</rarity>
 		<set>9999</set>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<attack>3</attack>
 		<health>15</health>
 		<skill id='armored' x='1' />
@@ -76144,13 +76144,13 @@
 	</unit>
 	<unit>
 	  <id>140073</id>
-	  <name>Crack addicted Fish</name>
+	  <name>Crack hyper Fish</name>
 	  <picture>KOTH_CrackAddictFish</picture>
 	  <asset_bundle>46</asset_bundle>
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>4</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1536429600</release_time>
 	  <skill id="inspire" x="4"/>
 	  <skill id="strike" x="6"/>
@@ -76258,7 +76258,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>4</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="poison" x="7"/>
 	  <skill id="leech" x="7"/>
 	  <skill id="berserk" x="4"/>
@@ -78504,7 +78504,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>4</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1558029600</release_time>
 	  <skill id="berserk" x="3"/>
 	  <skill id="pierce" x="6"/>
@@ -78613,7 +78613,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>4</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="pierce" x="4"/>
 	  <skill id="leech" x="4"/>
 	  <skill id="shrapnel" x="2"/>
@@ -80489,16 +80489,16 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>4</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="bodyguard" x="5"/>
 	  <skill id="bunker" x="3"/>
-	  <skill id="barrierall" x="3" y="addicted"/>
+	  <skill id="barrierall" x="3" y="hyper"/>
 	  <card_type>object</card_type>
 	  <upgrade>
 	    <level>2</level>
 	    <health>41</health>
 	    <skill id="bunker" x="4"/>
-	    <skill id="barrierall" x="4" y="addicted"/>
+	    <skill id="barrierall" x="4" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>3</level>
@@ -80523,7 +80523,7 @@
 	    <health>47</health>
 	    <skill id="bodyguard" x="7"/>
 	    <skill id="bunker" x="5"/>
-	    <skill id="barrierall" x="5" y="addicted"/>
+	    <skill id="barrierall" x="5" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>8</level>
@@ -80549,7 +80549,7 @@
 	    <health>54</health>
 	    <skill id="bodyguard" x="9"/>
 	    <skill id="bunker" x="6"/>
-	    <skill id="barrierall" x="6" y="addicted"/>
+	    <skill id="barrierall" x="6" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>13</level>
@@ -80573,7 +80573,7 @@
 	    <level>17</level>
 	    <health>60</health>
 	    <skill id="bunker" x="7"/>
-	    <skill id="barrierall" x="7" y="addicted"/>
+	    <skill id="barrierall" x="7" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>18</level>
@@ -81332,7 +81332,7 @@
 	  <set>3001</set>
 	  <type>4</type>
 	  <trait>toy</trait>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="shrapnel" x="5"/>
 	  <skill id="leech" x="7"/>
 	  <skill id="armored" x="5"/>
@@ -81438,7 +81438,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>4</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="burn" x="5"/>
 	  <skill id="bunker" x="5"/>
 	  <skill id="counter" x="6"/>
@@ -81543,7 +81543,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>4</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="heal" x="6"/>
 	  <skill id="strike" x="7"/>
 	  <skill id="burn" x="4"/>
@@ -84636,7 +84636,7 @@
   <rarity>4</rarity>
   <set>3001</set>
   <type>4</type>
-  <trait>addicted</trait>
+  <trait>hyper</trait>
   <skill id="outlast" x="7"/>
   <skill id="counter" x="7"/>
   <skill id="invigorate" x="6"/>
@@ -85803,7 +85803,7 @@
 	<rarity>4</rarity>
 	<set>3001</set>
 	<type>4</type>
-	<trait>addicted</trait>
+	<trait>hyper</trait>
 	<skill id="strike" x="6"/>
 	<skill id="inspire" x="5"/>
 	<skill id="bunker" x="5"/>
@@ -89828,7 +89828,7 @@
 		<rarity>4</rarity>
 		<set>3001</set>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<skill id="pierce" x="5"/>
 		<skill id="leech" x="6"/>
 		<skill id="berserk" x="3"/>
@@ -89931,7 +89931,7 @@
 		<rarity>4</rarity>
 		<set>3001</set>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<skill id="strike" x="6"/>
 		<skill id="weakenall" x="5"/>
 		<skill id="berserk" x="4"/>
@@ -90135,6 +90135,667 @@
 			<attack>15</attack>
 			<health>83</health>
 			<skill id="heal" x="17"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>140208</id>
+		<combo_card_id>45249</combo_card_id>
+		<attack>11</attack>
+		<health>61</health>
+		<name>Boxing Hank</name>
+		<picture>KOTH_BoxingHank</picture>
+		<asset_bundle>70</asset_bundle>
+		<rarity>4</rarity>
+		<set>3001</set>
+		<type>4</type>
+		<trait>fighter</trait>
+		<skill id="strike" x="9"/>
+		<skill id="counter" x="8"/>
+		<skill id="armored" x="5"/>
+		<card_type>object</card_type>
+		<upgrade>
+			<level>2</level>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>62</health>
+			<skill id="strike" x="10"/>
+			<skill id="armored" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<attack>12</attack>
+			<health>63</health>
+			<skill id="counter" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>64</health>
+			<skill id="strike" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>65</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<attack>13</attack>
+			<health>66</health>
+			<skill id="strike" x="12"/>
+			<skill id="counter" x="10"/>
+			<skill id="armored" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>67</health>
+			<skill id="counter" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>68</health>
+			<skill id="strike" x="13"/>
+			<skill id="armored" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>14</attack>
+			<health>69</health>
+			<skill id="strike" x="14"/>
+			<skill id="counter" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>70</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>71</health>
+			<skill id="strike" x="15"/>
+			<skill id="counter" x="13"/>
+			<skill id="armored" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<attack>15</attack>
+			<health>72</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>73</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>74</health>
+			<skill id="strike" x="16"/>
+			<skill id="counter" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<attack>16</attack>
+			<health>75</health>
+			<skill id="strike" x="17"/>
+			<skill id="armored" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>76</health>
+			<skill id="strike" x="18"/>
+			<skill id="counter" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>17</attack>
+			<health>77</health>
+			<skill id="counter" x="16"/>
+			<skill id="armored" x="11"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>140209</id>
+		<combo_card_id>45250</combo_card_id>
+		<attack>10</attack>
+		<health>64</health>
+		<name>Butt Kicking Peggy</name>
+		<picture>KOTH_ButtKickingPeggy</picture>
+		<asset_bundle>82</asset_bundle>
+		<rarity>4</rarity>
+		<set>3001</set>
+		<type>4</type>
+		<trait>fighter</trait>
+		<skill id="weakenall" x="4"/>
+		<skill id="inspire" x="6"/>
+		<skill id="bodyguard" x="8"/>
+		<card_type>object</card_type>
+		<upgrade>
+			<level>2</level>
+			<health>65</health>
+			<skill id="weakenall" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>66</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>67</health>
+			<skill id="inspire" x="7"/>
+			<skill id="bodyguard" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>69</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>11</attack>
+			<health>70</health>
+			<skill id="weakenall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>71</health>
+			<skill id="inspire" x="8"/>
+			<skill id="bodyguard" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>73</health>
+			<skill id="bodyguard" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>74</health>
+			<skill id="weakenall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>12</attack>
+			<health>75</health>
+			<skill id="inspire" x="9"/>
+			<skill id="bodyguard" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>76</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>78</health>
+			<skill id="weakenall" x="8"/>
+			<skill id="inspire" x="10"/>
+			<skill id="bodyguard" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>79</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>13</attack>
+			<health>80</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>82</health>
+			<skill id="bodyguard" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>83</health>
+			<skill id="weakenall" x="9"/>
+			<skill id="inspire" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>84</health>
+			<skill id="bodyguard" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>14</attack>
+			<health>86</health>
+			<skill id="inspire" x="12"/>
+			<skill id="bodyguard" x="16"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>140210</id>
+		<combo_card_id>45251</combo_card_id>
+		<attack>12</attack>
+		<health>58</health>
+		<name>Plastic Bat Hank</name>
+		<picture>KOTH_PlasticBatHank</picture>
+		<asset_bundle>53</asset_bundle>
+		<rarity>4</rarity>
+		<set>3001</set>
+		<type>4</type>
+		<trait>armed</trait>
+		<skill id="burn" x="8"/>
+		<skill id="bunker" x="6"/>
+		<skill id="enlarge" x="6"/>
+		<card_type>object</card_type>
+		<upgrade>
+			<level>2</level>
+			<health>59</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>60</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>61</health>
+			<skill id="burn" x="9"/>
+			<skill id="bunker" x="7"/>
+			<skill id="enlarge" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>63</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<attack>13</attack>
+			<health>64</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>65</health>
+			<skill id="burn" x="10"/>
+			<skill id="bunker" x="8"/>
+			<skill id="enlarge" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>67</health>
+			<skill id="burn" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>68</health>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>14</attack>
+			<health>69</health>
+			<skill id="burn" x="12"/>
+			<skill id="bunker" x="9"/>
+			<skill id="enlarge" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>70</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>72</health>
+			<skill id="burn" x="13"/>
+			<skill id="bunker" x="10"/>
+			<skill id="enlarge" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>73</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<attack>15</attack>
+			<health>74</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>76</health>
+			<skill id="burn" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>77</health>
+			<skill id="bunker" x="11"/>
+			<skill id="enlarge" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>78</health>
+			<skill id="burn" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>16</attack>
+			<health>80</health>
+			<skill id="burn" x="16"/>
+			<skill id="bunker" x="12"/>
+			<skill id="enlarge" x="12"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>140211</id>
+		<combo_card_id>45252</combo_card_id>
+		<attack>14</attack>
+		<health>52</health>
+		<name>Ankle Gun Cotton</name>
+		<picture>KOTH_AnklegunCotton</picture>
+		<asset_bundle>44</asset_bundle>
+		<rarity>4</rarity>
+		<set>3001</set>
+		<type>4</type>
+		<trait>armed</trait>
+		<skill id="counter" x="8"/>
+		<skill id="poison" x="9"/>
+		<skill id="rallyall" x="4"/>
+		<card_type>object</card_type>
+		<upgrade>
+			<level>2</level>
+			<health>53</health>
+			<skill id="poison" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>54</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>55</health>
+			<skill id="counter" x="9"/>
+			<skill id="poison" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<attack>15</attack>
+			<health>56</health>
+			<skill id="rallyall" x="5"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>57</health>
+			<skill id="poison" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>58</health>
+			<skill id="counter" x="10"/>
+			<skill id="poison" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<attack>16</attack>
+			<health>59</health>
+			<skill id="counter" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>60</health>
+			<skill id="poison" x="14"/>
+			<skill id="rallyall" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>62</health>
+			<skill id="counter" x="12"/>
+			<skill id="poison" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>63</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<attack>17</attack>
+			<health>64</health>
+			<skill id="counter" x="13"/>
+			<skill id="poison" x="16"/>
+			<skill id="rallyall" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>65</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>66</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<attack>18</attack>
+			<health>67</health>
+			<skill id="counter" x="14"/>
+			<skill id="poison" x="17"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>68</health>
+			<skill id="poison" x="18"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>69</health>
+			<skill id="counter" x="15"/>
+			<skill id="poison" x="19"/>
+			<skill id="rallyall" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>19</attack>
+			<health>71</health>
+			<skill id="counter" x="16"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>140212</id>
+		<combo_card_id>45253</combo_card_id>
+		<attack>12</attack>
+		<health>58</health>
+		<name>Play Bobby</name>
+		<picture>KOTH_PlayBobby</picture>
+		<asset_bundle>73</asset_bundle>
+		<rarity>4</rarity>
+		<set>3001</set>
+		<type>4</type>
+		<trait>artistic</trait>
+		<skill id="bunker" x="3"/>
+		<skill id="weaken" x="8"/>
+		<skill id="berserk" x="5"/>
+		<card_type>object</card_type>
+		<upgrade>
+			<level>2</level>
+			<health>59</health>
+			<skill id="bunker" x="4"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>60</health>
+			<skill id="weaken" x="9"/>
+			<skill id="berserk" x="6"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>61</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<attack>13</attack>
+			<health>62</health>
+			<skill id="weaken" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>63</health>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>64</health>
+			<skill id="bunker" x="5"/>
+			<skill id="weaken" x="11"/>
+			<skill id="berserk" x="7"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<attack>14</attack>
+			<health>65</health>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>66</health>
+			<skill id="weaken" x="12"/>
+			<skill id="berserk" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>68</health>
+			<skill id="weaken" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>69</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<attack>15</attack>
+			<health>70</health>
+			<skill id="bunker" x="6"/>
+			<skill id="weaken" x="14"/>
+			<skill id="berserk" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>71</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>72</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<attack>16</attack>
+			<health>73</health>
+			<skill id="weaken" x="15"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>74</health>
+			<skill id="berserk" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>75</health>
+			<skill id="bunker" x="7"/>
+			<skill id="weaken" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>17</attack>
+			<health>77</health>
+			<skill id="weaken" x="17"/>
+			<skill id="berserk" x="11"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>140213</id>
+		<combo_card_id>45254</combo_card_id>
+		<attack>11</attack>
+		<health>61</health>
+		<name>Paper Mache Pear</name>
+		<picture>KOTH_PaperMachePear</picture>
+		<asset_bundle>78</asset_bundle>
+		<rarity>4</rarity>
+		<set>3001</set>
+		<type>4</type>
+		<trait>artistic</trait>
+		<skill id="barrierall" x="3"/>
+		<skill id="pierce" x="10"/>
+		<skill id="burn" x="7"/>
+		<card_type>object</card_type>
+		<upgrade>
+			<level>2</level>
+			<health>62</health>
+			<skill id="pierce" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>64</health>
+			<skill id="barrierall" x="4"/>
+			<skill id="pierce" x="12"/>
+			<skill id="burn" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>65</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>67</health>
+			<skill id="pierce" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>69</health>
+			<skill id="burn" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>70</health>
+			<skill id="pierce" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>72</health>
+			<skill id="barrierall" x="5"/>
+			<skill id="pierce" x="15"/>
+			<skill id="burn" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>74</health>
+			<skill id="pierce" x="16"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<attack>12</attack>
+			<health>75</health>
+			<skill id="pierce" x="17"/>
+			<skill id="burn" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>77</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>79</health>
+			<skill id="barrierall" x="6"/>
+			<skill id="pierce" x="18"/>
+			<skill id="burn" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>80</health>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>82</health>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>84</health>
+			<skill id="pierce" x="19"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>85</health>
+			<skill id="pierce" x="20"/>
+			<skill id="burn" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>87</health>
+			<skill id="barrierall" x="7"/>
+			<skill id="pierce" x="21"/>
+			<skill id="burn" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<attack>13</attack>
+			<health>89</health>
+			<skill id="pierce" x="22"/>
 		</upgrade>
 	</unit>
 	<!-- end King of the Hill Final Forms -->
@@ -91166,7 +91827,7 @@
 	<set>3001</set>
 	<type>5</type>
 	<trait>athletic</trait>
-	<trait>addicted</trait>
+	<trait>hyper</trait>
 	<skill id='armored' x='4' />
 	<skill id='strike' x='5' />
 	<skill id='berserk' x='4' />
@@ -97582,7 +98243,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>5</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1536429600</release_time>
 	  <skill id="leech" x="6"/>
 	  <skill id="inspire" x="4"/>
@@ -97694,7 +98355,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>5</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1536429600</release_time>
 	  <skill id="hijack" x="5"/>
 	  <skill id="armored" x="5"/>
@@ -97800,7 +98461,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>5</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1536429600</release_time>
 	  <skill id="invigorate" x="3"/>
 	  <skill id="pierce" x="4"/>
@@ -97897,7 +98558,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>5</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <release_time>1536429600</release_time>
 	  <skill id="hijack" x="3"/>
 	  <skill id="bodyguard" x="3"/>
@@ -100277,7 +100938,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>5</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="counter" x="3"/>
 	  <skill id="strike" x="4"/>
 	  <skill id="weakenall" x="2"/>
@@ -100370,7 +101031,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>5</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="shrapnel" x="3"/>
 	  <skill id="bodyguard" x="3"/>
 	  <skill id="leech" x="3"/>
@@ -103221,16 +103882,16 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>5</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="inspire" x="5"/>
 	  <skill id="weakenall" x="3"/>
-	  <skill id="barrierall" x="3" y="addicted"/>
+	  <skill id="barrierall" x="3" y="hyper"/>
 	  <card_type>object</card_type>
 	  <upgrade>
 	    <level>2</level>
 	    <health>42</health>
 	    <skill id="weakenall" x="4"/>
-	    <skill id="barrierall" x="4" y="addicted"/>
+	    <skill id="barrierall" x="4" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>3</level>
@@ -103256,7 +103917,7 @@
 	    <health>47</health>
 	    <skill id="inspire" x="7"/>
 	    <skill id="weakenall" x="5"/>
-	    <skill id="barrierall" x="5" y="addicted"/>
+	    <skill id="barrierall" x="5" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>8</level>
@@ -103282,7 +103943,7 @@
 	    <health>53</health>
 	    <skill id="inspire" x="9"/>
 	    <skill id="weakenall" x="6"/>
-	    <skill id="barrierall" x="6" y="addicted"/>
+	    <skill id="barrierall" x="6" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>13</level>
@@ -103307,7 +103968,7 @@
 	    <level>17</level>
 	    <health>58</health>
 	    <skill id="weakenall" x="7"/>
-	    <skill id="barrierall" x="7" y="addicted"/>
+	    <skill id="barrierall" x="7" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>18</level>
@@ -103327,7 +103988,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>5</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="berserk" x="5"/>
 	  <skill id="hijack" x="5"/>
 	  <skill id="bunker" x="4"/>
@@ -105698,7 +106359,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>5</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="counter" x="4"/>
 	  <skill id="poison" x="4"/>
 	  <skill id="pierce" x="4"/>
@@ -105794,7 +106455,7 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>5</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="bodyguard" x="5"/>
 	  <skill id="strike" x="6"/>
 	  <skill id="enlarge" x="5"/>
@@ -107284,10 +107945,10 @@
 	  <rarity>4</rarity>
 	  <set>3001</set>
 	  <type>5</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="heal" x="7"/>
 	  <skill id="poison" x="5"/>
-	  <skill id="rallyall" x="3" y="addicted"/>
+	  <skill id="rallyall" x="3" y="hyper"/>
 	  <card_type>object</card_type>
 	  <upgrade>
 	    <level>2</level>
@@ -107298,7 +107959,7 @@
 	    <health>40</health>
 	    <skill id="heal" x="8"/>
 	    <skill id="poison" x="6"/>
-	    <skill id="rallyall" x="4" y="addicted"/>
+	    <skill id="rallyall" x="4" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>4</level>
@@ -107324,7 +107985,7 @@
 	    <attack>15</attack>
 	    <health>48</health>
 	    <skill id="heal" x="10"/>
-	    <skill id="rallyall" x="5" y="addicted"/>
+	    <skill id="rallyall" x="5" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>9</level>
@@ -107346,7 +108007,7 @@
 	    <health>54</health>
 	    <skill id="heal" x="12"/>
 	    <skill id="poison" x="9"/>
-	    <skill id="rallyall" x="6" y="addicted"/>
+	    <skill id="rallyall" x="6" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>13</level>
@@ -107371,7 +108032,7 @@
 	    <level>17</level>
 	    <health>62</health>
 	    <skill id="heal" x="14"/>
-	    <skill id="rallyall" x="7" y="addicted"/>
+	    <skill id="rallyall" x="7" y="hyper"/>
 	  </upgrade>
 	  <upgrade>
 	    <level>18</level>
@@ -108873,7 +109534,7 @@
   <rarity>4</rarity>
   <set>3001</set>
   <type>5</type>
-  <trait>addicted</trait>
+  <trait>hyper</trait>
   <skill id="burn" x="5"/>
   <skill id="poison" x="6"/>
   <skill id="armored" x="6"/>
@@ -113441,7 +114102,7 @@
 		<rarity>4</rarity>
 		<set>3001</set>
 		<type>5</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<skill id="counter" x="5"/>
 		<skill id="strike" x="6"/>
 		<skill id="weakenall" x="3"/>
@@ -113546,7 +114207,7 @@
 		<rarity>4</rarity>
 		<set>3001</set>
 		<type>5</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<skill id="armored" x="8"/>
 		<skill id="leech" x="6"/>
 		<skill id="burn" x="8"/>
@@ -113663,7 +114324,7 @@
 		<skill id="weakenall" x="6"/>
 		<skill id="shrapnel" x="4"/>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>3001</set>
 		<upgrade>
 			<level>2</level>
@@ -114353,7 +115014,7 @@
 		<skill id="leech" x="8"/>
 		<skill id="berserk" x="5"/>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>3001</set>
 		<upgrade>
 			<level>2</level>
@@ -114590,7 +115251,7 @@
 	  <rarity>3</rarity>
 	  <set>3001</set>
 	  <type>7</type>
-	  <trait>addicted</trait>
+	  <trait>hyper</trait>
 	  <skill id="berserk" x="3"/>
 	  <skill id="enlarge" x="3"/>
 	  <skill id="leech" x="5"/>
@@ -118718,7 +119379,7 @@
 		<rarity>4</rarity>
 		<set>3001</set>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<skill id="inspire" x="6"/>
 		<skill id="bunker" x="5"/>
 		<skill id="poison" x="8"/>
@@ -118823,7 +119484,7 @@
 		<rarity>4</rarity>
 		<set>3001</set>
 		<type>7</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<skill id="enlarge" x="5"/>
 		<skill id="hijack" x="8"/>
 		<skill id="berserk" x="3"/>

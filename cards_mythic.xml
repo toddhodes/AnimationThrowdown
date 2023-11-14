@@ -4790,9 +4790,9 @@
 		<rarity>5</rarity>
 		<skill id="burn" x="6"/>
 		<skill id="barrier" x="9"/>
-		<skill id="rally" x="11" y="addicted"/>
+		<skill id="rally" x="11" y="hyper"/>
 		<type>2</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>7002</set>
 		<upgrade>
 			<level>2</level>
@@ -4804,21 +4804,21 @@
 			<health>58</health>
 			<skill id="burn" x="6"/>
 			<skill id="barrier" x="9"/>
-			<skill id="rally" x="12" y="addicted"/>
+			<skill id="rally" x="12" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
 			<health>59</health>
 			<skill id="burn" x="7"/>
 			<skill id="barrier" x="9"/>
-			<skill id="rally" x="12" y="addicted"/>
+			<skill id="rally" x="12" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
 			<health>60</health>
 			<skill id="burn" x="7"/>
 			<skill id="barrier" x="10"/>
-			<skill id="rally" x="12" y="addicted"/>
+			<skill id="rally" x="12" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
@@ -4830,13 +4830,13 @@
 			<health>62</health>
 			<skill id="burn" x="7"/>
 			<skill id="barrier" x="10"/>
-			<skill id="rally" x="13" y="addicted"/>
+			<skill id="rally" x="13" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
 			<skill id="burn" x="8"/>
 			<skill id="barrier" x="11"/>
-			<skill id="rally" x="13" y="addicted"/>
+			<skill id="rally" x="13" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
@@ -4848,7 +4848,7 @@
 			<health>64</health>
 			<skill id="burn" x="8"/>
 			<skill id="barrier" x="11"/>
-			<skill id="rally" x="14" y="addicted"/>
+			<skill id="rally" x="14" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
@@ -4860,13 +4860,13 @@
 			<health>66</health>
 			<skill id="burn" x="9"/>
 			<skill id="barrier" x="11"/>
-			<skill id="rally" x="14" y="addicted"/>
+			<skill id="rally" x="14" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
 			<skill id="burn" x="9"/>
 			<skill id="barrier" x="12"/>
-			<skill id="rally" x="15" y="addicted"/>
+			<skill id="rally" x="15" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
@@ -4878,21 +4878,21 @@
 			<health>68</health>
 			<skill id="burn" x="9"/>
 			<skill id="barrier" x="12"/>
-			<skill id="rally" x="16" y="addicted"/>
+			<skill id="rally" x="16" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
 			<health>69</health>
 			<skill id="burn" x="10"/>
 			<skill id="barrier" x="12"/>
-			<skill id="rally" x="16" y="addicted"/>
+			<skill id="rally" x="16" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
 			<health>70</health>
 			<skill id="burn" x="10"/>
 			<skill id="barrier" x="13"/>
-			<skill id="rally" x="16" y="addicted"/>
+			<skill id="rally" x="16" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
@@ -4904,7 +4904,7 @@
 			<health>72</health>
 			<skill id="burn" x="10"/>
 			<skill id="barrier" x="13"/>
-			<skill id="rally" x="17" y="addicted"/>
+			<skill id="rally" x="17" y="hyper"/>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
@@ -4915,7 +4915,7 @@
 			<level>21</level>
 			<skill id="burn" x="11"/>
 			<skill id="barrier" x="14"/>
-			<skill id="rally" x="18" y="addicted"/>
+			<skill id="rally" x="18" y="hyper"/>
 		</upgrade>
 	</unit>
 	<unit>
@@ -6309,7 +6309,7 @@
 	<skill id="burn" x="8"/>
 	<skill id="strike" x="8"/>
 	<type>2</type>
-	<trait>addicted</trait>
+	<trait>hyper</trait>
 	<set>7002</set>
 	<upgrade>
 		<level>2</level>
@@ -9426,7 +9426,7 @@
 		<skill id="pierce" x="11"/>
 		<skill id="poison" x="12"/>
 		<type>3</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>7002</set>
 		<upgrade>
 			<level>2</level>
@@ -14094,7 +14094,7 @@
 		<skill id="invigorate" x="10"/>
 		<skill id="enlarge" x="9"/>
 		<type>4</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>7002</set>
 		<upgrade>
 			<level>2</level>
@@ -14225,6 +14225,146 @@
 			<skill id="counter" x="14"/>
 			<skill id="invigorate" x="15"/>
 			<skill id="enlarge" x="13"/>
+		</upgrade>
+	</unit>
+	<unit>
+		<id>1400020</id>
+		<name>Boxing Ring</name>
+		<picture>KOTH_BoxingRing</picture>
+		<asset_bundle>84</asset_bundle>
+		<item_name>Boxing Ring Fragment</item_name>
+		<item_desc>Collect Boxing Ring Fragments to craft and upgrade a Mythic Boxing Ring card</item_desc>
+		<item_icon>inventory_upgrade_50_inventory</item_icon>
+		<item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<attack>9</attack>
+		<health>83</health>
+		<rarity>5</rarity>
+		<skill id="armored" x="10"/>
+		<skill id="strike" x="9"/>
+		<skill id="shrapnel" x="9"/>
+		<type>4</type>
+		<trait>fighter</trait>
+		<set>7002</set>
+		<upgrade>
+			<level>2</level>
+			<health>84</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>85</health>
+			<attack>10</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>87</health>
+			<skill id="armored" x="10"/>
+			<skill id="strike" x="10"/>
+			<skill id="shrapnel" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>88</health>
+			<skill id="armored" x="10"/>
+			<skill id="strike" x="10"/>
+			<skill id="shrapnel" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>89</health>
+			<skill id="armored" x="11"/>
+			<skill id="strike" x="10"/>
+			<skill id="shrapnel" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>91</health>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>92</health>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>93</health>
+			<skill id="armored" x="11"/>
+			<skill id="strike" x="11"/>
+			<skill id="shrapnel" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>95</health>
+			<skill id="armored" x="11"/>
+			<skill id="strike" x="11"/>
+			<skill id="shrapnel" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>96</health>
+			<skill id="armored" x="12"/>
+			<skill id="strike" x="11"/>
+			<skill id="shrapnel" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>97</health>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>99</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>100</health>
+			<skill id="armored" x="12"/>
+			<skill id="strike" x="12"/>
+			<skill id="shrapnel" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>101</health>
+			<skill id="armored" x="12"/>
+			<skill id="strike" x="12"/>
+			<skill id="shrapnel" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>103</health>
+			<skill id="armored" x="13"/>
+			<skill id="strike" x="12"/>
+			<skill id="shrapnel" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>104</health>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>105</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>107</health>
+			<skill id="armored" x="13"/>
+			<skill id="strike" x="13"/>
+			<skill id="shrapnel" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>108</health>
+			<skill id="armored" x="13"/>
+			<skill id="strike" x="13"/>
+			<skill id="shrapnel" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>110</health>
+			<skill id="armored" x="14"/>
+			<skill id="strike" x="13"/>
+			<skill id="shrapnel" x="13"/>
 		</upgrade>
 	</unit>
 	<!-- End KH Mythics -->
@@ -14945,7 +15085,7 @@
 		<skill id="hijack" x="6"/>
 		<skill id="weaken" x="10"/>
 		<type>5</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>7002</set>
 		<upgrade>
 			<level>2</level>
@@ -17222,7 +17362,7 @@
 	<skill id="bunker" x="7"/>
 	<skill id="barrier" x="8"/>
 	<type>5</type>
-	<trait>addicted</trait>
+	<trait>hyper</trait>
 	<set>7002</set>
 	<upgrade>
 		<level>2</level>
@@ -17705,7 +17845,7 @@
 		<skill id="barrierall" x="4"/>
 		<skill id="shrapnel" x="8"/>
 		<type>5</type>
-		<trait>addicted</trait>
+		<trait>hyper</trait>
 		<set>7002</set>
 		<upgrade>
 			<level>2</level>
