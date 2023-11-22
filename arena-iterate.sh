@@ -4,7 +4,7 @@
 #
 
 case "$1" in
-"") count=1 ;;
+"") echo "$0 <n> = 15n speedups, 150n fights" ; exit ;;
 *) count=$1 ;;
 esac
 
