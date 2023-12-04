@@ -99,6 +99,7 @@
 5 | Dating Game Steve
 5 | Death Metal Meg
 5 | Death Metal
+5 | Derby Brawling Luanne
 5 | Devil Bobby
 5 | Devil Hank
 5 | Diaper Doll Linda
@@ -268,6 +269,7 @@
 5 | Painting Class Joe
 5 | Painting Montage Joe
 5 | Panty Addict Snot
+5 | Parental Advisory Hank
 5 | Party All the Time
 5 | Patriotic Dale
 5 | Pawtucket Peter
@@ -302,6 +304,7 @@
 5 | Ricky Spanish
 5 | River Burned
 5 | Rodeo Bobby
+5 | Roller Derby Luanne
 5 | Roller Skating Ballad Gene
 5 | Rooftop Drunk
 5 | Santa Addict Meg
@@ -333,6 +336,7 @@
 5 | Sportsfan Joe
 5 | Squirrel Death
 5 | Stan vs Mafia
+5 | Steak Addict Bobby
 5 | Steak Cows
 5 | Steverino
 5 | Stewie's Tricycle
@@ -402,7 +406,7 @@
 4 | Falcon Attack Quagmire | 10
 4 | Fort Kickass
 4 | Gallant Bender | 40
-4 | Gambler Cotton
+4 | Gambler Cotton | 30
 4 | Game Machine Zoidberg | 5
 4 | Garbage Shot Linda | 40
 4 | Hank Hill, Running Back | 35
@@ -417,13 +421,13 @@
 4 | Placebo Effect | 5
 4 | Poppler Addict Leela | 10
 4 | Professor-Bender Swap | 25
-4 | Roller Derby Luanne | 40
 4 | Rubber Knife Peggy | 20
 4 | Sandwitch | 15
 4 | Shaken Not Stirred | 35
 4 | Slap Fight Teddy
 4 | Upgraded Hermes | 5
 4 | Veteran Cotton
+4 | Vincent Van Boomhauer | 10
 3 | "Malory"
 3 | Archer Klaus | 25
 3 | BABOU!!!! | 75
@@ -431,10 +435,9 @@
 3 | Captain Bender | 25
 3 | Chocolate Addict Zapp | 75
 3 | Chosen Brain Fry | 75
-3 | Coach Farnsworth | 5
+3 | Coach Farnsworth | 75
 3 | Crackers | 10
 3 | Crime Addict Joe | 5
-3 | Derby Brawling Luanne | 25
 3 | Drink Point-O Brian
 3 | Drunk Francine | 5
 3 | Eugenia Chatterteeth | 75
@@ -507,6 +510,7 @@
 2 | Diamond Ring Lois | 100
 2 | Dolphin Rider Peter | 15
 2 | Draw Me Gene
+2 | Drugged Cotton
 2 | Duke
 2 | Dummy Fight | 20
 2 | Fake Son Gene | 90
@@ -609,7 +613,7 @@
 2 | Survival Crafter Hank
 2 | Swimmer Tina | 10
 2 | Swole Amy | 5
-2 | Tattooed Fat Guy | 30
+2 | Tattooed Fat Guy | 50
 2 | Teagle | 100
 2 | Teen LaQueefa
 2 | Tennis Stan
@@ -677,7 +681,6 @@
 1 | Dog Lois | 90
 1 | Dog Meg
 1 | Dr. C | 5
-1 | Drugged Cotton
 1 | Drunk Jeff
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
@@ -725,7 +728,7 @@
 1 | Mr. Deliver | 125
 1 | Nacho Bartiromo
 1 | Nigerian Prince | 5
-1 | Old Steve | 30
+1 | Old Steve | 60
 1 | Owl Stewie | 5
 1 | Pageant Singer Zapp
 1 | Pam's Back Tattoo | 125
@@ -761,7 +764,6 @@
 1 | Space Queen | 125
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 125
-1 | Steak Addict Bobby | 125
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
 1 | Swim Teacher Bob | 90
@@ -775,6 +777,7 @@
 1 | Torah Snot | 70
 1 | Toy Figurine Francine
 1 | Treasure Hunter Peter | 15
+1 | Upstream Chris
 1 | Very Sloshed | 5
 1 | Water Polo Steve | 5
 1 | Wedding Decorator
@@ -784,6 +787,7 @@
 1 | Zoidberg's Scream | 125
 0 | Zac Sawyer | 130
 0 | Wheels Steve | 130
+0 | Turkey Handprint | 130
 0 | Tranq Gun Steve | 130
 0 | Towel Manager Dale | 130
 0 | The Honeypot | 130
@@ -803,7 +807,6 @@
 0 | Pumping Iron | 130
 0 | Princess Lanaluakalani | 130
 0 | Party Crashers | 130
-0 | Parental Advisory Hank | 130
 0 | Painter Klaus | 130
 0 | Nun Francine | 130
 0 | Money Retriever | 130
@@ -816,7 +819,6 @@
 0 | Hot Tubbin Bobby | 130
 0 | Hot Cocoa Louise | 130
 0 | Home School Chris | 130
-0 | High School Dale | 130
 0 | Fried Chick | 130
 0 | Freezerdome Louise | 130
 0 | Evening Beer Boomhauer | 130
@@ -831,6 +833,7 @@
 0 | Beer Funnel Peter | 130
 0 | Beefsquatch | 130
 0 | Armadillo Boomhauer | 130
+0 | High School Dale | 125
 0 | Butt Closet | 125
 0 | Too High to Drive | 120
 0 | Slurm Queen | 120
@@ -847,11 +850,9 @@
 0 | Fat Suit Bob | 105
 0 | Delivery Boy | 105
 0 | Bible Study Stan | 105
-0 | Vincent Van Boomhauer | 100
 0 | Stoned Loser Roger | 100
 0 | Francine Roger | 100
 0 | Bondage Klaus | 100
-0 | Turkey Handprint | 95
 0 | Rambo Lois | 95
 0 | Frank the Snake | 95
 0 | Wrong Snake | 90
@@ -894,6 +895,7 @@
 0 | Plops | 60
 0 | Oktoberfest Amy | 60
 0 | Line Dancer Amy | 60
+0 | Lights Out Snot | 60
 0 | Fowl Fighter Linda | 60
 0 | Flying Machine Stewie | 60
 0 | Baby Bender | 60
@@ -959,6 +961,7 @@
 0 | Freshman Chris | 30
 0 | Francine Painting | 30
 0 | Food Truck Bob | 30
+0 | Flying Dog Mort | 30
 0 | Emcee Stewie | 30
 0 | El Presidente | 30
 0 | Egg vs Tornado | 30
@@ -984,7 +987,6 @@
 0 | Sister Peter | 20
 0 | Knitting Peter | 20
 0 | Green Russians | 20
-0 | Flying Dog Mort | 20
 0 | Dancing Mort | 20
 0 | Breakfast TV Workout | 20
 0 | Paintball Bill | 15
@@ -997,17 +999,19 @@
 0 | Paddle Ball Hank | 10
 0 | Nude Painting Bullock | 10
 0 | Model Builder Roger | 10
+0 | Leegola | 10
 0 | Knight Louise | 10
 0 | Junk Food Klaus | 10
 0 | Hurdles Bobby | 10
+0 | Gun Club President | 10
 0 | Espresso Tina | 10
 0 | Cyclist Peggy | 10
 0 | Cuddly Little Pet Slinky | 10
 0 | Cheerleader Lois | 10
 0 | Butt Slapper Bobby | 10
 0 | Beer Decision Bill | 10
+0 | Batter Up Bobby | 10
 0 | War Paint Kif | 5
-0 | Upstream Chris | 5
 0 | Trippy Farnsworth | 5
 0 | Tote Bag Tussle | 5
 0 | Rocket Launcher Bullock | 5
@@ -1016,6 +1020,7 @@
 0 | Karaoke Night | 5
 0 | Just Mow a Lawn | 5
 0 | Jungle Spider | 5
+0 | Interior Decorator | 5
 0 | Fake Daughter Tina | 5
 0 | Bounty Hunter Roger | 5
-396550 | Mastery Stone
+399350 | Mastery Stone
