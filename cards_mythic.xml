@@ -19499,6 +19499,155 @@
 			<skill id="pierce" x="16"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>1700008</id>
+		<name>HR Dolphin</name>
+		<picture>AR_HR Dolphin</picture>
+		<asset_bundle>89</asset_bundle>
+		<item_name>HR Dolphin Fragment</item_name>
+		<item_desc>Collect HR Dolphin Fragments to craft and upgrade a Mythic HR Dolphin card</item_desc>
+		<item_icon>inventory_upgrade_50_inventory</item_icon>
+		<item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<attack>12</attack>
+		<health>74</health>
+		<rarity>5</rarity>
+		<skill id="heal" x="7"/>
+		<skill id="weaken" x="9"/>
+		<skill id="leech" x="11"/>
+		<type>7</type>
+		<trait>toy</trait>
+		<set>7002</set>
+		<upgrade>
+			<level>2</level>
+			<health>75</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>77</health>
+			<skill id="heal" x="8"/>
+			<skill id="weaken" x="9"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>78</health>
+			<skill id="heal" x="8"/>
+			<skill id="weaken" x="10"/>
+			<skill id="leech" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>80</health>
+			<skill id="heal" x="8"/>
+			<skill id="weaken" x="10"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>81</health>
+			<skill id="heal" x="9"/>
+			<skill id="weaken" x="10"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>83</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>84</health>
+			<skill id="heal" x="10"/>
+			<skill id="weaken" x="10"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>86</health>
+			<skill id="heal" x="10"/>
+			<skill id="weaken" x="11"/>
+			<skill id="leech" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>87</health>
+			<skill id="heal" x="10"/>
+			<skill id="weaken" x="11"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>89</health>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>90</health>
+			<skill id="heal" x="11"/>
+			<skill id="weaken" x="11"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>92</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>93</health>
+			<skill id="heal" x="12"/>
+			<skill id="weaken" x="11"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>95</health>
+			<skill id="heal" x="12"/>
+			<skill id="weaken" x="12"/>
+			<skill id="leech" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>96</health>
+			<skill id="heal" x="12"/>
+			<skill id="weaken" x="12"/>
+			<skill id="leech" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>98</health>
+			<skill id="heal" x="13"/>
+			<skill id="weaken" x="12"/>
+			<skill id="leech" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>99</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>101</health>
+			<skill id="heal" x="14"/>
+			<skill id="weaken" x="12"/>
+			<skill id="leech" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>102</health>
+			<skill id="heal" x="14"/>
+			<skill id="weaken" x="13"/>
+			<skill id="leech" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>104</health>
+			<skill id="heal" x="14"/>
+			<skill id="weaken" x="13"/>
+			<skill id="leech" x="15"/>
+		</upgrade>
+	</unit>
+	<!-- End Archer -->
 	<!-- ARG Reward -->
 
 	<unit>
