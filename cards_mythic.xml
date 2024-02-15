@@ -12240,8 +12240,8 @@
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>				
-		<attack>10</attack>
-		<health>63</health>
+		<attack>11</attack>
+		<health>73</health>
 		<rarity>5</rarity>
 		<skill id="bodyguard" x="9"/>
 		<skill id="barrierall" x="3" y="drunk"/>
@@ -12251,127 +12251,126 @@
 		<set>7002</set>
 		<upgrade>
 			<level>2</level>
-			<health>64</health>
-			<attack>11</attack>
+			<health>74</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>65</health>
+			<health>75</health>
 			<skill id="bodyguard" x="10"/>
 			<skill id="barrierall" x="3" y="drunk"/>
 			<skill id="leech" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>66</health>
+			<health>76</health>
 			<skill id="bodyguard" x="10"/>
 			<skill id="barrierall" x="3" y="drunk"/>
 			<skill id="leech" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>67</health>
+			<health>77</health>
 			<skill id="bodyguard" x="10"/>
 			<skill id="barrierall" x="4" y="drunk"/>
 			<skill id="leech" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>69</health>
+			<health>79</health>
 			<attack>12</attack>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<health>70</health>
+			<health>80</health>
 			<skill id="bodyguard" x="11"/>
 			<skill id="barrierall" x="4" y="drunk"/>
 			<skill id="leech" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>71</health>
+			<health>81</health>
 			<skill id="bodyguard" x="11"/>
 			<skill id="barrierall" x="4" y="drunk"/>
 			<skill id="leech" x="16"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>72</health>
+			<health>82</health>
 			<attack>13</attack>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<health>73</health>
+			<health>83</health>
 			<skill id="bodyguard" x="11"/>
 			<skill id="barrierall" x="5" y="drunk"/>
 			<skill id="leech" x="16"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>75</health>
+			<health>85</health>
 			<skill id="bodyguard" x="12"/>
 			<skill id="barrierall" x="5" y="drunk"/>
 			<skill id="leech" x="16"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<health>76</health>
+			<health>86</health>
 			<skill id="bodyguard" x="12"/>
 			<skill id="barrierall" x="5" y="drunk"/>
 			<skill id="leech" x="17"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>77</health>
+			<health>87</health>
 			<attack>14</attack>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>78</health>
+			<health>88</health>
 			<skill id="bodyguard" x="12"/>
 			<skill id="barrierall" x="6" y="drunk"/>
 			<skill id="leech" x="17"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<health>79</health>
+			<health>89</health>
 			<skill id="bodyguard" x="13"/>
 			<skill id="barrierall" x="6" y="drunk"/>
 			<skill id="leech" x="17"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>81</health>
+			<health>91</health>
 			<skill id="bodyguard" x="13"/>
 			<skill id="barrierall" x="6" y="drunk"/>
 			<skill id="leech" x="18"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<health>82</health>
+			<health>92</health>
 			<attack>15</attack>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>83</health>
+			<health>93</health>
 			<skill id="bodyguard" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<health>84</health>			
+			<health>94</health>			
 			<skill id="barrierall" x="6" y="drunk"/>
 			<skill id="leech" x="19"/>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
-			<health>85</health>
+			<health>95</health>
 			<skill id="bodyguard" x="14"/>
 			<skill id="barrierall" x="7" y="drunk"/>
 			<skill id="leech" x="19"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
-			<health>87</health>
+			<health>97</health>
 			<attack>16</attack>
 			<skill id="bodyguard" x="14"/>
 			<skill id="barrierall" x="7" y="drunk"/>
@@ -13305,7 +13304,7 @@
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
 	<release_time>1618423200</release_time>
 	<attack>16</attack>
-	<health>48</health>
+	<health>52</health>
 	<rarity>5</rarity>
 	<skill id="heal" x="12"/>
 	<skill id="hijack" x="8"/>
@@ -13314,54 +13313,54 @@
 	<set>7001</set>
 	<upgrade>
 		<level>2</level>
-		<health>49</health>
+		<health>53</health>
 		<skill id="heal" x="12"/>
 		<skill id="hijack" x="9"/>
 		<skill id="weaken" x="14"/>
 	</upgrade>
 	<upgrade>
 		<level>3</level>
-		<health>50</health>
+		<health>54</health>
 		<skill id="heal" x="13"/>
 		<skill id="hijack" x="9"/>
 		<skill id="weaken" x="14"/>
 	</upgrade>
 	<upgrade>
 		<level>4</level>
-		<health>51</health>
+		<health>55</health>
 		<attack>17</attack>
 	</upgrade>
 	<upgrade>
 		<level>5</level>
-		<health>52</health>
+		<health>56</health>
 		<skill id="heal" x="13"/>
 		<skill id="hijack" x="10"/>
 		<skill id="weaken" x="14"/>
 	</upgrade>
 	<upgrade>
 		<level>6</level>
-		<health>53</health>
+		<health>57</health>
 		<skill id="heal" x="14"/>
 		<skill id="hijack" x="10"/>
 		<skill id="weaken" x="14"/>
 	</upgrade>
 	<upgrade>
 		<level>7</level>
-		<health>54</health>
+		<health>58</health>
 		<skill id="heal" x="14"/>
 		<skill id="hijack" x="11"/>
 		<skill id="weaken" x="14"/>
 	</upgrade>
 	<upgrade>
 		<level>8</level>
-		<health>55</health>
+		<health>59</health>
 		<skill id="heal" x="14"/>
 		<skill id="hijack" x="11"/>
 		<skill id="weaken" x="15"/>
 	</upgrade>
 	<upgrade>
 		<level>9</level>
-		<health>56</health>
+		<health>60</health>
 		<skill id="heal" x="14"/>
 		<skill id="hijack" x="12"/>
 		<skill id="weaken" x="15"/>
@@ -13369,25 +13368,25 @@
 	<upgrade>
 		<level>10</level>
 		<attack>18</attack>
-		<health>57</health>
+		<health>61</health>
 	</upgrade>
 	<upgrade>
 		<level>11</level>
-		<health>58</health>
+		<health>62</health>
 		<skill id="heal" x="15"/>
 		<skill id="hijack" x="12"/>
 		<skill id="weaken" x="15"/>
 	</upgrade>
 	<upgrade>
 		<level>12</level>
-		<health>59</health>
+		<health>63</health>
 		<skill id="heal" x="15"/>
 		<skill id="hijack" x="13"/>
 		<skill id="weaken" x="15"/>
 	</upgrade>
 	<upgrade>
 		<level>13</level>
-		<health>60</health>
+		<health>64</health>
 		<skill id="heal" x="16"/>
 		<skill id="hijack" x="13"/>
 		<skill id="weaken" x="15"/>
@@ -13401,36 +13400,34 @@
 	<upgrade>
 		<level>15</level>
 		<attack>19</attack>
-		<health>61</health>
+		<health>65</health>
 	</upgrade>
 	<upgrade>
 		<level>16</level>
-		<health>62</health>
 		<skill id="heal" x="16"/>
 		<skill id="hijack" x="15"/>
 		<skill id="weaken" x="16"/>
 	</upgrade>
 	<upgrade>
 		<level>17</level>
-		<health>63</health>
 		<skill id="heal" x="17"/>
 		<skill id="hijack" x="15"/>
 		<skill id="weaken" x="16"/>
 	</upgrade>
 	<upgrade>
 		<level>18</level>
-		<health>64</health>
+		<health>66</health>
 		<skill id="heal" x="17"/>
 		<skill id="hijack" x="16"/>
 		<skill id="weaken" x="16"/>
 	</upgrade>
 	<upgrade>
 		<level>19</level>
-		<health>65</health>
+		<health>67</health>
 	</upgrade>
 	<upgrade>
 		<level>20</level>
-		<health>66</health>
+		<health>68</health>
 		<skill id="heal" x="18"/>
 		<skill id="hijack" x="16"/>
 		<skill id="weaken" x="16"/>
