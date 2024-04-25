@@ -12,7 +12,8 @@
 		<asset_bundle>26</asset_bundle>		
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<rarity>5</rarity>
 		<set>7000</set>
 		<type>1</type>
@@ -142,7 +143,8 @@
 		<item_desc>Collect Quagmire Fragments to craft and upgrade a Mythic Quagmire card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>16</attack>
 		<health>52</health>
 		<rarity>5</rarity>
@@ -290,7 +292,8 @@
 		<item_desc>Collect Brian Fragments to craft and upgrade a Mythic Brian card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<release_time>1539626400</release_time>
 		<attack>13</attack>
 		<health>61</health>
@@ -437,7 +440,8 @@
 		<item_desc>Collect Neil Goldman Fragments to craft and upgrade a Mythic Neil Goldman card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>64</health>
 		<rarity>5</rarity>
@@ -596,7 +600,8 @@
 		<item_desc>Collect Peter's Drawing Fragments to craft and upgrade a Mythic Peter's Drawing card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>16</attack>
 		<health>58</health>
 		<rarity>5</rarity>
@@ -742,7 +747,8 @@
 		<item_desc>Collect Peter Fragments to craft and upgrade a Mythic Peter card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>57</health>
 		<rarity>5</rarity>
@@ -885,7 +891,8 @@
 		<item_desc>Collect Rupert Recalls Fragments to craft and upgrade a Mythic Rupert Recalls card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>61</health>
 		<rarity>5</rarity>
@@ -1039,8 +1046,9 @@
 		<item_name>Meg Fragment</item_name>
 		<item_desc>Collect Meg Fragments to craft and upgrade a Mythic Meg card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
-        <item_bundle_id>18</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+        <item_bundle_id>18</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>52</health>
 		<rarity>5</rarity>
@@ -1193,7 +1201,8 @@
 		<item_desc>Collect Joe Fragments to craft and upgrade a Mythic Joe card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>18</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>58</health>
 		<rarity>5</rarity>
@@ -1340,7 +1349,8 @@
 		<item_desc>Collect Lois Fragments to craft and upgrade a Mythic Lois card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>18</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>54</health>
 		<rarity>5</rarity>
@@ -1492,7 +1502,8 @@
 		<item_desc>Collect Chris Fragments to craft and upgrade a Mythic Chris card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>18</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<release_time>1586109600</release_time>
 		<attack>15</attack>
 		<health>51</health>
@@ -1643,7 +1654,8 @@
 		<item_desc>Collect Golden Goose Fragments to craft and upgrade a Mythic Golden Goose card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>18</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>54</health>
 		<rarity>5</rarity>
@@ -1804,7 +1816,8 @@
 		<item_desc>Collect Karaoke Principal Fragments to craft and upgrade a Mythic Karaoke Principal card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>18</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>57</health>
 		<rarity>5</rarity>
@@ -1955,6 +1968,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>16</attack>
 		<health>51</health>
 		<rarity>5</rarity>
@@ -2110,6 +2124,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>60</health>
 		<rarity>5</rarity>
@@ -2264,6 +2279,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>12</attack>
 	<health>63</health>
 	<rarity>5</rarity>
@@ -2413,6 +2429,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>14</attack>
 	<health>57</health>
 	<rarity>5</rarity>
@@ -2569,6 +2586,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>16</attack>
 	<health>51</health>
 	<rarity>5</rarity>
@@ -2724,6 +2742,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>13</attack>
 	<health>61</health>
 	<rarity>5</rarity>
@@ -2878,6 +2897,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>62</health>
 		<rarity>5</rarity>
@@ -3026,6 +3046,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>16</attack>
 	<health>56</health>
 	<rarity>5</rarity>
@@ -3192,6 +3213,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>59</health>
 		<rarity>5</rarity>
@@ -3340,6 +3362,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<release_time>1657130400</release_time>
 		<attack>14</attack>
 		<health>64</health>
@@ -3495,6 +3518,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>59</health>
 		<rarity>5</rarity>
@@ -3653,6 +3677,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>12</attack>
 		<health>61</health>
 		<rarity>5</rarity>
@@ -3803,6 +3828,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>65</health>
 		<rarity>5</rarity>
@@ -3938,6 +3964,161 @@
 			<skill id="pierce" x="16"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>1100027</id>
+		<name>Skydiving</name>
+		<picture>FG_SkydiverPeter</picture>
+		<asset_bundle>45</asset_bundle>
+		<item_name>Skydiving Fragment</item_name>
+		<item_desc>Collect Skydiving Fragments to craft and upgrade a Mythic Skydiving card</item_desc>
+		<item_icon>inventory_upgrade_50_inventory</item_icon>
+		<item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
+		<attack>13</attack>
+		<health>71</health>
+		<rarity>5</rarity>
+		<skill id="burn" x="8"/>
+		<skill id="strike" x="8"/>
+		<skill id="shrapnel" x="8"/>
+		<type>1</type>
+		<trait>athletic</trait>
+		<set>7002</set>
+		<upgrade>
+			<level>2</level>
+			<health>72</health>
+			<skill id="burn" x="8"/>
+			<skill id="strike" x="8"/>
+			<skill id="shrapnel" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>74</health>
+			<skill id="burn" x="9"/>
+			<skill id="strike" x="8"/>
+			<skill id="shrapnel" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>75</health>
+			<skill id="burn" x="9"/>
+			<skill id="strike" x="9"/>
+			<skill id="shrapnel" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>77</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>78</health>
+			<skill id="burn" x="9"/>
+			<skill id="strike" x="9"/>
+			<skill id="shrapnel" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>80</health>
+			<skill id="burn" x="10"/>
+			<skill id="strike" x="9"/>
+			<skill id="shrapnel" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>81</health>
+			<skill id="burn" x="10"/>
+			<skill id="strike" x="10"/>
+			<skill id="shrapnel" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>83</health>
+			<skill id="burn" x="10"/>
+			<skill id="strike" x="10"/>
+			<skill id="shrapnel" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>84</health>
+			<skill id="burn" x="11"/>
+			<skill id="strike" x="10"/>
+			<skill id="shrapnel" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>86</health>
+			<skill id="burn" x="11"/>
+			<skill id="strike" x="11"/>
+			<skill id="shrapnel" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>87</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>89</health>
+			<skill id="burn" x="11"/>
+			<skill id="strike" x="11"/>
+			<skill id="shrapnel" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>90</health>
+			<skill id="burn" x="12"/>
+			<skill id="strike" x="11"/>
+			<skill id="shrapnel" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>92</health>
+			<skill id="burn" x="12"/>
+			<skill id="strike" x="12"/>
+			<skill id="shrapnel" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>93</health>
+			<skill id="burn" x="12"/>
+			<skill id="strike" x="12"/>
+			<skill id="shrapnel" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>95</health>
+			<skill id="burn" x="13"/>
+			<skill id="strike" x="12"/>
+			<skill id="shrapnel" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>96</health>
+			<skill id="burn" x="13"/>
+			<skill id="strike" x="13"/>
+			<skill id="shrapnel" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>98</health>
+			<attack>16</attack>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>99</health>
+			<skill id="burn" x="13"/>
+			<skill id="strike" x="13"/>
+			<skill id="shrapnel" x="14"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>101</health>
+			<skill id="burn" x="14"/>
+			<skill id="strike" x="14"/>
+			<skill id="shrapnel" x="14"/>
+		</upgrade>
+	</unit>
 	<!-- End Family Guy Mythic -->
 
 	<!-- AD American Dad Mythics -->
@@ -3952,7 +4133,8 @@
 		<asset_bundle>18</asset_bundle>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<rarity>5</rarity>
 		<set>7000</set>
 		<type>2</type>
@@ -4066,7 +4248,8 @@
 		<item_desc>Collect Bullock Fragments to craft and upgrade a Mythic Bullock card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>17</attack>
 		<health>45</health>
 		<rarity>5</rarity>
@@ -4195,7 +4378,8 @@
 			<item_desc>Collect Hayley Fragments to craft and upgrade a Mythic Hayley card!</item_desc>	
 			<item_icon>inventory_upgrade_50_inventory</item_icon>
 			<item_bundle_id>19</item_bundle_id>
-			<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+			<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+			<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>55</health>
 		<rarity>5</rarity>
@@ -4318,7 +4502,8 @@
 			<item_desc>Collect Roger Fragments to craft and upgrade a Mythic Roger card!</item_desc>	
 			<item_icon>inventory_upgrade_50_inventory</item_icon>
 			<item_bundle_id>19</item_bundle_id>
-			<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+			<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+			<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>58</health>
 		<rarity>5</rarity>
@@ -4465,7 +4650,8 @@
 		<item_desc>Collect Cuddles Fragments to craft and upgrade a Mythic Cuddles card!</item_desc>	
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>				
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>9</attack>
 		<health>79</health>
 		<rarity>5</rarity>
@@ -4614,7 +4800,8 @@
 		<item_desc>Collect The Bazooka Sharks Fragments to craft and upgrade a Mythic The Bazooka Sharks card!</item_desc>	
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>61</health>
 		<rarity>5</rarity>
@@ -4780,7 +4967,8 @@
 		<item_desc>Collect Anti-Seizure Meds Fragments to craft and upgrade a Mythic Anti-Seizure Meds card!</item_desc>	
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>56</health>
 		<rarity>5</rarity>
@@ -4925,7 +5113,8 @@
 		<asset_bundle>49</asset_bundle>
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>11</attack>
 		<health>67</health>
 		<rarity>5</rarity>
@@ -5075,8 +5264,9 @@
 		<item_name>Reverend Ping Ping Fragment</item_name>
 		<item_desc>Collect Reverend Ping Ping Fragments to craft and upgrade a Mythic Reverend Ping Ping card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
-        <item_bundle_id>19</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>64</health>
 		<rarity>5</rarity>
@@ -5233,7 +5423,8 @@
 		<item_desc>Collect Klaus Fragments to craft and upgrade a Mythic Klaus card!</item_desc>	
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>8</attack>
 		<health>72</health>
 		<rarity>5</rarity>
@@ -5379,7 +5570,8 @@
 		<item_desc>Collect Signature Cocktail Fragments to craft and upgrade a Mythic Signature Cocktail card!</item_desc>	
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>64</health>
 		<rarity>5</rarity>
@@ -5541,7 +5733,8 @@
 	<item_desc>Collect Mini Car Racing Fragments to craft and upgrade a Mythic Mini Car Racing card!</item_desc>	
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
     <item_bundle_id>19</item_bundle_id>
-	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>16</attack>
 	<health>58</health>
 	<rarity>5</rarity>
@@ -5696,6 +5889,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
     <item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>15</attack>
 	<health>51</health>
 	<rarity>5</rarity>
@@ -5831,6 +6025,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>15</attack>
 	<health>54</health>
 	<rarity>5</rarity>
@@ -5991,6 +6186,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<release_time>1606154400</release_time>
 	<attack>11</attack>
 	<health>64</health>
@@ -6146,6 +6342,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>13</attack>
 	<health>63</health>
 	<rarity>5</rarity>
@@ -6296,6 +6493,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>13</attack>
 	<health>63</health>
 	<rarity>5</rarity>
@@ -6448,6 +6646,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>17</attack>
 	<health>53</health>
 	<rarity>5</rarity>
@@ -6615,6 +6814,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>12</attack>
 	<health>64</health>
 	<rarity>5</rarity>
@@ -6769,6 +6969,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<release_time>1658426400</release_time>
 	<attack>15</attack>
 	<health>61</health>
@@ -6929,6 +7130,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>13</attack>
 	<health>65</health>
 	<rarity>5</rarity>
@@ -7086,6 +7288,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>18</attack>
 	<health>52</health>
 	<rarity>5</rarity>
@@ -7236,6 +7439,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>16</attack>
 		<health>62</health>
 		<rarity>5</rarity>
@@ -7394,6 +7598,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>17</attack>
 		<health>59</health>
 		<rarity>5</rarity>
@@ -7539,6 +7744,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>17</attack>
 		<health>59</health>
 		<rarity>5</rarity>
@@ -7692,6 +7898,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>65</health>
 		<rarity>5</rarity>
@@ -7836,6 +8043,157 @@
 			<skill id="poison" x="15"/>
 		</upgrade>
 	</unit>
+	<unit>
+		<id>1200027</id>
+		<name>Graffitier Lewis</name>
+		<picture>AD_GraffiterLewis</picture>
+		<asset_bundle>86</asset_bundle>
+		<item_name>Graffitier Lewis Fragment</item_name>
+		<item_desc>Collect Graffitier Lewis Fragments to craft and upgrade a Mythic Graffitier Lewis card</item_desc>
+		<item_icon>inventory_upgrade_50_inventory</item_icon>
+		<item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
+		<attack>10</attack>
+		<health>80</health>
+		<rarity>5</rarity>
+		<skill id="invigorate" x="8"/>
+		<skill id="strike" x="9"/>
+		<skill id="weaken" x="7"/>
+		<type>2</type>
+		<trait>artistic</trait>
+		<set>7002</set>
+		<upgrade>
+			<level>2</level>
+			<health>81</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="strike" x="9"/>
+			<skill id="weaken" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<health>82</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="strike" x="10"/>
+			<skill id="weaken" x="8"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>83</health>
+			<attack>11</attack>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<health>84</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="strike" x="10"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>86</health>
+			<skill id="invigorate" x="9"/>
+			<skill id="strike" x="11"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>87</health>
+			<skill id="invigorate" x="10"/>
+			<skill id="strike" x="11"/>
+			<skill id="weaken" x="9"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>88</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>89</health>
+			<skill id="invigorate" x="10"/>
+			<skill id="strike" x="12"/>
+			<skill id="weaken" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>90</health>
+			<skill id="invigorate" x="11"/>
+			<skill id="strike" x="12"/>
+			<skill id="weaken" x="10"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>92</health>
+			<attack>13</attack>
+		</upgrade>
+		<upgrade>
+			<level>12</level>
+			<health>93</health>
+			<skill id="invigorate" x="11"/>
+			<skill id="strike" x="12"/>
+			<skill id="weaken" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>13</level>
+			<health>94</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="strike" x="13"/>
+			<skill id="weaken" x="11"/>
+		</upgrade>
+		<upgrade>
+			<level>14</level>
+			<health>95</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="strike" x="13"/>
+			<skill id="weaken" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>15</level>
+			<health>96</health>
+			<skill id="invigorate" x="12"/>
+			<skill id="strike" x="14"/>
+			<skill id="weaken" x="12"/>
+		</upgrade>
+		<upgrade>
+			<level>16</level>
+			<health>98</health>
+			<attack>14</attack>
+		</upgrade>
+		<upgrade>
+			<level>17</level>
+			<health>99</health>
+			<skill id="invigorate" x="13"/>
+			<skill id="strike" x="14"/>
+			<skill id="weaken" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>18</level>
+			<health>100</health>
+			<skill id="invigorate" x="13"/>
+			<skill id="strike" x="15"/>
+			<skill id="weaken" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>19</level>
+			<health>101</health>
+			<attack>15</attack>
+		</upgrade>
+		<upgrade>
+			<level>20</level>
+			<health>102</health>
+			<skill id="invigorate" x="14"/>
+			<skill id="strike" x="15"/>
+			<skill id="weaken" x="13"/>
+		</upgrade>
+		<upgrade>
+			<level>21</level>
+			<health>104</health>
+			<skill id="invigorate" x="14"/>
+			<skill id="strike" x="16"/>
+			<skill id="weaken" x="14"/>
+		</upgrade>
+	</unit>
 <!--End American Dad Mythic -->
 	<!-- BB Mythics -->	
 	<unit>
@@ -7849,7 +8207,8 @@
 		<asset_bundle>23</asset_bundle>
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<rarity>5</rarity>
 		<set>7000</set>
 		<type>3</type>
@@ -7993,6 +8352,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>16</attack>
 		<health>52</health>
 		<rarity>5</rarity>
@@ -8130,7 +8490,8 @@
 		<item_desc>Collect Teddy Fragments to craft and upgrade a Mythic Teddy card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>16</attack>
 		<health>52</health>
 		<rarity>5</rarity>
@@ -8257,9 +8618,10 @@
 		<item_desc>Collect Tina Fragments to craft and upgrade a Mythic Tina card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>16</attack>
-		<health>45</health>
+		<health>52</health>
 		<rarity>5</rarity>
 		<skill id="invigorate" x="10"/>
 		<skill id="barrierall" x="4" y="3"/>
@@ -8268,11 +8630,10 @@
 		<set>7001</set>
 		<upgrade>
 			<level>2</level>
-			<health>46</health>
+			<health>53</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>47</health>
 			<attack>17</attack>
 		</upgrade>
 		<upgrade>
@@ -8283,32 +8644,31 @@
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>48</health>
+			<health>54</health>
 			<skill id="invigorate" x="11"/>
 			<skill id="barrierall" x="4" y="3"/>
 			<skill id="leech" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>49</health>
 			<attack>18</attack>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
+			<health>55</health>
 			<skill id="invigorate" x="11"/>
 			<skill id="barrierall" x="5" y="3"/>
 			<skill id="leech" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>50</health>
 			<skill id="invigorate" x="12"/>
 			<skill id="barrierall" x="5" y="3"/>
 			<skill id="leech" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>51</health>
+			<health>56</health>
 			<skill id="invigorate" x="12"/>
 			<skill id="barrierall" x="5" y="3"/>
 			<skill id="leech" x="12"/>
@@ -8319,21 +8679,20 @@
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>52</health>
+			<health>57</health>
 			<skill id="invigorate" x="13"/>
 			<skill id="barrierall" x="5" y="3"/>
 			<skill id="leech" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<health>53</health>
 			<skill id="invigorate" x="13"/>
 			<skill id="barrierall" x="5" y="3"/>
 			<skill id="leech" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>54</health>
+			<health>58</health>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
@@ -8344,42 +8703,41 @@
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<health>55</health>
+			<health>59</health>
 			<skill id="invigorate" x="14"/>
-			<skill id="barrierall" x="6" y="3"/>
+			<skill id="barrierall" x="7" y="3"/>
 			<skill id="leech" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>56</health>
+			<health>60</health>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
 			<attack>21</attack>
 			<skill id="invigorate" x="14"/>
-			<skill id="barrierall" x="6" y="3"/>
+			<skill id="barrierall" x="8" y="3"/>
 			<skill id="leech" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>57</health>
+			<health>61</health>
 			<attack>22</attack>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<health>58</health>
+			<health>62</health>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
-			<health>59</health>
 			<skill id="invigorate" x="15"/>
-			<skill id="barrierall" x="6" y="3"/>
+			<skill id="barrierall" x="9" y="3"/>
 			<skill id="leech" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
 			<skill id="invigorate" x="15"/>
-			<skill id="barrierall" x="7" y="3"/>
+			<skill id="barrierall" x="10" y="3"/>
 			<skill id="leech" x="15"/>
 		</upgrade>
 	</unit>	
@@ -8391,8 +8749,9 @@
 		<item_name>Mr. Fischoeder Fragment</item_name>
 		<item_desc>Collect Mr. Fischoeder Fragments to craft and upgrade a Mythic Mr. Fischoeder card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
-        <item_bundle_id>19</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>61</health>
 		<rarity>5</rarity>
@@ -8515,8 +8874,9 @@
 		<item_name>That's My Parfait Fragment</item_name>
 		<item_desc>Collect That's My Parfait Fragments to craft and upgrade a Mythic That's My Parfait card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
-        <item_bundle_id>19</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>11</attack>
 		<health>73</health>
 		<rarity>5</rarity>
@@ -8665,6 +9025,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>61</health>
 		<rarity>5</rarity>
@@ -8816,7 +9177,8 @@
 		<item_desc>Collect Soda Celebration Fragments to craft and upgrade a Mythic Soda Celebration card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>				
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>16</attack>
 		<health>49</health>
 		<rarity>5</rarity>
@@ -8961,7 +9323,8 @@
 		<item_desc>Collect Gene Fragments to craft and upgrade a Mythic Gene card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>17</attack>
 		<health>45</health>
 		<rarity>5</rarity>
@@ -9110,7 +9473,8 @@
 		<item_desc>Collect Film Scissors Fragments to craft and upgrade a Mythic Film Scissors card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>12</attack>
 		<health>62</health>
 		<rarity>5</rarity>
@@ -9265,9 +9629,10 @@
 		<item_desc>Collect Jimmy Jr. Fragments to craft and upgrade a Mythic Jimmy Jr. card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>9</attack>
-		<health>69</health>
+		<health>73</health>
 		<rarity>5</rarity>
 		<skill id="inspire" x="8"/>
 		<skill id="heal" x="11"/>
@@ -9276,18 +9641,18 @@
 		<set>7001</set>
 		<upgrade>
 			<level>2</level>
-			<health>70</health>
+			<health>74</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>71</health>
+			<health>75</health>
 			<skill id="inspire" x="9"/>
 			<skill id="heal" x="11"/>
 			<skill id="hijack" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>72</health>
+			<health>76</health>
 			<skill id="inspire" x="9"/>
 			<skill id="heal" x="12"/>
 			<skill id="hijack" x="8"/>
@@ -9301,33 +9666,33 @@
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>73</health>
+			<health>77</health>
 			<skill id="inspire" x="10"/>
 			<skill id="heal" x="12"/>
 			<skill id="hijack" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<health>74</health>
+			<health>78</health>
 			<skill id="inspire" x="10"/>
 			<skill id="heal" x="13"/>
 			<skill id="hijack" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>75</health>
+			<health>79</health>
 			<skill id="inspire" x="10"/>
 			<skill id="heal" x="13"/>
 			<skill id="hijack" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>76</health>
+			<health>80</health>
 			<attack>11</attack>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<health>77</health>
+			<health>81</health>
 			<skill id="inspire" x="11"/>
 			<skill id="heal" x="13"/>
 			<skill id="hijack" x="10"/>
@@ -9340,21 +9705,21 @@
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<health>78</health>
+			<health>82</health>
 			<skill id="inspire" x="12"/>
 			<skill id="heal" x="14"/>
 			<skill id="hijack" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>79</health>
+			<health>83</health>
 			<skill id="inspire" x="12"/>
 			<skill id="heal" x="15"/>
 			<skill id="hijack" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>80</health>
+			<health>84</health>
 			<skill id="inspire" x="12"/>
 			<skill id="heal" x="15"/>
 			<skill id="hijack" x="12"/>
@@ -9362,43 +9727,42 @@
 		<upgrade>
 			<level>15</level>
 			<attack>12</attack>
-			<health>81</health>
+			<health>85</health>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>82</health>
+			<health>86</health>
 			<skill id="inspire" x="13"/>
 			<skill id="heal" x="15"/>
 			<skill id="hijack" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<health>83</health>
+			<health>87</health>
 			<skill id="inspire" x="13"/>
 			<skill id="heal" x="16"/>
 			<skill id="hijack" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>84</health>
 			<skill id="inspire" x="13"/>
 			<skill id="heal" x="16"/>
 			<skill id="hijack" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<health>85</health>
+			<health>88</health>
 			<attack>13</attack>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
-			<health>86</health>
 			<skill id="inspire" x="14"/>
 			<skill id="heal" x="16"/>
 			<skill id="hijack" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
+			<health>89</health>
 			<skill id="inspire" x="14"/>
 			<skill id="heal" x="17"/>
 			<skill id="hijack" x="14"/>
@@ -9413,7 +9777,8 @@
 		<item_desc>Collect Beta House Fragments to craft and upgrade a Mythic Beta House card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<release_time>1590602400</release_time>
 		<attack>13</attack>
 		<health>67</health>
@@ -9566,7 +9931,8 @@
 		<item_desc>Collect Candy Tornado Fragments to craft and upgrade a Mythic Candy Tornado card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>54</health>
 		<rarity>5</rarity>
@@ -9726,6 +10092,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>16</attack>
 		<health>51</health>
 		<rarity>5</rarity>
@@ -9874,6 +10241,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>16</attack>
 	<health>54</health>
 	<rarity>5</rarity>
@@ -10030,6 +10398,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>14</attack>
 	<health>61</health>
 	<rarity>5</rarity>
@@ -10183,6 +10552,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>12</attack>
 	<health>64</health>
 	<rarity>5</rarity>
@@ -10309,6 +10679,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<release_time>1654009200</release_time>
 	<attack>15</attack>
 	<health>59</health>
@@ -10469,6 +10840,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>13</attack>
 	<health>67</health>
 	<rarity>5</rarity>
@@ -10616,6 +10988,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<release_time>1666289638</release_time>
 		<attack>13</attack>
 		<health>66</health>
@@ -10776,6 +11149,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>65</health>
 		<rarity>5</rarity>
@@ -10938,6 +11312,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>12</attack>
 		<health>67</health>
 		<rarity>5</rarity>
@@ -11087,6 +11462,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>68</health>
 		<rarity>5</rarity>
@@ -11241,6 +11617,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>11</attack>
 		<health>77</health>
 		<rarity>5</rarity>
@@ -11391,6 +11768,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>58</health>
 		<rarity>5</rarity>
@@ -11542,6 +11920,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>68</health>
 		<rarity>5</rarity>
@@ -11693,7 +12072,8 @@
 		<asset_bundle>23</asset_bundle>
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<rarity>5</rarity>
 		<set>7000</set>
 		<type>4</type>
@@ -11810,7 +12190,8 @@
 		<item_desc>Collect Boomhauer Fragments to craft and upgrade a Mythic Boomhauer card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>55</health>
 		<rarity>5</rarity>
@@ -11944,7 +12325,8 @@
 		<item_desc>Collect Dale Fragments to craft and upgrade a Mythic Dale card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>57</health>
 		<rarity>5</rarity>
@@ -12102,7 +12484,8 @@
 		<item_desc>Collect Bobby Fragments to craft and upgrade a Mythic Bobby card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>56</health>
 		<rarity>5</rarity>
@@ -12238,7 +12621,8 @@
 		<item_desc>Collect Brau Beer Fragments to craft and upgrade a Mythic Brau Beer card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>				
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>11</attack>
 		<health>73</health>
 		<rarity>5</rarity>
@@ -12385,7 +12769,8 @@
 		<item_desc>Collect Heat Packing Priest Fragments to craft and upgrade a Mythic Heat Packing Priest card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>				
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>12</attack>
 		<health>70</health>
 		<rarity>5</rarity>
@@ -12536,7 +12921,8 @@
 		<item_desc>Collect Bill Fragments to craft and upgrade a Mythic Bill card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>17</attack>
 		<health>45</health>
 		<rarity>5</rarity>
@@ -12686,7 +13072,8 @@
 		<item_desc>Collect Hank Fragments to craft and upgrade a Mythic Hank card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>16</attack>
 		<health>52</health>
 		<rarity>5</rarity>
@@ -12838,7 +13225,8 @@
 		<item_desc>Collect CD Warehouse Fragments to craft and upgrade a Mythic CD Warehouse card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>67</health>
 		<rarity>5</rarity>
@@ -12989,9 +13377,10 @@
 		<item_desc>Collect Gym Equipment Fragments to craft and upgrade a Mythic Gym Equipment card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
-		<health>53</health>
+		<health>61</health>
 		<rarity>5</rarity>
 		<skill id="bodyguard" x="8"/>
 		<skill id="bunker" x="7"/>
@@ -13001,132 +13390,132 @@
 		<set>7002</set>
 		<upgrade>
 			<level>2</level>
-			<health>54</health>
+			<health>62</health>
 			<skill id="bodyguard" x="8"/>
 			<skill id="bunker" x="7"/>
 			<skill id="leech" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>55</health>
+			<health>63</health>
 			<skill id="bodyguard" x="8"/>
 			<skill id="bunker" x="8"/>
 			<skill id="leech" x="13"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>56</health>
+			<health>64</health>
 			<attack>16</attack>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>58</health>
+			<health>65</health>
 			<skill id="bodyguard" x="8"/>
 			<skill id="bunker" x="8"/>
 			<skill id="leech" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>59</health>
+			<health>66</health>
 			<skill id="bodyguard" x="9"/>
 			<skill id="bunker" x="8"/>
 			<skill id="leech" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<health>60</health>
+			<health>67</health>
 			<skill id="bodyguard" x="9"/>
 			<skill id="bunker" x="9"/>
 			<skill id="leech" x="14"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>62</health>
+			<health>68</health>
 			<skill id="bodyguard" x="9"/>
 			<skill id="bunker" x="9"/>
 			<skill id="leech" x="15"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>63</health>
+			<health>69</health>
 			<attack>17</attack>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<health>64</health>
+			<health>70</health>
 			<skill id="bodyguard" x="9"/>
 			<skill id="bunker" x="9"/>
 			<skill id="leech" x="16"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>66</health>
+			<health>72</health>
 			<skill id="bodyguard" x="9"/>
 			<skill id="bunker" x="10"/>
 			<skill id="leech" x="16"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<health>67</health>
+			<health>74</health>
 			<skill id="bodyguard" x="9"/>
 			<skill id="bunker" x="10"/>
 			<skill id="leech" x="17"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>68</health>
+			<health>76</health>
 			<skill id="bodyguard" x="10"/>
 			<skill id="bunker" x="10"/>
 			<skill id="leech" x="17"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>69</health>
+			<health>78</health>
 			<attack>18</attack>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<health>71</health>
+			<health>80</health>
 			<skill id="bodyguard" x="10"/>
 			<skill id="bunker" x="10"/>
 			<skill id="leech" x="18"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>72</health>
+			<health>82</health>
 			<skill id="bodyguard" x="10"/>
 			<skill id="bunker" x="11"/>
 			<skill id="leech" x="18"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<health>73</health>
+			<health>83</health>
 			<skill id="bodyguard" x="10"/>
 			<skill id="bunker" x="11"/>
 			<skill id="leech" x="19"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>75</health>
+			<health>85</health>
 			<attack>19</attack>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<health>76</health>
+			<health>86</health>
 			<skill id="bodyguard" x="11"/>
 			<skill id="bunker" x="11"/>
 			<skill id="leech" x="19"/>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
-			<health>77</health>
+			<health>87</health>
 			<skill id="bodyguard" x="11"/>
 			<skill id="bunker" x="12"/>
 			<skill id="leech" x="19"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
-			<health>79</health>
+			<health>88</health>
 			<skill id="bodyguard" x="11"/>
 			<skill id="bunker" x="12"/>
 			<skill id="leech" x="20"/>
@@ -13141,9 +13530,10 @@
 		<item_desc>Collect Walking Man Exhibit Fragments to craft and upgrade a Mythic Walking Man Exhibit card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>12</attack>
-		<health>62</health>
+		<health>70</health>
 		<rarity>5</rarity>
 		<skill id="bodyguard" x="7"/>
 		<skill id="rally" x="11"/>
@@ -13153,94 +13543,94 @@
 		<set>7002</set>
 		<upgrade>
 			<level>2</level>
-			<health>63</health>
+			<health>71</health>
 			<skill id="bodyguard" x="8"/>
 			<skill id="rally" x="11"/>
 			<skill id="shrapnel" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>64</health>
+			<health>72</health>
 			<skill id="bodyguard" x="8"/>
 			<skill id="rally" x="12"/>
 			<skill id="shrapnel" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>65</health>
+			<health>73</health>
 			<skill id="bodyguard" x="8"/>
 			<skill id="rally" x="12"/>
 			<skill id="shrapnel" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>67</health>
+			<health>74</health>
 			<attack>13</attack>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>68</health>
+			<health>75</health>
 			<skill id="bodyguard" x="9"/>
 			<skill id="rally" x="12"/>
 			<skill id="shrapnel" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<health>69</health>
+			<health>76</health>
 			<skill id="bodyguard" x="9"/>
 			<skill id="rally" x="12"/>
 			<skill id="shrapnel" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>71</health>
+			<health>77</health>
 			<skill id="bodyguard" x="10"/>
 			<skill id="rally" x="13"/>
 			<skill id="shrapnel" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>72</health>
+			<health>78</health>
 			<attack>14</attack>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<health>73</health>
+			<health>79</health>
 			<skill id="bodyguard" x="11"/>
 			<skill id="rally" x="13"/>
 			<skill id="shrapnel" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>75</health>
+			<health>80</health>
 			<skill id="bodyguard" x="11"/>
 			<skill id="rally" x="13"/>
 			<skill id="shrapnel" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<health>76</health>
+			<health>81</health>
 			<skill id="bodyguard" x="11"/>
 			<skill id="rally" x="14"/>
 			<skill id="shrapnel" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>77</health>
+			<health>83</health>
 			<skill id="bodyguard" x="12"/>
 			<skill id="rally" x="14"/>
 			<skill id="shrapnel" x="10"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>78</health>
+			<health>85</health>
 			<skill id="bodyguard" x="12"/>
 			<skill id="rally" x="14"/>
 			<skill id="shrapnel" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<health>80</health>
+			<health>87</health>
 			<attack>15</attack>
 			<skill id="bodyguard" x="13"/>
 			<skill id="rally" x="14"/>
@@ -13248,40 +13638,40 @@
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>81</health>
+			<health>89</health>
 			<skill id="bodyguard" x="13"/>
 			<skill id="rally" x="15"/>
 			<skill id="shrapnel" x="11"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<health>82</health>
+			<health>91</health>
 			<skill id="bodyguard" x="13"/>
 			<skill id="rally" x="15"/>
 			<skill id="shrapnel" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>84</health>
+			<health>93</health>
 			<skill id="bodyguard" x="14"/>
 			<skill id="rally" x="15"/>
 			<skill id="shrapnel" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>19</level>
-			<health>85</health>
+			<health>95</health>
 			<attack>16</attack>
 		</upgrade>
 		<upgrade>
 			<level>20</level>
-			<health>86</health>
+			<health>96</health>
 			<skill id="bodyguard" x="15"/>
 			<skill id="rally" x="15"/>
 			<skill id="shrapnel" x="12"/>
 		</upgrade>
 		<upgrade>
 			<level>21</level>
-			<health>88</health>
+			<health>97</health>
 			<skill id="bodyguard" x="15"/>
 			<skill id="rally" x="16"/>
 			<skill id="shrapnel" x="13"/>
@@ -13300,6 +13690,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<release_time>1618423200</release_time>
 	<attack>16</attack>
 	<health>52</health>
@@ -13448,6 +13839,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<release_time>1619532000</release_time>
 	<attack>15</attack>
 	<health>57</health>
@@ -13611,6 +14003,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<release_time>1633629600</release_time>
 	<attack>16</attack>
 	<health>55</health>
@@ -13766,6 +14159,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>14</attack>
 	<health>62</health>
 	<rarity>5</rarity>
@@ -13917,6 +14311,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>16</attack>
 	<health>56</health>
 	<rarity>5</rarity>
@@ -14075,6 +14470,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>57</health>
 		<rarity>5</rarity>
@@ -14224,6 +14620,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>71</health>
 		<rarity>5</rarity>
@@ -14376,6 +14773,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>12</attack>
 		<health>74</health>
 		<rarity>5</rarity>
@@ -14526,6 +14924,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>9</attack>
 		<health>83</health>
 		<rarity>5</rarity>
@@ -14669,7 +15068,8 @@
 		<asset_bundle>26</asset_bundle>
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<rarity>5</rarity>
 		<set>7000</set>
 		<type>5</type>
@@ -14778,7 +15178,8 @@
 		<asset_bundle>40</asset_bundle>
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>58</health>
 		<rarity>5</rarity>
@@ -14923,7 +15324,8 @@
 		<item_desc>Collect Professor Farnsworth Fragments to craft and upgrade a Mythic Professor Farnsworth card!</item_desc>		
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>19</attack>
 		<health>43</health>
 		<rarity>5</rarity>
@@ -15081,7 +15483,8 @@
 		<item_desc>Collect Bender Fragments to craft and upgrade a Mythic Bender card!</item_desc>		
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>16</attack>
 		<health>48</health>
 		<rarity>5</rarity>
@@ -15225,7 +15628,8 @@
 		<item_desc>Collect Nibbler on the Roof Fragments to craft and upgrade a Mythic Nibbler on the Roof card!</item_desc>		
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>67</health>
 		<rarity>5</rarity>
@@ -15365,8 +15769,9 @@
 		<item_name>Hypnotoad Fragment</item_name>
 		<item_desc>Collect Hypnotoad Fragments to craft and upgrade a Mythic Hypnotoad card!</item_desc>		
         <item_icon>inventory_upgrade_50_inventory</item_icon>
-        <item_bundle_id>19</item_bundle_id>		
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+        <item_bundle_id>19</item_bundle_id>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>67</health>
 		<rarity>5</rarity>
@@ -15518,7 +15923,8 @@
 		<item_desc>Collect Fry Fragments to craft and upgrade a Mythic Fry card!</item_desc>		
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>		
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>18</attack>
 		<health>46</health>
 		<rarity>5</rarity>
@@ -15675,7 +16081,8 @@
 		<item_desc>Collect Amy Fragments to craft and upgrade a Mythic Amy card!</item_desc>		
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>		
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<skill id="bodyguard" x="8"/>
 		<skill id="enlarge" x="7"/>
 		<skill id="weakenall" x="6"/>
@@ -15834,7 +16241,8 @@
 		<item_desc>Collect Zapp Brannigan Fragments to craft and upgrade a Mythic Zapp Brannigan card!</item_desc>		
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<type>5</type>
 		<set>7001</set>
 		<upgrade>
@@ -15962,7 +16370,8 @@
 		<item_desc>Collect Wong Casino Fragments to craft and upgrade a Mythic Wong Casino card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>			
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>58</health>
 		<rarity>5</rarity>
@@ -16110,7 +16519,8 @@
 		<item_desc>Collect Clone Fight Fragments to craft and upgrade a Mythic Clone Fight card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>67</health>
 		<rarity>5</rarity>
@@ -16248,7 +16658,8 @@
 		<item_desc>Collect Poker Winnings Fragments to craft and upgrade a Mythic Poker Winnings card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>		
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>17</attack>
 		<health>47</health>
 		<rarity>5</rarity>
@@ -16407,7 +16818,8 @@
 		<item_desc>Collect Replacement Shell Fragments to craft and upgrade a Mythic Replacement Shell card!</item_desc>	
         <item_icon>inventory_upgrade_50_inventory</item_icon>
         <item_bundle_id>19</item_bundle_id>	
-        <item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>	
+		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>14</attack>
 	<health>57</health>
 	<rarity>5</rarity>
@@ -16554,6 +16966,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>14</attack>
 	<health>64</health>
 	<rarity>5</rarity>
@@ -16719,6 +17132,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>15</attack>
 	<health>57</health>
 	<rarity>5</rarity>
@@ -16880,6 +17294,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<release_time>1624298400</release_time>
 	<attack>17</attack>
 	<health>45</health>
@@ -17016,6 +17431,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>14</attack>
 	<health>60</health>
 	<rarity>5</rarity>
@@ -17169,6 +17585,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>13</attack>
 	<health>63</health>
 	<rarity>5</rarity>
@@ -17322,6 +17739,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>16</attack>
 	<health>56</health>
 	<rarity>5</rarity>
@@ -17476,6 +17894,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>18</attack>
 	<health>50</health>
 	<rarity>5</rarity>
@@ -17642,6 +18061,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>18</attack>
 	<health>50</health>
 	<rarity>5</rarity>
@@ -17802,6 +18222,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<attack>16</attack>
 	<health>58</health>
 	<rarity>5</rarity>
@@ -17964,6 +18385,7 @@
 	<item_icon>inventory_upgrade_50_inventory</item_icon>
 	<item_bundle_id>19</item_bundle_id>
 	<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+	<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 	<release_time>1660586400</release_time>
 	<attack>17</attack>
 	<health>55</health>
@@ -18124,6 +18546,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<release_time>1662506521</release_time>
 		<attack>14</attack>
 		<health>63</health>
@@ -18251,6 +18674,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>62</health>
 		<rarity>5</rarity>
@@ -18408,6 +18832,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>15</attack>
 		<health>65</health>
 		<rarity>5</rarity>
@@ -18561,6 +18986,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>64</health>
 		<rarity>5</rarity>
@@ -18701,6 +19127,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>71</health>
 		<rarity>5</rarity>
@@ -18850,6 +19277,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>12</attack>
 		<health>74</health>
 		<rarity>5</rarity>
@@ -18990,6 +19418,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<release_time>1656612000</release_time>
 		<attack>14</attack>
 		<health>58</health>
@@ -19114,6 +19543,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<release_time>1656612000</release_time>
 		<attack>12</attack>
 		<health>61</health>
@@ -19230,6 +19660,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<release_time>1656612000</release_time>
 		<attack>15</attack>
 		<health>52</health>
@@ -19353,6 +19784,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>13</attack>
 		<health>61</health>
 		<rarity>5</rarity>
@@ -19482,6 +19914,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>11</attack>
 		<health>77</health>
 		<rarity>5</rarity>
@@ -19636,6 +20069,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>14</attack>
 		<health>61</health>
 		<rarity>5</rarity>
@@ -19785,6 +20219,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>11</attack>
 		<health>77</health>
 		<rarity>5</rarity>
@@ -19934,6 +20369,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>12</attack>
 		<health>74</health>
 		<rarity>5</rarity>
@@ -20082,6 +20518,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>16</attack>
 		<health>62</health>
 		<rarity>5</rarity>
@@ -20237,6 +20674,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<attack>11</attack>
 		<health>77</health>
 		<rarity>5</rarity>
@@ -20393,6 +20831,7 @@
 		<item_icon>inventory_upgrade_50_inventory</item_icon>
 		<item_bundle_id>19</item_bundle_id>
 		<item_prefab asset="icon_mythicFragmentCycle" bundle_id="38"/>
+		<item_prefab_large asset="icon_mythicFragmentCycleLarge" bundle_id="38"/>
 		<release_time>1663964380</release_time>
 		<attack>9</attack>
 		<health>9</health>
