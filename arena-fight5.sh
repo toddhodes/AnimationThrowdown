@@ -3,7 +3,7 @@ user_id=`grep user_id ~/.at_creds | cut -d= -f2`
 password_hash=`grep password_hash ~/.at_creds | cut -d= -f2`
 
 case "$1" in
-"") count=30 ;;
+"") echo "$0 <count>" ; exit ;;
 *) count=$1 ;;
 esac
 
