@@ -1,17 +1,22 @@
 #!/bin/bash
 #
 #
+## create this format
+# 150067 4 Mission Doctor
+# 150068 3 Mind Switcher Amy
+
 
 t=cards-w-id-and-rarity
 tmp=/tmp/cards-w-id-and-rarity
 
-curl -s 'https://cb-live.synapse-games.com:443/assets/cards.xml' > cards.xml
-curl -s 'https://cb-live.synapse-games.com/assets/cards_finalform.xml' > cards_finalform.xml
-curl -s 'https://cb-live.synapse-games.com/assets/cards_mythic.xml' > cards_mythic.xml
+user_id=`grep user_id ~/.at_creds | cut -d= -f2`
+password_hash=`grep password_hash ~/.at_creds | cut -d= -f2`
 
-xml sel -T -t -m /root/unit -v "id" -o " " -v "rarity" -o " " -v name -n cards_mythic.xml > $t
-xml sel -T -t -m /root/unit -v "id" -o " " -v "rarity" -o " " -v name -n cards.xml >> $t
-xml sel -T -t -m /root/unit -v "id" -o " " -v "rarity" -o " " -v name -n cards_finalform.xml >> $t
+curl -s 'https://cb-live.synapse-games.com/api.php?message=init&user_id='$user_id --data 'password='$password_hash > /tmp/user.json
+echo "retrieved user.json"
+
+cat /tmp/user.json | jq '.card_data[] | {id: .id, rarity: .rarity, name: .name}' | paste -d " " - - - - - \
+	| cut -d\" -f4,8,12- | tr \" " " | tr -d \} > $t
 
 cat $t | sort | uniq | sed 's/ $//' > $tmp
 cat $tmp > $t
