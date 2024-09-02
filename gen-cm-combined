@@ -8,7 +8,7 @@ sort -t'|' -k2 Combos/ComboMasteryTokens | sed 's/^[ \t]*//;s/[ \t]*$//' > /tmp/
 ## this gets the ones with a level
 join -t'|' -1 2 -2 2 -a 1 -o 1.1,1.2,2.1 /tmp/sorted_cml /tmp/sorted_cmt \
    | awk -F'|' '{print $1 " | " $2 " | " $3}' \
-	| sed 's/[[:space:]]*|[[:space:]]*/ | /g' \
+   | sed 's/[[:space:]]*|[[:space:]]*/ | /g' \
    | sed 's/ $//' \
    | sed 's, |$,,' \
    | sort -r -s -k1,1
