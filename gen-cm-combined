@@ -2,8 +2,8 @@
 #
 #
 
-sort -t'|' -k2 Combos/ComboMasteryLevels | sed 's/^[ \t]*//;s/[ \t]*$//' > /tmp/sorted_cml
-sort -t'|' -k2 Combos/ComboMasteryTokens | sed 's/^[ \t]*//;s/[ \t]*$//' > /tmp/sorted_cmt
+sort -t'|' -k2 Combos/ComboMasteryLevels | sed 's/ $//' > /tmp/sorted_cml
+sort -t'|' -k2 Combos/ComboMasteryTokens | sed 's/ $//' > /tmp/sorted_cmt
 
 ## this gets the ones with a level
 join -t'|' -1 2 -2 2 -a 1 -o 1.1,1.2,2.1 /tmp/sorted_cml /tmp/sorted_cmt \
