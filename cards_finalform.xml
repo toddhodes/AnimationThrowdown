@@ -23922,6 +23922,110 @@
 			<skill id="hijack" x="17"/>
 		</upgrade>
 	</unit>
+	<unit>
+	  <id>110238</id>
+	  <combo_card_id>15193</combo_card_id>
+	  <attack>16</attack>
+	  <health>46</health>
+	  <name>Victorian Knife Lois</name>
+	  <picture>FG_VictorianKnifeLois</picture>
+	  <asset_bundle>52</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>1</type>
+	  <trait>armed</trait>
+	  <skill id="berserk" x="2"/>
+	  <skill id="pierce" x="7"/>
+	  <skill id="counter" x="5"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+		<level>2</level>
+		<health>47</health>
+		<skill id="counter" x="6"/>
+	  </upgrade>
+	  <upgrade>
+		<level>3</level>
+		<health>48</health>
+		<skill id="pierce" x="8"/>
+	  </upgrade>
+	  <upgrade>
+		<level>4</level>
+		<health>49</health>
+		<skill id="berserk" x="3"/>
+	  </upgrade>
+	  <upgrade>
+		<level>5</level>
+		<health>51</health>
+	  </upgrade>
+	  <upgrade>
+		<level>6</level>
+		<attack>17</attack>
+		<health>52</health>
+		<skill id="pierce" x="9"/>
+		<skill id="counter" x="7"/>
+	  </upgrade>
+	  <upgrade>
+		<level>7</level>
+		<health>53</health>
+		<skill id="pierce" x="10"/>
+	  </upgrade>
+	  <upgrade>
+		<level>8</level>
+		<health>55</health>
+	  </upgrade>
+	  <upgrade>
+		<level>9</level>
+		<health>56</health>
+		<skill id="counter" x="8"/>
+	  </upgrade>
+	  <upgrade>
+		<level>10</level>
+		<attack>18</attack>
+		<health>57</health>
+		<skill id="pierce" x="11"/>
+	  </upgrade>
+	  <upgrade>
+		<level>11</level>
+		<health>58</health>
+	  </upgrade>
+	  <upgrade>
+		<level>12</level>
+		<health>60</health>
+		<skill id="berserk" x="4"/>
+		<skill id="pierce" x="12"/>
+		<skill id="counter" x="9"/>
+	  </upgrade>
+	  <upgrade>
+		<level>13</level>
+		<health>61</health>
+	  </upgrade>
+	  <upgrade>
+		<level>14</level>
+		<attack>19</attack>
+		<health>62</health>
+	  </upgrade>
+	  <upgrade>
+		<level>15</level>
+		<health>64</health>
+	  </upgrade>
+	  <upgrade>
+		<level>16</level>
+		<health>65</health>
+		<skill id="pierce" x="13"/>
+		<skill id="counter" x="10"/>
+	  </upgrade>
+	  <upgrade>
+		<level>17</level>
+		<health>66</health>
+		<skill id="pierce" x="14"/>
+	  </upgrade>
+	  <upgrade>
+		<level>18</level>
+		<attack>20</attack>
+		<health>68</health>
+		<skill id="counter" x="11"/>
+	  </upgrade>
+	</unit>
 <!-- end Family Guy Final Forms -->
 	
 	<!-- American Dad Final Forms -->
@@ -121204,119 +121308,227 @@
 		</upgrade>
 	</unit>
 	
-<unit>
-  <id>150243</id>
-  <combo_card_id>55288</combo_card_id>
-  <attack>14</attack>
-  <health>52</health>
-  <name>Bomb Detonator Zapp</name>
-  <picture>FR_BombDetonator</picture>
-  <asset_bundle>55</asset_bundle>
-  <rarity>4</rarity>
-  <set>3001</set>
-  <type>5</type>
-  <trait>armed</trait>
-  <skill id="hijack" x="8"/>
-  <skill id="strike" x="9"/>
-  <skill id="shrapnel" x="9"/>
-  <card_type>object</card_type>
-  <upgrade>
-    <level>2</level>
-    <health>53</health>
-  </upgrade>
-  <upgrade>
-    <level>3</level>
-    <health>55</health>
-    <skill id="hijack" x="9"/>
-    <skill id="strike" x="10"/>
-    <skill id="shrapnel" x="10"/>
-  </upgrade>
-  <upgrade>
-    <level>4</level>
-    <health>57</health>
-  </upgrade>
-  <upgrade>
-    <level>5</level>
-    <health>59</health>
-    <skill id="hijack" x="10"/>
-    <skill id="strike" x="11"/>
-    <skill id="shrapnel" x="11"/>
-  </upgrade>
-  <upgrade>
-    <level>6</level>
-    <health>61</health>
-  </upgrade>
-  <upgrade>
-    <level>7</level>
-    <health>62</health>
-    <skill id="hijack" x="11"/>
-    <skill id="strike" x="12"/>
-    <skill id="shrapnel" x="12"/>
-  </upgrade>
-  <upgrade>
-    <level>8</level>
-    <health>64</health>
-  </upgrade>
-  <upgrade>
-    <level>9</level>
-    <health>66</health>
-    <skill id="hijack" x="12"/>
-    <skill id="strike" x="13"/>
-    <skill id="shrapnel" x="13"/>
-  </upgrade>
-  <upgrade>
-    <level>10</level>
-    <health>68</health>
-    <skill id="hijack" x="13"/>
-    <skill id="strike" x="14"/>
-    <skill id="shrapnel" x="14"/>
-  </upgrade>
-  <upgrade>
-    <level>11</level>
-    <health>70</health>
-  </upgrade>
-  <upgrade>
-    <level>12</level>
-    <health>72</health>
-    <skill id="hijack" x="14"/>
-    <skill id="strike" x="15"/>
-    <skill id="shrapnel" x="15"/>
-  </upgrade>
-  <upgrade>
-    <level>13</level>
-    <health>73</health>
-  </upgrade>
-  <upgrade>
-    <level>14</level>
-    <health>75</health>
-  </upgrade>
-  <upgrade>
-    <level>15</level>
-    <health>77</health>
-    <skill id="hijack" x="15"/>
-    <skill id="strike" x="16"/>
-    <skill id="shrapnel" x="16"/>
-  </upgrade>
-  <upgrade>
-    <level>16</level>
-    <health>79</health>
-    <skill id="strike" x="17"/>
-    <skill id="shrapnel" x="17"/>
-  </upgrade>
-  <upgrade>
-    <level>17</level>
-    <health>81</health>
-    <skill id="hijack" x="16"/>
-    <skill id="strike" x="18"/>
-    <skill id="shrapnel" x="18"/>
-  </upgrade>
-  <upgrade>
-    <level>18</level>
-    <attack>15</attack>
-    <health>83</health>
-    <skill id="hijack" x="17"/>
-  </upgrade>
-</unit>
+	<unit>
+	  <id>150243</id>
+	  <combo_card_id>55288</combo_card_id>
+	  <attack>14</attack>
+	  <health>52</health>
+	  <name>Bomb Detonator Zapp</name>
+	  <picture>FR_BombDetonator</picture>
+	  <asset_bundle>55</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>5</type>
+	  <trait>armed</trait>
+	  <skill id="hijack" x="8"/>
+	  <skill id="strike" x="9"/>
+	  <skill id="shrapnel" x="9"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+		<level>2</level>
+		<health>53</health>
+	  </upgrade>
+	  <upgrade>
+		<level>3</level>
+		<health>55</health>
+		<skill id="hijack" x="9"/>
+		<skill id="strike" x="10"/>
+		<skill id="shrapnel" x="10"/>
+	  </upgrade>
+	  <upgrade>
+		<level>4</level>
+		<health>57</health>
+	  </upgrade>
+	  <upgrade>
+		<level>5</level>
+		<health>59</health>
+		<skill id="hijack" x="10"/>
+		<skill id="strike" x="11"/>
+		<skill id="shrapnel" x="11"/>
+	  </upgrade>
+	  <upgrade>
+		<level>6</level>
+		<health>61</health>
+	  </upgrade>
+	  <upgrade>
+		<level>7</level>
+		<health>62</health>
+		<skill id="hijack" x="11"/>
+		<skill id="strike" x="12"/>
+		<skill id="shrapnel" x="12"/>
+	  </upgrade>
+	  <upgrade>
+		<level>8</level>
+		<health>64</health>
+	  </upgrade>
+	  <upgrade>
+		<level>9</level>
+		<health>66</health>
+		<skill id="hijack" x="12"/>
+		<skill id="strike" x="13"/>
+		<skill id="shrapnel" x="13"/>
+	  </upgrade>
+	  <upgrade>
+		<level>10</level>
+		<health>68</health>
+		<skill id="hijack" x="13"/>
+		<skill id="strike" x="14"/>
+		<skill id="shrapnel" x="14"/>
+	  </upgrade>
+	  <upgrade>
+		<level>11</level>
+		<health>70</health>
+	  </upgrade>
+	  <upgrade>
+		<level>12</level>
+		<health>72</health>
+		<skill id="hijack" x="14"/>
+		<skill id="strike" x="15"/>
+		<skill id="shrapnel" x="15"/>
+	  </upgrade>
+	  <upgrade>
+		<level>13</level>
+		<health>73</health>
+	  </upgrade>
+	  <upgrade>
+		<level>14</level>
+		<health>75</health>
+	  </upgrade>
+	  <upgrade>
+		<level>15</level>
+		<health>77</health>
+		<skill id="hijack" x="15"/>
+		<skill id="strike" x="16"/>
+		<skill id="shrapnel" x="16"/>
+	  </upgrade>
+	  <upgrade>
+		<level>16</level>
+		<health>79</health>
+		<skill id="strike" x="17"/>
+		<skill id="shrapnel" x="17"/>
+	  </upgrade>
+	  <upgrade>
+		<level>17</level>
+		<health>81</health>
+		<skill id="hijack" x="16"/>
+		<skill id="strike" x="18"/>
+		<skill id="shrapnel" x="18"/>
+	  </upgrade>
+	  <upgrade>
+		<level>18</level>
+		<attack>15</attack>
+		<health>83</health>
+		<skill id="hijack" x="17"/>
+	  </upgrade>
+	</unit>
+	<unit>
+	  <id>150244</id>
+	  <combo_card_id>55209</combo_card_id>
+	  <attack>13</attack>
+	  <health>55</health>
+	  <name>Chocolate Addict Zapp</name>
+	  <picture>FR_ChocolateAddictZapp</picture>
+	  <asset_bundle>82</asset_bundle>
+	  <rarity>4</rarity>
+	  <set>3001</set>
+	  <type>5</type>
+	  <trait>hyper</trait>
+	  <skill id="counter" x="6"/>
+	  <skill id="poison" x="6"/>
+	  <skill id="pierce" x="7"/>
+	  <card_type>object</card_type>
+	  <upgrade>
+		<level>2</level>
+		<health>56</health>
+		<skill id="counter" x="7"/>
+		<skill id="poison" x="7"/>
+	  </upgrade>
+	  <upgrade>
+		<level>3</level>
+		<health>58</health>
+		<skill id="pierce" x="8"/>
+	  </upgrade>
+	  <upgrade>
+		<level>4</level>
+		<health>59</health>
+	  </upgrade>
+	  <upgrade>
+		<level>5</level>
+		<health>61</health>
+		<skill id="counter" x="8"/>
+		<skill id="poison" x="8"/>
+	  </upgrade>
+	  <upgrade>
+		<level>6</level>
+		<health>63</health>
+		<skill id="pierce" x="9"/>
+	  </upgrade>
+	  <upgrade>
+		<level>7</level>
+		<health>64</health>
+		<skill id="counter" x="9"/>
+		<skill id="poison" x="9"/>
+	  </upgrade>
+	  <upgrade>
+		<level>8</level>
+		<health>66</health>
+		<skill id="pierce" x="10"/>
+	  </upgrade>
+	  <upgrade>
+		<level>9</level>
+		<health>68</health>
+	  </upgrade>
+	  <upgrade>
+		<level>10</level>
+		<attack>14</attack>
+		<health>69</health>
+		<skill id="counter" x="10"/>
+		<skill id="poison" x="10"/>
+		<skill id="pierce" x="11"/>
+	  </upgrade>
+	  <upgrade>
+		<level>11</level>
+		<health>71</health>
+	  </upgrade>
+	  <upgrade>
+		<level>12</level>
+		<health>73</health>
+		<skill id="counter" x="11"/>
+		<skill id="poison" x="11"/>
+		<skill id="pierce" x="12"/>
+	  </upgrade>
+	  <upgrade>
+		<level>13</level>
+		<health>74</health>
+	  </upgrade>
+	  <upgrade>
+		<level>14</level>
+		<health>76</health>
+	  </upgrade>
+	  <upgrade>
+		<level>15</level>
+		<health>78</health>
+	  </upgrade>
+	  <upgrade>
+		<level>16</level>
+		<health>79</health>
+		<skill id="counter" x="12"/>
+		<skill id="poison" x="12"/>
+		<skill id="pierce" x="13"/>
+	  </upgrade>
+	  <upgrade>
+		<level>17</level>
+		<health>81</health>
+		<skill id="counter" x="13"/>
+		<skill id="poison" x="13"/>
+		<skill id="pierce" x="14"/>
+	  </upgrade>
+	  <upgrade>
+		<level>18</level>
+		<attack>15</attack>
+		<health>83</health>
+	  </upgrade>
+	</unit>
 	<!-- end Futurama Final Forms -->
 
 	<!-- Archer Final Forms -->

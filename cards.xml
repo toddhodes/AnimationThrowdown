@@ -32779,86 +32779,120 @@
 		<type>2</type>
 		<trait>armed</trait>
 		<release_time>1495735200</release_time>
-		<attack>4</attack>
-		<health>33</health>
-		<skill id='hijack' x='2' />
+		<attack>10</attack>
+		<health>40</health>
+		<skill id='hijack' x='3' />
 		<skill id='rallyall' x='1' y='armed' />
 		<skill id='pierce' x='3' />
 		<upgrade>
 			<level>2</level>
-			<health>36</health>
+			<health>41</health>
+			<skill id="hijack" x="3"/>
+			<skill id="rallyall" x="1" y="armed"/>
+			<skill id="pierce" x="4"/>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<skill id='pierce' x='4' />
+			<health>42</health>
+			<skill id="hijack" x="4"/>
+			<skill id="rallyall" x="1" y="armed"/>
+			<skill id="pierce" x="4"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<skill id='hijack' x='3' />
+			<health>43</health>
+			<attack>11</attack>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<attack>5</attack>
-			<health>37</health>
+			<health>44</health>
+			<skill id="hijack" x="4"/>
+			<skill id="rallyall" x="2" y="armed"/>
+			<skill id="pierce" x="4"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<skill id='rallyall' x='2' y='armed' />
-			<skill id='pierce' x='5' />
+			<health>45</health>
+			<skill id="hijack" x="4"/>
+			<skill id="rallyall" x="2" y="armed"/>
+			<skill id="pierce" x="5"/>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<skill id='hijack' x='4' />
+			<health>46</health>
+			<skill id="hijack" x="5"/>
+			<skill id="rallyall" x="2" y="armed"/>
+			<skill id="pierce" x="5"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<skill id='pierce' x='6' />
+			<health>47</health>
+			<attack>12</attack>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<attack>6</attack>
+			<health>48</health>
+			<skill id="hijack" x="5"/>
+			<skill id="rallyall" x="2" y="armed"/>
+			<skill id="pierce" x="6"/>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<skill id='hijack' x='5' />
-			<health>39</health>
+			<health>49</health>
+			<skill id="hijack" x="6"/>
+			<skill id="rallyall" x="2" y="armed"/>
+			<skill id="pierce" x="6"/>
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>42</health>
+			<health>50</health>
+			<skill id="hijack" x="6"/>
+			<skill id="rallyall" x="3" y="armed"/>
+			<skill id="pierce" x="6"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<skill id='rallyall' x='3' y='armed' />
-			<health>44</health>
+			<health>51</health>
+			<skill id="hijack" x="6"/>
+			<skill id="rallyall" x="3" y="armed"/>
+			<skill id="pierce" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<skill id='hijack' x='6' />
+			<attack>13</attack>
+			<health>52</health>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<attack>7</attack>
+			<health>53</health>
+			<skill id="hijack" x="7"/>
+			<skill id="rallyall" x="3" y="armed"/>
+			<skill id="pierce" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<skill id='pierce' x='7' />
-			<health>46</health>
+			<health>54</health>
+			<skill id="hijack" x="7"/>
+			<skill id="rallyall" x="3" y="armed"/>
+			<skill id="pierce" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<skill id='hijack' x='7' />
-			<health>48</health>
+			<health>55</health>
+			<attack>14</attack>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<skill id='pierce' x='9' />
-			<health>50</health>
+			<health>56</health>
+			<skill id="hijack" x="8"/>
+			<skill id="rallyall" x="3" y="armed"/>
+			<skill id="pierce" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<skill id='rallyall' x='4' y='armed' />
-			<health>52</health>
+			<skill id="hijack" x="8"/>
+			<skill id="rallyall" x="4" y="armed"/>
+			<skill id="pierce" x="9"/>
 		</upgrade>
 	</unit>
 
@@ -33474,17 +33508,17 @@
 		<trait>armed</trait>
 		<release_time>1515088800</release_time>
 		<attack>10</attack>
-		<health>15</health>
+		<health>40</health>
 		<skill id='hijack' x='4' />
 		<skill id='shrapnel' x='4' />
 		<skill id='pierce' x='6' />
 		<upgrade>
 			<level>2</level>
-			<health>16</health>
+			<health>41</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>17</health>
+			<health>42</health>
 			<skill id='shrapnel' x='5' />
 		</upgrade>
 		<upgrade>
@@ -33494,17 +33528,17 @@
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>18</health>
+			<health>43</health>
 			<skill id='hijack' x='5' />
 		</upgrade>
 		<upgrade>
 			<level>6</level>
 			<attack>12</attack>			
-			<health>20</health>
+			<health>44</health>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<health>21</health>
+			<health>45</health>
 			<skill id='hijack' x='6' />
 		</upgrade>
 		<upgrade>
@@ -33513,7 +33547,7 @@
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>22</health>
+			<health>46</health>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
@@ -33521,17 +33555,17 @@
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>23</health>
+			<health>47</health>
 			<skill id='pierce' x='8' />
 		</upgrade>
 		<upgrade>
 			<level>12</level>
 			<attack>14</attack>
-			<health>25</health>
+			<health>48</health>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>26</health>
+			<health>49</health>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
@@ -33539,7 +33573,7 @@
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<health>27</health>
+			<health>50</health>
 			<skill id='shrapnel' x='7' />
 		</upgrade>
 		<upgrade>
@@ -33549,11 +33583,9 @@
 		<upgrade>
 			<level>17</level>
 			<skill id='hijack' x='7' />
-			<health>29</health>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>32</health>
 			<attack>16</attack>
 		</upgrade>
 	</unit>		
@@ -52770,77 +52802,120 @@
 		<set>2</set>
 		<type>3</type>
 		<trait>armed</trait>
-		<attack>3</attack>
-		<health>29</health>
-		<skill id="invigorate" x="3"/>
+		<attack>11</attack>
+		<health>37</health>
+		<skill id="invigorate" x="4"/>
+		<skill id="healall" x="2" y="3"/>
+		<skill id="barrierall" x="1" y="3"/>
 		<upgrade>
 			<level>2</level>
-			<health>32</health>
-		</upgrade>
-		<upgrade>
-			<level>3</level>
-			<skill id="invigorate" x="4"/>
-		</upgrade>
-		<upgrade>
-			<level>4</level>
-			<skill id="healall" x="2" y="3"/>
-		</upgrade>
-		<upgrade>
-			<level>5</level>
-			<attack>4</attack>
-		</upgrade>
-		<upgrade>
-			<level>6</level>
-			<skill id="barrierall" x="2" y="armed"/>
-		</upgrade>
-		<upgrade>
-			<level>7</level>
-			<health>35</health>
-		</upgrade>
-		<upgrade>
-			<level>8</level>
-			<skill id="invigorate" x="6"/>
-		</upgrade>
-		<upgrade>
-			<level>9</level>
-			<skill id="healall" x="3" y="3"/>
-		</upgrade>
-		<upgrade>
-			<level>10</level>
 			<health>38</health>
 		</upgrade>
 		<upgrade>
-			<level>11</level>
+			<level>3</level>
+			<health>39</health>
+			<skill id="invigorate" x="4"/>
+			<skill id="healall" x="2" y="3"/>
+			<skill id="barrierall" x="2" y="3"/>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<health>40</health>
+			<skill id="invigorate" x="5"/>
+			<skill id="healall" x="2" y="3"/>
+			<skill id="barrierall" x="2" y="3"/>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
 			<health>41</health>
+			<skill id="invigorate" x="5"/>
+			<skill id="healall" x="3" y="3"/>
+			<skill id="barrierall" x="2" y="3"/>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<health>42</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
+			<level>7</level>
+			<health>43</health>
+			<skill id="invigorate" x="5"/>
+			<skill id="healall" x="3" y="3"/>
+			<skill id="barrierall" x="3" y="3"/>
+		</upgrade>
+		<upgrade>
+			<level>8</level>
+			<health>44</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="healall" x="3" y="3"/>
+			<skill id="barrierall" x="3" y="3"/>
+		</upgrade>
+		<upgrade>
+			<level>9</level>
+			<health>45</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="healall" x="4" y="3"/>
+			<skill id="barrierall" x="3" y="3"/>
+		</upgrade>
+		<upgrade>
+			<level>10</level>
+			<health>47</health>
+			<skill id="invigorate" x="6"/>
+			<skill id="healall" x="4" y="3"/>
+			<skill id="barrierall" x="4" y="3"/>
+		</upgrade>
+		<upgrade>
+			<level>11</level>
+			<health>48</health>
+			<attack>13</attack>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
+			<health>49</health>
 			<skill id="invigorate" x="7"/>
+			<skill id="healall" x="4" y="3"/>
+			<skill id="barrierall" x="4" y="3"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<attack>5</attack>
+			<health>50</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="healall" x="5" y="3"/>
+			<skill id="barrierall" x="4" y="3"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<skill id="barrierall" x="3" y="armed"/>
+			<health>51</health>
+			<skill id="invigorate" x="7"/>
+			<skill id="healall" x="5" y="3"/>
+			<skill id="barrierall" x="5" y="3"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<health>44</health>
+			<health>52</health>
+			<attack>14</attack>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>47</health>
+			<health>53</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="healall" x="5" y="3"/>
+			<skill id="barrierall" x="5" y="3"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<health>50</health>
+			<health>54</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="healall" x="6" y="3"/>
+			<skill id="barrierall" x="5" y="3"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<skill id="healall" x="4" y="3"/>
-			<health>51</health>
+			<health>56</health>
+			<skill id="invigorate" x="8"/>
+			<skill id="healall" x="6" y="3"/>
+			<skill id="barrierall" x="6" y="3"/>
 		</upgrade>
 	</unit>
 	<unit>
@@ -55260,7 +55335,7 @@
 		<asset_bundle>44</asset_bundle>
 		<release_time>1531764000</release_time>
 		<attack>9</attack>
-		<health>18</health>
+		<health>43</health>
 		<rarity>4</rarity>
 		<skill id="bodyguard" x="3"/>
 		<skill id="barrierall" x="2" y="armed"/>
@@ -55270,61 +55345,61 @@
 		<set>3</set>
 		<upgrade>
 			<level>2</level>
-			<health>19</health>
+			<health>44</health>
 			<skill id="bodyguard" x="3"/>
 			<skill id="barrierall" x="2" y="armed"/>
 			<skill id="weaken" x="3"/>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>20</health>
+			<health>45</health>
 			<skill id="bodyguard" x="3"/>
 			<skill id="barrierall" x="3" y="armed"/>
 			<skill id="weaken" x="3"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>21</health>
+			<health>46</health>
 			<skill id="bodyguard" x="4"/>
 			<skill id="barrierall" x="3" y="armed"/>
 			<skill id="weaken" x="3"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>23</health>
+			<health>47</health>
 			<skill id="bodyguard" x="4"/>
 			<skill id="barrierall" x="3" y="armed"/>
 			<skill id="weaken" x="4"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>24</health>
+			<health>48</health>
 			<attack>10</attack>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<health>25</health>
+			<health>49</health>
 			<skill id="bodyguard" x="4"/>
 			<skill id="barrierall" x="3" y="armed"/>
 			<skill id="weaken" x="5"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>27</health>
+			<health>50</health>
 			<skill id="bodyguard" x="4"/>
 			<skill id="barrierall" x="4" y="armed"/>
 			<skill id="weaken" x="5"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>28</health>
+			<health>51</health>
 			<skill id="bodyguard" x="5"/>
 			<skill id="barrierall" x="4" y="armed"/>
 			<skill id="weaken" x="5"/>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<health>29</health>
+			<health>52</health>
 			<attack>11</attack>
 			<skill id="bodyguard" x="5"/>
 			<skill id="barrierall" x="4" y="armed"/>
@@ -55332,54 +55407,54 @@
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>30</health>
+			<health>53</health>
 			<skill id="bodyguard" x="5"/>
 			<skill id="barrierall" x="4" y="armed"/>
 			<skill id="weaken" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<health>32</health>
+			<health>54</health>
 			<skill id="bodyguard" x="5"/>
 			<skill id="barrierall" x="5" y="armed"/>
 			<skill id="weaken" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>33</health>
+			<health>55</health>
 			<skill id="bodyguard" x="6"/>
 			<skill id="barrierall" x="5" y="armed"/>
 			<skill id="weaken" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>34</health>
+			<health>56</health>
 			<skill id="bodyguard" x="6"/>
 			<skill id="barrierall" x="5" y="armed"/>
 			<skill id="weaken" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<health>36</health>
+			<health>57</health>
 			<skill id="bodyguard" x="6"/>
 			<skill id="barrierall" x="5" y="armed"/>
 			<skill id="weaken" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>37</health>
+			<health>58</health>
 			<attack>12</attack>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<health>38</health>
+			<health>60</health>
 			<skill id="bodyguard" x="6"/>
 			<skill id="barrierall" x="6" y="armed"/>
 			<skill id="weaken" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>40</health>
+			<health>62</health>
 			<skill id="bodyguard" x="7"/>
 			<skill id="barrierall" x="6" y="armed"/>
 			<skill id="weaken" x="10"/>
@@ -76264,8 +76339,8 @@
 		<desc>Policia!</desc>
 		<picture>KOTH_MexicanPolice</picture>
 		<asset_bundle>44</asset_bundle>
-		<attack>6</attack>
-		<health>28</health>
+		<attack>8</attack>
+		<health>46</health>
 		<rarity>4</rarity>
 		<skill id="bodyguard" x="4"/>
 		<skill id="outlast" x="4"/>
@@ -76276,59 +76351,57 @@
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
-			<health>29</health>
-			<attack>7</attack>
+			<health>47</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>31</health>
+			<health>48</health>
 			<skill id="bodyguard" x="4"/>
 			<skill id="outlast" x="4"/>
 			<skill id="weaken" x="6"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>33</health>
+			<health>49</health>
 			<skill id="bodyguard" x="4"/>
 			<skill id="outlast" x="5"/>
 			<skill id="weaken" x="6"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>34</health>
+			<health>50</health>
 			<skill id="bodyguard" x="5"/>
 			<skill id="outlast" x="5"/>
 			<skill id="weaken" x="6"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>36</health>
-			<attack>8</attack>
+			<health>51</health>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
-			<health>38</health>
+			<health>52</health>
 			<skill id="bodyguard" x="5"/>
 			<skill id="outlast" x="5"/>
 			<skill id="weaken" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
-			<health>39</health>
+			<health>53</health>
 			<skill id="bodyguard" x="5"/>
 			<skill id="outlast" x="6"/>
 			<skill id="weaken" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>41</health>
+			<health>54</health>
 			<skill id="bodyguard" x="6"/>
 			<skill id="outlast" x="6"/>
 			<skill id="weaken" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
-			<health>43</health>
+			<health>55</health>
 			<attack>9</attack>
 			<skill id="bodyguard" x="6"/>
 			<skill id="outlast" x="6"/>
@@ -76336,52 +76409,52 @@
 		</upgrade>
 		<upgrade>
 			<level>11</level>
-			<health>45</health>
+			<health>56</health>
 			<skill id="bodyguard" x="6"/>
 			<skill id="outlast" x="7"/>
 			<skill id="weaken" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<health>46</health>
+			<health>57</health>
 			<skill id="bodyguard" x="7"/>
 			<skill id="outlast" x="7"/>
 			<skill id="weaken" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>48</health>
+			<health>58</health>
 			<attack>10</attack>
 		</upgrade>
 		<upgrade>
 			<level>14</level>
-			<health>50</health>
+			<health>59</health>
 			<skill id="bodyguard" x="7"/>
 			<skill id="outlast" x="7"/>
 			<skill id="weaken" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>15</level>
-			<health>51</health>
+			<health>60</health>
 			<skill id="bodyguard" x="7"/>
 			<skill id="outlast" x="8"/>
 			<skill id="weaken" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>16</level>
-			<health>53</health>
+			<health>61</health>
 			<attack>11</attack>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<health>55</health>
+			<health>63</health>
 			<skill id="bodyguard" x="8"/>
 			<skill id="outlast" x="8"/>
 			<skill id="weaken" x="9"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>57</health>
+			<health>65</health>
 			<skill id="bodyguard" x="8"/>
 			<skill id="outlast" x="9"/>
 			<skill id="weaken" x="10"/>
@@ -95456,10 +95529,10 @@
 		<name>Ship Armory</name>
 		<picture>FR_ShipArmory</picture>
 		<asset_bundle>53</asset_bundle>
-		<attack>5</attack>
-		<health>30</health>
+		<attack>11</attack>
+		<health>37</health>
 		<rarity>4</rarity>
-		<skill id="armored" x="3"/>
+		<skill id="armored" x="4"/>
 		<skill id="hijack" x="4"/>
 		<skill id="pierce" x="4"/>
 		<type>5</type>
@@ -95468,110 +95541,112 @@
 		<set>2</set>
 		<upgrade>
 			<level>2</level>
-			<health>31</health>
-			<attack>6</attack>
+			<health>38</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<health>33</health>
-			<skill id="armored" x="3"/>
+			<health>39</health>
+			<skill id="armored" x="4"/>
 			<skill id="hijack" x="5"/>
 			<skill id="pierce" x="4"/>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<health>35</health>
-			<skill id="armored" x="3"/>
+			<health>41</health>
+			<skill id="armored" x="4"/>
 			<skill id="hijack" x="5"/>
 			<skill id="pierce" x="5"/>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
-			<health>37</health>
-			<skill id="armored" x="4"/>
+			<health>42</health>
+			<skill id="armored" x="5"/>
 			<skill id="hijack" x="5"/>
 			<skill id="pierce" x="5"/>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
-			<health>38</health>
-			<attack>7</attack>
-		</upgrade>
-		<upgrade>
-			<level>7</level>
-			<health>40</health>
-			<skill id="armored" x="4"/>
+			<health>44</health>
+			<skill id="armored" x="5"/>
 			<skill id="hijack" x="6"/>
 			<skill id="pierce" x="5"/>
 		</upgrade>
 		<upgrade>
+			<level>7</level>
+			<health>45</health>
+			<skill id="armored" x="5"/>
+			<skill id="hijack" x="6"/>
+			<skill id="pierce" x="6"/>
+		</upgrade>
+		<upgrade>
 			<level>8</level>
-			<health>42</health>
-			<skill id="armored" x="4"/>
+			<health>47</health>
+			<skill id="armored" x="6"/>
 			<skill id="hijack" x="6"/>
 			<skill id="pierce" x="6"/>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
-			<health>44</health>
-			<attack>8</attack>
-		</upgrade>
-		<upgrade>
-			<level>10</level>
-			<health>45</health>
-			<skill id="armored" x="4"/>
+			<health>48</health>
+			<skill id="armored" x="6"/>
 			<skill id="hijack" x="7"/>
 			<skill id="pierce" x="6"/>
 		</upgrade>
 		<upgrade>
+			<level>10</level>
+			<health>50</health>
+		</upgrade>
+		<upgrade>
 			<level>11</level>
-			<health>47</health>
-			<skill id="armored" x="4"/>
+			<health>51</health>
+			<skill id="armored" x="6"/>
 			<skill id="hijack" x="7"/>
 			<skill id="pierce" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>12</level>
-			<health>49</health>
-			<skill id="armored" x="5"/>
+			<health>53</health>
+			<skill id="armored" x="7"/>
 			<skill id="hijack" x="7"/>
 			<skill id="pierce" x="7"/>
 		</upgrade>
 		<upgrade>
 			<level>13</level>
-			<health>51</health>
-			<attack>9</attack>
-		</upgrade>
-		<upgrade>
-			<level>14</level>
-			<health>52</health>
-			<skill id="armored" x="5"/>
+			<health>54</health>
+			<skill id="armored" x="7"/>
 			<skill id="hijack" x="8"/>
 			<skill id="pierce" x="7"/>
 		</upgrade>
 		<upgrade>
-			<level>15</level>
-			<health>54</health>
-			<skill id="armored" x="5"/>
+			<level>14</level>
+			<health>56</health>
+			<skill id="armored" x="7"/>
 			<skill id="hijack" x="8"/>
 			<skill id="pierce" x="8"/>
 		</upgrade>
 		<upgrade>
+			<level>15</level>
+			<health>57</health>
+			<attack>12</attack>
+		</upgrade>
+		<upgrade>
 			<level>16</level>
-			<health>56</health>
-			<attack>10</attack>
+			<health>59</health>
+			<skill id="armored" x="8"/>
+			<skill id="hijack" x="8"/>
+			<skill id="pierce" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>17</level>
-			<health>58</health>
-			<skill id="armored" x="5"/>
+			<health>60</health>
+			<skill id="armored" x="8"/>
 			<skill id="hijack" x="9"/>
 			<skill id="pierce" x="8"/>
 		</upgrade>
 		<upgrade>
 			<level>18</level>
-			<health>60</health>
-			<skill id="armored" x="6"/>
+			<health>62</health>
+			<skill id="armored" x="8"/>
 			<skill id="hijack" x="9"/>
 			<skill id="pierce" x="9"/>
 		</upgrade>
@@ -121114,4 +121189,5 @@
 		<name>Hidden</name>
 		<visible>0</visible>
 	</cardSet>
+
 </root>
