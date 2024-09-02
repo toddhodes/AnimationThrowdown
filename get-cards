@@ -16,7 +16,7 @@ curl -s 'https://cb-live.synapse-games.com/api.php?message=init&user_id='$user_i
 echo "retrieved user.json"
 
 cat /tmp/user.json | jq '.card_data[] | {id: .id, rarity: .rarity, name: .name}' | paste -d " " - - - - - \
-	| cut -d\" -f4,8,12- | tr \" " " | tr -d \} > $t
+	| cut -d\" -f4,8,12- | tr \" " " | tr -d \}  | sort | uniq > $t
 
 cat $t | sort | uniq | sed 's/ $//' > $tmp
 cat $tmp > $t

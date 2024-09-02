@@ -2,6 +2,33 @@
 #
 #
 
+sort -t'|' -k2 Combos/ComboMasteryLevels | sed 's/^[ \t]*//;s/[ \t]*$//' > /tmp/sorted_cml
+sort -t'|' -k2 Combos/ComboMasteryTokens | sed 's/^[ \t]*//;s/[ \t]*$//' > /tmp/sorted_cmt
+
+## this gets the ones with a level
+join -t'|' -1 2 -2 2 -a 1 -o 1.1,1.2,2.1 /tmp/sorted_cml /tmp/sorted_cmt \
+   | awk -F'|' '{print $1 " | " $2 " | " $3}' \
+	| sed 's/[[:space:]]*|[[:space:]]*/ | /g' \
+   | sed 's/ $//' \
+   | sed 's, |$,,' \
+   | sort -r -s -k1,1
+
+## this gets the ones with no cm level
+join -t '|' -o 2.2,2.1 -v 2 -1 2 -2 2 /tmp/sorted_cml /tmp/sorted_cmt \
+   | sed 's/|/ | /' \
+   | sed 's/ $//' \
+   | sort -t'|' -k2 -nr \
+   | sed 's/^/0 |/' \
+   | grep -v 'Mastery Stone' \
+   | sort -t'|' -k3 -nr \
+
+## and finally we get stones
+grep --colour=never 'Mastery Stone' Combos/ComboMasteryTokens
+
+
+
+exit
+
 join -t '|' -o 1.1,1.2,2.1 -a 1 -1 2 -2 2 \
    <(sort -t'|' -k2 Combos/ComboMasteryLevels) \
    <(cat Combos/ComboMasteryTokens | sed $'s/\t/ |/' | sort -t'|' -k2) \
@@ -20,5 +47,3 @@ join -t '|' -o 2.2,2.1 -v 2 -1 2 -2 2 \
    | sort -t'|' -k2 -nr \
    | sed 's/^/0 |/' \
    | grep -v 'Mastery Stone'
-
-grep --colour=never 'Mastery Stone' Combos/ComboMasteryTokens
