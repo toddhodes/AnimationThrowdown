@@ -7,7 +7,6 @@
 
 
 t=cards-w-id-and-rarity
-tmp=/tmp/cards-w-id-and-rarity
 
 user_id=`grep user_id ~/.at_creds | cut -d= -f2`
 password_hash=`grep password_hash ~/.at_creds | cut -d= -f2`
@@ -15,14 +14,8 @@ password_hash=`grep password_hash ~/.at_creds | cut -d= -f2`
 curl -s 'https://cb-live.synapse-games.com/api.php?message=init&user_id='$user_id --data 'password='$password_hash > /tmp/user.json
 echo "retrieved user.json"
 
-# second line is { "id": "77053", "rarity": "1", "name": "\"Malory\"" } --> "Malory"
-cat /tmp/user.json | jq '.card_data[] | {id: .id, rarity: .rarity, name: .name}' | paste -d " " - - - - - \
-    | sed 's/\\"//g' \
-    | cut -d\" -f4,8,12- | tr \" " " | tr -d \}  | sed 's/ $//' | sort | uniq > $t
-
-cat $t | sort | uniq | sed 's/ $//' > $tmp
-cat $tmp > $t
-rm $tmp
+cat /tmp/user.json | jq -r '.card_data[] | .id,.rarity,.name' | paste -d " " - - - \
+    | cut -d" " -f1,2,3- | sed 's/ $//' | sort | uniq > $t
 
 echo "wrote $t"
 
