@@ -498,7 +498,7 @@
 4 | Record Holder Stan | 10
 4 | Reflection
 4 | Road Rage | 25
-4 | Rubber Knife Peggy | 20
+4 | Rubber Knife Peggy | 25
 4 | S and M Lois | 5
 4 | Sandwitch | 15
 4 | Saxophone Quagmire | 20
@@ -507,6 +507,7 @@
 4 | Shaken Not Stirred | 35
 4 | Shop Class Bobby | 40
 4 | Slap Fight Teddy
+4 | Sled Armor Tina | 5
 4 | Slow Dance Jimmy Jr. | 40
 4 | Stuffed Alligator | 20
 4 | Sucker Punch Cotton
@@ -537,6 +538,7 @@
 3 | Horse Whisperer Joe | 5
 3 | Ira | 20
 3 | Jellybean Phone Klaus | 30
+3 | Jungle Machete | 25
 3 | Jungle Spider | 10
 3 | Kitchen Knife Snot | 75
 3 | Klepto Bender | 5
@@ -547,6 +549,7 @@
 3 | Nun Linda | 5
 3 | Painter Zoidberg | 5
 3 | Paper Mache Pear | 20
+3 | Plastic Bat Hank | 25
 3 | Polling Peggy | 25
 3 | QB Boomhauer | 75
 3 | Rapture Stan | 30
@@ -621,6 +624,7 @@
 2 | Family Fracas | 10
 2 | Fashion Fight | 30
 2 | Finch Hermes | 100
+2 | Flamethrower Zeke | 10
 2 | Game Night Jeff
 2 | Globe Racer Bill | 20
 2 | Goddess of Beauty | 60
@@ -639,11 +643,13 @@
 2 | Hose to the Head
 2 | I Like Beer | 20
 2 | I am Mona
+2 | Improvised Crossbow Pam | 5
 2 | Karaoke Zapp | 85
 2 | Karate Stewie
 2 | Kawaii Klaus | 100
 2 | Klaus's Comic
 2 | Klaus's Fish Wife | 20
+2 | Knifelight | 50
 2 | Kuchi Kopi Story Time
 2 | Laser Razor
 2 | Leela Balloon Art
@@ -669,7 +675,6 @@
 2 | Party Board | 90
 2 | Pathetic Villain
 2 | Pig Calendar Luanne | 15
-2 | Plastic Bat Hank | 50
 2 | Positron Shooter Fry | 40
 2 | Principal Louise | 15
 2 | Professor of Emerald Laboratory | 100
@@ -688,7 +693,7 @@
 2 | Sailing Addict Linda
 2 | Sauna Cotton | 5
 2 | School Report Louise | 105
-2 | Screwdrive Chris
+2 | Screwdrive Chris | 10
 2 | Serious Runner Brian | 50
 2 | Sexy Dance Fighting
 2 | Shaving Roosters | 5
@@ -724,7 +729,7 @@
 2 | War Paint Kif | 70
 2 | Wheels Steve | 100
 2 | Whiskey Drunk Brian | 100
-2 | Wild Francine | 50
+2 | Wild Francine | 100
 2 | Will of a Housewife | 10
 2 | Yacht Dreams
 2 | Zoidberg vs Bot | 10
@@ -763,7 +768,7 @@
 1 | Butt Kicking Peggy
 1 | Butt Toucher Tina | 5
 1 | Cafeteria Meg
-1 | Caffeinated Lana | 25
+1 | Caffeinated Lana | 40
 1 | Cake Knife | 20
 1 | Cash Stacked Peter
 1 | Cat Dragon Gayle
@@ -793,7 +798,6 @@
 1 | Fake Daughter Tina
 1 | Farnsworth on Skiis | 125
 1 | Flag Defender | 125
-1 | Flamethrower Zeke | 20
 1 | Francine Bird Duet | 30
 1 | Freezerdome Linda | 35
 1 | Frykowski | 85
@@ -821,13 +825,11 @@
 1 | JJu Rodeo Zeke
 1 | Jet Ski Ride | 15
 1 | Joystick Steve | 125
-1 | Jungle Machete | 30
 1 | Keyboard Joe | 120
 1 | Keyboardist Dale | 25
 1 | Kidnapped Quagmire
 1 | Kidney Killer | 25
 1 | Knife Sharpener Linda | 125
-1 | Knifelight | 100
 1 | Kofta
 1 | Krotchlikniov
 1 | Kumite Fighter Cyril
@@ -839,6 +841,7 @@
 1 | Line Dancer Fry
 1 | Lip Art Gayle | 20
 1 | Love Potion | 125
+1 | Marksman Malory | 10
 1 | Married Brian | 125
 1 | Martini Stewie
 1 | Mascot Car Steve | 20
@@ -894,8 +897,7 @@
 1 | Skating Roger | 25
 1 | Sketch Artist Dale | 25
 1 | Sketch Artist Peter | 5
-1 | Sled Armor Gene
-1 | Sled Armor Tina | 90
+1 | Sled Armor Gene | 45
 1 | Sled Pull Bob
 1 | Sledgehammer Dale | 125
 1 | Smoke Bomb! | 130
@@ -911,7 +913,7 @@
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
 1 | Study Session | 5
-1 | Super Food Jeff
+1 | Super Food Jeff | 90
 1 | Swim Teacher Bob | 90
 1 | Swing Dance Bobby | 5
 1 | Sword Fighter Francine | 5
@@ -1000,6 +1002,7 @@
 0 | Santa Bender | 115
 0 | High Roller Stewie | 115
 0 | Fire Stuntman | 115
+0 | Toilet Song Bob | 110
 0 | Puppeteer Luanne | 110
 0 | Blernsball Fry | 110
 0 | Workout Klaus | 105
@@ -1007,7 +1010,6 @@
 0 | Heavenly Hank | 105
 0 | Fat Suit Bob | 105
 0 | Bible Study Stan | 105
-0 | Toilet Song Bob | 100
 0 | Francine Roger | 100
 0 | Bondage Klaus | 100
 0 | Rambo Lois | 95
@@ -1121,6 +1123,7 @@
 0 | Multi-Cigar Bender | 30
 0 | Mascot Race | 30
 0 | Karate Francine | 30
+0 | Kahn's Pills | 30
 0 | Junkie Hank | 30
 0 | Inappropriate Erection | 30
 0 | Hungover Steve | 30
@@ -1172,6 +1175,7 @@
 0 | Paintball Bill | 15
 0 | Chauffeur Mort | 15
 0 | Accordian Bill | 15
+0 | Spray and Pray | 10
 0 | Space Pistol Bender | 10
 0 | Sketchy Bus Driver | 10
 0 | Sherlock Mort | 10
@@ -1183,7 +1187,6 @@
 0 | Pirate Car Peter | 10
 0 | Nude Painting Bullock | 10
 0 | Model Builder Roger | 10
-0 | Marksman Malory | 10
 0 | Leegola | 10
 0 | Junk Food Klaus | 10
 0 | Hurdles Bobby | 10
@@ -1204,4 +1207,4 @@
 0 | Jewel Thief Malory | 5
 0 | Dodgeball Steve | 5
 0 | Bounty Hunter Roger | 5
-342900 | Mastery Stone
+335250 | Mastery Stone
