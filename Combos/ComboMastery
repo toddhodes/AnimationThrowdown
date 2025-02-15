@@ -482,6 +482,7 @@
 4 | Hank Hill, Running Back | 35
 4 | Interior Decorator | 10
 4 | Jetpack Kick Leela | 30
+4 | Knifelight | 15
 4 | Love Addict Lois | 5
 4 | Luxury Yacht | 5
 4 | Magic Breath Strips | 35
@@ -543,8 +544,8 @@
 3 | Kitchen Knife Snot | 75
 3 | Klepto Bender | 5
 3 | Laser Tag Quagmire | 75
-3 | Lights Out Snot | 5
-3 | More Time More Drugs | 40
+3 | Lights Out Snot | 15
+3 | More Time More Drugs | 5
 3 | Noir Peter
 3 | Nun Linda | 5
 3 | Painter Zoidberg | 5
@@ -586,7 +587,7 @@
 2 | Booty Shaking Drunk | 100
 2 | Bowling Team Cheryl | 35
 2 | Boy Crazy | 25
-2 | Boy Crazy Louise | 10
+2 | Boy Crazy Louise | 100
 2 | Buff Fry
 2 | Captain Feathers
 2 | Castanet Zoidberg | 70
@@ -649,7 +650,6 @@
 2 | Kawaii Klaus | 100
 2 | Klaus's Comic
 2 | Klaus's Fish Wife | 20
-2 | Knifelight | 50
 2 | Kuchi Kopi Story Time
 2 | Laser Razor
 2 | Leela Balloon Art
@@ -708,6 +708,7 @@
 2 | Stickin' Hank | 5
 2 | Stuffington Roger | 100
 2 | Super Dance Squad
+2 | Super Food Jeff | 65
 2 | Survival Crafter Hank
 2 | Swole Amy | 5
 2 | Tattooed Fat Guy | 50
@@ -910,10 +911,10 @@
 1 | Spacey Cheryl
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 125
+1 | Spray and Pray | 10
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
 1 | Study Session | 5
-1 | Super Food Jeff | 90
 1 | Swim Teacher Bob | 90
 1 | Swing Dance Bobby | 5
 1 | Sword Fighter Francine | 5
@@ -1175,7 +1176,6 @@
 0 | Paintball Bill | 15
 0 | Chauffeur Mort | 15
 0 | Accordian Bill | 15
-0 | Spray and Pray | 10
 0 | Space Pistol Bender | 10
 0 | Sketchy Bus Driver | 10
 0 | Sherlock Mort | 10
@@ -1194,6 +1194,7 @@
 0 | Guitar Practice Peggy | 10
 0 | Grill Cook | 10
 0 | Espresso Tina | 10
+0 | Deathrolling | 10
 0 | Cuddly Little Pet Slinky | 10
 0 | Cheerleader Lois | 10
 0 | Category 5 Sucker | 10
@@ -1207,4 +1208,4 @@
 0 | Jewel Thief Malory | 5
 0 | Dodgeball Steve | 5
 0 | Bounty Hunter Roger | 5
-335250 | Mastery Stone
+299950 | Mastery Stone
