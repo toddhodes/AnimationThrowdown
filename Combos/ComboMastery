@@ -78,6 +78,7 @@
 5 | Chicken Fight
 5 | Children's Author
 5 | Chocolate Addict Zapp
+5 | Chosen Brain Fry
 5 | Christmas Punchout
 5 | Christmas Trap
 5 | Chunky Blast Offs
@@ -232,6 +233,7 @@
 5 | Joy of Painting
 5 | Junk Food Bill
 5 | K Pop Peter
+5 | Kahn's Pills
 5 | Karate Bender
 5 | Karate Snot
 5 | Katz
@@ -480,8 +482,8 @@
 4 | Bruce the Goose | 40
 4 | Captain Bender
 4 | Chainsaw Hank | 5
-4 | Chosen Brain Fry | 40
 4 | Country Club Steve | 40
+4 | Dark Mistress Malory | 5
 4 | Dictator Roger | 40
 4 | Dog Lois | 5
 4 | Doghouse Bobby | 40
@@ -490,6 +492,7 @@
 4 | Eugenia Chatterteeth | 40
 4 | Game Machine Zoidberg | 5
 4 | Gamer Jeff | 5
+4 | Gayle the Scientist | 5
 4 | Hank Hill, Running Back | 35
 4 | Interior Decorator | 10
 4 | Jetpack Kick Leela | 30
@@ -511,6 +514,7 @@
 4 | Professor-Bender Swap | 40
 4 | Record Holder Stan | 10
 4 | Reflection
+4 | Robo Tina | 15
 4 | Rubber Knife Peggy | 25
 4 | S and M Lois | 5
 4 | Sandwitch | 15
@@ -518,6 +522,7 @@
 4 | Self Defense Spray
 4 | Self Destruct | 35
 4 | Shaken Not Stirred | 35
+4 | Shaving Roosters | 40
 4 | Shop Class Bobby | 40
 4 | Slap Fight Teddy
 4 | Sled Armor Tina | 5
@@ -529,11 +534,12 @@
 4 | Tuxedo Bob | 5
 4 | Upgraded Hermes | 5
 4 | Water Nympho | 30
-4 | Working Girl Tina | 15
+4 | Working Girl Tina | 25
 3 | "Malory" | 60
 3 | 60s Amy | 15
 3 | BABOU!!!! | 75
 3 | Bad Boy Kif
+3 | Bahama Mama
 3 | Beer Helmet | 40
 3 | Boxing Hank | 5
 3 | Boy Crazy
@@ -551,7 +557,6 @@
 3 | Fry's Macaroni Art | 25
 3 | Gamer Stan | 5
 3 | Gatsby Brian | 5
-3 | Gayle the Scientist | 15
 3 | Horse Whisperer Joe | 5
 3 | Ira | 20
 3 | Jellybean Phone Klaus | 30
@@ -567,13 +572,14 @@
 3 | Paper Mache Pear | 20
 3 | Plastic Bat Hank | 25
 3 | Polling Peggy | 25
+3 | Privacy Singing Amy
 3 | QB Boomhauer | 75
 3 | Rapture Stan | 30
 3 | Remote Cars Circuit Bob | 20
-3 | Robo Tina
 3 | Salmon Fry | 25
 3 | Shark Killer | 75
 3 | Smith Family Car | 5
+3 | Study Session | 40
 3 | Stupid Songs Carter | 15
 3 | Swim Lesson | 10
 3 | Swiss Smarts Malory | 10
@@ -624,6 +630,7 @@
 2 | Corporate Training | 35
 2 | Counting Klaus | 50
 2 | Cowboy Kif | 15
+2 | Crazy Carter | 5
 2 | Credit Card Joe
 2 | Dancing Peggy | 10
 2 | Diamond Ring Lois | 100
@@ -663,7 +670,6 @@
 2 | I Like Beer | 20
 2 | I am Mona
 2 | Improvised Crossbow Pam | 5
-2 | Kahn's Pills | 5
 2 | Karate Stewie
 2 | Kawaii Klaus | 100
 2 | Keyboardist Gayle | 5
@@ -671,12 +677,13 @@
 2 | Klaus's Comic
 2 | Klaus's Fish Wife | 20
 2 | Kuchi Kopi Story Time
+2 | Kumite Fighter Cyril | 5
 2 | Laser Razor
 2 | Leela Balloon Art
-2 | Life Drawing Hayley | 10
 2 | Louise Chatterteeth | 60
 2 | Marionette Chris | 100
 2 | Marionette Louise | 20
+2 | Medusa Mom | 20
 2 | Meg Meggy Meg | 25
 2 | Meg Portrait | 100
 2 | Mocktrial Gene
@@ -702,6 +709,7 @@
 2 | Prom Beer Joe | 100
 2 | Prom Luanne | 70
 2 | Propane Sculpture | 20
+2 | Put Out The Fire | 5
 2 | Q.T. McWhiskers | 80
 2 | Quagmire's Cat James | 90
 2 | Ravenous Porcelain Babies
@@ -717,7 +725,6 @@
 2 | Screwdrive Chris | 10
 2 | Serious Runner Brian | 50
 2 | Sexy Dance Fighting
-2 | Shaving Roosters | 75
 2 | Shower Curtain Gayle | 10
 2 | Sleighing Tonight
 2 | Slick'd Steve | 100
@@ -754,7 +761,7 @@
 2 | Will of a Housewife | 10
 2 | Yacht Dreams
 2 | Zoidberg vs Bot | 10
-1 | 3rd Grade Hayley
+1 | 3rd Grade Hayley | 10
 1 | ABC Quagmire | 45
 1 | Abstract Jeff | 20
 1 | Air Glider Peter | 30
@@ -769,7 +776,6 @@
 1 | Artsy Tina | 5
 1 | Author Fry | 20
 1 | Baby Quagmire
-1 | Bahama Mama | 50
 1 | Baseball Dale | 35
 1 | Battle Axe Peggy | 5
 1 | Belcher Date Night | 115
@@ -840,7 +846,7 @@
 1 | Honey Mustache Stewie | 5
 1 | Horseback Cotton | 20
 1 | Human Target Ray
-1 | Intern Doctor Meg | 25
+1 | Intern Doctor Meg | 30
 1 | JJu Rodeo Zeke
 1 | Jet Ski Ride | 15
 1 | Joystick Steve | 125
@@ -850,7 +856,6 @@
 1 | Knife Sharpener Linda | 125
 1 | Kofta
 1 | Krotchlikniov
-1 | Kumite Fighter Cyril
 1 | Lady Bird | 65
 1 | Laser Tag Brian | 125
 1 | Last Photo Kif
@@ -869,6 +874,7 @@
 1 | Mega Speed Barry | 130
 1 | Mile High Quagmire | 30
 1 | Model Lois | 25
+1 | Mori-Carter-y | 95
 1 | Motorcycle Couple | 10
 1 | Mr. Deliver | 125
 1 | Nacho Bartiromo
@@ -888,10 +894,10 @@
 1 | Photographer Bender | 125
 1 | Pigley | 125
 1 | Pilot Archer
+1 | Pink Eye Gayle
 1 | Play Bobby | 20
 1 | Playlist Meg
 1 | Poppler Jingle Fry | 20
-1 | Privacy Singing Amy | 50
 1 | Prize Car Louise
 1 | Propaniac Dale | 20
 1 | Prospecting Amy
@@ -923,6 +929,7 @@
 1 | Sled Armor Gene | 45
 1 | Sled Pull Bob
 1 | Sledgehammer Dale | 125
+1 | Sleepover Contract | 55
 1 | Smoke Bomb! | 130
 1 | Snake Hunter | 95
 1 | Sneak Tackle Hank | 95
@@ -937,7 +944,7 @@
 1 | Spray and Pray | 10
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 5
-1 | Study Session | 5
+1 | Surveillance Mom | 15
 1 | Swim Teacher Bob | 90
 1 | Swing Dance Bobby | 5
 1 | Sword Fighter Francine | 5
@@ -1040,7 +1047,6 @@
 0 | Francine Roger | 100
 0 | Bondage Klaus | 100
 0 | Rambo Lois | 95
-0 | Mori-Carter-y | 95
 0 | Frank the Snake | 95
 0 | Sperm Rider | 90
 0 | Sombrero Cotton | 90
@@ -1052,7 +1058,6 @@
 0 | Grand Theft Hank | 90
 0 | Fancy Gayle | 90
 0 | Dojo Cleveland | 90
-0 | Dark Mistress Malory | 90
 0 | Angry Exercise | 90
 0 | Top of the Morning | 85
 0 | Shower Drunk Hayley | 85
@@ -1172,7 +1177,6 @@
 0 | Drunk Leela | 30
 0 | Drunk Hermes | 30
 0 | Disco Bender | 30
-0 | Crazy Carter | 30
 0 | Circusitis Hermes | 30
 0 | Cinderella Lois | 30
 0 | Christian Rock | 30
@@ -1200,6 +1204,7 @@
 0 | Green Russians | 20
 0 | Diplomatic Immunity | 20
 0 | Dancing Mort | 20
+0 | Castle Captain Mom | 20
 0 | Budding Country Star | 20
 0 | Breakfast TV Workout | 20
 0 | Airpod Mort | 20
@@ -1240,4 +1245,4 @@
 0 | Jewel Thief Malory | 5
 0 | Dodgeball Steve | 5
 0 | Bounty Hunter Roger | 5
-685750 | Mastery Stone
+697150 | Mastery Stone
