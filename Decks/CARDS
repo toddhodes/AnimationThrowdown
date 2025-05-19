@@ -40,7 +40,7 @@
    8 L Action Delivery Force Hermes: 6**
    1 L Action Delivery Force Leela: 1
    1 L Action Delivery Force Leela: 2*
-   2 L Action Delivery Force Zoidberg: 1
+   1 L Action Delivery Force Zoidberg: 6**
    6 L Action Sequence: 6**
    1 L Adrenaline Steve: 1
    3 L Adrenaline Steve: 6**
@@ -122,7 +122,6 @@
    1 L Bad Tina: 6**
    5 L Badminton Roger: 6**
    8 L Bag of Nickels: 6**
-   1 L Baghead: 1
    9 L Baghead: 6**
    1 L Bahama Mama: 1
    8 L Baked Evil Monkey: 6**
@@ -136,7 +135,7 @@
    8 L Bandit: 6**
    1 L Banjo Boomhauer: 1
    1 L Banjo Boomhauer: 6**
-   1 L Barbados Slim: 1
+   2 L Barbados Slim: 1
    1 L Barbados Slim: 2*
    1 L Barbados Slim: 6**
    1 L Barfest: 1
@@ -232,7 +231,7 @@
    1 L Bon Bon Art: 6**
    1 L Bong Rips Francine: 1
    1 L Bong Rips Francine: 6**
-   1 L Bongo Drums: 1
+   2 L Bongo Drums: 1
    1 L Bongo Drums: 6**
    1 L Book Lover Gayle: 1
    1 L Book Signing Stewie: 2*
@@ -318,6 +317,7 @@
    5 L Butterjunk Fighters: 6**
    1 L Buy Me A Rainbow: 2*
    8 L Buzzsaw: 6**
+   1 L CD Warehouse: 1
    9 L CD Warehouse: 6**
    1 L CIA Student: 1
    1 L CIA Student: 6**
@@ -379,8 +379,8 @@
    2 L Cherlene Album Cover: 1
    1 L Cherlene Album Cover: 6**
    4 L Cheryl: 1
-   3 L Cheryl: 1**
-  12 L Cheryl: 6**
+   2 L Cheryl: 1**
+  13 L Cheryl: 6**
    1 L Chick-Chicken Chick Fight: 6**
    3 L Chicken Fight: 6**
    9 L Child-sized Beers: 6**
@@ -558,8 +558,7 @@
    3 L Dr. Tate: 6**
    1 L Dr. Zoidberg: 1**
   19 L Dr. Zoidberg: 6**
-   1 L Dragon Statue: 1**
-   2 L Dragon Statue: 6**
+   3 L Dragon Statue: 6**
    1 L Dream Guitar: 6**
    1 L Dreamland Band: 1
    9 L Dreamland Band: 6**
@@ -575,6 +574,7 @@
    1 L Drunk Jeff: 6**
    1 L Drunk Peter: 1
    1 L Drunk at the Clam: 6**
+   1 L Drunk on Absinthe: 1
    9 L Earl's Guitars: 6**
   10 L Eccentric Dancer Outfit: 6**
    1 L Ecstacy Francine: 6
@@ -857,9 +857,7 @@
    1 L Hot Cocoa Gene: 1
    1 L Hot Cocoa Gene: 2*
    1 L Hot Cocoa Tina: 1
-   1 L Hot Polar Bear Cub: 1
-   1 L Hot Polar Bear Cub: 2*
-   6 L Hot Polar Bear Cub: 6**
+   7 L Hot Polar Bear Cub: 6**
   10 L Hot Rod Planet Express Ship: 6**
    1 L Hottyz Bill: 1
    1 L Hottyz Bill: 6**
@@ -889,8 +887,8 @@
    2 L Improvised Crossbow Pam: 1
    2 L Improvised Crossbow Pam: 6**
    9 L In Flight Fight: 6**
-   5 L In Your Face Mort!: 1
-   2 L In Your Face Mort!: 6**
+   1 L In Your Face Mort!: 1
+   3 L In Your Face Mort!: 6**
   10 L In-Law Punch: 6**
    1 L Inappropriate Erection: 1
    1 L Inappropriate Erection: 2*
@@ -1204,7 +1202,7 @@
    3 L Mountain Bike: 6**
    7 L Mountain Climber Peter: 6**
    1 L Mowing While Intoxicated: 6**
-   4 L Mr. Business: 1
+   5 L Mr. Business: 1
    4 L Mr. Deadly: 1
    4 L Mr. Deadly: 6**
    1 L Mr. Fischoeder: 1
@@ -1459,8 +1457,7 @@
    2 L Professor Lerner: 1
    1 L Professor Lerner: 6**
    1 L Professor Shpeekenshpell: 1
-   1 L Professor Shpeekenshpell: 1**
-   5 L Professor Shpeekenshpell: 6**
+   6 L Professor Shpeekenshpell: 6**
    1 L Professor-Bender Swap: 1
    2 L Professor-Bender Swap: 6**
    1 L Prom Beer Joe: 2*
@@ -1468,8 +1465,9 @@
    1 L Prop Stethoscope: 1
    1 L Prop Stethoscope: 2*
    1 L Prop Stethoscope: 6**
+   1 L Proseco Not Champagne: 1
    1 L Prospecting Amy: 6**
-   1 L Prosthetic Slap: 1
+   2 L Prosthetic Slap: 1
    2 L Prosthetic Slap: 6**
    2 L Puberty Pirate: 1
    1 L Puberty Pirate: 2*
@@ -1477,7 +1475,7 @@
    1 L Public Art: 2*
    7 L Public Art: 6**
    5 L Purity Dads: 6**
-   6 L Purity Sword: 1
+   7 L Purity Sword: 1
    6 L Purity Sword: 6**
    9 L Push Ups: 6**
    2 L Put Out The Fire: 6**
@@ -1561,6 +1559,7 @@
    7 L Roger Epstein Music: 6**
   10 L Roger's Closet: 6**
    9 L Roger's Sexy Shorts: 6**
+   1 L Roger's Space Ship: 1
   12 L Roger: 1
    3 L Roger: 1**
   15 L Roger: 6**
@@ -1606,7 +1605,7 @@
    2 L Sauna Cotton: 1
    9 L Saxophone Quagmire: 6**
   10 L Scary Mask: 6**
-   2 L School Board Minh: 1
+   3 L School Board Minh: 1
    2 L School Board Minh: 6**
    2 L School Report Louise: 1
    1 L School Soda: 6**
@@ -1742,9 +1741,7 @@
   17 L Stan: 6**
    2 L Standardized Tests: 1
    6 L Standardized Tests: 6**
-   2 L Staubach Elementary: 1
-   1 L Staubach Elementary: 2*
-   8 L Staubach Elementary: 6**
+   9 L Staubach Elementary: 6**
   11 L Steak Cows: 6**
    5 L Stelio Kontos: 6**
   11 L Sterling Archer: 1**
@@ -1796,7 +1793,7 @@
    2 L Supermodel Roger: 6**
    3 L Surface Air Telegram: 1
    5 L Surface Air Telegram: 6**
-   4 L Surface To Santa Launcher: 1
+   5 L Surface To Santa Launcher: 1
    3 L Surface To Santa Launcher: 6**
    3 L Surveillance Mom: 1
    5 L Swim Lesson: 6**
@@ -1973,6 +1970,7 @@
    1 L Wedding Luanne: 6**
    3 L Weed Work Song: 1
    1 L Weed Work Song: 6**
+   1 L Welcome Mojitos: 1
    8 L Western Lewis: 6**
    5 L Whack-A-Toe: 1
    1 L Whack-A-Toe: 2*
@@ -2144,7 +2142,7 @@
    1 M Mini Car Racing: 4*
    1 M Miss Merkin: 4*
    1 M Miss XXXMas: 2*
-   1 M Mom: 1**
+   1 M Mom: 2**
    1 M Money Briefcase: 2*
    1 M Mort: 7**
    1 M Mr. Deadly: 1*
@@ -2209,6 +2207,7 @@
    1 M Toy Keyboard: 6
    1 M Trial Helmet: 6*
    1 M Turtleneck: 3*
+   1 M Violent Eggs: 1
    1 M Wagstaff Whaler: 5*
    1 M Walking Man Exhibit: 1**
    1 M Western Lewis: 6*
