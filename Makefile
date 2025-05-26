@@ -1,5 +1,6 @@
 .PHONY: all cards deck gen_cards gen_cm cm clean
-export TIMEFORMAT=.	%Rs real	%Us user	 %Ss sys
+export TIMEFORMAT=.	%Rs real
+export LC_ALL = C
 
 
 all: cards deck gen_cards gen_cm

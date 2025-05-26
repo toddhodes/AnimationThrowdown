@@ -124,6 +124,7 @@
 5 | Dodgeball Louise
 5 | Dojo Joe
 5 | Dojo Quagmire
+5 | Doll Dating Snot
 5 | Dollar Stewie | 5
 5 | Doomsday Surplus
 5 | Down to the Bone
@@ -282,6 +283,7 @@
 5 | Mobile Desk Hermes
 5 | Money Giver Bullock
 5 | More Anchovies
+5 | Mort At Work
 5 | Motivational Poster
 5 | Mount Toy Gene
 5 | Mountain Climber Peter
@@ -594,7 +596,7 @@
 3 | Xerxes the Falcon | 15
 3 | Zero Gravity Flight
 2 | Action Delivery Force Leela
-2 | Action Delivery Force Zoidberg
+2 | Action Delivery Force Zoidberg | 5
 2 | Alley Entertainment | 100
 2 | American Giggolo | 65
 2 | Andre the Giant 3000 | 15
@@ -690,7 +692,6 @@
 2 | Meg Portrait | 100
 2 | Mocktrial Gene
 2 | Mocktrial Louise
-2 | Mort At Work | 10
 2 | Mount Toy Louise | 5
 2 | Multi-Cigar Bender | 5
 2 | Mural Restorer | 100
@@ -757,9 +758,11 @@
 2 | Walkman Boomhauer
 2 | War Paint Kif | 70
 2 | Wheels Steve | 100
+2 | Whiskey Cotton | 100
 2 | Whiskey Drunk Brian | 100
 2 | Wild Francine | 100
 2 | Will of a Housewife | 10
+2 | Wrestler Peggy | 60
 2 | Yacht Dreams
 2 | Zoidberg vs Bot | 10
 1 | 3rd Grade Hayley | 10
@@ -790,6 +793,7 @@
 1 | Boombox Teddy | 10
 1 | Bottlecap Two | 15
 1 | Bouldering Bob | 125
+1 | Bourbon For Breakfast | 30
 1 | Buff Cyril
 1 | Butcher Knife Jeff
 1 | Butt Kicking Peggy
@@ -972,7 +976,6 @@
 1 | Water Polo Steve | 5
 1 | Wedding Bill
 1 | Were-Car | 125
-1 | Whiskey Cotton | 125
 1 | Wingsuit Krieger
 1 | Yeti Fighter Leela | 120
 1 | Zoidberg's Scream | 125
@@ -1183,7 +1186,6 @@
 0 | Chest Harpoon | 30
 0 | Cat Stan | 30
 0 | Bunny Brian | 30
-0 | Bourbon For Breakfast | 30
 0 | Bomb Detonator Zapp | 30
 0 | Bob in the Wall | 30
 0 | Beer Decision Boomhauer | 30
@@ -1244,4 +1246,4 @@
 0 | Jewel Thief Malory | 5
 0 | Dodgeball Steve | 5
 0 | Bounty Hunter Roger | 5
-666950 | Mastery Stone
+681050 | Mastery Stone
