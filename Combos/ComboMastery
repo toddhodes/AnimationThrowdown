@@ -509,6 +509,7 @@
 4 | More Time More Drugs | 5
 4 | Pageant Singer Zapp
 4 | Pam Powered Van | 30
+4 | Party Rogu | 30
 4 | Perfect Husband
 4 | Pilot Script Jeff | 10
 4 | Ping Pong Brian
@@ -547,6 +548,7 @@
 3 | Beer Helmet | 40
 3 | Boxing Hank | 5
 3 | Boy Crazy
+3 | Buckarito | 25
 3 | Burgers and Fries Louise | 15
 3 | Captain Leela | 75
 3 | Crackers | 10
@@ -819,6 +821,7 @@
 1 | Derringer Francine | 60
 1 | Dog Bone Stan | 95
 1 | Dog Meg
+1 | Dojo Cleveland | 90
 1 | Drunk Jeff | 60
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 45
@@ -827,7 +830,7 @@
 1 | Essay Jeff | 10
 1 | Evil Cat Stan | 5
 1 | Evil Scientist Cheryl | 10
-1 | Fake Daughter Tina
+1 | Fake Daughter Tina | 90
 1 | Farnsworth on Skiis | 125
 1 | Flag Defender | 125
 1 | Francine Bird Duet | 30
@@ -971,7 +974,7 @@
 1 | Turkey Handprint | 130
 1 | Upstream Chris
 1 | Vanderhill
-1 | Very Sloshed | 15
+1 | Very Sloshed | 85
 1 | Violinist Peter | 40
 1 | Water Polo Steve | 5
 1 | Wedding Bill
@@ -1081,6 +1084,7 @@
 0 | Zinc Saucier | 70
 0 | Topped Off Wine | 70
 0 | Senora Hill | 70
+0 | Itsy Bitsy Rogu | 70
 0 | I Get What I Want | 70
 0 | Hammer Olympian | 70
 0 | Fashion Samurai Zeke | 70
@@ -1109,10 +1113,12 @@
 0 | Steve Crossing the Alps | 50
 0 | Soda Bar Drunk | 50
 0 | Robot Devil's Hands | 50
+0 | Professor Rogu | 50
 0 | Jericho | 50
 0 | Disco Peggy | 50
 0 | Breast Milk Addict | 50
 0 | Bandit Bob | 50
+0 | Accounting Genius | 50
 0 | Ripped Bullock | 45
 0 | Rabbit Fight | 45
 0 | Pilot Training | 45
@@ -1202,6 +1208,7 @@
 0 | Bayonet Cotton | 25
 0 | Wrestler Amy | 20
 0 | Sister Peter | 20
+0 | Rogutilda | 20
 0 | Knitting Peter | 20
 0 | Green Russians | 20
 0 | Diplomatic Immunity | 20
@@ -1211,6 +1218,7 @@
 0 | Breakfast TV Workout | 20
 0 | Airpod Mort | 20
 0 | Paintball Bill | 15
+0 | DJ Rogu | 15
 0 | Accordian Bill | 15
 0 | Space Pistol Bender | 10
 0 | Sketchy Bus Driver | 10
@@ -1246,4 +1254,4 @@
 0 | Jewel Thief Malory | 5
 0 | Dodgeball Steve | 5
 0 | Bounty Hunter Roger | 5
-681050 | Mastery Stone
+681100 | Mastery Stone
