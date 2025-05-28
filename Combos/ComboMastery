@@ -349,6 +349,7 @@
 5 | Principal Peter
 5 | Private Brian
 5 | Prof Comedy
+5 | Prom Beer Joe
 5 | Psych Meds
 5 | QB Quagmire
 5 | Rabid Dale
@@ -482,6 +483,7 @@
 4 | Bazooka Shark Fan Francine | 10
 4 | Betting it All
 4 | Bruce the Goose | 40
+4 | Buckarito | 25
 4 | Captain Bender
 4 | Chainsaw Hank | 5
 4 | Country Club Steve | 40
@@ -538,17 +540,17 @@
 4 | The Smackerooni
 4 | Tuxedo Bob | 5
 4 | Upgraded Hermes | 5
+4 | Very Sloshed
 4 | Water Nympho | 30
 4 | Working Girl Tina | 25
 3 | "Malory" | 60
 3 | 60s Amy | 15
 3 | BABOU!!!! | 75
 3 | Bad Boy Kif
-3 | Bahama Mama
+3 | Bahama Mama | 25
 3 | Beer Helmet | 40
 3 | Boxing Hank | 5
 3 | Boy Crazy
-3 | Buckarito | 25
 3 | Burgers and Fries Louise | 15
 3 | Captain Leela | 75
 3 | Crackers | 10
@@ -602,6 +604,7 @@
 2 | Alley Entertainment | 100
 2 | American Giggolo | 65
 2 | Andre the Giant 3000 | 15
+2 | Angry Drunk
 2 | Baby Songwriter | 85
 2 | Bakaneko Fighter Louise
 2 | Baseball Bobby | 15
@@ -657,6 +660,7 @@
 2 | Game Night Jeff
 2 | Gas Station Zeke | 5
 2 | Globe Racer Bill | 20
+2 | Glowstick Shots | 15
 2 | Goddess of Beauty | 60
 2 | Golf Caddy Bobby | 10
 2 | Golf Club Amy | 100
@@ -711,7 +715,6 @@
 2 | Positron Shooter Fry | 40
 2 | Principal Louise | 15
 2 | Professor of Emerald Laboratory | 100
-2 | Prom Beer Joe | 100
 2 | Prom Luanne | 70
 2 | Propane Sculpture | 20
 2 | Put Out The Fire | 5
@@ -752,6 +755,7 @@
 2 | The Gender Bender | 65
 2 | Tina Bike
 2 | Tina Tackle | 100
+2 | Top Shelf Carter | 10
 2 | Torch Bearer Hank | 100
 2 | Tuning Fork | 100
 2 | Two Butt Goat
@@ -776,7 +780,6 @@
 1 | Anally Defaced | 125
 1 | Ancient Cave Writing | 125
 1 | Anger Management Class | 125
-1 | Angry Drunk | 25
 1 | Appetizer Addict Brian | 125
 1 | Artist Roger | 60
 1 | Artsy Tina | 5
@@ -787,6 +790,7 @@
 1 | Belcher Date Night | 115
 1 | Bender's Electric Eel | 125
 1 | Benderbrau | 75
+1 | Beta Beer Chug | 5
 1 | Betsy | 125
 1 | Bitsy
 1 | Bobsled Hermes | 50
@@ -974,7 +978,6 @@
 1 | Turkey Handprint | 130
 1 | Upstream Chris
 1 | Vanderhill
-1 | Very Sloshed | 85
 1 | Violinist Peter | 40
 1 | Water Polo Steve | 5
 1 | Wedding Bill
@@ -1254,4 +1257,4 @@
 0 | Jewel Thief Malory | 5
 0 | Dodgeball Steve | 5
 0 | Bounty Hunter Roger | 5
-681100 | Mastery Stone
+719150 | Mastery Stone

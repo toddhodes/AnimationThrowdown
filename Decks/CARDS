@@ -36,6 +36,7 @@
    1 L ADD Luanne: 6**
    9 L Abelard: 6**
    1 L Absinthe: 6**
+   1 L Abstract Jeff: 1
    1 L Accordian Bill: 1
    8 L Action Delivery Force Hermes: 6**
    1 L Action Delivery Force Leela: 1
@@ -60,7 +61,7 @@
   10 L Amazing Deal Jacket: 6**
    1 L American Giggolo: 1
    1 L American Giggolo: 6**
-   9 L Amped Up: 1
+  10 L Amped Up: 1
    4 L Amped Up: 6**
    1 L Angry Bullock: 2*
    1 L Angry Drunk: 6**
@@ -122,6 +123,7 @@
    8 L Bag of Nickels: 6**
    9 L Baghead: 6**
    1 L Bahama Mama: 1
+   1 L Bahama Mama: 6**
    8 L Baked Evil Monkey: 6**
    8 L Ballet Meg: 6**
   18 L Balloon Fight: 6**
@@ -177,7 +179,7 @@
    1 L Best Friends: 2*
    5 L Best Friends: 6**
   10 L Best You Trophy: 6**
-   2 L Beta Beer Chug: 1
+   1 L Beta Beer Chug: 6**
    9 L Beta House: 6**
    1 L Betting it All: 1
    3 L Biathlon Meg: 1
@@ -189,6 +191,7 @@
    2 L Big Ape Fight: 6**
    6 L Big Ass Gun: 6**
    6 L Big Baby Pudding Snatcher: 6**
+   1 L Big Bad Brian: 1
    9 L Big Boy Karate: 6**
    7 L Big Mountain Fudge Cake: 6**
    9 L Bigfoot: 6**
@@ -323,6 +326,7 @@
    1 L Cadet Hill: 2*
    2 L Cafeteria Meg: 1
    1 L Candy Bar Addict Cyril: 1
+   1 L Candy Cane Gun: 1
    4 L Candy Cane Gun: 6**
    6 L Candy Thief Gorilla: 1
    5 L Candy Thief Gorilla: 6**
@@ -334,7 +338,7 @@
    3 L Capsuleer Barry: 1
   17 L Capsuleer Barry: 6**
    1 L Captain Bender: 1
-   3 L Captain Bender: 6**
+   4 L Captain Bender: 6**
    2 L Captain Feathers: 1
    1 L Captain Feathers: 6**
    3 L Captain Leela: 1
@@ -344,8 +348,8 @@
    1 L Cardboard Rowing Boats: 2*
    5 L Cardboard Rowing Boats: 6**
    3 L Cartel Klaus: 6**
-   5 L Carter: 6
-   6 L Carter: 6*
+   1 L Carter: 6
+  11 L Carter: 6*
   13 L Cartoon Rush Hour: 1
    5 L Cartoon Rush Hour: 6**
    1 L Cash Stacked Peter: 6**
@@ -554,6 +558,7 @@
    3 L Dr. Tate: 6**
    1 L Dr. Zoidberg: 1**
   19 L Dr. Zoidberg: 6**
+   1 L Dragon Statue: 1
    3 L Dragon Statue: 6**
    1 L Dream Guitar: 6**
    1 L Dreamland Band: 1
@@ -977,7 +982,7 @@
    2 L Killaton: 1
    2 L Killaton: 6**
    1 L King Steve: 1
-   2 L King Steve: 6**
+   3 L King Steve: 6**
    1 L Kitchen Knife Snot: 1
    1 L Kitchen Knife Snot: 2*
    4 L Kitchen Knife Snot: 6**
@@ -992,6 +997,7 @@
    1 L Kofta: 6**
    2 L Komodo Dragon: 1
    9 L Krieger Kleanse: 6**
+   1 L Krieger's Clone Brothers: 1
    7 L Krieger's Clone Brothers: 6**
    1 L Krieger's Drum Set: 6**
    1 L Krieger's Lab: 1
@@ -1042,6 +1048,9 @@
    1 L Lights Out Snot: 2*
    1 L Lightspeed Briefs: 1
    4 L Lightspeed Briefs: 6**
+   2 L Limited Edition: 1
+   1 L Limited Edition: 1**
+   4 L Limited Edition: 6**
    1 L Limo Bob: 1
   10 L Limo Bob: 6**
    9 L Limo Ride: 6**
@@ -1053,7 +1062,7 @@
    2 L Lip Art Gayle: 6**
    1 L Little King Trashmouth: 6*
    1 L Lobster Wedding: 1
-   1 L Loft Party: 1
+  17 L Loft Party: 1
    1 L Loft Party: 2*
    9 L Loft Party: 6**
   36 L Lois Griffin: 1
@@ -1098,7 +1107,7 @@
    4 L Martial Arts: 6**
    1 L Martian Calendar: 1
    8 L Martian Calendar: 6**
-   1 L Martini Stewie: 1
+   2 L Martini Stewie: 1
    2 L Martini Stewie: 6**
    2 L Mascot Car Steve: 6**
   12 L Masked Hero: 6**
@@ -1152,6 +1161,7 @@
    1 L Miniature B&B: 6**
   10 L Mint Julep: 6**
    3 L Miss Jacobson: 1
+   1 L Miss Merkin: 1
    7 L Miss Merkin: 6**
    5 L Miss XXXMas: 1
    5 L Miss XXXMas: 6**
@@ -1171,7 +1181,8 @@
    2 L Mocktrial Gene: 6**
    2 L Mom Safe Box: 1
    2 L Mom Safe Box: 6**
-   5 L Money Briefcase: 1
+   4 L Mom: 6
+   7 L Money Briefcase: 1
    2 L Money Briefcase: 6**
    1 L Money Counting Room: 1
    1 L Money Counting Room: 2*
@@ -1199,7 +1210,7 @@
    3 L Mountain Bike: 6**
    7 L Mountain Climber Peter: 6**
    1 L Mowing While Intoxicated: 6**
-   5 L Mr. Business: 1
+   6 L Mr. Business: 1
    4 L Mr. Deadly: 1
    4 L Mr. Deadly: 6**
    1 L Mr. Fischoeder: 1
@@ -1330,6 +1341,9 @@
    2 L Party Rogu: 1
    4 L Party Rogu: 6**
    9 L Party in the Beer Tank: 6**
+   2 L Passed Out Drunk: 1
+   7 L Passed Out Drunk: 6**
+   1 L Pathetic Villain: 1
    2 L Pathetic Villain: 6**
    1 L Pawtucket Opie: 1
    7 L Pawtucket Opie: 6**
@@ -1365,7 +1379,7 @@
   19 L PhD Peggy: 6**
    1 L Pharoah Pianist: 1
    4 L Pharoah Pianist: 6**
-  17 L Philip J. Fry: 1
+  18 L Philip J. Fry: 1
    2 L Philip J. Fry: 1**
   18 L Philip J. Fry: 6**
    2 L Phone Addict Pam: 1
@@ -1407,7 +1421,7 @@
    2 L Poker Winnings: 1
    9 L Poker Winnings: 6**
    2 L Pole Dance Jeff: 1
-   1 L Police Cars: 1
+   2 L Police Cars: 1
    3 L Police Cars: 6**
    1 L Pool Drinks: 6**
    1 L Pool Shark: 1
@@ -1726,7 +1740,7 @@
    3 L Special Guitar Bobby: 1
    5 L Spirit: 6**
    2 L Spitting Out Beer: 6**
-   6 L Spitz: 1
+   7 L Spitz: 1
    7 L Spitz: 6**
    9 L SportsBot 5000: 6**
   12 L Sportsfan Joe: 6**
@@ -1753,7 +1767,7 @@
    6 L Steve Smith: 1
   12 L Steve Smith: 6**
   21 L Stewie's Tricycle: 6**
-   4 L Stewie: 1
+   5 L Stewie: 1
    1 L Stewie: 1*
    1 L Stewie: 1**
   19 L Stewie: 6**
@@ -1820,6 +1834,7 @@
    1 L Tattoo Parlor: 1
    1 L Tattoo Parlor: 2*
    3 L Tattoo Parlor: 6**
+   1 L Tattoo Stan: 1
    2 L Tea Kettle Mountain: 1
    1 L Tea Kettle Mountain: 6**
    1 L Tear Jerker Island: 1
@@ -1835,7 +1850,8 @@
    9 L Telescope: 6**
    2 L Tennis Stewie: 1
    1 L Tennis Stewie: 6**
-   1 L Tentacle Bishop: 2*
+   2 L Tentacle Bishop: 1
+   1 L Tentacle Bishop: 6**
    1 L Tentacle Pope: 1
    1 L Tequila Roger: 1
    7 L Terrestrial Cycling: 6**
@@ -1860,6 +1876,7 @@
    9 L Theater: 6**
   16 L Theremin: 1
    5 L Theremin: 6**
+   2 L Thunder Cocktails: 1
    8 L Thunder Cocktails: 6**
    4 L Thundercougarfalconbird: 1
    1 L Thundercougarfalconbird: 6**
@@ -1883,6 +1900,8 @@
    9 L Tom Landry Middle School: 6**
    2 L Tooting Away: 1
    1 L Tooting Away: 6**
+   2 L Top Shelf Carter: 1
+   4 L Top Shelf Carter: 6**
    1 L Topped Off Wine: 2*
    1 L Tortoise Trio: 6**
    9 L Totally Normal Pants: 6**
@@ -1989,7 +2008,8 @@
    1 L Whiskey Bartender: 2*
   12 L Whiskey Bartender: 6**
    1 L Whiskey Cotton: 1
-   2 L White Talker Teddy: 6**
+   3 L White Talker Teddy: 6**
+   2 L Wicked Mom: 6**
    1 L Wild Brian: 2*
    1 L Wild Brian: 6**
    1 L Wild Francine: 1
@@ -2087,7 +2107,7 @@
    1 M Clone Fight: 5*
    1 M Cotton: 7**
    1 M Cuddles: 2*
-   1 M Cutie Patooties: 5*
+   1 M Cutie Patooties: 6*
    1 M Cyril Figgis: 7**
    1 M Dale: 7**
    1 M Die of Power: 3*
@@ -2139,7 +2159,7 @@
    1 M Lois: 7**
    1 M Louise: 7**
    1 M Luanne: 7**
-   1 M Malory Archer: 6**
+   1 M Malory Archer: 7**
    1 M Mayor West's Mansion: 4*
    1 M Meg: 7**
    1 M Mini Car Racing: 4*
@@ -2155,7 +2175,7 @@
    1 M Nerd Science Contest: 3*
    1 M Newspaper: 7
    1 M Nibbler on the Roof: 5*
-   1 M Noir Archer Car: 2*
+   1 M Noir Archer Car: 3*
    1 M Oscar's Painting: 4*
    1 M Pam Poovey: 7**
    1 M Peggy: 7**
