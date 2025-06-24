@@ -295,6 +295,7 @@
 5 | NRA Member
 5 | Naked Tug of War
 5 | Nanny Cam Dino
+5 | Never Have I Ever
 5 | Nun Peggy
 5 | Nun of Your Business
 5 | Nurse Tina
@@ -497,6 +498,7 @@
 4 | Game Machine Zoidberg | 5
 4 | Gamer Jeff | 5
 4 | Gayle the Scientist | 5
+4 | Golfing Lois | 5
 4 | Hank Hill, Running Back | 35
 4 | Interior Decorator | 10
 4 | Jetpack Kick Leela | 30
@@ -568,6 +570,7 @@
 3 | Gatsby Brian | 5
 3 | Horse Whisperer Joe | 5
 3 | Ira | 20
+3 | Itsy Bitsy Rogu | 20
 3 | Jellybean Phone Klaus | 30
 3 | Jungle Machete | 25
 3 | Jungle Spider | 10
@@ -585,6 +588,7 @@
 3 | QB Boomhauer | 75
 3 | Rapture Stan | 30
 3 | Remote Cars Circuit Bob | 20
+3 | Robot Devil's Hands
 3 | Salmon Fry | 25
 3 | Shark Killer | 75
 3 | Smith Family Car | 5
@@ -593,6 +597,7 @@
 3 | Swim Lesson | 10
 3 | Swiss Smarts Malory | 10
 3 | Theater Meg
+3 | Top Shelf Carter | 10
 3 | Torah Snot | 20
 3 | Video Game Joe | 15
 3 | Wine & Paint Quagmire | 75
@@ -616,8 +621,10 @@
 2 | Biker Confrontation | 25
 2 | Blueberry Picker | 100
 2 | Board Game Brian | 5
+2 | Bomb Detonator Zapp | 5
 2 | Bon Bon Art | 5
 2 | Booty Shaking Drunk | 100
+2 | Bourbon For Breakfast | 5
 2 | Bowling Team Cheryl | 35
 2 | Buff Fry
 2 | Captain Feathers
@@ -629,6 +636,7 @@
 2 | Chamber of Understanding | 100
 2 | Charts and Graphs | 20
 2 | Cheerleader Peggy | 80
+2 | Cheerleader Tammy | 15
 2 | Chef Cat Binge | 100
 2 | Chipmunk Mask Francine | 5
 2 | Chris Painting
@@ -665,7 +673,6 @@
 2 | Golf Caddy Bobby | 10
 2 | Golf Club Amy | 100
 2 | Golfer Amy
-2 | Golfing Lois | 65
 2 | Goth Bullock | 5
 2 | Grandmother Archer | 5
 2 | Greaser Stan | 95
@@ -680,6 +687,7 @@
 2 | I Like Beer | 20
 2 | I am Mona
 2 | Improvised Crossbow Pam | 5
+2 | Jewel Thief Malory | 80
 2 | Karate Stewie
 2 | Kawaii Klaus | 100
 2 | Keyboardist Gayle | 5
@@ -690,6 +698,7 @@
 2 | Kumite Fighter Cyril | 5
 2 | Laser Razor
 2 | Leela Balloon Art
+2 | Lifeguard Roger | 105
 2 | Louise Chatterteeth | 60
 2 | Marionette Chris | 100
 2 | Marionette Louise | 20
@@ -703,7 +712,6 @@
 2 | Mural Restorer | 100
 2 | Nacho Addict Bender | 100
 2 | Nasal Spray Peter | 100
-2 | Never Have I Ever | 100
 2 | New Outfit Klaus | 10
 2 | Opera Singer Leela | 60
 2 | Paddler Jeff
@@ -755,7 +763,6 @@
 2 | The Gender Bender | 65
 2 | Tina Bike
 2 | Tina Tackle | 100
-2 | Top Shelf Carter | 10
 2 | Torch Bearer Hank | 100
 2 | Tuning Fork | 100
 2 | Two Butt Goat
@@ -766,6 +773,7 @@
 2 | Wheels Steve | 100
 2 | Whiskey Cotton | 100
 2 | Whiskey Drunk Brian | 100
+2 | Wicked Mom | 5
 2 | Wild Francine | 100
 2 | Will of a Housewife | 10
 2 | Wrestler Peggy | 60
@@ -799,8 +807,8 @@
 1 | Boombox Teddy | 10
 1 | Bottlecap Two | 15
 1 | Bouldering Bob | 125
-1 | Bourbon For Breakfast | 30
 1 | Buff Cyril
+1 | Burger Wars
 1 | Butcher Knife Jeff
 1 | Butt Kicking Peggy
 1 | Butt Toucher Tina | 5
@@ -809,6 +817,7 @@
 1 | Cake Knife | 20
 1 | Cash Stacked Peter
 1 | Cat Dragon Gayle
+1 | Cat Stan | 30
 1 | Caveman Chris
 1 | Cello Joe | 50
 1 | Chalkboard Malory | 10
@@ -819,7 +828,7 @@
 1 | Cough Syrup Drunk | 50
 1 | Cowpoke | 125
 1 | Crayon Drawing | 125
-1 | Cultist Mort | 105
+1 | Cultist Mort | 125
 1 | Danger Zone | 130
 1 | Debate Club Tina
 1 | Derringer Francine | 60
@@ -836,7 +845,9 @@
 1 | Evil Scientist Cheryl | 10
 1 | Fake Daughter Tina | 90
 1 | Farnsworth on Skiis | 125
+1 | Fashion Samurai Zeke | 70
 1 | Flag Defender | 125
+1 | Fowl Fighter Linda | 60
 1 | Francine Bird Duet | 30
 1 | Freezerdome Linda | 35
 1 | Frykowski | 85
@@ -847,10 +858,11 @@
 1 | Girls Being Girls | 55
 1 | Glass of Wine
 1 | Griffin and Quagmire | 5
-1 | Groupie Francine | 35
+1 | Groupie Francine | 65
 1 | Guenter | 30
 1 | Gut Punch Zapp | 125
 1 | Half-Horse Peter | 55
+1 | Hazmat Leela
 1 | Heather
 1 | Hiking Jeff | 10
 1 | Hipster Donald | 65
@@ -925,13 +937,14 @@
 1 | Redneck Ray | 15
 1 | Reenactment Uniform
 1 | Rich Hayley | 35
-1 | Rock Star Zeke
+1 | Rock Star Zeke | 30
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
 1 | Running Back Hank | 125
 1 | Salmon Zapp
 1 | Scooty-Puff Jr | 10
 1 | Scuba Krieger
+1 | Shelter Leader Bill
 1 | Sherlock Zoidberg | 60
 1 | Shiny Pebbles | 125
 1 | Shut Up and Take My Money | 85
@@ -1015,7 +1028,6 @@
 0 | Management Perks | 130
 0 | Male Leela | 130
 0 | Luanne's 21st Birthday | 130
-0 | Lifeguard Roger | 130
 0 | Krav Maga Dale | 130
 0 | Internet Porn | 130
 0 | Hot Tubbin Bobby | 130
@@ -1039,6 +1051,7 @@
 0 | Jazz hands | 125
 0 | Too High to Drive | 120
 0 | Powderpuff | 120
+0 | My Little Tammy | 120
 0 | Electric Love | 120
 0 | Dufflebag Cotton | 120
 0 | Spray Paint Chris | 115
@@ -1054,6 +1067,7 @@
 0 | Heavenly Hank | 105
 0 | Fat Suit Bob | 105
 0 | Bible Study Stan | 105
+0 | Tammy Turkey | 100
 0 | Francine Roger | 100
 0 | Bondage Klaus | 100
 0 | Rambo Lois | 95
@@ -1087,10 +1101,8 @@
 0 | Zinc Saucier | 70
 0 | Topped Off Wine | 70
 0 | Senora Hill | 70
-0 | Itsy Bitsy Rogu | 70
 0 | I Get What I Want | 70
 0 | Hammer Olympian | 70
-0 | Fashion Samurai Zeke | 70
 0 | Troll Doll Collection | 65
 0 | Tractor Boy | 65
 0 | Top of the Pecking Order | 65
@@ -1104,9 +1116,9 @@
 0 | Oktoberfest Amy | 60
 0 | Line Dancer Amy | 60
 0 | Gift Pile Leela | 60
-0 | Fowl Fighter Linda | 60
 0 | Finger Cutter | 60
 0 | Cyclist Peggy | 60
+0 | Cheerleader Lois | 60
 0 | Board Game Farnsworth | 60
 0 | Baby Bender | 60
 0 | Summer Lovin | 55
@@ -1115,7 +1127,6 @@
 0 | Drum Solo Quagmire | 55
 0 | Steve Crossing the Alps | 50
 0 | Soda Bar Drunk | 50
-0 | Robot Devil's Hands | 50
 0 | Professor Rogu | 50
 0 | Jericho | 50
 0 | Disco Peggy | 50
@@ -1173,6 +1184,7 @@
 0 | Old Timey Hermes | 30
 0 | Mustache Maker | 30
 0 | Mascot Race | 30
+0 | Margarita Mix Tammy | 30
 0 | Karate Francine | 30
 0 | Junkie Hank | 30
 0 | Inappropriate Erection | 30
@@ -1193,9 +1205,7 @@
 0 | Cinderella Lois | 30
 0 | Christian Rock | 30
 0 | Chest Harpoon | 30
-0 | Cat Stan | 30
 0 | Bunny Brian | 30
-0 | Bomb Detonator Zapp | 30
 0 | Bob in the Wall | 30
 0 | Beer Decision Boomhauer | 30
 0 | Becky | 30
@@ -1221,6 +1231,7 @@
 0 | Breakfast TV Workout | 20
 0 | Airpod Mort | 20
 0 | Paintball Bill | 15
+0 | King Steve | 15
 0 | DJ Rogu | 15
 0 | Accordian Bill | 15
 0 | Space Pistol Bender | 10
@@ -1234,6 +1245,7 @@
 0 | Probot Artist Peggy | 10
 0 | Pirate Car Peter | 10
 0 | Nude Painting Bullock | 10
+0 | Mustache Gun | 10
 0 | Moolisa | 10
 0 | Money Hayley | 10
 0 | Model Builder Roger | 10
@@ -1244,9 +1256,9 @@
 0 | Guitar Practice Peggy | 10
 0 | Grill Cook | 10
 0 | Espresso Tina | 10
+0 | Erotic Friend Fiction Tammy | 10
 0 | Deathrolling | 10
 0 | Cuddly Little Pet Slinky | 10
-0 | Cheerleader Lois | 10
 0 | Category 5 Sucker | 10
 0 | Can't Get Clean | 10
 0 | Butt Slapper Bobby | 10
@@ -1254,7 +1266,6 @@
 0 | Batter Up Bobby | 10
 0 | Masquerade Joe | 5
 0 | Just Mow a Lawn | 5
-0 | Jewel Thief Malory | 5
 0 | Dodgeball Steve | 5
 0 | Bounty Hunter Roger | 5
-719150 | Mastery Stone
+689500 | Mastery Stone
