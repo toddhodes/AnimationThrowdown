@@ -162,6 +162,7 @@
 5 | Flamethrower Stewie
 5 | Flute Solo Jeff
 5 | Food Addict Leela
+5 | Football Coach Roger
 5 | Fort Kickass
 5 | Fowl Fighter Teddy
 5 | Free Weed Hayley
@@ -229,6 +230,7 @@
 5 | Jealous Bobby
 5 | Jentleman Jessie's
 5 | Jermaine
+5 | Jewel Thief Malory | 5
 5 | Jose Servo
 5 | Jouster Peggy
 5 | Joy of Painting
@@ -382,6 +384,7 @@
 5 | Sewer Surfer Bender
 5 | Sewer Surfer Fry
 5 | Sexpun T'Come
+5 | Shaving Roosters
 5 | Ship Captain Zapp
 5 | Shipping King Zoidberg
 5 | Shop Teacher Hank
@@ -488,6 +491,7 @@
 4 | Captain Bender
 4 | Chainsaw Hank | 5
 4 | Country Club Steve | 40
+4 | Crackers | 5
 4 | Dark Mistress Malory | 5
 4 | Dictator Roger | 40
 4 | Dog Lois | 5
@@ -530,7 +534,6 @@
 4 | Self Defense Spray
 4 | Self Destruct | 35
 4 | Shaken Not Stirred | 35
-4 | Shaving Roosters | 40
 4 | Shop Class Bobby | 40
 4 | Slap Fight Teddy
 4 | Sled Armor Tina | 5
@@ -564,7 +567,6 @@
 3 | Falconer Hayley | 10
 3 | Fashion Fight | 5
 3 | Flying Machine Stewie | 10
-3 | Football Coach Roger | 20
 3 | Fry's Macaroni Art | 25
 3 | Gamer Stan | 5
 3 | Gatsby Brian | 5
@@ -582,6 +584,7 @@
 3 | Nun Linda | 5
 3 | Painter Zoidberg | 5
 3 | Paper Mache Pear | 20
+3 | Pig Calendar Luanne | 5
 3 | Plastic Bat Hank | 25
 3 | Polling Peggy | 25
 3 | Privacy Singing Amy
@@ -591,10 +594,11 @@
 3 | Robot Devil's Hands
 3 | Salmon Fry | 25
 3 | Shark Killer | 75
+3 | Slip 'n Slide Bob | 75
 3 | Smith Family Car | 5
 3 | Study Session | 40
 3 | Stupid Songs Carter | 15
-3 | Swim Lesson | 10
+3 | Swim Lesson | 20
 3 | Swiss Smarts Malory | 10
 3 | Theater Meg
 3 | Top Shelf Carter | 10
@@ -626,6 +630,7 @@
 2 | Booty Shaking Drunk | 100
 2 | Bourbon For Breakfast | 5
 2 | Bowling Team Cheryl | 35
+2 | Buff Cyril | 5
 2 | Buff Fry
 2 | Captain Feathers
 2 | Castanet Zoidberg | 70
@@ -638,13 +643,11 @@
 2 | Cheerleader Peggy | 80
 2 | Cheerleader Tammy | 15
 2 | Chef Cat Binge | 100
-2 | Chipmunk Mask Francine | 5
 2 | Chris Painting
 2 | Clarinet Stan | 30
 2 | Claw Machine | 20
 2 | Clothes Made of Cash | 60
 2 | Cloud Painter | 100
-2 | Colonel Fluffers | 70
 2 | Corporate Training | 35
 2 | Counting Klaus | 50
 2 | Cowboy Kif | 15
@@ -687,7 +690,6 @@
 2 | I Like Beer | 20
 2 | I am Mona
 2 | Improvised Crossbow Pam | 5
-2 | Jewel Thief Malory | 80
 2 | Karate Stewie
 2 | Kawaii Klaus | 100
 2 | Keyboardist Gayle | 5
@@ -719,15 +721,16 @@
 2 | Pan Flute Stewie | 70
 2 | Party Board | 90
 2 | Pathetic Villain
-2 | Pig Calendar Luanne | 15
+2 | Pelican High Five | 5
 2 | Positron Shooter Fry | 40
 2 | Principal Louise | 15
 2 | Professor of Emerald Laboratory | 100
 2 | Prom Luanne | 70
-2 | Propane Sculpture | 20
+2 | Propane Sculpture | 60
 2 | Put Out The Fire | 5
 2 | Q.T. McWhiskers | 80
 2 | Quagmire's Cat James | 90
+2 | Quirky Turkey Zeke | 5
 2 | Ravenous Porcelain Babies
 2 | Ray-Bot | 10
 2 | Rich Leela | 100
@@ -744,7 +747,6 @@
 2 | Shower Curtain Gayle | 10
 2 | Sleighing Tonight
 2 | Slick'd Steve | 100
-2 | Slip 'n Slide Bob | 100
 2 | Space Cadet Chris | 95
 2 | Space Stan | 60
 2 | Space Steve | 100
@@ -782,6 +784,7 @@
 1 | 3rd Grade Hayley | 10
 1 | ABC Quagmire | 45
 1 | Abstract Jeff | 20
+1 | Ae-Rogu-bics
 1 | Air Glider Peter | 30
 1 | Alcohol Bath | 105
 1 | Amy's Talking Tattoo | 125
@@ -806,8 +809,6 @@
 1 | Book Signing Stewie | 5
 1 | Boombox Teddy | 10
 1 | Bottlecap Two | 15
-1 | Bouldering Bob | 125
-1 | Buff Cyril
 1 | Burger Wars
 1 | Butcher Knife Jeff
 1 | Butt Kicking Peggy
@@ -844,7 +845,6 @@
 1 | Evil Cat Stan | 5
 1 | Evil Scientist Cheryl | 10
 1 | Fake Daughter Tina | 90
-1 | Farnsworth on Skiis | 125
 1 | Fashion Samurai Zeke | 70
 1 | Flag Defender | 125
 1 | Fowl Fighter Linda | 60
@@ -871,6 +871,7 @@
 1 | Honey Mustache Stewie | 5
 1 | Horseback Cotton | 20
 1 | Human Target Ray
+1 | Iguana Bender
 1 | Intern Doctor Meg | 30
 1 | JJu Rodeo Zeke
 1 | Jet Ski Ride | 15
@@ -953,7 +954,7 @@
 1 | Sketch Artist Dale | 25
 1 | Sketch Artist Peter | 5
 1 | Sled Armor Gene | 45
-1 | Sled Pull Bob
+1 | Sled Pull Bob | 10
 1 | Sledgehammer Dale | 125
 1 | Sleepover Contract | 55
 1 | Smoke Bomb! | 130
@@ -1081,7 +1082,6 @@
 0 | High Noon Fry | 90
 0 | Grand Theft Hank | 90
 0 | Fancy Gayle | 90
-0 | Angry Exercise | 90
 0 | Top of the Morning | 85
 0 | Shower Drunk Hayley | 85
 0 | Martini Peggy | 85
@@ -1103,6 +1103,7 @@
 0 | Senora Hill | 70
 0 | I Get What I Want | 70
 0 | Hammer Olympian | 70
+0 | Fighting Pose Zapp | 70
 0 | Troll Doll Collection | 65
 0 | Tractor Boy | 65
 0 | Top of the Pecking Order | 65
@@ -1217,6 +1218,7 @@
 0 | King Roger | 25
 0 | Cowboy Kahn | 25
 0 | Bucking Buggalo Leela | 25
+0 | Breakfast TV Workout | 25
 0 | Belcher Racing Gene | 25
 0 | Bayonet Cotton | 25
 0 | Wrestler Amy | 20
@@ -1228,11 +1230,11 @@
 0 | Dancing Mort | 20
 0 | Castle Captain Mom | 20
 0 | Budding Country Star | 20
-0 | Breakfast TV Workout | 20
 0 | Airpod Mort | 20
 0 | Paintball Bill | 15
 0 | King Steve | 15
 0 | DJ Rogu | 15
+0 | Bucking Buggalo Hermes | 15
 0 | Accordian Bill | 15
 0 | Space Pistol Bender | 10
 0 | Sketchy Bus Driver | 10
@@ -1268,4 +1270,4 @@
 0 | Just Mow a Lawn | 5
 0 | Dodgeball Steve | 5
 0 | Bounty Hunter Roger | 5
-689500 | Mastery Stone
+718300 | Mastery Stone
