@@ -18,3 +18,6 @@ do
     --data 'password='$password_hash'&auto_battle='$auto_battle'&target_user_id=0&mission_id=180' \
      | jq . | tee o-adventure_battle | jq ".battle_data.results[] | .opponent.name,.winner" | paste - - | wc -l
 done
+
+# combos island &mission_id=9123'
+
