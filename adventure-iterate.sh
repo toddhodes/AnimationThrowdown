@@ -3,7 +3,7 @@
 #
 
 case "$1" in
-"") count=1 ;;
+"") echo "usage: $0 <n>, each n = 3x 30 refills" ; exit ;;
 *) count=$1 ;;
 esac
 
@@ -16,7 +16,7 @@ do
     echo "buy"
     ./adventure-buy-refills.sh
     echo "fight 33/34"
-    ./adventure-fight5.sh 
+    ./adventure-fight5.sh
   done
   #echo "buy coin packs"
   #./buy-50kcoin-pack.sh 3

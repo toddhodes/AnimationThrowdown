@@ -30,6 +30,7 @@
 5 | Baseball Chris
 5 | Basketball Joe
 5 | Bedtime Doll Hayley
+5 | Beefsquatch
 5 | Beer Jeff
 5 | Beer Snot
 5 | Bender's Clowns
@@ -384,6 +385,7 @@
 5 | Sewer Surfer Bender
 5 | Sewer Surfer Fry
 5 | Sexpun T'Come
+5 | Shaken Not Stirred
 5 | Shaving Roosters
 5 | Ship Captain Zapp
 5 | Shipping King Zoidberg
@@ -490,10 +492,13 @@
 4 | Buckarito | 25
 4 | Captain Bender
 4 | Chainsaw Hank | 5
+4 | Chipmunk Mask Francine | 5
+4 | Colonel Fluffers | 10
 4 | Country Club Steve | 40
 4 | Crackers | 5
 4 | Dark Mistress Malory | 5
 4 | Dictator Roger | 40
+4 | Diner Shift Peter | 5
 4 | Dog Lois | 5
 4 | Doghouse Bobby | 40
 4 | Dr. C | 5
@@ -503,6 +508,7 @@
 4 | Gamer Jeff | 5
 4 | Gayle the Scientist | 5
 4 | Golfing Lois | 5
+4 | Grill Cook | 30
 4 | Hank Hill, Running Back | 35
 4 | Interior Decorator | 10
 4 | Jetpack Kick Leela | 30
@@ -533,7 +539,6 @@
 4 | Saxophone Quagmire | 20
 4 | Self Defense Spray
 4 | Self Destruct | 35
-4 | Shaken Not Stirred | 35
 4 | Shop Class Bobby | 40
 4 | Slap Fight Teddy
 4 | Sled Armor Tina | 5
@@ -553,15 +558,15 @@
 3 | BABOU!!!! | 75
 3 | Bad Boy Kif
 3 | Bahama Mama | 25
+3 | Bed and Breakfast | 10
 3 | Beer Helmet | 40
+3 | Bitsy | 10
 3 | Bouldering Bob | 75
 3 | Boxing Hank | 5
 3 | Boy Crazy
 3 | Burgers and Fries Louise | 15
 3 | Captain Leela | 75
-3 | Chipmunk Mask Francine | 5
-3 | Colonel Fluffers | 45
-3 | Crime Addict Joe | 25
+3 | Crime Addict Joe | 35
 3 | Date Wine Zoidberg | 75
 3 | Drink Point-O Brian
 3 | Drugged Cotton
@@ -587,6 +592,7 @@
 3 | Nun Linda | 5
 3 | Painter Zoidberg | 5
 3 | Paper Mache Pear | 20
+3 | Pelican High Five | 10
 3 | Pig Calendar Luanne | 5
 3 | Plastic Bat Hank | 25
 3 | Polling Peggy | 25
@@ -628,8 +634,9 @@
 2 | Biker Confrontation | 25
 2 | Blueberry Picker | 100
 2 | Board Game Brian | 5
+2 | Bob Archer | 5
 2 | Bomb Detonator Zapp | 5
-2 | Bon Bon Art | 5
+2 | Bon Bon Art | 100
 2 | Booty Shaking Drunk | 100
 2 | Bourbon For Breakfast | 5
 2 | Bowling Team Cheryl | 35
@@ -657,6 +664,7 @@
 2 | Crazy Carter | 5
 2 | Credit Card Joe
 2 | Dancing Peggy | 10
+2 | Delivery Boy | 100
 2 | Diamond Ring Lois | 100
 2 | Disco Boomhauer
 2 | Disco Skating Cyril
@@ -671,6 +679,7 @@
 2 | Family Fracas | 10
 2 | Finch Hermes | 100
 2 | Flamethrower Zeke | 10
+2 | Food Straw Farnsworth | 10
 2 | Game Night Jeff
 2 | Gas Station Zeke | 5
 2 | Globe Racer Bill | 20
@@ -724,7 +733,6 @@
 2 | Pan Flute Stewie | 70
 2 | Party Board | 90
 2 | Pathetic Villain
-2 | Pelican High Five | 5
 2 | Positron Shooter Fry | 40
 2 | Principal Louise | 15
 2 | Professor of Emerald Laboratory | 100
@@ -758,6 +766,7 @@
 2 | Stuffington Roger | 100
 2 | Survival Crafter Hank
 2 | Swole Amy | 5
+2 | Take Your Cat To Work | 5
 2 | Tattooed Fat Guy | 50
 2 | Teagle | 100
 2 | Teen LaQueefa
@@ -771,6 +780,7 @@
 2 | Torch Bearer Hank | 100
 2 | Tuning Fork | 100
 2 | Two Butt Goat
+2 | Upstream Chris | 5
 2 | Vengeance Quagmire | 40
 2 | Victory Dance | 40
 2 | Walkman Boomhauer
@@ -806,12 +816,13 @@
 1 | Benderbrau | 75
 1 | Beta Beer Chug | 5
 1 | Betsy | 125
-1 | Bitsy
 1 | Bobsled Hermes | 50
+1 | Bobsterfest
 1 | Body Paint Date | 125
 1 | Book Signing Stewie | 5
 1 | Boombox Teddy | 10
 1 | Bottlecap Two | 15
+1 | Brian's Hot Date | 60
 1 | Burger Wars
 1 | Butcher Knife Jeff
 1 | Butt Kicking Peggy
@@ -837,6 +848,7 @@
 1 | Debate Club Tina
 1 | Derringer Francine | 60
 1 | Dog Bone Stan | 95
+1 | Dog Costume Bullock
 1 | Dog Meg
 1 | Dojo Cleveland | 90
 1 | Drunk Jeff | 60
@@ -969,6 +981,7 @@
 1 | Space Queen | 125
 1 | Space Walk | 60
 1 | Spacey Cheryl
+1 | Spaghetti Meg
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 125
 1 | Spray and Pray | 10
@@ -980,8 +993,10 @@
 1 | Sword Fighter Francine | 5
 1 | Talent Show Peter
 1 | Taxidermy Artist | 5
+1 | Tennessee | 5
 1 | Tennis Francine | 15
 1 | Tennis Stewie | 5
+1 | The Child Molestor
 1 | The Environmentalist | 130
 1 | The Power of Science | 20
 1 | Tina's Distraction
@@ -993,7 +1008,6 @@
 1 | Treasure Hunter Peter | 15
 1 | Trippy Farnsworth | 5
 1 | Turkey Handprint | 130
-1 | Upstream Chris
 1 | Vanderhill
 1 | Violinist Peter | 40
 1 | Water Polo Steve | 5
@@ -1042,7 +1056,6 @@
 0 | Elevator Art | 130
 0 | Douchebag Chris | 130
 0 | Delivery Marmoset | 130
-0 | Delivery Boy | 130
 0 | DJ Klaus | 130
 0 | Cubert Farnsworth | 130
 0 | Butt Closet | 130
@@ -1050,7 +1063,6 @@
 0 | Bird Brain Barry | 130
 0 | Big Bad Brian | 130
 0 | Beer Funnel Peter | 130
-0 | Beefsquatch | 130
 0 | Armadillo Boomhauer | 130
 0 | Angry Exercise | 130
 0 | Jazz hands | 125
@@ -1100,9 +1112,9 @@
 0 | Family Tree Steve | 80
 0 | Boy Tina | 80
 0 | Rich Dress Leela | 75
+0 | Number 1 Customer | 75
 0 | Malory and Duchess | 75
 0 | Cat Dragon | 75
-0 | Zinc Saucier | 70
 0 | Topped Off Wine | 70
 0 | Senora Hill | 70
 0 | I Get What I Want | 70
@@ -1169,8 +1181,6 @@
 0 | The Mortian | 30
 0 | The Linda Mermaid | 30
 0 | Tentacle Pope | 30
-0 | Teddy's Pigeon | 30
-0 | Take Your Cat To Work | 30
 0 | Stevie Wonderbra | 30
 0 | Stan's Grill | 30
 0 | Squirrel Suit Hayley | 30
@@ -1261,7 +1271,6 @@
 0 | Hurdles Bobby | 10
 0 | Gun Club President | 10
 0 | Guitar Practice Peggy | 10
-0 | Grill Cook | 10
 0 | Espresso Tina | 10
 0 | Erotic Friend Fiction Tammy | 10
 0 | Deathrolling | 10
@@ -1271,9 +1280,8 @@
 0 | Butt Slapper Bobby | 10
 0 | Beer Decision Bill | 10
 0 | Batter Up Bobby | 10
-0 | Tennessee | 5
 0 | Masquerade Joe | 5
 0 | Just Mow a Lawn | 5
 0 | Dodgeball Steve | 5
 0 | Bounty Hunter Roger | 5
-718300 | Mastery Stone
+717050 | Mastery Stone
