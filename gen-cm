@@ -3,7 +3,7 @@
 #
 
 for i in `cat ids-with-cm`
-do   
+do
 
   ## 15001-3
 

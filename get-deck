@@ -24,7 +24,8 @@ cat /tmp/user.json | jq '.user_units[] | {id: .unit_id, level: .level, mastery: 
 echo "wrote $out"
 wc -l $out
 
-cat /tmp/user.json | jq '.user_combo_mastery[] | {id: .id, level: .level}' | paste -d " " - - - - \
-   | awk '{ print $3, $5 }' | tr -d \" | sort | sed 's/, /-/g' > ids-with-cm
+cat /tmp/user.json | jq -r '.user_combo_mastery | to_entries[] | "\(.key)-\(.value.level)"' | sort \
+   > ids-with-cm
+
 echo "wrote ids-with-cm"
 wc -l ids-with-cm
