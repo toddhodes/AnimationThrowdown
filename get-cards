@@ -11,10 +11,15 @@ t=cards-w-id-and-rarity
 user_id=`grep user_id ~/.at_creds | cut -d= -f2`
 password_hash=`grep password_hash ~/.at_creds | cut -d= -f2`
 
-curl -s 'https://cb-live.synapse-games.com/api.php?message=init&user_id='$user_id --data 'password='$password_hash > /tmp/user.json
-echo "retrieved user.json"
+# card_data[] was removed from the init response; it now lives at a CDN URL
+# returned by getStaticFiles
+card_data_url=`curl -s 'https://cb-live.synapsegames.com/api.php?message=getStaticFiles&user_id='$user_id \
+    --data 'password='$password_hash \
+    | jq -r '.static_files.card_data'`
+echo "card data url: $card_data_url"
 
-cat /tmp/user.json | jq -r '.card_data[] | .id,.rarity,.name' | paste -d " " - - - \
+# CDN file is a dict keyed by card id (no auth needed)
+curl -s "$card_data_url" | jq -r '.[] | .id,.rarity,.name' | paste -d " " - - - \
     | cut -d" " -f1,2,3- | sed 's/ $//' | sort | uniq > $t
 
 echo "wrote $t"

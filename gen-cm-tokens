@@ -2,13 +2,26 @@
 #
 #
 
-jq '.user_items | to_entries[] | (.value.number,.value.name,.value.desc)' /tmp/user.json \
-   | paste - - - \
-   | grep Mastery \
-   | sed 's,\\",SSS,g' \
-   | cut -d\" -f2,4 \
-   | tr \" "\t" \
-   | sed 's,SSS,",g' \
-   | sed $'s/\t/ | /' \
-   | sed 's/ $//'
+# user_items no longer carries name/desc; combo mastery token ids follow the
+# pattern: item_id = '2' + combo_id  (e.g. token 2015006 -> combo 15006)
+# derive the combo name from cards-w-id-and-rarity
+jq -r '.user_items | to_entries[] |
+  select((.value.id | tostring) | test("^2[0-9]{6}$")) |
+  "\(.value.id) \(.value.number)"' /tmp/user.json \
+| while IFS=' ' read -r item_id quantity; do
+    combo_id=$((10#${item_id:1}))
+    line=$(grep "^$combo_id " cards-w-id-and-rarity | head -1)
+    if [ -n "$line" ]; then
+        name="${line#* }"   # strip "id "
+        name="${name#* }"   # strip "rarity "
+        echo "$quantity | $name"
+    fi
+done
+
+# mastery stones: fixed item id 200008
+jq -r '
+  .user_items["200008"] |
+  select(. != null) |
+  "\(.number) | Mastery Stone"
+' /tmp/user.json
 

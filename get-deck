@@ -15,7 +15,7 @@ password_hash=`grep password_hash ~/.at_creds | cut -d= -f2`
 
 out=units-w-levels
 
-curl -s 'https://cb-live.synapse-games.com/api.php?message=init&user_id='$user_id --data 'password='$password_hash > /tmp/user.json
+curl -s 'https://cb-live.synapsegames.com/api.php?message=init&user_id='$user_id --data 'password='$password_hash > /tmp/user.json
 echo "retrieved user.json"
 
 # there is no mastery here anymore, will be null -- but, ignore that, we don't use it
