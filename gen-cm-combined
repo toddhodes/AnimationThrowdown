@@ -23,7 +23,7 @@ join -t '|' -o 2.2,2.1 -v 2 -1 2 -2 2 /tmp/sorted_cml /tmp/sorted_cmt \
    | sort -t'|' -k3 -nr \
 
 ## and finally we get stones
-grep --colour=never 'Mastery Stone' Combos/ComboMasteryTokens
+grep --colour=never 'Mastery Stone' Combos/ComboMasteryTokens || true
 
 
 

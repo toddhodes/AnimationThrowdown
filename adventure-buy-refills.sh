@@ -8,6 +8,6 @@ case "$1" in
 esac
 
 echo -n "+10 energy remaining: " 
-curl -s 'https://cb-live.synapse-games.com/api.php?message=useItem&user_id='$user_id --data \
+curl -s 'https://cb-live.synapsegames.com/api.php?message=useItem&user_id='$user_id --data \
 	'password='$password_hash'&quantity='$quantity'&item_id=1003' \
     | jq . | tee o-buy-avd-refills | jq .user_items.\"1003\".number

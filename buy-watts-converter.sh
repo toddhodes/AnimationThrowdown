@@ -16,7 +16,7 @@ fi
 
 for i in `seq 1 $count`
 do
-  curl -s 'https://cb-live.synapse-games.com/api.php?message=buyStoreItem&user_id='$user_id \
+  curl -s 'https://cb-live.synapsegames.com/api.php?message=buyStoreItem&user_id='$user_id \
     --data 'password='$password_hash'&item_id=82&quantity=1' | jq . | tee o-watts | jq .new_units[].unit_id
 
   if [ `cat o-watts | jq .result` == "false" ] 

@@ -16,7 +16,7 @@ fi
 
 for i in `seq 1 $count`
 do
-  curl -s 'https://cb-live.synapse-games.com/api.php?message=useItem&user_id='$user_id \
+  curl -s 'https://cb-live.synapsegames.com/api.php?message=useItem&user_id='$user_id \
     --data 'password='$password_hash'&cost_type=2&item_id=200009&quantity=1' | jq . | tee o-epicstone | jq .new_units[].unit_id
 
   if [ `cat o-epicstone | jq .result` == "false" ] 

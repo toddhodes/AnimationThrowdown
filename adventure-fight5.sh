@@ -14,7 +14,7 @@ esac
 
 for i in `seq 1 $count`
 do
-  curl -s 'https://cb-live.synapse-games.com/api.php?message=startMission&user_id='$user_id \
+  curl -s 'https://cb-live.synapsegames.com/api.php?message=startMission&user_id='$user_id \
     --data 'password='$password_hash'&auto_battle='$auto_battle'&target_user_id=0&mission_id=180' \
      | jq . | tee o-adventure_battle | jq ".battle_data.results[] | .opponent.name,.winner" | paste - - | wc -l
 done
