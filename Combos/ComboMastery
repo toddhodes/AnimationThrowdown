@@ -90,6 +90,7 @@
 5 | Cat Fight Hayley
 5 | Ceramics Gene
 5 | Cham-Pag-En Zapp
+5 | Chamber of Understanding
 5 | Champagne Toast Fry
 5 | Champagne Toast Leela
 5 | Chef Cat Munchies
@@ -106,6 +107,7 @@
 5 | Cigarette Addicts
 5 | Class Spanker
 5 | Claw-Plach Fry
+5 | Cloud Painter
 5 | Clumsy Claws Zoidberg
 5 | Coach Farnsworth
 5 | Cock Fight Steve
@@ -665,7 +667,6 @@
 3 | Burgers and Fries Louise | 15
 3 | Calculon's Pride | 30
 3 | Caricature Art Seamus
-3 | Chamber of Understanding | 40
 3 | Chef Cat Binge | 75
 3 | Comms Officer Kif
 3 | Crazy Carter | 10
@@ -762,7 +763,6 @@
 2 | Clarinet Stan | 30
 2 | Claw Machine | 20
 2 | Clothes Made of Cash | 70
-2 | Cloud Painter | 100
 2 | Coffee Lover Mort
 2 | Corporate Training | 35
 2 | Counting Klaus | 50
@@ -779,6 +779,7 @@
 2 | Dummy Fight | 20
 2 | Elegant Dinner Cheryl | 25
 2 | Elf Fight Francine | 100
+2 | Erotic Friend Fiction Tammy | 15
 2 | Family Fracas | 10
 2 | Finch Hermes | 100
 2 | Fine Dining Barry | 5
@@ -955,7 +956,7 @@
 1 | Cat Stan | 30
 1 | Caveman Chris
 1 | Chalkboard Malory | 10
-1 | Chauffeur Mort | 15
+1 | Chauffeur Mort | 125
 1 | Chris' Pimple
 1 | Chris's Favorite Chicken | 125
 1 | Congo Jack | 5
@@ -975,7 +976,6 @@
 1 | Easter Bunny Peter | 65
 1 | Elephant Seal Kif | 45
 1 | Empty Bowl Painting | 5
-1 | Erotic Friend Fiction Tammy | 40
 1 | Essay Jeff | 10
 1 | Evil Cat Stan | 5
 1 | Evil Scientist Cheryl | 10
@@ -1199,6 +1199,7 @@
 0 | Rogutilda | 125
 0 | Jazz hands | 125
 0 | Diplomatic Immunity | 125
+0 | Dance Lesson | 125
 0 | Cat Dragon | 125
 0 | Too High to Drive | 120
 0 | Powderpuff | 120
@@ -1452,4 +1453,4 @@
 0 | Masquerade Joe | 5
 0 | Just Mow a Lawn | 5
 0 | Bounty Hunter Roger | 5
-1043250 | Mastery Stone
+960850 | Mastery Stone
