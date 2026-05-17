@@ -133,6 +133,7 @@
 5 | Cyclist Jimmy Jr.
 5 | DJ Buttercup
 5 | DJ Rogu
+5 | Dance Lesson
 5 | Dance of Peace
 5 | Dancing Cans
 5 | Dark Mistress Malory
@@ -569,6 +570,7 @@
 5 | Zinc Saucier
 5 | Zombie Jimmy Jr.
 4 | Andre the Giant 3000 | 10
+4 | Anger Management Class | 40
 4 | Art Student
 4 | Artsy Steve | 15
 4 | Bahama Mama | 10
@@ -583,6 +585,7 @@
 4 | Charts and Graphs | 5
 4 | Chipmunk Mask Francine | 5
 4 | Colonel Fluffers | 10
+4 | Comms Officer Kif | 25
 4 | Crackers | 35
 4 | Crime Addict Joe
 4 | Crouching Tiger Hidden West | 25
@@ -625,6 +628,7 @@
 4 | Quirky Turkey Zeke | 10
 4 | Record Holder Stan | 10
 4 | Reflection
+4 | Rock Star Zeke | 10
 4 | S and M Lois | 5
 4 | Sandwitch | 15
 4 | Saxophone Quagmire | 20
@@ -641,6 +645,7 @@
 4 | Super Dance Squad | 30
 4 | Super Food Jeff | 15
 4 | Supercomputer Destruction
+4 | Swiss Smarts Malory | 30
 4 | Tammy on TV | 25
 4 | The Child Molestor | 5
 4 | Tickling the Ivories | 10
@@ -652,6 +657,7 @@
 4 | Working Girl Tina | 25
 4 | Zoidberg vs Bot | 40
 3 | 'Malory' | 60
+3 | 3rd Grade Hayley | 10
 3 | 60s Amy | 25
 3 | ATV Kahn
 3 | All Hail Mom | 5
@@ -668,7 +674,6 @@
 3 | Calculon's Pride | 30
 3 | Caricature Art Seamus
 3 | Chef Cat Binge | 75
-3 | Comms Officer Kif
 3 | Crazy Carter | 10
 3 | Cultist Mort | 75
 3 | Date Wine Zoidberg | 75
@@ -685,6 +690,7 @@
 3 | Gamer Stan | 5
 3 | Gatsby Brian | 5
 3 | Gift Pile Leela | 10
+3 | History Test Chris | 25
 3 | Horse Whisperer Joe | 5
 3 | Ira | 20
 3 | Itsy Bitsy Rogu | 25
@@ -714,9 +720,9 @@
 3 | Shark Killer | 75
 3 | Shelter Leader Bill | 10
 3 | Space Walk | 10
-3 | Stupid Songs Carter | 15
+3 | Spies Like Mayor West | 10
+3 | Stupid Songs Carter | 30
 3 | Swim Lesson | 20
-3 | Swiss Smarts Malory | 20
 3 | Theater Meg | 30
 3 | Torah Snot | 20
 3 | Trash Spike Seamus | 10
@@ -731,7 +737,6 @@
 2 | Aerobics Frond | 20
 2 | Alley Entertainment | 100
 2 | American Giggolo | 65
-2 | Anger Management Class | 100
 2 | Angry Drunk
 2 | Aprés Ski Principal | 5
 2 | Ba-Donkin Lewis
@@ -802,13 +807,13 @@
 2 | Gun Safety Peter | 100
 2 | Gut Punch | 100
 2 | High School Hank | 20
-2 | History Test Chris | 50
 2 | Home School Peter | 100
 2 | Hose to the Head
 2 | Hotel Staff | 5
 2 | I Like Beer | 20
 2 | I am Mona
 2 | Improvised Crossbow Pam | 5
+2 | Instructional Video Stewie | 15
 2 | JJu Rodeo Zeke | 5
 2 | Jungle Snake | 5
 2 | Junk Food Klaus | 5
@@ -849,16 +854,17 @@
 2 | Pathetic Villain
 2 | Positron Shooter Fry | 40
 2 | Principal Louise | 20
+2 | Professor Rogu | 25
 2 | Professor of Emerald Laboratory | 100
 2 | Prom Luanne | 100
 2 | Propane Sculpture | 60
+2 | Propaniac Dale | 35
 2 | Q.T. McWhiskers | 80
 2 | Quagmire's Cat James | 100
 2 | Ravenous Porcelain Babies
 2 | Ray-Bot | 10
 2 | Rich Leela | 100
 2 | Roach Coach Francine | 100
-2 | Rock Star Zeke | 5
 2 | Roger Goes Down | 35
 2 | Rough Night Stan | 30
 2 | S and M Peter | 100
@@ -888,6 +894,7 @@
 2 | The Billdozer | 100
 2 | The Carnival With Rupert | 100
 2 | The Gender Bender | 65
+2 | The Power of Science | 5
 2 | Tina Tackle | 100
 2 | Total Eclipse Rogu | 5
 2 | Tuning Fork | 100
@@ -906,7 +913,6 @@
 2 | Wrestler Peggy | 100
 2 | Yacht Dreams
 1 | 'Cyril' | 35
-1 | 3rd Grade Hayley | 60
 1 | 71 Ounce Beef Bobby | 125
 1 | ABC Quagmire | 45
 1 | Abstract Jeff | 20
@@ -978,7 +984,7 @@
 1 | Empty Bowl Painting | 5
 1 | Essay Jeff | 10
 1 | Evil Cat Stan | 5
-1 | Evil Scientist Cheryl | 10
+1 | Evil Scientist Cheryl | 30
 1 | Eye-Eye Seamus | 5
 1 | Fashion Samurai Zeke | 70
 1 | Fashion Show Toshi | 125
@@ -996,6 +1002,7 @@
 1 | Girls Being Girls | 55
 1 | Glass of Wine
 1 | Griffin and Quagmire | 95
+1 | Groin Kicker
 1 | Groupie Francine | 105
 1 | Guenter | 30
 1 | Gut Punch Zapp | 125
@@ -1010,10 +1017,11 @@
 1 | Human Target Ray
 1 | Iguana Bender
 1 | Intern Doctor Meg | 65
+1 | Jimmy's Sucky Message | 5
 1 | Joseph's Forbidden Moves | 15
 1 | Joystick Steve | 125
 1 | Jug Blower Bobby
-1 | Keyboard Joe | 120
+1 | Keyboard Joe | 125
 1 | Keyboardist Dale | 65
 1 | Kidney Killer | 65
 1 | King Steve | 15
@@ -1048,7 +1056,7 @@
 1 | Pam's Back Tattoo | 125
 1 | Party Beer Implant | 5
 1 | Peggy Unplugged
-1 | Peggy's Cassettes | 15
+1 | Peggy's Cassettes | 55
 1 | Pendlingtonton Steve
 1 | Perfectly Symmetrical Violence | 50
 1 | Pesto Jeff | 125
@@ -1059,10 +1067,9 @@
 1 | Play Bobby | 20
 1 | Playlist Meg
 1 | Poppler Jingle Fry | 20
-1 | Propaniac Dale | 60
 1 | Quicky Kiss-it | 65
 1 | Quiet Eli | 25
-1 | R&B Toshi | 10
+1 | R&B Toshi | 60
 1 | RC Helicopter | 75
 1 | Raleigh St. Augustine | 125
 1 | Ramblin' Rodriguez | 5
@@ -1111,7 +1118,6 @@
 1 | Tennessee | 5
 1 | Tennis Francine | 15
 1 | Tennis Stewie | 5
-1 | The Power of Science | 20
 1 | Tina's Distraction
 1 | Tina's Fantasy
 1 | Toga Bill | 5
@@ -1199,7 +1205,6 @@
 0 | Rogutilda | 125
 0 | Jazz hands | 125
 0 | Diplomatic Immunity | 125
-0 | Dance Lesson | 125
 0 | Cat Dragon | 125
 0 | Too High to Drive | 120
 0 | Powderpuff | 120
@@ -1220,7 +1225,9 @@
 0 | Singing Busboy | 100
 0 | Sex Ed Peter | 100
 0 | Francine Roger | 100
+0 | Dancing Teddy | 100
 0 | Bondage Klaus | 100
+0 | Bandit Bob | 100
 0 | Mayor Adam We | 95
 0 | Sperm Rider | 90
 0 | Special Guitar Bobby | 90
@@ -1251,7 +1258,6 @@
 0 | Lobster Tub | 80
 0 | Crooner Calculon | 80
 0 | Boy Tina | 80
-0 | Bandit Bob | 80
 0 | Rich Dress Leela | 75
 0 | Mom Opera | 75
 0 | Malory and Duchess | 75
@@ -1287,12 +1293,13 @@
 0 | Can't Get Clean | 60
 0 | Booby Checklist | 60
 0 | Baby Bender | 60
+0 | Aversion Therapy | 60
 0 | Summer Lovin | 55
 0 | Oktoberfest Fry | 55
 0 | Galapagos Tortoise | 55
 0 | Drum Solo Quagmire | 55
 0 | Soda Bar Drunk | 50
-0 | Professor Rogu | 50
+0 | Sexy Cowardly Lion Stan | 50
 0 | Multiverse Slurp Barry | 50
 0 | Jericho | 50
 0 | Disco Peggy | 50
@@ -1316,7 +1323,6 @@
 0 | Modest Painting | 40
 0 | Mercilessly Egged | 40
 0 | Knitting Peter | 40
-0 | Instructional Video Stewie | 40
 0 | Fighter Frond | 40
 0 | Drunk Leela | 40
 0 | Drunk Fry | 40
@@ -1327,6 +1333,7 @@
 0 | Bass Pro Hank | 40
 0 | Witch Energy Toshi | 35
 0 | Teddy's Pigeon | 35
+0 | Sex Ed Teacher | 35
 0 | Self Portrait Kahn | 35
 0 | Paintball Bill | 35
 0 | One Eyed Orphan | 35
@@ -1337,6 +1344,7 @@
 0 | Who's a Good Boy | 30
 0 | Water Gun Steve | 30
 0 | Washboard Bill | 30
+0 | Washboard Bender | 30
 0 | Tweaker Peter | 30
 0 | Toy Re-Enactment Fry | 30
 0 | The Linda Mermaid | 30
@@ -1346,8 +1354,6 @@
 0 | Stan's Grill | 30
 0 | Soused Bill | 30
 0 | Sharpshooter Bobby | 30
-0 | Sexy Cowardly Lion Stan | 30
-0 | Sex Ed Teacher | 30
 0 | Secret Beer Dale | 30
 0 | Roller Skate Peter | 30
 0 | Rodeo Peter | 30
@@ -1404,18 +1410,22 @@
 0 | Low Leg Lollipops | 25
 0 | Knight Louise | 25
 0 | King Roger | 25
+0 | Fan Art Jimmy | 25
 0 | Buffed Up Barry | 25
 0 | Bucking Buggalo Leela | 25
 0 | Bayonet Cotton | 25
 0 | Wrestler Amy | 20
+0 | Tammy on Vocals | 20
 0 | Sister Peter | 20
 0 | Lou Belchera | 20
+0 | Jimmy's Crushed Nuts | 20
 0 | Green Russians | 20
 0 | Girl-Crazy Joseph | 20
 0 | Ex-Chicken Scruffy | 20
 0 | Dancing Mort | 20
 0 | Comfortable Sweater Lewis | 20
 0 | Coast Guard Paint | 20
+0 | Burger Boss Jimmy | 20
 0 | Passenger Frond | 15
 0 | Dance Outburst | 15
 0 | Wired Stewie | 10
@@ -1423,9 +1433,11 @@
 0 | Sketchy Bus Driver | 10
 0 | Sherlock Mort | 10
 0 | Secret Asian Man | 10
+0 | Say Hello to my Little Bread | 10
 0 | Rocket Launcher Bullock | 10
 0 | Pirate Car Peter | 10
 0 | Party Cup Barry | 10
+0 | Orchestra Snot | 10
 0 | Nude Painting Bullock | 10
 0 | Mustache Gun | 10
 0 | Money Hayley | 10
@@ -1453,4 +1465,4 @@
 0 | Masquerade Joe | 5
 0 | Just Mow a Lawn | 5
 0 | Bounty Hunter Roger | 5
-960850 | Mastery Stone
+979100 | Mastery Stone
