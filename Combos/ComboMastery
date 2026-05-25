@@ -7,6 +7,7 @@
 5 | Adrenaline Steve
 5 | Agent Kazak
 5 | Amped Tammy
+5 | Anger Management Class
 5 | Angry Bullock
 5 | Angry Pizza Mayor West | 5
 5 | Another Lousy Millenium
@@ -115,6 +116,7 @@
 5 | Cognac Bender
 5 | College Student Hayley
 5 | Comic Artist Peter
+5 | Comms Officer Kif
 5 | Computer Game Wine Roger
 5 | Contact High Stewie
 5 | Conventional Turkey Gene
@@ -570,7 +572,6 @@
 5 | Zinc Saucier
 5 | Zombie Jimmy Jr.
 4 | Andre the Giant 3000 | 10
-4 | Anger Management Class | 40
 4 | Art Student
 4 | Artsy Steve | 15
 4 | Bahama Mama | 10
@@ -585,7 +586,6 @@
 4 | Charts and Graphs | 5
 4 | Chipmunk Mask Francine | 5
 4 | Colonel Fluffers | 10
-4 | Comms Officer Kif | 25
 4 | Crackers | 35
 4 | Crime Addict Joe
 4 | Crouching Tiger Hidden West | 25
@@ -637,7 +637,7 @@
 4 | Sir Calculon | 5
 4 | Slap Fight Teddy
 4 | Sled Armor Tina | 5
-4 | Sleepover Contract
+4 | Sleepover Contract | 5
 4 | Slow Dance Jimmy Jr. | 40
 4 | Study Session | 5
 4 | Stuffed Alligator | 20
@@ -756,6 +756,7 @@
 2 | Booty Shaking Drunk | 100
 2 | Bowling Team Cheryl | 35
 2 | Captain Feathers
+2 | Cartography Seamus | 5
 2 | Castanet Zoidberg | 70
 2 | Catcher Luanne | 35
 2 | Celebeartions | 100
@@ -841,7 +842,7 @@
 2 | Mount Toy Louise | 5
 2 | Multi-Cigar Bender | 5
 2 | Mural Restorer | 100
-2 | My Little Scruffy | 5
+2 | My Little Scruffy | 15
 2 | Nacho Addict Bender | 100
 2 | Nasal Spray Peter | 100
 2 | New Outfit Klaus | 10
@@ -859,6 +860,7 @@
 2 | Prom Luanne | 100
 2 | Propane Sculpture | 60
 2 | Propaniac Dale | 35
+2 | Puppet Master Frond | 5
 2 | Q.T. McWhiskers | 80
 2 | Quagmire's Cat James | 100
 2 | Ravenous Porcelain Babies
@@ -873,6 +875,7 @@
 2 | School Report Louise | 105
 2 | Screwdrive Chris | 10
 2 | Serious Runner Brian | 50
+2 | Sex Ed Teacher | 10
 2 | Sexy Dance Fighting
 2 | Shower Curtain Gayle | 10
 2 | Sibling Portrait | 5
@@ -883,6 +886,7 @@
 2 | Spray Paint Chris | 95
 2 | Spray Painter | 100
 2 | Stickin' Hank | 5
+2 | Surveillance Mom | 10
 2 | Survival Crafter Hank
 2 | Swole Amy | 5
 2 | Take Your Cat To Work | 5
@@ -935,6 +939,7 @@
 1 | Bass Drum Stan
 1 | Battle Axe Peggy | 5
 1 | Bedroom Singing Mayor West | 5
+1 | Bedtime Reading Scruffy | 15
 1 | Bender's Electric Eel | 125
 1 | Bender's Weapons
 1 | Benderbrau | 75
@@ -950,6 +955,7 @@
 1 | Bucking Buggalo Hermes | 15
 1 | Budding Country Star | 55
 1 | Burger Wars
+1 | Burgerboss Jimmy | 30
 1 | Butcher Knife Jeff
 1 | Butt Kicking Peggy
 1 | Butt Toucher Tina | 5
@@ -957,7 +963,6 @@
 1 | Cafeteria Meg
 1 | Caffeinated Lana | 40
 1 | Cake Knife | 20
-1 | Cartography Seamus
 1 | Cash Stacked Peter
 1 | Castle Captain Mom | 20
 1 | Cat Stan | 30
@@ -1018,8 +1023,8 @@
 1 | Human Target Ray
 1 | Iguana Bender
 1 | Intern Doctor Meg | 65
-1 | Jimmy's Sucky Message | 5
-1 | Joseph's Forbidden Moves | 15
+1 | Jimmy's Sucky Message | 20
+1 | Joseph's Forbidden Moves | 20
 1 | Joystick Steve | 125
 1 | Jug Blower Bobby
 1 | Keyboard Joe | 125
@@ -1033,6 +1038,7 @@
 1 | Leela's Harpoon | 15
 1 | Line Dancer Fry
 1 | Lip Art Gayle | 20
+1 | Low End Barry | 35
 1 | Makeup Artist Jeff
 1 | Marksman Malory | 15
 1 | Married Brian | 125
@@ -1079,7 +1085,7 @@
 1 | Redneck Ray | 15
 1 | Reenactment Uniform
 1 | Rich Hayley | 45
-1 | Robot Dance | 90
+1 | Robot Dance | 65
 1 | Robot Rumble | 25
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
@@ -1110,7 +1116,6 @@
 1 | Spray and Pray | 10
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 65
-1 | Surveillance Mom | 15
 1 | Swim Teacher Bob | 90
 1 | Swing Dance Bobby | 5
 1 | Sword Fighter Francine | 5
@@ -1227,6 +1232,7 @@
 0 | Sex Ed Peter | 100
 0 | Francine Roger | 100
 0 | Dancing Teddy | 100
+0 | Cheerleader Lois | 100
 0 | Bondage Klaus | 100
 0 | Bandit Bob | 100
 0 | Mayor Adam We | 95
@@ -1290,7 +1296,7 @@
 0 | Disco Bender | 60
 0 | Day Drinking Mayor West | 60
 0 | Cyclist Peggy | 60
-0 | Cheerleader Lois | 60
+0 | Chest Harpoon | 60
 0 | Can't Get Clean | 60
 0 | Booby Checklist | 60
 0 | Baby Bender | 60
@@ -1334,11 +1340,11 @@
 0 | Bass Pro Hank | 40
 0 | Witch Energy Toshi | 35
 0 | Teddy's Pigeon | 35
-0 | Sex Ed Teacher | 35
 0 | Self Portrait Kahn | 35
 0 | Paintball Bill | 35
 0 | One Eyed Orphan | 35
 0 | Karaoke Night | 35
+0 | Fan Art Jimmy | 35
 0 | Crate Trained Hayley | 35
 0 | ADD Luanne | 35
 0 | Working Song | 30
@@ -1359,7 +1365,6 @@
 0 | Roller Skate Peter | 30
 0 | Rodeo Peter | 30
 0 | Rich Francine | 30
-0 | Puppet Master Frond | 30
 0 | Probot Artist Peggy | 30
 0 | Prince-ipal Lewis | 30
 0 | Pimp Peter | 30
@@ -1378,6 +1383,7 @@
 0 | Karate Francine | 30
 0 | Junkie Hank | 30
 0 | Junkie Bobby | 30
+0 | Jimmy's Crushed Nuts | 30
 0 | Hungover Steve | 30
 0 | Haunted Linda | 30
 0 | Grade 36 Bureaucrat | 30
@@ -1397,7 +1403,6 @@
 0 | Circusitis Hermes | 30
 0 | Cinderella Lois | 30
 0 | Christian Rock | 30
-0 | Chest Harpoon | 30
 0 | Bunny Brian | 30
 0 | Boss Hank | 30
 0 | Bob in the Wall | 30
@@ -1411,7 +1416,6 @@
 0 | Low Leg Lollipops | 25
 0 | Knight Louise | 25
 0 | King Roger | 25
-0 | Fan Art Jimmy | 25
 0 | Buffed Up Barry | 25
 0 | Bucking Buggalo Leela | 25
 0 | Bayonet Cotton | 25
@@ -1419,14 +1423,13 @@
 0 | Tammy on Vocals | 20
 0 | Sister Peter | 20
 0 | Lou Belchera | 20
-0 | Jimmy's Crushed Nuts | 20
 0 | Green Russians | 20
 0 | Girl-Crazy Joseph | 20
 0 | Ex-Chicken Scruffy | 20
 0 | Dancing Mort | 20
 0 | Comfortable Sweater Lewis | 20
 0 | Coast Guard Paint | 20
-0 | Burger Boss Jimmy | 20
+0 | Businessman Bender | 20
 0 | Passenger Frond | 15
 0 | Dance Outburst | 15
 0 | Wired Stewie | 10
@@ -1457,13 +1460,16 @@
 0 | Chokehold Cheryl | 10
 0 | Category 5 Sucker | 10
 0 | Butt Slapper Bobby | 10
+0 | Beer-O-Clock Scruffy | 10
 0 | Beer Decision Bill | 10
 0 | Batter Up Bobby | 10
 0 | Banquet Seamus | 10
 0 | Back to School Brian | 10
 0 | Strangler Stewie | 5
 0 | Quarterback Joseph | 5
+0 | Pastafarian Jimmy Pesto | 5
+0 | Oil Drum Jeff | 5
 0 | Masquerade Joe | 5
 0 | Just Mow a Lawn | 5
 0 | Bounty Hunter Roger | 5
-977100 | Mastery Stone
+987450 | Mastery Stone
