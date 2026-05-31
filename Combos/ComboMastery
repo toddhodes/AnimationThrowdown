@@ -52,6 +52,7 @@
 5 | Blueberry Delivery Girl
 5 | Board Game Brian
 5 | Board Game Cleveland
+5 | Board Game Farnsworth
 5 | Board Game Stewie
 5 | Bob Archer
 5 | Bob's Pigeon Bath
@@ -600,8 +601,10 @@
 4 | Frank the Snake | 15
 4 | Game Machine Zoidberg | 5
 4 | Gamer Jeff | 5
+4 | Gamer Joseph | 10
 4 | Gayle the Scientist | 5
 4 | Golfing Lois | 5
+4 | Grandmother Archer | 10
 4 | Grill Cook | 40
 4 | Hank Hill, Running Back | 35
 4 | High Hank | 15
@@ -628,6 +631,7 @@
 4 | Quirky Turkey Zeke | 10
 4 | Record Holder Stan | 10
 4 | Reflection
+4 | Robot Dance | 5
 4 | Rock Star Zeke | 10
 4 | S and M Lois | 5
 4 | Sandwitch | 15
@@ -660,12 +664,12 @@
 3 | 3rd Grade Hayley | 10
 3 | 60s Amy | 25
 3 | ATV Kahn
+3 | Adult Gamer Bobby
 3 | All Hail Mom | 5
 3 | BABOU!!!! | 75
 3 | Bad Boy Kif
 3 | Beer Helmet | 40
 3 | Blueberry Picker | 75
-3 | Board Game Farnsworth | 10
 3 | Bobsterfest | 75
 3 | Bourbon For Breakfast | 75
 3 | Boy Crazy
@@ -802,7 +806,6 @@
 2 | Golf Club Amy | 100
 2 | Golfer Amy
 2 | Goth Bullock | 5
-2 | Grandmother Archer | 5
 2 | Greaser Stan | 95
 2 | Guinea Pig in Space | 100
 2 | Gun Safety Peter | 100
@@ -881,6 +884,7 @@
 2 | Sibling Portrait | 5
 2 | Sleighing Tonight
 2 | Slick'd Steve | 100
+2 | Softer Side Carter
 2 | Space Cadet Chris | 100
 2 | Space Stan | 60
 2 | Spray Paint Chris | 95
@@ -955,7 +959,7 @@
 1 | Bucking Buggalo Hermes | 15
 1 | Budding Country Star | 55
 1 | Burger Wars
-1 | Burgerboss Jimmy | 30
+1 | Burgerboss Jimmy | 5
 1 | Butcher Knife Jeff
 1 | Butt Kicking Peggy
 1 | Butt Toucher Tina | 5
@@ -1074,6 +1078,7 @@
 1 | Play Bobby | 20
 1 | Playlist Meg
 1 | Poppler Jingle Fry | 20
+1 | Prince-ipal Lewis | 60
 1 | Quicky Kiss-it | 65
 1 | Quiet Eli | 25
 1 | R&B Toshi | 60
@@ -1085,7 +1090,6 @@
 1 | Redneck Ray | 15
 1 | Reenactment Uniform
 1 | Rich Hayley | 45
-1 | Robot Dance | 65
 1 | Robot Rumble | 25
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
@@ -1107,7 +1111,6 @@
 1 | Sneak Tackle Hank | 95
 1 | Soccer Chris | 25
 1 | Softball Peggy
-1 | Softer Side Carter | 10
 1 | Space Queen | 125
 1 | Spacey Cheryl
 1 | Spaghetti Meg | 15
@@ -1230,6 +1233,7 @@
 0 | Tammy Turkey | 100
 0 | Singing Busboy | 100
 0 | Sex Ed Peter | 100
+0 | McBurgertown Stewie | 100
 0 | Francine Roger | 100
 0 | Dancing Teddy | 100
 0 | Cheerleader Lois | 100
@@ -1244,7 +1248,6 @@
 0 | Roach Coach Roger | 90
 0 | Red Wagon Stewie | 90
 0 | Painter Tina | 90
-0 | McBurgertown Stewie | 90
 0 | Mayor West is Packin' | 90
 0 | Hoverthrone King | 90
 0 | High Noon Fry | 90
@@ -1366,7 +1369,6 @@
 0 | Rodeo Peter | 30
 0 | Rich Francine | 30
 0 | Probot Artist Peggy | 30
-0 | Prince-ipal Lewis | 30
 0 | Pimp Peter | 30
 0 | Pace Car Driver | 30
 0 | One-Eyed Bean Machine | 30
@@ -1431,6 +1433,7 @@
 0 | Coast Guard Paint | 20
 0 | Businessman Bender | 20
 0 | Passenger Frond | 15
+0 | Equipment Testing | 15
 0 | Dance Outburst | 15
 0 | Wired Stewie | 10
 0 | Space Pistol Bender | 10
@@ -1472,4 +1475,4 @@
 0 | Masquerade Joe | 5
 0 | Just Mow a Lawn | 5
 0 | Bounty Hunter Roger | 5
-987450 | Mastery Stone
+1071250 | Mastery Stone
