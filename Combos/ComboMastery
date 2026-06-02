@@ -65,6 +65,7 @@
 5 | Bouldering Bob
 5 | Bounty Hunter Lana
 5 | Bourbon Barry
+5 | Bourbon For Breakfast
 5 | Boxing Hank
 5 | Boxing Luanne
 5 | Boy Crazy Louise
@@ -595,7 +596,7 @@
 4 | Doghouse Bobby | 40
 4 | Dr. C | 5
 4 | Draw Me Tina | 10
-4 | Eugenia Chatterteeth | 40
+4 | Eugenia Chatterteeth
 4 | Fake Daughter Tina | 5
 4 | Flying Machine Stewie | 35
 4 | Frank the Snake | 15
@@ -671,7 +672,6 @@
 3 | Beer Helmet | 40
 3 | Blueberry Picker | 75
 3 | Bobsterfest | 75
-3 | Bourbon For Breakfast | 75
 3 | Boy Crazy
 3 | Buff Cyril | 10
 3 | Burgers and Fries Louise | 15
@@ -759,6 +759,7 @@
 2 | Book Signing Stewie
 2 | Booty Shaking Drunk | 100
 2 | Bowling Team Cheryl | 35
+2 | Burgerboss Jimmy | 5
 2 | Captain Feathers
 2 | Cartography Seamus | 5
 2 | Castanet Zoidberg | 70
@@ -959,7 +960,6 @@
 1 | Bucking Buggalo Hermes | 15
 1 | Budding Country Star | 55
 1 | Burger Wars
-1 | Burgerboss Jimmy | 5
 1 | Butcher Knife Jeff
 1 | Butt Kicking Peggy
 1 | Butt Toucher Tina | 5
@@ -1078,7 +1078,6 @@
 1 | Play Bobby | 20
 1 | Playlist Meg
 1 | Poppler Jingle Fry | 20
-1 | Prince-ipal Lewis | 60
 1 | Quicky Kiss-it | 65
 1 | Quiet Eli | 25
 1 | R&B Toshi | 60
@@ -1193,6 +1192,7 @@
 0 | Freezerdome Louise | 130
 0 | Food Truck Bob | 130
 0 | Food Restaurant Stan | 130
+0 | Fire Truck Peter | 130
 0 | Fancy Gayle | 130
 0 | Evening Beer Boomhauer | 130
 0 | Elevator Art | 130
@@ -1268,13 +1268,13 @@
 0 | Lobster Tub | 80
 0 | Crooner Calculon | 80
 0 | Boy Tina | 80
+0 | Airpod Mort | 80
 0 | Rich Dress Leela | 75
 0 | Mom Opera | 75
 0 | Malory and Duchess | 75
 0 | Topped Off Wine | 70
 0 | Senora Hill | 70
 0 | I Get What I Want | 70
-0 | Airpod Mort | 70
 0 | Accounting Genius | 70
 0 | Troll Doll Collection | 65
 0 | Tractor Boy | 65
@@ -1283,6 +1283,7 @@
 0 | Painter Francine | 65
 0 | Makeover Louise | 65
 0 | Cowboy Kahn | 65
+0 | Young Hermes | 60
 0 | Umphauer | 60
 0 | The Mortian | 60
 0 | Steve Crossing the Alps | 60
@@ -1320,7 +1321,6 @@
 0 | Pilot Training | 45
 0 | Football Stewie | 45
 0 | Dark Arts Tina | 45
-0 | Young Hermes | 40
 0 | Withdrawal Steve | 40
 0 | Spitting Out Beer | 40
 0 | Skydiving Peggy | 40
@@ -1475,4 +1475,4 @@
 0 | Masquerade Joe | 5
 0 | Just Mow a Lawn | 5
 0 | Bounty Hunter Roger | 5
-1071250 | Mastery Stone
+1022850 | Mastery Stone
