@@ -174,6 +174,7 @@
 5 | Eggnog Roger
 5 | Elderly Clothes Meg
 5 | Emu Wrangler
+5 | Eugenia Chatterteeth
 5 | Evening Beer Dale
 5 | Evil Stepsister
 5 | Evil Stepsister Stewie
@@ -184,6 +185,7 @@
 5 | Fake Son Gene
 5 | Falcon Attack Quagmire
 5 | Falconer Hayley
+5 | Fancy Gayle | 5
 5 | Farnsworth's Cat
 5 | Fart School Louise
 5 | Fart in a Jar
@@ -230,6 +232,7 @@
 5 | Glitter Spray
 5 | Golden Blunt Wrapper
 5 | Good Boy Witch Snot
+5 | Grandmother Archer
 5 | Green Beer
 5 | Grenade Amy
 5 | Groovy Fry
@@ -320,6 +323,7 @@
 5 | Meatman Sculptor
 5 | Mech Suit Francine
 5 | Medicated Stewie
+5 | Medusa Mom
 5 | Meg Football Kickoff
 5 | Meg's Voodoo Doll
 5 | Menstrual Cycle
@@ -402,6 +406,7 @@
 5 | Pointillism
 5 | Poker Night Cheryl
 5 | Polling Peggy
+5 | Pong Gamer Peggy
 5 | Pool Shark
 5 | Poppler Jingle Bender
 5 | Postal Lois
@@ -419,6 +424,7 @@
 5 | Prof Comedy
 5 | Professor-Bender Swap
 5 | Prom Beer Joe
+5 | Prom Luanne
 5 | Psych Meds
 5 | QB Quagmire
 5 | Rabid Dale
@@ -596,7 +602,6 @@
 4 | Doghouse Bobby | 40
 4 | Dr. C | 5
 4 | Draw Me Tina | 10
-4 | Eugenia Chatterteeth
 4 | Fake Daughter Tina | 5
 4 | Flying Machine Stewie | 35
 4 | Frank the Snake | 15
@@ -605,7 +610,6 @@
 4 | Gamer Joseph | 10
 4 | Gayle the Scientist | 5
 4 | Golfing Lois | 5
-4 | Grandmother Archer | 10
 4 | Grill Cook | 40
 4 | Hank Hill, Running Back | 35
 4 | High Hank | 15
@@ -626,9 +630,9 @@
 4 | Pan-fully Prepared Bobby
 4 | Party Board | 35
 4 | Perfect Husband
-4 | Pong Gamer Peggy | 5
 4 | Poppler Addict Leela | 30
-4 | Prospecting Amy | 5
+4 | Prince-ipal Lewis | 5
+4 | Prospecting Amy | 35
 4 | Quirky Turkey Zeke | 10
 4 | Record Holder Stan | 10
 4 | Reflection
@@ -645,7 +649,7 @@
 4 | Sleepover Contract | 5
 4 | Slow Dance Jimmy Jr. | 40
 4 | Study Session | 5
-4 | Stuffed Alligator | 20
+4 | Stuffed Alligator | 40
 4 | Sucker Punch Cotton
 4 | Super Dance Squad | 30
 4 | Super Food Jeff | 15
@@ -665,7 +669,7 @@
 3 | 3rd Grade Hayley | 10
 3 | 60s Amy | 25
 3 | ATV Kahn
-3 | Adult Gamer Bobby
+3 | Adult Gamer Bobby | 5
 3 | All Hail Mom | 5
 3 | BABOU!!!! | 75
 3 | Bad Boy Kif
@@ -686,6 +690,7 @@
 3 | Drink Point-O Brian
 3 | Drugged Cotton | 25
 3 | Drunk Francine | 5
+3 | Elegant Dinner Cheryl
 3 | Farnsworth on Skiis | 75
 3 | Fashion Fight | 5
 3 | Fisherman Brian | 10
@@ -693,20 +698,21 @@
 3 | Fry's Macaroni Art | 25
 3 | Gamer Stan | 5
 3 | Gatsby Brian | 5
+3 | Gentleman Barry | 10
 3 | Gift Pile Leela | 10
 3 | History Test Chris | 25
 3 | Horse Whisperer Joe | 5
 3 | Ira | 20
-3 | Itsy Bitsy Rogu | 25
+3 | Itsy Bitsy Rogu | 35
 3 | Jellybean Phone Klaus | 30
 3 | Jungle Machete | 25
 3 | Jungle Spider | 10
 3 | Klepto Bender | 5
 3 | Laser Tag Quagmire | 75
 3 | Lights Out Snot | 15
-3 | Medusa Mom | 75
+3 | Master Robaire | 20
 3 | My Little Tammy | 70
-3 | Newlyweds
+3 | Newlyweds | 10
 3 | Nose Drawing Joseph | 10
 3 | Nun Linda | 5
 3 | Outlaw Rogu | 5
@@ -723,6 +729,7 @@
 3 | Salmon Fry | 25
 3 | Shark Killer | 75
 3 | Shelter Leader Bill | 10
+3 | Softer Side Carter | 5
 3 | Space Walk | 10
 3 | Spies Like Mayor West | 10
 3 | Stupid Songs Carter | 30
@@ -739,6 +746,7 @@
 2 | Action Delivery Force Leela
 2 | Action Delivery Force Zoidberg | 5
 2 | Aerobics Frond | 20
+2 | All-In Lrrr | 105
 2 | Alley Entertainment | 100
 2 | American Giggolo | 65
 2 | Angry Drunk
@@ -788,7 +796,6 @@
 2 | Draw Me Gene
 2 | Duke
 2 | Dummy Fight | 20
-2 | Elegant Dinner Cheryl | 25
 2 | Elf Fight Francine | 100
 2 | Erotic Friend Fiction Tammy | 15
 2 | Family Fracas | 10
@@ -861,16 +868,16 @@
 2 | Principal Louise | 20
 2 | Professor Rogu | 25
 2 | Professor of Emerald Laboratory | 100
-2 | Prom Luanne | 100
 2 | Propane Sculpture | 60
 2 | Propaniac Dale | 35
-2 | Puppet Master Frond | 5
+2 | Puppet Master Frond | 15
 2 | Q.T. McWhiskers | 80
 2 | Quagmire's Cat James | 100
 2 | Ravenous Porcelain Babies
 2 | Ray-Bot | 10
 2 | Rich Leela | 100
 2 | Roach Coach Francine | 100
+2 | Robot Rumble
 2 | Roger Goes Down | 35
 2 | Rough Night Stan | 30
 2 | S and M Peter | 100
@@ -885,7 +892,6 @@
 2 | Sibling Portrait | 5
 2 | Sleighing Tonight
 2 | Slick'd Steve | 100
-2 | Softer Side Carter
 2 | Space Cadet Chris | 100
 2 | Space Stan | 60
 2 | Spray Paint Chris | 95
@@ -992,6 +998,7 @@
 1 | Easter Bunny Peter | 65
 1 | Elephant Seal Kif | 45
 1 | Empty Bowl Painting | 5
+1 | Equipment Testing | 15
 1 | Essay Jeff | 10
 1 | Evil Cat Stan | 5
 1 | Evil Scientist Cheryl | 30
@@ -1048,7 +1055,6 @@
 1 | Married Brian | 125
 1 | Martini Stewie
 1 | Mascot Car Steve | 20
-1 | Master Robaire | 70
 1 | Meg's Evil Monkey | 125
 1 | Meg's In Charge | 10
 1 | Model Lois | 25
@@ -1089,7 +1095,6 @@
 1 | Redneck Ray | 15
 1 | Reenactment Uniform
 1 | Rich Hayley | 45
-1 | Robot Rumble | 25
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
 1 | Running Back Hank | 125
@@ -1099,7 +1104,7 @@
 1 | Server Luanne | 60
 1 | Sherlock Zoidberg | 60
 1 | Shiny Pebbles | 125
-1 | Shut Up and Take My Money | 105
+1 | Shut Up and Take My Money | 125
 1 | Sing and Swing | 30
 1 | Skating Roger | 25
 1 | Sketch Artist Dale | 25
@@ -1193,7 +1198,6 @@
 0 | Food Truck Bob | 130
 0 | Food Restaurant Stan | 130
 0 | Fire Truck Peter | 130
-0 | Fancy Gayle | 130
 0 | Evening Beer Boomhauer | 130
 0 | Elevator Art | 130
 0 | Electric Love | 130
@@ -1400,6 +1404,7 @@
 0 | El Presidente | 30
 0 | Egg vs Tornado | 30
 0 | Drunk Hermes | 30
+0 | Da Vinci's Beard | 30
 0 | Cuddly Little Pet Slinky | 30
 0 | Claw-Plach | 30
 0 | Circusitis Hermes | 30
@@ -1433,7 +1438,7 @@
 0 | Coast Guard Paint | 20
 0 | Businessman Bender | 20
 0 | Passenger Frond | 15
-0 | Equipment Testing | 15
+0 | Googly Eyes Zeke | 15
 0 | Dance Outburst | 15
 0 | Wired Stewie | 10
 0 | Space Pistol Bender | 10
@@ -1451,8 +1456,10 @@
 0 | Mom's Fury | 10
 0 | Model Builder Roger | 10
 0 | Mission Control Chris | 10
+0 | Mid-Life Crisis Lrrr | 10
 0 | Leegola | 10
 0 | Lady Bobbenstein | 10
+0 | Insecure Aiming Lrrr | 10
 0 | Hurdles Bobby | 10
 0 | Gun Club President | 10
 0 | Guitar Practice Peggy | 10
@@ -1460,6 +1467,7 @@
 0 | Espresso Tina | 10
 0 | Derby Wife | 10
 0 | Deathrolling | 10
+0 | Dance Flrrr Lrrr | 10
 0 | Chokehold Cheryl | 10
 0 | Category 5 Sucker | 10
 0 | Butt Slapper Bobby | 10
@@ -1472,7 +1480,9 @@
 0 | Quarterback Joseph | 5
 0 | Pastafarian Jimmy Pesto | 5
 0 | Oil Drum Jeff | 5
+0 | No Escape Lrrr | 5
 0 | Masquerade Joe | 5
+0 | Lrrr Planet Invasion Guide | 5
 0 | Just Mow a Lawn | 5
 0 | Bounty Hunter Roger | 5
-1022850 | Mastery Stone
+1033850 | Mastery Stone
