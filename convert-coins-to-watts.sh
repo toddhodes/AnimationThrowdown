@@ -35,5 +35,7 @@ do
     break
   fi
 
-  sleep 4
+  if [ $i -lt $count ]; then
+    sleep 4
+  fi
 done
