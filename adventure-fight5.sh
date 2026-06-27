@@ -12,14 +12,18 @@ case "$2" in
 *) auto_battle=$2 ;;
 esac
 
-for i in `seq 1 $count`
-do
-  curl -s 'https://cb-live.synapsegames.com/api.php?message=startMission&user_id='$user_id \
-    --data 'password='$password_hash'&auto_battle='$auto_battle'&target_user_id=0&mission_id=180' \
-     | jq . | tee o-adventure_battle | jq ".battle_data.results[] | .opponent.name,.winner" | paste - - | wc -l
-done
-
 # default &mission_id=180
 # combos island &mission_id=9123
 # Koth combos island &mission_id=9129
+# 4-2 louise 9223
+mission_id=9223
+
+for i in `seq 1 $count`
+do
+  curl -s 'https://cb-live.synapsegames.com/api.php?message=startMission&user_id='$user_id \
+    --data 'password='$password_hash'&auto_battle='$auto_battle'&target_user_id=0&mission_id='$mission_id \
+     | jq . | tee o-adventure_battle | jq ".battle_data.results[] | .opponent.name,.winner" | paste - - | wc -l
+done
+
+
 
