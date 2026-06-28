@@ -46,4 +46,17 @@ jq -r '.[] | [
 
 echo "wrote cards-w-meta"
 
+# extract per-level power for cards that have any non-zero power
+# format: <id> <level> <power>
+jq -r '.[] |
+  . as $c |
+  ([$c.power // 0] + [($c.upgrade // [])[] | .power // 0] | max) as $max |
+  if $max > 0 then
+    ["\($c.id) 1 \($c.power // 0)"],
+    [($c.upgrade // [])[] | "\($c.id) \(.level) \(.power // 0)"]
+    | .[]
+  else empty end' /tmp/card_data.json | sort > cards-w-power
+
+echo "wrote cards-w-power"
+
 

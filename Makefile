@@ -22,4 +22,4 @@ gen_cm:
 cm: cards deck gen_cm
 
 clean:
-	rm	-f cards-w-id-and-rarity cards-w-meta units-w-levels ids-with-cm vars meta_vars o-* Combos/ComboMasteryLevels Combos/ComboMasteryTokens
+	rm	-f cards-w-id-and-rarity cards-w-meta cards-w-power units-w-levels ids-with-cm vars meta_vars power_vars o-* Combos/ComboMasteryLevels Combos/ComboMasteryTokens

@@ -52,6 +52,14 @@ do
 done
 source meta_vars
 
+# caching per-level power: power_110249_18=128
+echo "" > power_vars
+cat cards-w-power | while read id lvl pwr
+do
+  echo power_${id}_${lvl}=${pwr} >> power_vars
+done
+source power_vars
+
 for i in `cat units-w-levels`
 do
 
@@ -82,7 +90,14 @@ do
   meta_key=meta_${unit_id}
   meta="${!meta_key}"
 
+  power_key=power_${unit_id}_${lvl}
+  pwr="${!power_key}"
+
   #echo "unit:$unit name:$name: lvl:$lvl rare:$rarity"
-  echo "$color $name: $stars $meta"
+  if [ -n "$pwr" ] && [ "$pwr" != "0" ]; then
+    echo "$color $name: $stars $meta $pwr"
+  else
+    echo "$color $name: $stars $meta"
+  fi
 
 done 
