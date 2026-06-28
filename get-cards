@@ -27,7 +27,7 @@ jq -r '.[] | .id,.rarity,.name' /tmp/card_data.json | paste -d " " - - - \
 echo "wrote $t"
 
 # also extract show (type) and card category for use in gen-cards
-# format: <id> <show> <cat>   e.g.  10001 FG chr
+# format: <id> <show> <cat>   e.g.  10001 FG char
 jq -r '.[] | [
   .id,
   (if   .type == "1" then "FG"
@@ -38,7 +38,7 @@ jq -r '.[] | [
    elif .type == "6" then "gen"
    elif .type == "7" then "Archer"
    else "?" end),
-  (if   .card_type == "character"  then "chr"
+  (if   .card_type == "character"  then "char"
    elif .card_type == "final_form" then "PC"
    else "item" end),
   (.trait // [] | join("/"))
