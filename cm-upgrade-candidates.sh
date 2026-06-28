@@ -32,10 +32,11 @@ declare -A eligible
 
 while IFS= read -r line; do
     count=$(awk '{print $1}' <<< "$line")
-    ranking=$(awk '{print $NF}' <<< "$line")
+    # ranking is now the field after the last ":" — format: "... Name: 6** FG combo"
+    ranking=$(sed 's/.*: //' <<< "$line" | awk '{print $1}')
     [ "$ranking" = "6**" ] || continue
     [ "$count" -gt 1 ] 2>/dev/null || continue
-    name=$(sed 's/^ *[0-9]* [A-Z] //; s/: 6\*\*$//' <<< "$line")
+    name=$(sed 's/^ *[0-9]* [A-Z] //; s/: 6\*\* .*$//' <<< "$line")
     eligible["$name"]=$count
 done < Decks/CARDS
 
@@ -51,5 +52,6 @@ while IFS='|' read -r cm_level name stones _; do
     can_upgrade "$cm_level" "$stones" || continue
 
     cost=$(upgrade_cost "$cm_level")
-    echo "${eligible[$name]} | $name | CM $cm_level -> $((cm_level + 1)) (have $stones, need $cost)"
+    #echo "${eligible[$name]} | $name | CM $cm_level -> $((cm_level + 1)) (have $stones, need $cost)"
+    echo "$name | CM $cm_level -> $((cm_level + 1)) (have $stones, need $cost)"
 done < Combos/ComboMastery | sort -t'|' -k2

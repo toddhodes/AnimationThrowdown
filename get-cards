@@ -18,10 +18,32 @@ card_data_url=`curl -s 'https://cb-live.synapsegames.com/api.php?message=getStat
     | jq -r '.static_files.card_data'`
 echo "card data url: $card_data_url"
 
-# CDN file is a dict keyed by card id (no auth needed)
-curl -s "$card_data_url" | jq -r '.[] | .id,.rarity,.name' | paste -d " " - - - \
+# CDN file is a dict keyed by card id (no auth needed); cache locally for dual extraction
+curl -s "$card_data_url" > /tmp/card_data.json
+
+jq -r '.[] | .id,.rarity,.name' /tmp/card_data.json | paste -d " " - - - \
     | cut -d" " -f1,2,3- | sed 's/ $//' | sort | uniq > $t
 
 echo "wrote $t"
+
+# also extract show (type) and card category for use in gen-cards
+# format: <id> <show> <cat>   e.g.  10001 FG chr
+jq -r '.[] | [
+  .id,
+  (if   .type == "1" then "FG"
+   elif .type == "2" then "AD"
+   elif .type == "3" then "BB"
+   elif .type == "4" then "KotH"
+   elif .type == "5" then "FT"
+   elif .type == "6" then "gen"
+   elif .type == "7" then "Archer"
+   else "?" end),
+  (if   .card_type == "character"  then "chr"
+   elif .card_type == "final_form" then "PC"
+   else "item" end),
+  (.trait // [] | join("/"))
+] | map(select(. != "")) | join(" ")' /tmp/card_data.json | sort | uniq > cards-w-meta
+
+echo "wrote cards-w-meta"
 
 

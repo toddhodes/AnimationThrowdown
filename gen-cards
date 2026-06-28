@@ -42,16 +42,26 @@ do
 done
 source vars
 
+# caching show/category metadata: meta_10003="FG obj"
+echo "" > meta_vars
+cat cards-w-meta | while read i
+do
+  unit=${i%% *}
+  rest=${i#* }
+  echo meta_${unit}="\"$rest\"" >> meta_vars
+done
+source meta_vars
+
 for i in `cat units-w-levels`
 do
 
   ## 10001-18-null
 
-  unit=${i%%-*}
+  unit_id=${i%%-*}
   end=${i#*-}
   lvl=${end%%-*}
 
-  key=unit_${unit}
+  key=unit_${unit_id}
   unit="${!key}"
 
   secondtwo=${unit#* *}
@@ -69,7 +79,10 @@ do
 
   stars=`toStars $rarity $lvl`
 
+  meta_key=meta_${unit_id}
+  meta="${!meta_key}"
+
   #echo "unit:$unit name:$name: lvl:$lvl rare:$rarity"
-  echo "$color $name: $stars"
+  echo "$color $name: $stars $meta"
 
 done 
