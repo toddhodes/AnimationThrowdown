@@ -629,7 +629,7 @@
 4 | Interior Decorator | 10
 4 | Jetpack Kick Leela | 30
 4 | Last Photo Kif
-4 | Life Drawing Hayley | 40
+4 | Life Drawing Hayley
 4 | Louise Chatterteeth
 4 | Love Potion | 40
 4 | Luxury Yacht | 5
@@ -661,7 +661,7 @@
 4 | Spray Paint Chris | 35
 4 | Study Session | 5
 4 | Stuffed Alligator | 40
-4 | Sucker Punch Cotton | 20
+4 | Sucker Punch Cotton | 35
 4 | Super Dance Squad | 30
 4 | Super Food Jeff | 15
 4 | Supercomputer Destruction
@@ -676,11 +676,12 @@
 4 | Very Sloshed
 4 | Working Girl Tina | 25
 4 | Zoidberg vs Bot | 40
+3 | 'Cyril' | 15
 3 | 'Malory' | 60
 3 | 3rd Grade Hayley | 10
 3 | 60s Amy | 25
 3 | ATV Kahn
-3 | Action Delivery Force Zoidberg
+3 | Action Delivery Force Zoidberg | 15
 3 | Adult Gamer Bobby | 5
 3 | All Hail Mom | 5
 3 | BABOU!!!! | 75
@@ -721,7 +722,7 @@
 3 | Jungle Spider | 10
 3 | Karate Stewie | 25
 3 | Klepto Bender | 5
-3 | Kumite Fighter Cyril
+3 | Kumite Fighter Cyril | 30
 3 | Laser Tag Quagmire | 75
 3 | Master Robaire | 25
 3 | My Little Tammy | 70
@@ -936,7 +937,6 @@
 2 | Wicked Mom | 5
 2 | Will of a Housewife | 100
 2 | Yacht Dreams
-1 | 'Cyril' | 40
 1 | 71 Ounce Beef Bobby | 125
 1 | ABC Quagmire | 45
 1 | Abstract Jeff | 20
@@ -1191,6 +1191,7 @@
 0 | Nun Francine | 130
 0 | Monkey Spank Gene | 130
 0 | Money Retriever | 130
+0 | Mom's Fury | 130
 0 | Mind Switcher Amy | 130
 0 | Maxi Paddy | 130
 0 | Maracas Peter | 130
@@ -1239,7 +1240,6 @@
 0 | Roach Coach Roger | 110
 0 | Private Collection | 110
 0 | Poppler Activist | 110
-0 | Mom's Fury | 110
 0 | Human Flesh Salesman | 110
 0 | Blernsball Fry | 110
 0 | Workout Klaus | 105
@@ -1419,12 +1419,14 @@
 0 | Circusitis Hermes | 30
 0 | Cinderella Lois | 30
 0 | Christian Rock | 30
+0 | Bureaucrat Song | 30
 0 | Bunny Brian | 30
 0 | Boss Hank | 30
 0 | Bob in the Wall | 30
 0 | Beer Decision Boomhauer | 30
 0 | Becky | 30
 0 | Artsy Roger | 30
+0 | Alpha Yak Stan | 30
 0 | 50K Jeff | 30
 0 | $300 Knife | 30
 0 | Propaniac Luanne | 25
@@ -1489,4 +1491,4 @@
 0 | No Escape Lrrr | 5
 0 | Just Mow a Lawn | 5
 0 | Bounty Hunter Roger | 5
-1102250 | Mastery Stone
+1178400 | Mastery Stone
