@@ -8,6 +8,7 @@
 5 | Agent Kazak
 5 | All-In Lrrr | 5
 5 | Amped Tammy
+5 | Andre the Giant 3000
 5 | Anger Management Class
 5 | Angry Bullock
 5 | Angry Pizza Mayor West | 5
@@ -95,6 +96,7 @@
 5 | Cat Dragon Gayle
 5 | Cat Fight Hayley
 5 | Ceramics Gene
+5 | Chainsaw Spider
 5 | Cham-Pag-En Zapp
 5 | Chamber of Understanding
 5 | Champagne Toast Fry
@@ -307,6 +309,7 @@
 5 | Leela Balloon Art
 5 | Lenore the Iguana
 5 | Let's Go Fart
+5 | Life Drawing Hayley
 5 | Lights Out Snot
 5 | Limo Bob
 5 | Little King Trashmouth
@@ -590,7 +593,6 @@
 5 | Zapp Figurines
 5 | Zinc Saucier
 5 | Zombie Jimmy Jr.
-4 | Andre the Giant 3000 | 10
 4 | Art Student
 4 | Artsy Steve | 15
 4 | Bahama Mama | 10
@@ -629,7 +631,6 @@
 4 | Interior Decorator | 10
 4 | Jetpack Kick Leela | 30
 4 | Last Photo Kif
-4 | Life Drawing Hayley
 4 | Louise Chatterteeth
 4 | Love Potion | 40
 4 | Luxury Yacht | 5
@@ -646,7 +647,7 @@
 4 | Record Holder Stan | 10
 4 | Reflection
 4 | Robot Dance | 5
-4 | Robot Rumble
+4 | Robot Rumble | 35
 4 | Rock Star Zeke | 10
 4 | S and M Lois | 5
 4 | Sandwitch | 15
@@ -681,7 +682,7 @@
 3 | 3rd Grade Hayley | 10
 3 | 60s Amy | 25
 3 | ATV Kahn
-3 | Action Delivery Force Zoidberg | 15
+3 | Action Delivery Force Zoidberg | 35
 3 | Adult Gamer Bobby | 5
 3 | All Hail Mom | 5
 3 | BABOU!!!! | 75
@@ -720,7 +721,8 @@
 3 | Jellybean Phone Klaus | 30
 3 | Jungle Machete | 25
 3 | Jungle Spider | 10
-3 | Karate Stewie | 25
+3 | Junk Food Klaus | 75
+3 | Karate Stewie | 55
 3 | Klepto Bender | 5
 3 | Kumite Fighter Cyril | 30
 3 | Laser Tag Quagmire | 75
@@ -732,11 +734,12 @@
 3 | Outlaw Rogu | 5
 3 | Painter Zoidberg | 5
 3 | Paper Mache Pear | 60
+3 | Pathetic Villain
 3 | Pig Calendar Luanne | 25
 3 | Plastic Bat Hank | 25
 3 | Plops | 10
 3 | Privacy Singing Amy
-3 | Put Out The Fire | 15
+3 | Put Out The Fire | 20
 3 | QB Boomhauer | 75
 3 | Rapture Stan | 30
 3 | Robot Devil's Hands
@@ -788,7 +791,6 @@
 2 | Celebeartions | 100
 2 | Cello Joe | 25
 2 | Censor Stan | 100
-2 | Chainsaw Spider | 100
 2 | Cheerleader Peggy | 80
 2 | Cheerleader Tammy | 15
 2 | Chris Painting
@@ -841,7 +843,6 @@
 2 | Instructional Video Stewie | 15
 2 | JJu Rodeo Zeke | 5
 2 | Jungle Snake | 5
-2 | Junk Food Klaus | 100
 2 | Kawaii Klaus | 100
 2 | Keyboardist Gayle | 5
 2 | Kidnapped Quagmire | 5
@@ -874,7 +875,6 @@
 2 | Paddler Jeff
 2 | Paddlin' Peggy | 100
 2 | Pan Flute Stewie | 70
-2 | Pathetic Villain
 2 | Positron Shooter Fry | 40
 2 | Principal Louise | 20
 2 | Professor Rogu | 25
@@ -930,8 +930,9 @@
 2 | Upstream Chris | 100
 2 | Vengeance Quagmire | 100
 2 | Victory Dance | 40
+2 | Viscount Carter | 5
 2 | Walkman Boomhauer
-2 | War Paint Kif | 70
+2 | War Paint Kif | 100
 2 | Wheels Steve | 100
 2 | Whiskey Cotton | 100
 2 | Wicked Mom | 5
@@ -1015,7 +1016,7 @@
 1 | Fashion Show Toshi | 125
 1 | Firefighter Bill | 130
 1 | Flag Defender | 125
-1 | Fowl Fighter Linda | 60
+1 | Fowl Fighter Linda | 90
 1 | Francine Bird Duet | 30
 1 | Freezerdome Linda | 35
 1 | Fruit Basket Cotton
@@ -1111,6 +1112,7 @@
 1 | Scooty-Puff Jr | 100
 1 | Scuba Krieger
 1 | Server Luanne | 60
+1 | Sexy Cat | 125
 1 | Sherlock Zoidberg | 60
 1 | Shiny Pebbles | 125
 1 | Sing and Swing | 30
@@ -1176,7 +1178,6 @@
 0 | Slurm Queen | 130
 0 | Skydiving Hank | 130
 0 | Sexy Lifeguard | 130
-0 | Sexy Cat | 130
 0 | Screen Repairer | 130
 0 | Robot House | 130
 0 | Robot Arms Bender | 130
@@ -1296,6 +1297,7 @@
 0 | Paranoid Louise | 65
 0 | Painter Francine | 65
 0 | Makeover Louise | 65
+0 | Knight Louise | 65
 0 | Cowboy Kahn | 65
 0 | Young Hermes | 60
 0 | Umphauer | 60
@@ -1321,6 +1323,7 @@
 0 | Booby Checklist | 60
 0 | Baby Bender | 60
 0 | Aversion Therapy | 60
+0 | $300 Knife | 60
 0 | Summer Lovin | 55
 0 | Oktoberfest Fry | 55
 0 | Galapagos Tortoise | 55
@@ -1428,18 +1431,18 @@
 0 | Artsy Roger | 30
 0 | Alpha Yak Stan | 30
 0 | 50K Jeff | 30
-0 | $300 Knife | 30
 0 | Propaniac Luanne | 25
 0 | Projectile Lewis | 25
 0 | Low Leg Lollipops | 25
-0 | Knight Louise | 25
 0 | King Roger | 25
+0 | Buy Yourself Something Nice | 25
 0 | Buffed Up Barry | 25
 0 | Bucking Buggalo Leela | 25
 0 | Bayonet Cotton | 25
 0 | Wrestler Amy | 20
 0 | Tammy on Vocals | 20
 0 | Sister Peter | 20
+0 | Lucky Panties Fight | 20
 0 | Lou Belchera | 20
 0 | Green Russians | 20
 0 | Girl-Crazy Joseph | 20
@@ -1454,6 +1457,7 @@
 0 | Dance Outburst | 15
 0 | Dance Flrrr Lrrr | 15
 0 | Wired Stewie | 10
+0 | Wild West Fischoeder | 10
 0 | Space Pistol Bender | 10
 0 | Sketchy Bus Driver | 10
 0 | Sherlock Mort | 10
@@ -1490,5 +1494,6 @@
 0 | Oil Drum Jeff | 5
 0 | No Escape Lrrr | 5
 0 | Just Mow a Lawn | 5
+0 | Fischoeder Champagne Shower | 5
 0 | Bounty Hunter Roger | 5
-1178400 | Mastery Stone
+1194750 | Mastery Stone
