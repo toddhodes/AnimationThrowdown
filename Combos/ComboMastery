@@ -629,6 +629,7 @@
 4 | Horror Story Frond | 20
 4 | Inappropriate Erection | 25
 4 | Interior Decorator | 10
+4 | Itsy Bitsy Rogu
 4 | Jetpack Kick Leela | 30
 4 | Last Photo Kif
 4 | Louise Chatterteeth
@@ -640,6 +641,7 @@
 4 | Newlyweds | 20
 4 | Pan-fully Prepared Bobby
 4 | Party Board | 35
+4 | Pathetic Villain
 4 | Perfect Husband
 4 | Poppler Addict Leela | 30
 4 | Prince-ipal Lewis | 5
@@ -677,7 +679,7 @@
 4 | Very Sloshed
 4 | Working Girl Tina | 25
 4 | Zoidberg vs Bot | 40
-3 | 'Cyril' | 15
+3 | 'Cyril'
 3 | 'Malory' | 60
 3 | 3rd Grade Hayley | 10
 3 | 60s Amy | 25
@@ -717,7 +719,6 @@
 3 | History Test Chris | 25
 3 | Horse Whisperer Joe | 5
 3 | Ira | 20
-3 | Itsy Bitsy Rogu | 35
 3 | Jellybean Phone Klaus | 30
 3 | Jungle Machete | 25
 3 | Jungle Spider | 10
@@ -734,7 +735,6 @@
 3 | Outlaw Rogu | 5
 3 | Painter Zoidberg | 5
 3 | Paper Mache Pear | 60
-3 | Pathetic Villain
 3 | Pig Calendar Luanne | 25
 3 | Plastic Bat Hank | 25
 3 | Plops | 10
@@ -1220,6 +1220,7 @@
 0 | Cubert Farnsworth | 130
 0 | Butt Closet | 130
 0 | Burger Mascot | 130
+0 | Bondage Klaus | 130
 0 | Bird Brain Barry | 130
 0 | Big Bad Brian | 130
 0 | Beer Funnel Peter | 130
@@ -1255,7 +1256,6 @@
 0 | Francine Roger | 100
 0 | Dancing Teddy | 100
 0 | Cheerleader Lois | 100
-0 | Bondage Klaus | 100
 0 | Bandit Bob | 100
 0 | Mayor Adam We | 95
 0 | Sperm Rider | 90
@@ -1321,6 +1321,7 @@
 0 | Chest Harpoon | 60
 0 | Can't Get Clean | 60
 0 | Booby Checklist | 60
+0 | Bass Pro Hank | 60
 0 | Baby Bender | 60
 0 | Aversion Therapy | 60
 0 | $300 Knife | 60
@@ -1356,7 +1357,6 @@
 0 | Dodgeball Meg | 40
 0 | Breakfast TV Workout | 40
 0 | Board Game Bobby | 40
-0 | Bass Pro Hank | 40
 0 | Witch Energy Toshi | 35
 0 | Self Portrait Kahn | 35
 0 | Paintball Bill | 35
@@ -1444,6 +1444,7 @@
 0 | Sister Peter | 20
 0 | Lucky Panties Fight | 20
 0 | Lou Belchera | 20
+0 | Lady Bobbenstein | 20
 0 | Green Russians | 20
 0 | Girl-Crazy Joseph | 20
 0 | Ex-Chicken Scruffy | 20
@@ -1473,7 +1474,6 @@
 0 | Model Builder Roger | 10
 0 | Mission Control Chris | 10
 0 | Leegola | 10
-0 | Lady Bobbenstein | 10
 0 | Hurdles Bobby | 10
 0 | Gun Club President | 10
 0 | Guitar Practice Peggy | 10
@@ -1496,4 +1496,5 @@
 0 | Just Mow a Lawn | 5
 0 | Fischoeder Champagne Shower | 5
 0 | Bounty Hunter Roger | 5
-1194750 | Mastery Stone
+0 | Black Market Lrrr | 5
+1202400 | Mastery Stone
