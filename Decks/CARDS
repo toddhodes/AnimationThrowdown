@@ -74,7 +74,7 @@
    1 L Airpod Mort: 1 BB PC toy 94
    1 L Airport Taxi: 1 Archer item vehicle 80
   10 L Airport Taxi: 6** Archer item vehicle 112
-   5 L Alamo Beer: 1 KotH item drunk 70
+   6 L Alamo Beer: 1 KotH item drunk 70
    5 L Alamo ID: 1 KotH item drunk 71
    9 L Alamo Merch: 6** KotH item drunk 98
    2 L Albino Rhino: 1 AD item animal 80
@@ -218,8 +218,8 @@
    2 L Bazooka Shark Fan Francine: 1 AD PC athletic 94
    8 L Bazooka Shark Fan Francine: 6** AD PC athletic 128
    2 L Bazooka Shark Fan Stan: 1 AD PC athletic 94
-   6 L Beach Brawl: 1 FG item fighter 84
-   6 L Beach Brawl: 6** FG item fighter 116
+   3 L Beach Brawl: 1 FG item fighter 84
+   7 L Beach Brawl: 6** FG item fighter 116
    2 L Bed and Breakfast: 1 BB PC food 94
    4 L Bed and Breakfast: 6** BB PC food 128
    1 L Bedtime Doll Hayley: 1 AD PC toy 47
@@ -293,7 +293,7 @@
    1 L Bleakened Gene: 1 BB PC armed 76
    2 L Bleakened Gene: 6** BB PC armed 117
    1 L Blernsball Fry: 1 FT PC athletic 81
-   1 L Blernsball: 1 FT item athletic 70
+   2 L Blernsball: 1 FT item athletic 70
   10 L Blernsball: 6** FT item athletic 98
    2 L Bloody Mary Mix: 1 KotH PC drunk 49
    4 L Bloody Mary Mix: 6** KotH PC drunk 98
@@ -498,7 +498,7 @@
    3 L Carter: 1* FG char rich 66
   13 L Carter: 6** FG char rich 94
    1 L Cartography Seamus: 1 FG PC educated 94
-   1 L Cartoon Rush Hour: 1 AD item vehicle 75
+   2 L Cartoon Rush Hour: 1 AD item vehicle 75
    5 L Cartoon Rush Hour: 6** AD item vehicle 103
    1 L Cash Stacked Peter: 1 FG PC rich 94
    1 L Cash Stacked Peter: 6** FG PC rich 128
@@ -537,7 +537,7 @@
    1 L Cheesers: 2* AD item animal 90
    1 L Cheesers: 6** AD item animal 108
    1 L Chef Cat Binge: 6** BB PC drunk 105
-  10 L Chemistry Teacher Peggy: 1 KotH item educated 70
+  11 L Chemistry Teacher Peggy: 1 KotH item educated 70
    2 L Cherlene Album Cover: 1 Archer item musical 80
    1 L Cherlene Album Cover: 6** Archer item musical 112
   30 L Cheryl: 1 Archer char 54
@@ -654,7 +654,7 @@
    2 L Crack Bait: 1 KotH item hyper 84
    3 L Crack Bait: 6** KotH item hyper 116
    2 L Crack hyper Fish: 6** KotH PC hyper 106
-   1 L Crack: 1 AD item hyper 70
+   2 L Crack: 1 AD item hyper 70
    3 L Crackers: 6** Archer PC animal 128
    2 L Cranberry Bog: 1 BB PC hyper 52
    3 L Cranberry Bog: 6** BB PC hyper 109
@@ -752,6 +752,7 @@
   20 L Do The Splits: 1 FT item athletic 75
    2 L Do The Splits: 6** FT item athletic 103
    1 L Dodgeball Steve: 6** AD PC athletic 128
+   1 L Dodgeball: 1 BB item athletic 70
    8 L Dodgeball: 6** BB item athletic 97
    1 L Dog Costume Bullock: 1 AD PC animal 94
    1 L Dog Costume Bullock: 6** AD PC animal 128
@@ -1071,7 +1072,7 @@
    1 L Goth Bullock: 6** AD PC disguised 128
    2 L Goth Dance Fighting: 1 AD item fighter 70
    2 L Goth Dance Fighting: 6** AD item fighter 98
-   1 L Graduation Speech: 1 FG item educated 84
+   2 L Graduation Speech: 1 FG item educated 84
    1 L Graduation Speech: 6** FG item educated 116
    2 L Graffiti Mural: 1 AD item artistic 70
    1 L Graffiti Mural: 2* AD item artistic 78
@@ -1339,14 +1340,14 @@
    2 L K Pop Peter: 6** FG PC musical 106
    1 L K Pop Video: 1 FG item musical 70
    9 L K Pop Video: 6** FG item musical 98
-   1 L Kahn Portrait: 1 KotH item artistic 76
+   2 L Kahn Portrait: 1 KotH item artistic 76
    1 L Kahn Portrait: 6* KotH item artistic 96
    3 L Kahn's Pills: 1 KotH PC hyper 94
    2 L Kahn's Pills: 6** KotH PC hyper 128
   20 L Kahn: 1 KotH char 54
    1 L Kahn: 1* KotH char 68
   12 L Kahn: 6** KotH char 94
-   8 L Karaoke Kahn: 1 KotH item musical 70
+   9 L Karaoke Kahn: 1 KotH item musical 70
    3 L Karaoke Morbo: 1 FT item musical 70
    1 L Karaoke Morbo: 1* FT item musical 80
    6 L Karaoke Morbo: 6** FT item musical 98
@@ -1479,7 +1480,7 @@
    2 L Lip Art Gayle: 6** BB PC artistic 128
    1 L Little King Trashmouth: 1 BB PC animal 52
    1 L Little King Trashmouth: 6* BB PC animal 81
-   2 L Lobster Shack Hayley: 1 AD PC food 94
+   3 L Lobster Shack Hayley: 1 AD PC food 94
    4 L Lobster Shack Hayley: 6** AD PC food 128
    1 L Lobster Wedding: 1 BB PC rich 58
    3 L Loft Party Painter: 1 BB item artistic 84
@@ -1760,7 +1761,7 @@
    1 L Oil Drum Jeff: 1 AD PC musical 94
    3 L Oil Receipts: 1 KotH PC rich 53
    6 L Oil Receipts: 6** KotH PC rich 106
-   5 L Oil Spill: 1 BB item musical 73
+   6 L Oil Spill: 1 BB item musical 73
    2 L Oil Spill: 6** BB item musical 104
    7 L Oktober Brau: 6** FT item drunk 98
    1 L Oktoberfest Hermes: 1 FT PC drunk 49
@@ -1935,7 +1936,7 @@
    5 L Poison Pen: 1** Archer item armed 100
    4 L Poison Pen: 6** Archer item armed 108
   11 L Poker Night Cheryl: 6** Archer PC toy 128
-   1 L Poker Winnings: 1 FT item rich 70
+   2 L Poker Winnings: 1 FT item rich 70
    9 L Poker Winnings: 6** FT item rich 98
    2 L Pole Dance Jeff: 1 AD PC musical 90
    9 L Police Cars: 1 FG item vehicle 70
@@ -2347,7 +2348,7 @@
    4 L Snot Rocket: 1 AD item fighter 70
    1 L Snot and Dreidal: 1 AD PC animal 71
    9 L Snot and Dreidal: 6** AD PC animal 115
-  39 L Snot: 1 AD char 54
+  40 L Snot: 1 AD char 54
   17 L Snot: 6** AD char 94
    4 L Snow Truck: 1 Archer item vehicle 80
    4 L Snow Truck: 6** Archer item vehicle 112
@@ -2589,7 +2590,7 @@
    1 L Tina's Fantasy: 1 BB PC animal 94
    1 L Tina's Fantasy: 2* BB PC animal 107
    1 L Tina-Rannosaurus Wrecks: 2* BB PC vehicle 66
-  24 L Tina: 1 BB char 54
+  25 L Tina: 1 BB char 54
   18 L Tina: 6** BB char 94
    1 L Tinfoil: 1 FT item drunk 69
    1 L Tinfoil: 2* FT item drunk 82
@@ -2780,7 +2781,7 @@
    2 L Wine Bucket: 1 FT item drunk 70
    1 L Wine Bucket: 6** FT item drunk 98
    3 L Wine Extinguisher Kif: 1 FT PC drunk 94
-   5 L Wine For Dick: 1 FT item drunk 75
+   6 L Wine For Dick: 1 FT item drunk 75
    3 L Wine For Dick: 6** FT item drunk 103
    3 L Wine Paint Cleveland: 1 FG PC artistic 94
    8 L Wine Paint Cleveland: 6** FG PC artistic 128

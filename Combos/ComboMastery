@@ -155,6 +155,7 @@
 5 | Devil Hank
 5 | Diaper Doll Linda
 5 | Diarama Gene
+5 | Dictator Roger
 5 | Diner Shift Peter
 5 | Dinner Wine Bob
 5 | Dodgeball Louise
@@ -594,6 +595,7 @@
 5 | Zinc Saucier
 5 | Zombie Jimmy Jr.
 4 | 'Cyril'
+4 | Action Delivery Force Zoidberg
 4 | Art Student
 4 | Artsy Steve | 15
 4 | Bahama Mama | 10
@@ -611,7 +613,6 @@
 4 | Crackers | 35
 4 | Crime Addict Joe
 4 | Crouching Tiger Hidden West | 25
-4 | Dictator Roger | 40
 4 | Dog Lois | 5
 4 | Doghouse Bobby | 40
 4 | Dr. C | 5
@@ -684,7 +685,6 @@
 3 | 3rd Grade Hayley | 10
 3 | 60s Amy | 25
 3 | ATV Kahn
-3 | Action Delivery Force Zoidberg | 35
 3 | Adult Gamer Bobby | 5
 3 | All Hail Mom | 5
 3 | BABOU!!!! | 75
@@ -898,6 +898,7 @@
 2 | Secret Beer Dale | 5
 2 | Serious Runner Brian | 50
 2 | Sex Ed Teacher | 10
+2 | Sexy Cat | 100
 2 | Sexy Dance Fighting
 2 | Shower Curtain Gayle | 10
 2 | Sibling Portrait | 5
@@ -966,6 +967,7 @@
 1 | Beta Beer Chug | 75
 1 | Betsy | 125
 1 | Bike Talk Joseph | 20
+1 | Black Market Lrrr | 5
 1 | Bobsled Hermes | 50
 1 | Body Paint Date | 125
 1 | Book Lover Gayle
@@ -1001,6 +1003,7 @@
 1 | Dog Costume Bullock
 1 | Dog Meg | 10
 1 | Dojo Cleveland | 90
+1 | Dragon Costume | 5
 1 | Drunk Jeff | 60
 1 | Duck-ulon | 20
 1 | Duh-Vinci Farnsworth | 125
@@ -1112,7 +1115,7 @@
 1 | Scooty-Puff Jr | 100
 1 | Scuba Krieger
 1 | Server Luanne | 60
-1 | Sexy Cat | 125
+1 | Sexy Lifeguard | 130
 1 | Sherlock Zoidberg | 60
 1 | Shiny Pebbles | 125
 1 | Sing and Swing | 30
@@ -1131,6 +1134,7 @@
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 125
 1 | Spray and Pray | 10
+1 | Spy Brian | 60
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 65
 1 | Swim Teacher Bob | 90
@@ -1177,7 +1181,6 @@
 0 | Sniper Zoidberg | 130
 0 | Slurm Queen | 130
 0 | Skydiving Hank | 130
-0 | Sexy Lifeguard | 130
 0 | Screen Repairer | 130
 0 | Robot House | 130
 0 | Robot Arms Bender | 130
@@ -1222,7 +1225,6 @@
 0 | Burger Mascot | 130
 0 | Bondage Klaus | 130
 0 | Bird Brain Barry | 130
-0 | Big Bad Brian | 130
 0 | Beer Funnel Peter | 130
 0 | Armadillo Boomhauer | 130
 0 | 80s Peter | 130
@@ -1233,6 +1235,7 @@
 0 | Jazz hands | 125
 0 | Diplomatic Immunity | 125
 0 | Cat Dragon | 125
+0 | Big Bad Brian | 125
 0 | Too High to Drive | 120
 0 | Powderpuff | 120
 0 | Rambo Lois | 115
@@ -1303,7 +1306,6 @@
 0 | Umphauer | 60
 0 | The Mortian | 60
 0 | Steve Crossing the Alps | 60
-0 | Spy Brian | 60
 0 | Solid Gold Tuxedo | 60
 0 | Sidearm Brian | 60
 0 | Roger in Disguise | 60
@@ -1495,7 +1497,5 @@
 0 | No Escape Lrrr | 5
 0 | Just Mow a Lawn | 5
 0 | Fischoeder Champagne Shower | 5
-0 | Dragon Costume | 5
 0 | Bounty Hunter Roger | 5
-0 | Black Market Lrrr | 5
-1200450 | Mastery Stone
+1202050 | Mastery Stone
