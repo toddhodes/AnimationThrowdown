@@ -5,6 +5,8 @@
 # Output: <count> | <card name> | CM <level> -> <level+1> (have <stones>, need <cost>)
 #
 
+echo $0:
+
 can_upgrade() {
     local level=$1 stones=$2
     case $level in
