@@ -84,6 +84,7 @@
 5 | Burger Addict Teddy
 5 | Burger Hermes
 5 | Burgerboss Bob
+5 | Burgers and Fries Louise
 5 | Burobu Addict
 5 | Butt Fever
 5 | CEO Fry
@@ -695,7 +696,6 @@
 3 | Bobsterfest | 75
 3 | Boy Crazy
 3 | Buff Cyril | 10
-3 | Burgers and Fries Louise | 15
 3 | Caricature Art Seamus
 3 | Chef Cat Binge | 75
 3 | Crazy Carter | 10
@@ -900,6 +900,7 @@
 2 | Sex Ed Teacher | 10
 2 | Sexy Cat | 100
 2 | Sexy Dance Fighting
+2 | Sexy Lifeguard | 80
 2 | Shower Curtain Gayle | 10
 2 | Sibling Portrait | 5
 2 | Sleighing Tonight
@@ -908,6 +909,7 @@
 2 | Space Stan | 60
 2 | Spitting Out Beer | 15
 2 | Spray Painter | 100
+2 | Spy Brian | 35
 2 | Stickin' Hank | 5
 2 | Surveillance Mom | 10
 2 | Survival Crafter Hank
@@ -966,6 +968,7 @@
 1 | Benderbrau | 75
 1 | Beta Beer Chug | 75
 1 | Betsy | 125
+1 | Big Bad Brian | 125
 1 | Bike Talk Joseph | 20
 1 | Black Market Lrrr | 5
 1 | Bobsled Hermes | 50
@@ -1115,8 +1118,7 @@
 1 | Scooty-Puff Jr | 100
 1 | Scuba Krieger
 1 | Server Luanne | 60
-1 | Sexy Lifeguard | 130
-1 | Sherlock Zoidberg | 60
+1 | Sherlock Zoidberg | 125
 1 | Shiny Pebbles | 125
 1 | Sing and Swing | 30
 1 | Skating Roger | 25
@@ -1134,7 +1136,6 @@
 1 | Spin Out Louise | 125
 1 | Spirit Bird | 125
 1 | Spray and Pray | 10
-1 | Spy Brian | 60
 1 | Stewie Longlegs | 5
 1 | Street Hockey Brian | 65
 1 | Swim Teacher Bob | 90
@@ -1235,7 +1236,6 @@
 0 | Jazz hands | 125
 0 | Diplomatic Immunity | 125
 0 | Cat Dragon | 125
-0 | Big Bad Brian | 125
 0 | Too High to Drive | 120
 0 | Powderpuff | 120
 0 | Rambo Lois | 115
@@ -1303,6 +1303,7 @@
 0 | Knight Louise | 65
 0 | Cowboy Kahn | 65
 0 | Young Hermes | 60
+0 | Water Gun Steve | 60
 0 | Umphauer | 60
 0 | The Mortian | 60
 0 | Steve Crossing the Alps | 60
@@ -1323,6 +1324,7 @@
 0 | Chest Harpoon | 60
 0 | Can't Get Clean | 60
 0 | Booby Checklist | 60
+0 | Bob Gene | 60
 0 | Bass Pro Hank | 60
 0 | Baby Bender | 60
 0 | Aversion Therapy | 60
@@ -1363,13 +1365,13 @@
 0 | Self Portrait Kahn | 35
 0 | Paintball Bill | 35
 0 | One Eyed Orphan | 35
+0 | Lucky Panties Fight | 35
 0 | Karaoke Night | 35
 0 | Fan Art Jimmy | 35
 0 | Crate Trained Hayley | 35
 0 | ADD Luanne | 35
 0 | Working Song | 30
 0 | Who's a Good Boy | 30
-0 | Water Gun Steve | 30
 0 | Washboard Bill | 30
 0 | Washboard Bender | 30
 0 | Tweaker Peter | 30
@@ -1444,7 +1446,6 @@
 0 | Wrestler Amy | 20
 0 | Tammy on Vocals | 20
 0 | Sister Peter | 20
-0 | Lucky Panties Fight | 20
 0 | Lou Belchera | 20
 0 | Lady Bobbenstein | 20
 0 | Green Russians | 20
@@ -1454,6 +1455,7 @@
 0 | Comfortable Sweater Lewis | 20
 0 | Coast Guard Paint | 20
 0 | Businessman Bender | 20
+0 | Stained Glass Peter | 15
 0 | Passenger Frond | 15
 0 | Lrrr Planet Invasion Guide | 15
 0 | Googly Eyes Zeke | 15
@@ -1498,4 +1500,4 @@
 0 | Just Mow a Lawn | 5
 0 | Fischoeder Champagne Shower | 5
 0 | Bounty Hunter Roger | 5
-1202050 | Mastery Stone
+1159750 | Mastery Stone
