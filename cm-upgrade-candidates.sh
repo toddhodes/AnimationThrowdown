@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# List max-fused legendaries (6**, count > 1) that can advance in Combo Mastery.
+# List any 6** PCs in Decks/CARDS that can advance in Combo Mastery.
 #
 # Output: <count> | <card name> | CM <level> -> <level+1> (have <stones>, need <cost>)
 #
@@ -29,15 +29,16 @@ upgrade_cost() {
     esac
 }
 
-# Build map: name -> count for 6** cards with count > 1
+# Build map: name -> count for any 6** PC card
 declare -A eligible
 
 while IFS= read -r line; do
     count=$(awk '{print $1}' <<< "$line")
-    # ranking is now the field after the last ":" — format: "... Name: 6** FG combo"
-    ranking=$(sed 's/.*: //' <<< "$line" | awk '{print $1}')
+    suffix=$(sed 's/.*: //' <<< "$line")
+    ranking=$(awk '{print $1}' <<< "$suffix")
+    card_type=$(awk '{print $3}' <<< "$suffix")
     [ "$ranking" = "6**" ] || continue
-    [ "$count" -gt 1 ] 2>/dev/null || continue
+    [ "$card_type" = "PC" ] || continue
     name=$(sed 's/^ *[0-9]* [A-Z] //; s/: 6\*\* .*$//' <<< "$line")
     eligible["$name"]=$count
 done < Decks/CARDS
@@ -54,6 +55,7 @@ while IFS='|' read -r cm_level name stones _; do
     can_upgrade "$cm_level" "$stones" || continue
 
     cost=$(upgrade_cost "$cm_level")
-    #echo "${eligible[$name]} | $name | CM $cm_level -> $((cm_level + 1)) (have $stones, need $cost)"
-    echo "$name | CM $cm_level -> $((cm_level + 1)) (have $stones, need $cost)"
+    count=${eligible[$name]}
+    desc=$(./cardAndCmGrep.sh "L $name" | grep 6\\*\\* | sed 's/.*6..//' 2>/dev/null)
+    echo "$count | $name | CM $cm_level -> $((cm_level + 1)) (have $stones, need $cost)  - $desc"
 done < Combos/ComboMastery | sort -t'|' -k2
