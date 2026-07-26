@@ -27,6 +27,7 @@
 5 | Bacon Weight
 5 | Bad Tina
 5 | Badminton Roger
+5 | Bahama Mama
 5 | Ballet Meg
 5 | Balloon Fight
 5 | Balloon Sniper
@@ -63,6 +64,7 @@
 5 | Bon Bon Art
 5 | Bong Rips Francine
 5 | Boob Tube
+5 | Booty Shaking Drunk
 5 | Born Fighter
 5 | Borthday Bash
 5 | Bouldering Bob
@@ -100,8 +102,10 @@
 5 | Chainsaw Spider
 5 | Cham-Pag-En Zapp
 5 | Chamber of Understanding
+5 | Champagne Calculon
 5 | Champagne Toast Fry
 5 | Champagne Toast Leela
+5 | Chef Cat Binge
 5 | Chef Cat Munchies
 5 | Chick-Chicken Chick Fight
 5 | Chicken Fight
@@ -476,6 +480,7 @@
 5 | Sewer Surfer Bender
 5 | Sewer Surfer Fry
 5 | Sexpun T'Come
+5 | Sexy Lifeguard | 5
 5 | Shaken Not Stirred
 5 | Shaving Roosters
 5 | Ship Captain Zapp
@@ -599,7 +604,6 @@
 4 | Action Delivery Force Zoidberg
 4 | Art Student
 4 | Artsy Steve | 15
-4 | Bahama Mama | 10
 4 | Bazooka Shark Fan Francine | 10
 4 | Betting it All
 4 | Bitsy | 35
@@ -614,6 +618,7 @@
 4 | Crackers | 35
 4 | Crime Addict Joe
 4 | Crouching Tiger Hidden West | 25
+4 | Date Wine Zoidberg | 40
 4 | Dog Lois | 5
 4 | Doghouse Bobby | 40
 4 | Dr. C | 5
@@ -627,6 +632,7 @@
 4 | Gayle the Scientist | 5
 4 | Golfing Lois | 5
 4 | Grill Cook | 40
+4 | Groom Dale | 10
 4 | Hank Hill, Running Back | 35
 4 | High Hank | 15
 4 | Horror Story Frond | 20
@@ -691,21 +697,21 @@
 3 | BABOU!!!! | 75
 3 | Bad Boy Kif
 3 | Beer Helmet | 40
+3 | Beta Beer Chug | 25
 3 | Biker Confrontation | 10
 3 | Blueberry Picker | 75
 3 | Bobsterfest | 75
 3 | Boy Crazy
 3 | Buff Cyril | 10
 3 | Caricature Art Seamus
-3 | Chef Cat Binge | 75
 3 | Crazy Carter | 10
 3 | Cultist Mort | 75
-3 | Date Wine Zoidberg | 75
 3 | Debate Club Tina | 10
 3 | Dinner Date Frond
 3 | Drink Point-O Brian
 3 | Drugged Cotton | 25
 3 | Drunk Francine | 5
+3 | Drunk Jeff | 10
 3 | Elegant Dinner Cheryl
 3 | Farnsworth on Skiis | 75
 3 | Fashion Fight | 5
@@ -749,6 +755,7 @@
 3 | Softer Side Carter | 5
 3 | Space Walk | 10
 3 | Spies Like Mayor West | 10
+3 | Spitting Out Beer
 3 | Stupid Songs Carter | 30
 3 | Swim Lesson | 20
 3 | Theater Meg | 30
@@ -781,7 +788,6 @@
 2 | Bleakened Gene | 15
 2 | Bomb Detonator Zapp | 5
 2 | Book Signing Stewie
-2 | Booty Shaking Drunk | 100
 2 | Bowling Team Cheryl | 35
 2 | Burgerboss Jimmy | 5
 2 | Captain Feathers
@@ -854,7 +860,7 @@
 2 | Lifeguard Roger | 105
 2 | Limousine Malory | 5
 2 | Love, Calculon | 15
-2 | Margarita Mix Tammy | 40
+2 | Margarita Mix Tammy | 100
 2 | Marionette Chris | 100
 2 | Marionette Louise | 20
 2 | Medieval Hank
@@ -875,6 +881,7 @@
 2 | Paddler Jeff
 2 | Paddlin' Peggy | 100
 2 | Pan Flute Stewie | 70
+2 | Pick Up Lines | 15
 2 | Positron Shooter Fry | 40
 2 | Principal Louise | 20
 2 | Professor Rogu | 25
@@ -886,6 +893,7 @@
 2 | Quagmire's Cat James | 100
 2 | Ravenous Porcelain Babies
 2 | Ray-Bot | 10
+2 | Redneck Fight | 75
 2 | Rich Leela | 100
 2 | Roach Coach Francine | 100
 2 | Roger Goes Down | 35
@@ -900,14 +908,12 @@
 2 | Sex Ed Teacher | 10
 2 | Sexy Cat | 100
 2 | Sexy Dance Fighting
-2 | Sexy Lifeguard | 80
 2 | Shower Curtain Gayle | 10
 2 | Sibling Portrait | 5
 2 | Sleighing Tonight
 2 | Slick'd Steve | 100
 2 | Space Cadet Chris | 100
 2 | Space Stan | 60
-2 | Spitting Out Beer | 15
 2 | Spray Painter | 100
 2 | Spy Brian | 35
 2 | Stickin' Hank | 5
@@ -966,7 +972,6 @@
 1 | Bender's Electric Eel | 125
 1 | Bender's Weapons
 1 | Benderbrau | 75
-1 | Beta Beer Chug | 75
 1 | Betsy | 125
 1 | Big Bad Brian | 125
 1 | Bike Talk Joseph | 20
@@ -1007,7 +1012,6 @@
 1 | Dog Meg | 10
 1 | Dojo Cleveland | 90
 1 | Dragon Costume | 5
-1 | Drunk Jeff | 60
 1 | Duck-ulon | 20
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 65
@@ -1017,6 +1021,7 @@
 1 | Essay Jeff | 10
 1 | Evil Cat Stan | 5
 1 | Evil Scientist Cheryl | 30
+1 | Ex-Chicken Scruffy | 50
 1 | Eye-Eye Seamus | 5
 1 | Fashion Samurai Zeke | 70
 1 | Fashion Show Toshi | 125
@@ -1033,6 +1038,7 @@
 1 | Gas Class | 65
 1 | Girls Being Girls | 55
 1 | Glass of Wine
+1 | Green Russians | 20
 1 | Griffin and Quagmire | 95
 1 | Groin Kicker
 1 | Groupie Francine | 105
@@ -1055,7 +1061,7 @@
 1 | Jug Blower Bobby
 1 | Keyboard Joe | 125
 1 | Keyboardist Dale | 65
-1 | Kidney Killer | 65
+1 | Kidney Killer | 125
 1 | King Steve | 15
 1 | Knife Sharpener Linda | 125
 1 | Krotchlikniov
@@ -1107,7 +1113,6 @@
 1 | Raleigh St. Augustine | 125
 1 | Ramblin' Rodriguez | 5
 1 | Ready for Santa | 95
-1 | Redneck Fight | 25
 1 | Redneck Ray | 15
 1 | Reenactment Uniform
 1 | Rich Hayley | 45
@@ -1349,7 +1354,6 @@
 0 | Skydiving Peggy | 40
 0 | Show and Tell | 40
 0 | Rocker Bullock | 40
-0 | Pick Up Lines | 40
 0 | Paddle Ball Hank | 40
 0 | Nurse Pam | 40
 0 | Modest Painting | 40
@@ -1369,6 +1373,7 @@
 0 | Karaoke Night | 35
 0 | Fan Art Jimmy | 35
 0 | Crate Trained Hayley | 35
+0 | Beer-O-Clock Scruffy | 35
 0 | ADD Luanne | 35
 0 | Working Song | 30
 0 | Who's a Good Boy | 30
@@ -1419,7 +1424,9 @@
 0 | Emcee Stewie | 30
 0 | El Presidente | 30
 0 | Egg vs Tornado | 30
+0 | Dungeons and Mom | 30
 0 | Drunk Hermes | 30
+0 | Devil Luanne | 30
 0 | Da Vinci's Beard | 30
 0 | Cuddly Little Pet Slinky | 30
 0 | Claw-Plach | 30
@@ -1435,6 +1442,7 @@
 0 | Artsy Roger | 30
 0 | Alpha Yak Stan | 30
 0 | 50K Jeff | 30
+0 | Wild West Fischoeder | 25
 0 | Propaniac Luanne | 25
 0 | Projectile Lewis | 25
 0 | Low Leg Lollipops | 25
@@ -1448,9 +1456,7 @@
 0 | Sister Peter | 20
 0 | Lou Belchera | 20
 0 | Lady Bobbenstein | 20
-0 | Green Russians | 20
 0 | Girl-Crazy Joseph | 20
-0 | Ex-Chicken Scruffy | 20
 0 | Dancing Mort | 20
 0 | Comfortable Sweater Lewis | 20
 0 | Coast Guard Paint | 20
@@ -1462,7 +1468,6 @@
 0 | Dance Outburst | 15
 0 | Dance Flrrr Lrrr | 15
 0 | Wired Stewie | 10
-0 | Wild West Fischoeder | 10
 0 | Space Pistol Bender | 10
 0 | Sketchy Bus Driver | 10
 0 | Sherlock Mort | 10
@@ -1488,16 +1493,18 @@
 0 | Chokehold Cheryl | 10
 0 | Category 5 Sucker | 10
 0 | Butt Slapper Bobby | 10
-0 | Beer-O-Clock Scruffy | 10
 0 | Beer Decision Bill | 10
 0 | Batter Up Bobby | 10
 0 | Banquet Seamus | 10
 0 | Back to School Brian | 10
+0 | All Right Linda | 10
 0 | Quarterback Joseph | 5
 0 | Pastafarian Jimmy Pesto | 5
 0 | Oil Drum Jeff | 5
 0 | No Escape Lrrr | 5
+0 | Margarita Mix Zeke | 5
 0 | Just Mow a Lawn | 5
+0 | Fischoeder Shark Controller | 5
 0 | Fischoeder Champagne Shower | 5
 0 | Bounty Hunter Roger | 5
-1159750 | Mastery Stone
+1343200 | Mastery Stone
