@@ -52,6 +52,7 @@
 5 | Bible Study
 5 | Bill's Vegetable Knife
 5 | Billionaire Fry
+5 | Bitsy
 5 | Bloody Mary Mix
 5 | Blueberry Delivery Girl
 5 | Board Game Brian
@@ -563,6 +564,7 @@
 5 | Tropical Drinks
 5 | Umbriel
 5 | Unsharp Scissors Zapp
+5 | Upstream Chris
 5 | VIP Chris
 5 | VIP Cruise
 5 | VR Gaming Bobby
@@ -606,7 +608,6 @@
 4 | Artsy Steve | 15
 4 | Bazooka Shark Fan Francine | 10
 4 | Betting it All
-4 | Bitsy | 35
 4 | Bookworm Bobby
 4 | Cafeteria Frond | 30
 4 | Calculon's Pride | 5
@@ -696,7 +697,7 @@
 3 | All Hail Mom | 5
 3 | BABOU!!!! | 75
 3 | Bad Boy Kif
-3 | Beer Helmet | 40
+3 | Beer Helmet | 75
 3 | Beta Beer Chug | 25
 3 | Biker Confrontation | 10
 3 | Blueberry Picker | 75
@@ -713,6 +714,7 @@
 3 | Drunk Francine | 5
 3 | Drunk Jeff | 10
 3 | Elegant Dinner Cheryl
+3 | Ex-Chicken Scruffy
 3 | Farnsworth on Skiis | 75
 3 | Fashion Fight | 5
 3 | Fisherman Brian | 10
@@ -727,7 +729,7 @@
 3 | Ira | 20
 3 | Jellybean Phone Klaus | 30
 3 | Jungle Machete | 25
-3 | Jungle Spider | 10
+3 | Jungle Spider | 40
 3 | Junk Food Klaus | 75
 3 | Karate Stewie | 55
 3 | Klepto Bender | 5
@@ -762,7 +764,7 @@
 3 | Theater Meg | 30
 3 | Torah Snot | 20
 3 | Trash Spike Seamus | 10
-3 | Upstream Chris | 75
+3 | Unwanted Horse Bobby | 40
 3 | Video Game Joe | 15
 3 | Whiskey Drunk Brian | 75
 3 | Wine & Paint Quagmire | 75
@@ -806,6 +808,7 @@
 2 | Claw Machine | 20
 2 | Clothes Made of Cash | 70
 2 | Coffee Lover Mort
+2 | Connie and Doggie
 2 | Corporate Training | 35
 2 | Counting Klaus | 50
 2 | Cowboy Kif | 15
@@ -819,6 +822,7 @@
 2 | Draw Me Gene
 2 | Duke
 2 | Dummy Fight | 20
+2 | Dungeons and Mom | 5
 2 | Elf Fight Francine | 100
 2 | Erotic Friend Fiction Tammy | 15
 2 | Family Fracas | 10
@@ -1021,7 +1025,6 @@
 1 | Essay Jeff | 10
 1 | Evil Cat Stan | 5
 1 | Evil Scientist Cheryl | 30
-1 | Ex-Chicken Scruffy | 50
 1 | Eye-Eye Seamus | 5
 1 | Fashion Samurai Zeke | 70
 1 | Fashion Show Toshi | 125
@@ -1172,7 +1175,6 @@
 1 | Zoidberg's Scream | 125
 0 | Zac Sawyer | 130
 0 | War Car | 130
-0 | Unwanted Horse Bobby | 130
 0 | Tranq Gun Steve | 130
 0 | Towel Manager Dale | 130
 0 | Tina-Rannosaurus Wrecks | 130
@@ -1266,6 +1268,7 @@
 0 | Cheerleader Lois | 100
 0 | Bandit Bob | 100
 0 | Mayor Adam We | 95
+0 | Martini Peggy | 95
 0 | Sperm Rider | 90
 0 | Special Guitar Bobby | 90
 0 | Sombrero Cotton | 90
@@ -1282,7 +1285,6 @@
 0 | Clam King Steve | 90
 0 | Top of the Morning | 85
 0 | Shower Drunk Hayley | 85
-0 | Martini Peggy | 85
 0 | Family Tree Steve | 85
 0 | Deer Daddy Steve | 85
 0 | Dance Party Bobby | 85
@@ -1317,6 +1319,7 @@
 0 | Roger in Disguise | 60
 0 | Prof Max Hammer | 60
 0 | Peter Copter Down! | 60
+0 | Party Cup Barry | 60
 0 | Oktoberfest Amy | 60
 0 | Man of the House | 60
 0 | Longhorn Bobby | 60
@@ -1404,6 +1407,7 @@
 0 | Moonshine Roger | 30
 0 | Mascot Race | 30
 0 | Martial Arts Bullock | 30
+0 | Marmalade | 30
 0 | Louise Scissorhands | 30
 0 | Lobbyist Dale | 30
 0 | Limo Driver Roger | 30
@@ -1425,7 +1429,6 @@
 0 | Emcee Stewie | 30
 0 | El Presidente | 30
 0 | Egg vs Tornado | 30
-0 | Dungeons and Mom | 30
 0 | Drunk Hermes | 30
 0 | Devil Luanne | 30
 0 | Da Vinci's Beard | 30
@@ -1440,6 +1443,7 @@
 0 | Bob in the Wall | 30
 0 | Beer Decision Boomhauer | 30
 0 | Becky | 30
+0 | Baseball Peter | 30
 0 | Artsy Roger | 30
 0 | Alpha Yak Stan | 30
 0 | 50K Jeff | 30
@@ -1448,6 +1452,7 @@
 0 | Projectile Lewis | 25
 0 | Low Leg Lollipops | 25
 0 | King Roger | 25
+0 | Connie Orange Rock | 25
 0 | Buy Yourself Something Nice | 25
 0 | Buffed Up Barry | 25
 0 | Bucking Buggalo Leela | 25
@@ -1459,6 +1464,7 @@
 0 | Lady Bobbenstein | 20
 0 | Girl-Crazy Joseph | 20
 0 | Dancing Mort | 20
+0 | Connie the Comet | 20
 0 | Comfortable Sweater Lewis | 20
 0 | Coast Guard Paint | 20
 0 | Businessman Bender | 20
@@ -1476,7 +1482,6 @@
 0 | Say Hello to my Little Bread | 10
 0 | Rocket Launcher Bullock | 10
 0 | Pirate Car Peter | 10
-0 | Party Cup Barry | 10
 0 | Orchestra Snot | 10
 0 | Nude Painting Bullock | 10
 0 | Mustache Gun | 10
@@ -1492,6 +1497,7 @@
 0 | Derby Wife | 10
 0 | Deathrolling | 10
 0 | Chokehold Cheryl | 10
+0 | Cheerleader Connie | 10
 0 | Category 5 Sucker | 10
 0 | Butt Slapper Bobby | 10
 0 | Beer Decision Bill | 10
@@ -1508,4 +1514,4 @@
 0 | Fischoeder Shark Controller | 5
 0 | Fischoeder Champagne Shower | 5
 0 | Bounty Hunter Roger | 5
-1335300 | Mastery Stone
+1320200 | Mastery Stone

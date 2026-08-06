@@ -16,7 +16,7 @@ esac
 # combos island &mission_id=9123
 # Koth combos island &mission_id=9129
 # 4-2 louise 9223
-mission_id=9223
+mission_id=180
 
 for i in `seq 1 $count`
 do
