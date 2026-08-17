@@ -469,6 +469,7 @@
 5 | Rooftop Drunk
 5 | Rubber Knife Peggy
 5 | Rumbledy-Hump Hat Leela
+5 | Salmon Zapp
 5 | Samurai Rage
 5 | Santa Addict Meg
 5 | Santa Bill
@@ -624,6 +625,7 @@
 4 | Doghouse Bobby | 40
 4 | Dr. C | 5
 4 | Draw Me Tina | 10
+4 | Evil Cat Stan | 10
 4 | Fake Daughter Tina | 5
 4 | Flying Machine Stewie | 35
 4 | Frank the Snake | 15
@@ -633,7 +635,7 @@
 4 | Gayle the Scientist | 5
 4 | Golfing Lois | 5
 4 | Grill Cook | 40
-4 | Groom Dale | 10
+4 | Groom Dale | 15
 4 | Hank Hill, Running Back | 35
 4 | High Hank | 15
 4 | Horror Story Frond | 20
@@ -655,7 +657,7 @@
 4 | Perfect Husband
 4 | Poppler Addict Leela | 30
 4 | Prince-ipal Lewis | 5
-4 | Quirky Turkey Zeke | 10
+4 | Quirky Turkey Zeke | 35
 4 | Record Holder Stan | 10
 4 | Reflection
 4 | Robot Dance | 5
@@ -685,6 +687,7 @@
 4 | Tina Bike
 4 | Top Shelf Carter | 5
 4 | Tuxedo Bob | 5
+4 | Unwanted Horse Bobby | 40
 4 | Upgraded Hermes | 5
 4 | Very Sloshed
 4 | Working Girl Tina | 25
@@ -705,6 +708,7 @@
 3 | Boy Crazy
 3 | Buff Cyril | 10
 3 | Caricature Art Seamus
+3 | Connie and Doggie | 25
 3 | Crazy Carter | 10
 3 | Cultist Mort | 75
 3 | Debate Club Tina | 10
@@ -762,9 +766,9 @@
 3 | Stupid Songs Carter | 30
 3 | Swim Lesson | 20
 3 | Theater Meg | 30
+3 | Tony Gerbil | 15
 3 | Torah Snot | 20
 3 | Trash Spike Seamus | 10
-3 | Unwanted Horse Bobby | 40
 3 | Video Game Joe | 15
 3 | Whiskey Drunk Brian | 75
 3 | Wine & Paint Quagmire | 75
@@ -808,7 +812,6 @@
 2 | Claw Machine | 20
 2 | Clothes Made of Cash | 70
 2 | Coffee Lover Mort
-2 | Connie and Doggie
 2 | Corporate Training | 35
 2 | Counting Klaus | 50
 2 | Cowboy Kif | 15
@@ -817,10 +820,11 @@
 2 | Diamond Ring Lois | 100
 2 | Disco Boomhauer
 2 | Disco Skating Cyril
+2 | Dog Costume Bullock | 20
 2 | Dog Peter | 100
 2 | Dolphin Rider Peter | 65
 2 | Draw Me Gene
-2 | Duke
+2 | Duke | 30
 2 | Dummy Fight | 20
 2 | Dungeons and Mom | 5
 2 | Elf Fight Francine | 100
@@ -1012,18 +1016,16 @@
 1 | Derringer Francine | 60
 1 | Dodgeball Steve | 5
 1 | Dog Bone Stan | 95
-1 | Dog Costume Bullock
 1 | Dog Meg | 10
 1 | Dojo Cleveland | 90
 1 | Dragon Costume | 5
 1 | Duck-ulon | 20
 1 | Duh-Vinci Farnsworth | 125
 1 | Easter Bunny Peter | 65
-1 | Elephant Seal Kif | 45
+1 | Elephant Seal Kif | 95
 1 | Empty Bowl Painting | 5
 1 | Equipment Testing | 15
 1 | Essay Jeff | 10
-1 | Evil Cat Stan | 5
 1 | Evil Scientist Cheryl | 30
 1 | Eye-Eye Seamus | 5
 1 | Fashion Samurai Zeke | 70
@@ -1042,7 +1044,7 @@
 1 | Girls Being Girls | 55
 1 | Glass of Wine
 1 | Green Russians | 20
-1 | Griffin and Quagmire | 95
+1 | Griffin and Quagmire | 115
 1 | Groin Kicker
 1 | Groupie Francine | 105
 1 | Guenter | 30
@@ -1088,9 +1090,10 @@
 1 | Motocross Bicyclist Francine | 125
 1 | Motorcycle Couple | 20
 1 | Mr. Deliver | 125
-1 | Nacho Bartiromo | 100
+1 | Nacho Bartiromo | 125
 1 | Naked Gun Barry | 20
 1 | Nigerian Prince | 115
+1 | No Escape Lrrr | 5
 1 | Nutcracker Bender | 30
 1 | Old Steve | 80
 1 | Owl Stewie | 65
@@ -1109,7 +1112,7 @@
 1 | Play Bobby | 20
 1 | Playlist Meg
 1 | Poppler Jingle Fry | 20
-1 | Quicky Kiss-it | 65
+1 | Quicky Kiss-it | 95
 1 | Quiet Eli | 25
 1 | R&B Toshi | 60
 1 | RC Helicopter | 75
@@ -1122,7 +1125,6 @@
 1 | Round House | 20
 1 | Ruby Zeldastein | 125
 1 | Running Back Hank | 125
-1 | Salmon Zapp
 1 | Scooty-Puff Jr | 100
 1 | Scuba Krieger
 1 | Server Luanne | 60
@@ -1311,6 +1313,7 @@
 0 | Cowboy Kahn | 65
 0 | Young Hermes | 60
 0 | Water Gun Steve | 60
+0 | Washboard Bender | 60
 0 | Umphauer | 60
 0 | The Mortian | 60
 0 | Steve Crossing the Alps | 60
@@ -1327,6 +1330,7 @@
 0 | Foodie Fighter Bob | 60
 0 | Flying Dream Sequence | 60
 0 | Finger Cutter | 60
+0 | Drunk Amy | 60
 0 | Disco Bender | 60
 0 | Day Drinking Mayor West | 60
 0 | Cyclist Peggy | 60
@@ -1371,6 +1375,7 @@
 0 | Board Game Bobby | 40
 0 | Witch Energy Toshi | 35
 0 | Self Portrait Kahn | 35
+0 | Salmon Leela | 35
 0 | Paintball Bill | 35
 0 | One Eyed Orphan | 35
 0 | Lucky Panties Fight | 35
@@ -1382,7 +1387,6 @@
 0 | Working Song | 30
 0 | Who's a Good Boy | 30
 0 | Washboard Bill | 30
-0 | Washboard Bender | 30
 0 | Tweaker Peter | 30
 0 | Toy Re-Enactment Fry | 30
 0 | The Linda Mermaid | 30
@@ -1468,6 +1472,7 @@
 0 | Comfortable Sweater Lewis | 20
 0 | Coast Guard Paint | 20
 0 | Businessman Bender | 20
+0 | Sweet Switzer Joseph | 15
 0 | Stained Glass Peter | 15
 0 | Passenger Frond | 15
 0 | Lrrr Planet Invasion Guide | 15
@@ -1493,9 +1498,11 @@
 0 | Gun Club President | 10
 0 | Guitar Practice Peggy | 10
 0 | Football Bobby | 10
+0 | Fischoeder Champagne Shower | 10
 0 | Espresso Tina | 10
 0 | Derby Wife | 10
 0 | Deathrolling | 10
+0 | Connie Done Drank | 10
 0 | Chokehold Cheryl | 10
 0 | Cheerleader Connie | 10
 0 | Category 5 Sucker | 10
@@ -1508,10 +1515,9 @@
 0 | Quarterback Joseph | 5
 0 | Pastafarian Jimmy Pesto | 5
 0 | Oil Drum Jeff | 5
-0 | No Escape Lrrr | 5
 0 | Margarita Mix Zeke | 5
 0 | Just Mow a Lawn | 5
 0 | Fischoeder Shark Controller | 5
-0 | Fischoeder Champagne Shower | 5
+0 | Connie's Creme Brulee Robot | 5
 0 | Bounty Hunter Roger | 5
-1320200 | Mastery Stone
+1250750 | Mastery Stone

@@ -7,6 +7,7 @@
    1 E Roller Derby Hayley: 5* AD PC athletic 56
    5 E Roller Derby Hayley: 5** AD PC athletic 69
    2 E Roller Derby Luanne: 5** KotH PC athletic 88
+   1 E Roller Derby: 1 AD item athletic 28
    3 E Roller Derby: 5** AD item athletic 42
    1 E S and M Lois: 5** FG PC disguised 84
    3 E Sexpun T'Come: 5** AD PC disguised 84
@@ -20,12 +21,12 @@
    2 L 'Cyril': 6** Archer PC disguised 128
    2 L 10k Bling Brian: 1 FG PC rich 90
    6 L 10k Bling Brian: 6** FG PC rich 122
-   2 L 1940s Farnsworth: 1 FT PC disguised 94
+   3 L 1940s Farnsworth: 1 FT PC disguised 94
   13 L 1940s Farnsworth: 6** FT PC disguised 128
    1 L 1950s Radio Lois: 1 FG PC toy 94
   10 L 1950s Radio Lois: 6** FG PC toy 128
    9 L 3 Is More Than 4: 6** BB item musical 98
-   9 L 3004 Olympics: 6** FT item athletic 97
+   9 L 3004 Olympics: 6** FT item athletic 98
    1 L 3rd Grade Hayley: 1 AD PC educated 94
    2 L 3rd Grade Hayley: 6** AD PC educated 128
    3 L 4 Skore: 1 KotH item musical 70
@@ -53,11 +54,11 @@
    1 L Action Delivery Force Zoidberg: 6** FT PC fighter 128
    2 L Action Sequence: 1 AD item fighter 71
    6 L Action Sequence: 6** AD item fighter 102
-   2 L Adequately-Sized Sausages: 1 FG item food 84
+   3 L Adequately-Sized Sausages: 1 FG item food 84
    2 L Adequately-Sized Sausages: 6** FG item food 116
    1 L Adrenaline Steve: 1 AD PC hyper 75
    3 L Adrenaline Steve: 6** AD PC hyper 113
-  22 L Adult Bobby: 1 KotH char food 54
+  23 L Adult Bobby: 1 KotH char food 54
    2 L Adult Bobby: 1* KotH char food 67
    1 L Adult Bobby: 1** KotH char food 81
   13 L Adult Bobby: 6** KotH char food 94
@@ -66,8 +67,8 @@
    1 L Ae-Rogu-bics: 1 AD PC athletic 94
    1 L Ae-Rogu-bics: 6** AD PC athletic 128
    2 L Aerobics Frond: 6** BB PC athletic 128
-   7 L Afro Lady Bird: 1 KotH item animal 84
-   8 L Afro Lady Bird: 6** KotH item animal 116
+   3 L Afro Lady Bird: 1 KotH item animal 84
+   9 L Afro Lady Bird: 6** KotH item animal 116
    1 L Agent Kazak: 1 Archer PC animal 86
    2 L Air Glider Peter: 6** FG PC athletic 128
    4 L Airline Headphones: 1 KotH item musical 80
@@ -106,7 +107,7 @@
    3 L Another Lousy Millennium: 6** FT PC drunk 103
    1 L Ant Energy: 1 Archer item hyper 76
    1 L Ant Energy: 6** Archer item hyper 108
-   2 L Anti-Backwards Die: 1 FT item toy 76
+   3 L Anti-Backwards Die: 1 FT item toy 76
    2 L Anti-Backwards Die: 6** FT item toy 108
    2 L Anti-Christ: 1 AD item armed 70
    6 L Anti-Christ: 1* AD item armed 80
@@ -160,7 +161,7 @@
    1 L Baby Songwriter: 6** FG PC musical 128
    5 L Baby Step Huddle: 1 BB item armed 71
    5 L Baby Step Huddle: 6** BB item armed 102
-   3 L Bachelor Chow: 1 FT item food 79
+   4 L Bachelor Chow: 1 FT item food 79
    2 L Bachelor Chow: 6** FT item food 107
    1 L Backseat Driver: 1 BB PC vehicle 94
    2 L Bacon Weight: 6** BB PC armed 99
@@ -281,7 +282,7 @@
    3 L Billy Finn: 1 FG item animal 76
    1 L Billy Finn: 2* FG item animal 88
    2 L Billy Finn: 6** FG item animal 108
-   3 L Bird Brain Barry: 1 Archer PC animal 94
+   8 L Bird Brain Barry: 1 Archer PC animal 94
    7 L Birthday Breakfast: 1 Archer item food 70
    6 L Birthday Party: 1 Archer item drunk 79
    2 L Birthday Party: 6** Archer item drunk 107
@@ -340,7 +341,7 @@
    2 L Bookworm Toshi: 1 AD PC educated 94
    3 L Boombox: 1 AD item musical 70
    9 L Boombox: 6** AD item musical 98
-  24 L Boomhauer: 1 KotH char 54
+  25 L Boomhauer: 1 KotH char 54
   14 L Boomhauer: 6** KotH char 94
    1 L Booty Shaking Drunk: 6** FG PC drunk 103
    2 L Boppo the Clown: 1 FG item toy 70
@@ -360,14 +361,14 @@
   19 L Bourbon Barry: 6** Archer PC drunk 128
    2 L Bourbon For Breakfast: 1 Archer PC drunk 94
    1 L Bourbon For Breakfast: 6** Archer PC drunk 128
-  20 L Bowling Team: 1 Archer item athletic 75
+  21 L Bowling Team: 1 Archer item athletic 75
    2 L Bowling Team: 6** Archer item athletic 103
    1 L Box Wine: 1 AD item drunk 73
    4 L Box Wine: 6** AD item drunk 101
    2 L Boxing Hank: 6** KotH PC fighter 128
    1 L Boxing Luanne: 1 KotH PC athletic 75
    2 L Boxing Luanne: 6** KotH PC athletic 114
-   4 L Boxing Ring: 1 KotH item fighter 73
+   5 L Boxing Ring: 1 KotH item fighter 73
    5 L Boxing Ring: 6** KotH item fighter 101
    2 L Boy Crazy Louise: 1 BB PC hyper 82
    2 L Boy Crazy Louise: 6** BB PC hyper 122
@@ -387,7 +388,7 @@
    4 L Brian Statue: 6** FG PC artistic 102
    2 L Brian The Home Invader Lewis: 1 AD item fighter 70
    7 L Brian's Hot Date: 6** FG PC food 128
-  38 L Brian: 1 FG char animal 54
+  39 L Brian: 1 FG char animal 54
    1 L Brian: 1** FG char animal 81
   14 L Brian: 6** FG char animal 94
    3 L Broken Society: 1 BB item drunk 69
@@ -406,6 +407,7 @@
    3 L Buff Cyril: 1 Archer PC athletic 94
    1 L Buff Cyril: 6** Archer PC athletic 128
    2 L Buff Fry: 6** FT PC athletic 100
+   1 L Buffalo Bill: 1 Archer item disguised 84
    1 L Buffalo Bill: 6** Archer item disguised 116
    3 L Building Graffiti: 1 FT item artistic 80
    4 L Building Graffiti: 6** FT item artistic 112
@@ -421,9 +423,10 @@
    1 L Burgerboss Bob: 2* BB PC hyper/toy 70
    3 L Burgerboss Jimmy: 1 BB PC toy 94
    1 L Burgers and Fries Louise: 6** BB PC disguised/musical 93
+   1 L Burglar Cannon: 1 FT item armed 80
    1 L Burglar Cannon: 6* FT item armed 101
    3 L Burglar Cannon: 6** FT item armed 112
-   6 L Burglar Karaoke: 1 FG item musical 79
+   7 L Burglar Karaoke: 1 FG item musical 79
    1 L Burglar Karaoke: 1* FG item musical 90
    2 L Burglar Karaoke: 6** FG item musical 107
    4 L Busbike: 1 FG item athletic 80
@@ -451,9 +454,9 @@
   11 L Cabaret: 1 AD item disguised 75
    1 L Cabaret: 6** AD item disguised 103
    1 L Cadet Hill: 6** KotH PC educated 104
-   2 L Caesar Salad: 1 KotH item animal 84
-   3 L Cafeteria Frond: 1 BB PC food 94
-   6 L Cafeteria Frond: 6** BB PC food 128
+   1 L Caesar Salad: 1 KotH item animal 84
+   2 L Caesar Salad: 6** KotH item animal 116
+   7 L Cafeteria Frond: 6** BB PC food 128
    2 L Cafeteria Meg: 1 FG PC fighter 90
    1 L Caffeinated Lana: 1 Archer PC hyper 94
    1 L Cake Knife: 1 BB PC armed 49
@@ -555,7 +558,7 @@
    5 L Children's Author: 6** KotH PC educated 106
    1 L Chimdale Spa: 1 AD item rich 75
    2 L Chimdale Spa: 6** AD item rich 106
-   1 L Chinchilla Addict Wayne: 1 BB item hyper 70
+   2 L Chinchilla Addict Wayne: 1 BB item hyper 70
    1 L Chinchilla Addict Wayne: 2* BB item hyper 80
    1 L Chip II: 1 KotH item toy 71
    5 L Chip II: 6** KotH item toy 102
@@ -566,7 +569,7 @@
    2 L Chokebot: 1 Archer item toy 73
    9 L Chokebot: 6** Archer item toy 105
    2 L Chokehold Cheryl: 1 Archer PC fighter 94
-  21 L Chris Griffin: 1 FG char 54
+  22 L Chris Griffin: 1 FG char 54
   12 L Chris Griffin: 6** FG char 94
    1 L Chris Painting: 6** FG PC artistic 103
    1 L Chris' Pimple: 6** FG PC armed 128
@@ -596,7 +599,7 @@
    1 L Claw Crane Louise: 1 BB PC toy 94
    4 L Claw vs Pincer Fight: 1 FT item fighter 79
    2 L Claw vs Pincer Fight: 6** FT item fighter 107
-  33 L Cleveland: 1 FG char 54
+  34 L Cleveland: 1 FG char 54
    3 L Cleveland: 1** FG char 81
   14 L Cleveland: 6** FG char 94
    9 L Click Addiction: 6** AD item hyper 98
@@ -617,7 +620,7 @@
   11 L Cocktail Lana: 6** Archer PC drunk 128
    1 L Coffee Lover Mort: 1 BB PC hyper 94
    1 L Coffee Lover Mort: 6** BB PC hyper 128
-   2 L Coffee Maker: 1 Archer item hyper 76
+   3 L Coffee Maker: 1 Archer item hyper 76
    9 L Coffee Soaker: 6** KotH item hyper 112
    1 L Cognac Bender: 1 FT PC drunk 50
   11 L Cognac Bender: 6** FT PC drunk 103
@@ -634,8 +637,11 @@
    3 L Concert Keg: 1 FT item drunk 70
    8 L Concert Keg: 6** FT item drunk 98
    2 L Conga Drums Cleveland: 1 FG PC musical 94
-   3 L Connie and Doggie: 1 KotH PC animal 94
-   4 L Connie: 1 KotH char 54
+   1 L Connie and Doggie: 1 KotH PC animal 94
+   1 L Connie and Doggie: 1* KotH PC animal 105
+   1 L Connie and Doggie: 6** KotH PC animal 128
+   2 L Connie's Creme Brulee Robot: 1 KotH PC food 94
+   6 L Connie: 1 KotH char 54
    2 L Contact High Stewie: 1 FG PC hyper 50
    4 L Contact High Stewie: 6** FG PC hyper 103
    1 L Conventional Turkey Gene: 2* BB PC animal 89
@@ -660,7 +666,7 @@
    2 L Crack Bait: 1 KotH item hyper 84
    3 L Crack Bait: 6** KotH item hyper 116
    2 L Crack hyper Fish: 6** KotH PC hyper 106
-   2 L Crack: 1 AD item hyper 70
+   3 L Crack: 1 AD item hyper 70
    3 L Crackers: 6** Archer PC animal 128
    2 L Cranberry Bog: 1 BB PC hyper 52
    3 L Cranberry Bog: 6** BB PC hyper 109
@@ -675,7 +681,7 @@
    9 L Cuddles: 6** AD item animal 98
    1 L Cupid Bobby: 1 KotH PC disguised 51
    1 L Cupid Bobby: 6** KotH PC disguised 99
-   2 L Cupid Cleveland: 1 FG item disguised 70
+   3 L Cupid Cleveland: 1 FG item disguised 70
    3 L Cuss Mustard: 1 AD item musical 84
    2 L Cuss Mustard: 6** AD item musical 116
    1 L Cute Witch of the North: 1 FT PC disguised 43
@@ -740,7 +746,7 @@
    3 L Diarama Gene: 6** BB PC educated 104
    2 L Dictator Roger: 1 AD PC disguised 94
    1 L Dictator Roger: 6** AD PC disguised 128
-   1 L Die of Power: 1 FT item toy 71
+   2 L Die of Power: 1 FT item toy 71
    9 L Die of Power: 6** FT item toy 98
    4 L Diet Pills: 1 FG item hyper 75
    3 L Diet Pills: 6** FG item hyper 106
@@ -761,7 +767,7 @@
    8 L Dodgeball: 6** BB item athletic 97
    1 L Dog Costume Bullock: 1 AD PC animal 94
    1 L Dog Costume Bullock: 6** AD PC animal 128
-   3 L Dog Group Chat: 1 FG item animal 75
+   4 L Dog Group Chat: 1 FG item animal 75
    1 L Dog Group Chat: 6** FG item animal 103
    2 L Doggy Costume: 1 BB item disguised 72
    8 L Doggy Costume: 6** BB item disguised 104
@@ -845,7 +851,7 @@
    1 L Elderly Clothes Meg: 6** FG PC disguised 128
    3 L Elegant Dinner Cheryl: 1 Archer PC rich 94
    1 L Elegant Dinner Cheryl: 6** Archer PC rich 128
-   2 L Elzar's Fine Cuisine: 1 FT item food 70
+   3 L Elzar's Fine Cuisine: 1 FT item food 70
    1 L Elzar's Fine Cuisine: 6** FT item food 98
    1 L Emu Wrangler: 6** KotH PC animal 128
    1 L Equestranaut Costume: 1 BB item disguised 70
@@ -853,9 +859,7 @@
    1 L Equipment Testing: 1 Archer PC toy 94
    2 L Equipment Testing: 6** Archer PC toy 128
    2 L Erotic Friend Fiction Tammy: 6** BB PC educated 128
-   1 L Essay Jeff: 1 AD PC educated 90
-   1 L Essay Jeff: 2* AD PC educated 102
-   2 L Essay Jeff: 6** AD PC educated 124
+   3 L Essay Jeff: 6** AD PC educated 124
   74 L Eugene Belcher: 1 BB char musical 54
   17 L Eugene Belcher: 6** BB char musical 94
    1 L Eugenia Chatterteeth: 1 BB PC disguised 77
@@ -940,10 +944,10 @@
    4 L Firefighter Interrogation: 1 KotH item fighter 73
    2 L Firefighter Interrogation: 6** KotH item fighter 104
    2 L Firefighter Zoidberg: 6** FT PC disguised 113
-   2 L Fischoeder Champagne Shower: 1 BB PC drunk 94
+   1 L Fischoeder Champagne Shower: 6** BB PC drunk 128
    9 L Fischoeder Mansion: 6** BB item rich 98
    4 L Fish Pheremones: 1 FT item animal 70
-   1 L Fisherman Brian: 1 FG PC vehicle 94
+   2 L Fisherman Brian: 1 FG PC vehicle 94
    1 L Fisherman Brian: 6** FG PC vehicle 128
    9 L Flag Football: 6** KotH item athletic 98
    1 L Flame Belch Bender: 1 FT PC armed 94
@@ -953,19 +957,19 @@
    1 L Flamethrower Zeke: 1 BB PC armed 94
   12 L Flamethrower Zeke: 6** BB PC armed 128
   10 L Flare Gun: 1 BB item armed 70
-   9 L Flat Screen TV: 1 KotH item toy 75
+  10 L Flat Screen TV: 1 KotH item toy 75
    3 L Flat Screen TV: 6** KotH item toy 103
    9 L Flight Suit: 6** Archer item athletic 104
    2 L Float Kickers: 1 BB item fighter 70
    9 L Float Kickers: 6** BB item fighter 98
-  12 L Floral Arrangement: 1 Archer item artistic 75
+  13 L Floral Arrangement: 1 Archer item artistic 75
    3 L Floral Arrangement: 6** Archer item artistic 103
    1 L Flower Boys: 1 AD item disguised 70
    9 L Flower Boys: 6** AD item disguised 98
    7 L Flu Shot: 1 FG item hyper 79
    2 L Flu Shot: 6** FG item hyper 107
   25 L Food Addict Leela: 6** FT PC hyper 108
-   3 L Food High: 1 BB item hyper 73
+   4 L Food High: 1 BB item hyper 73
    4 L Food High: 6** BB item hyper 104
    2 L Food Service Hank: 1 KotH PC food 94
    8 L Food Service Hank: 6** KotH PC food 128
@@ -983,7 +987,7 @@
    5 L Forger's Equipment: 6** KotH item disguised 102
    1 L Fort Kickass: 1 Archer PC drunk 90
    1 L Francine Bird Duet: 2* AD PC musical 109
-  33 L Francine Smith: 1 AD char 54
+  34 L Francine Smith: 1 AD char 54
   14 L Francine Smith: 6** AD char 94
    2 L Frank the Snake: 1 KotH PC animal 94
    1 L Frank the Snake: 6** KotH PC animal 128
@@ -1020,6 +1024,8 @@
    1 L Future Rich Snot: 2* AD PC rich 91
    1 L Future Rich Steve: 1 AD PC rich 90
    1 L Future Rich Steve: 6** AD PC rich 122
+   1 L Gaga Ball: 1 BB PC athletic 44
+   1 L Galapagos Tortoise: 1 FT PC animal 73
    1 L Gallant Bender: 2* FT PC rich 91
   10 L Gambler Cotton: 6** KotH PC rich 128
    4 L Gambling Drunk: 6** Archer PC drunk 124
@@ -1099,7 +1105,7 @@
    1 L Grandmother Archer: 1 Archer PC toy 94
    1 L Grandmother Archer: 1* Archer PC toy 105
    2 L Grandmother Archer: 6** Archer PC toy 128
-   7 L Greebles: 1 Archer item food 75
+   8 L Greebles: 1 Archer item food 75
    1 L Greebles: 6** Archer item food 103
    1 L Green Beer: 1 BB PC drunk 64
   22 L Green Beer: 6** BB PC drunk 111
@@ -1149,8 +1155,7 @@
    5 L Hay Jumping: 1 BB item hyper 80
    1 L Hay Jumping: 6** BB item hyper 112
    1 L Hayley Potter: 6** AD PC artistic 101
-   3 L Hayley's Van: 1 AD PC vehicle 94
-   4 L Hayley's Van: 6** AD PC vehicle 128
+   5 L Hayley's Van: 6** AD PC vehicle 128
   32 L Hayley: 1 AD char artistic 54
    2 L Hayley: 1** AD char artistic 82
   13 L Hayley: 6** AD char artistic 94
@@ -1168,10 +1173,12 @@
    7 L Heavy Metal Hayley: 6** AD PC disguised/musical 103
    3 L Henry Haber Debater: 1 BB item educated 70
    1 L Henry Haber Debater: 6** BB item educated 98
+   1 L Hermaphrodite: 1 FT PC animal 74
   21 L Hermes Conrad: 1 FT char 54
    2 L Hermes Conrad: 1** FT char 81
   14 L Hermes Conrad: 6** FT char 94
-   2 L Hermit Crab: 1 BB item animal 84
+   3 L Hermit Crab: 1 BB item animal 84
+   2 L Hermit Crab: 6** BB item animal 116
    1 L Hibachi Hat: 1 KotH item disguised 70
    5 L Hibachi Hat: 6** KotH item disguised 98
   12 L High Diver Zoidberg: 6** FT PC athletic 115
@@ -1193,9 +1200,9 @@
    5 L Hip Hop Bob: 6** BB PC musical 102
    2 L History Report Gene: 6** BB PC educated 128
    1 L History Test Chris: 6** FG PC educated 116
-   4 L Holiday Punch: 1 BB item drunk 69
+   5 L Holiday Punch: 1 BB item drunk 69
    9 L Holiday Punch: 6** BB item drunk 102
-   1 L Hologram Happy Hour: 1 Archer item drunk 79
+   4 L Hologram Happy Hour: 1 Archer item drunk 79
    2 L Hologram Happy Hour: 6** Archer item drunk 107
    2 L Holographic Washington: 1 KotH item artistic 70
    1 L Holographic Washington: 6** KotH item artistic 98
@@ -1236,6 +1243,7 @@
    7 L Hot Polar Bear Cub: 6** BB item animal 106
   10 L Hot Rod Planet Express Ship: 6** FT item vehicle 112
    2 L Hot Tub Champagne: 1 KotH PC drunk 75
+   1 L Hotel Staff: 1 Archer PC rich 94
    1 L Hottyz Bill: 1 KotH PC disguised 51
    1 L Hottyz Bill: 6** KotH PC disguised 103
    1 L Hottyz Luanne: 6** KotH PC disguised 103
@@ -1279,7 +1287,7 @@
    4 L Inaugural Beatdown: 6** FG item fighter 104
    1 L Inferior Tobacco Gayle: 1 KotH item hyper 71
    9 L Inferior Tobacco Gayle: 6** KotH item hyper 102
-   3 L Instruction Manual: 1 FG item educated 76
+   4 L Instruction Manual: 1 FG item educated 76
    1 L Instructional Video Stewie: 1 FG PC educated 85
    1 L Instructional Video Stewie: 2* FG PC educated 99
    3 L Instructional Video Stewie: 6** FG PC educated 122
@@ -1303,11 +1311,11 @@
    9 L James Woods High School: 6** FG item educated 98
    1 L Jar of Change: 1 KotH item rich 70
    7 L Jar of Change: 6** KotH item rich 98
-   3 L Javed: 1 BB item educated 80
+   4 L Javed: 1 BB item educated 80
    1 L Jazz Hands: 1 Archer PC musical 90
    1 L Jealous Bobby: 1 KotH PC fighter 48
    2 L Jealous Bobby: 6** KotH PC fighter 99
-  11 L Jeff: 1 AD char 54
+  12 L Jeff: 1 AD char 54
    1 L Jeff: 1* AD char 64
    4 L Jeff: 1** AD char 81
   18 L Jeff: 6** AD char 94
@@ -1331,7 +1339,7 @@
   10 L Jimmy Pesto: 1 BB char food 54
   13 L Jimmy Pesto: 6** BB char food 94
    2 L Jimmy's Sucky Message: 6** BB PC educated 128
-  12 L Joe Swanson: 1 FG char 54
+  13 L Joe Swanson: 1 FG char 54
    6 L Joe Swanson: 1* FG char 66
    2 L Joe Swanson: 1** FG char 78
   13 L Joe Swanson: 6** FG char 94
@@ -1340,7 +1348,7 @@
    1 L Jose Servo: 1 FT PC drunk 58
    2 L Jose Servo: 6** FT PC drunk 102
    1 L Joseph's Forbidden Moves: 6** KotH PC musical 128
-  19 L Joseph: 1 KotH char 54
+  20 L Joseph: 1 KotH char 54
   12 L Joseph: 6** KotH char 94
    3 L Josh Gedgie Boy Scientist: 1 FT item educated 70
    8 L Josh Gedgie Boy Scientist: 6** FT item educated 98
@@ -1372,7 +1380,7 @@
    1 L Kahn: 1* KotH char 68
   12 L Kahn: 6** KotH char 94
    9 L Karaoke Kahn: 1 KotH item musical 70
-   3 L Karaoke Morbo: 1 FT item musical 70
+   4 L Karaoke Morbo: 1 FT item musical 70
    1 L Karaoke Morbo: 1* FT item musical 80
    6 L Karaoke Morbo: 6** FT item musical 98
    4 L Karaoke Principal: 1 FG item musical 70
@@ -1404,7 +1412,7 @@
    1 L Kitchen Knife Snot: 1 AD PC armed 76
    1 L Kitchen Knife Snot: 2* AD PC armed 89
    4 L Kitchen Knife Snot: 6** AD PC armed 114
-  15 L Klaus Heisler: 1 AD char animal 54
+  16 L Klaus Heisler: 1 AD char animal 54
   21 L Klaus Heisler: 6** AD char animal 94
    1 L Klaus's Comic: 2* AD PC artistic 83
    1 L Klaus's Fish Wife: 1 AD PC animal 94
@@ -1483,11 +1491,9 @@
    1 L Lights Out Snot: 6** AD PC fighter 128
    1 L Lightspeed Briefs: 1 FT item disguised 70
    4 L Lightspeed Briefs: 6** FT item disguised 98
-   6 L Lil Angelo: 1 AD item animal 84
-   1 L Lil Angelo: 1* AD item animal 98
    1 L Lil Angelo: 1** AD item animal 106
-   7 L Lil Angelo: 6** AD item animal 116
-   2 L Limited Edition: 1 Archer item drunk 80
+   9 L Lil Angelo: 6** AD item animal 116
+   3 L Limited Edition: 1 Archer item drunk 80
    5 L Limited Edition: 6** Archer item drunk 112
    2 L Limo Bob: 1 BB PC rich 78
   10 L Limo Bob: 6** BB PC rich 115
@@ -1510,7 +1516,7 @@
    3 L Loft Party Painter: 1 BB item artistic 84
    3 L Loft Party Painter: 6** BB item artistic 116
   14 L Loft Party: 6** FG PC drunk 128
-  50 L Lois Griffin: 1 FG char 54
+  51 L Lois Griffin: 1 FG char 54
    1 L Lois Griffin: 1* FG char 66
    2 L Lois Griffin: 1** FG char 82
   13 L Lois Griffin: 6** FG char 94
@@ -1518,7 +1524,7 @@
    9 L Long Stick with Sharp Rock: 6** FT item armed 98
    8 L Lord Griffin: 6** FG PC rich 104
    7 L Louise Chatterteeth: 6** BB PC disguised 115
-  35 L Louise: 1 BB char 54
+  36 L Louise: 1 BB char 54
    1 L Louise: 1* BB char 63
   14 L Louise: 6** BB char 94
    2 L Love Addict Lois: 1 FG PC hyper 82
@@ -1529,8 +1535,9 @@
    1 L Low End Barry: 1 AD PC musical 94
    1 L Low Leg Lollipops: 1 AD PC athletic 86
    6 L Low Profile: 6** FG item disguised 116
-  15 L Lrrr: 1 FT char 54
-  21 L Luanne Platter: 1 KotH char 54
+   2 L Lrrr: 6* FT char 81
+   9 L Lrrr: 6** FT char 94
+  22 L Luanne Platter: 1 KotH char 54
    2 L Luanne Platter: 1* KotH char 68
    1 L Luanne Platter: 1** KotH char 81
   20 L Luanne Platter: 6** KotH char 94
@@ -1552,14 +1559,14 @@
    2 L Makeup Artist Jeff: 1 AD PC artistic 94
    1 L Makeup Artist Jeff: 6** AD PC artistic 128
    1 L Male Amy: 1 FT PC disguised 48
-  29 L Malory: 1 Archer char 54
+  31 L Malory: 1 Archer char 54
    1 L Malory: 1* Archer char 67
   12 L Malory: 6** Archer char 94
    6 L Maltese Liquor: 1 FT item drunk 70
    1 L Maltese Liquor: 1* FT item drunk 89
    1 L Maltese Liquor: 6** FT item drunk 98
    1 L Management Perks: 1 BB PC drunk 81
-   3 L Manchild: 1 KotH item disguised 84
+   4 L Manchild: 1 KotH item disguised 84
    3 L Manchild: 6** KotH item disguised 116
    1 L Manor Life Mayor West: 1 FG PC rich 94
    1 L Mariachi Band: 1 KotH item musical 69
@@ -1572,7 +1579,7 @@
    1 L Martian Calendar: 1 FT PC artistic 49
    8 L Martian Calendar: 6** FT PC artistic 103
    3 L Martini Stewie: 6** FG PC drunk 128
-   3 L Marzipan Farm: 1 Archer item artistic 80
+   4 L Marzipan Farm: 1 Archer item artistic 80
    1 L Marzipan Farm: 6** Archer item artistic 112
    2 L Mascot Car Steve: 6** AD PC vehicle 128
   12 L Masked Hero: 6** AD PC disguised 106
@@ -1665,7 +1672,7 @@
    1 L Mom Safe Box: 1* FT item rich 82
    2 L Mom Safe Box: 6** FT item rich 104
    1 L Mom's Fury: 1 FT PC fighter 94
-   1 L Mom's Homestyle X-Cube 360: 1 FT item toy 70
+   2 L Mom's Homestyle X-Cube 360: 1 FT item toy 70
   20 L Mom: 1 FT char 54
    2 L Mom: 1* FT char 69
   12 L Mom: 6** FT char 94
@@ -1686,10 +1693,11 @@
    3 L More Anchovies: 6** FT PC hyper 128
    1 L More Time More Drugs: 1 KotH PC hyper 78
    1 L More Time More Drugs: 2* KotH PC hyper 93
+   1 L Mori-Carter-y: 1 FG PC rich 94
    3 L Mori-Carter-y: 6** FG PC rich 128
    2 L Mort At Work: 1 BB PC educated 94
    6 L Mort At Work: 6** BB PC educated 128
-  44 L Mort: 1 BB char 54
+  45 L Mort: 1 BB char 54
    2 L Mort: 1** BB char 81
   13 L Mort: 6** BB char 94
    2 L Motivational Poster: 1 BB PC artistic 66
@@ -1702,7 +1710,7 @@
    3 L Mountain Bike: 6** AD item athletic 108
    7 L Mountain Climber Peter: 6** FG PC athletic 97
    1 L Mowing While Intoxicated: 6** KotH PC drunk 86
-  19 L Mr. Deadly: 1 Archer item hyper 75
+  20 L Mr. Deadly: 1 Archer item hyper 75
    5 L Mr. Deadly: 6** Archer item hyper 103
    5 L Mr. Fischoeder: 1 BB char rich 54
    1 L Mr. Frond: 1 BB char educated 54
@@ -1739,6 +1747,7 @@
   12 L Nectar: 1 FT item hyper 73
    3 L Nectar: 6** FT item hyper 104
    3 L Neil Goldman: 1 FG item educated 70
+   1 L Neptunian Slug: 1 FT item animal 71
    2 L Neptunian Slug: 6** FT item animal 102
   11 L Nerd Fight: 1 KotH item fighter 79
    2 L Nerd Fight: 6** KotH item fighter 107
@@ -1760,12 +1769,12 @@
    6 L Nibbler on the Roof: 6** FT item musical 98
    1 L Nigerian Prince: 1 FT PC rich 60
    9 L Night Vision Goggles: 6** Archer item armed 106
-   2 L No Escape Lrrr: 1 FT PC fighter 94
+   3 L No Escape Lrrr: 1 FT PC fighter 94
    2 L No Mercy Dojo: 1 FG item fighter 70
    4 L No Mercy Dojo: 6** FG item fighter 98
    1 L No Touchy Sandwich: 1 AD item food 80
    9 L No Touchy Sandwich: 6** AD item food 112
-   1 L Noir Archer Car: 1 Archer item vehicle 75
+   2 L Noir Archer Car: 1 Archer item vehicle 75
    4 L Noir Archer Car: 6** Archer item vehicle 103
    2 L Noir Peter: 1 FG PC vehicle 94
    2 L Noir Peter: 6** FG PC vehicle 128
@@ -1936,20 +1945,19 @@
    2 L Pigeon Lover Seamus: 6** FG PC animal 128
    2 L Pillow Fight: 6** FG item fighter 102
    3 L Pilot Archer: 1 Archer PC vehicle 94
-   3 L Pilot Script Jeff: 1 AD PC educated 94
-   4 L Pilot Script Jeff: 6** AD PC educated 128
+   5 L Pilot Script Jeff: 6** AD PC educated 128
    4 L Pimp Hat: 6** KotH item disguised 98
    2 L Pimp My Sleigh: 1 FT item musical 70
    9 L Pimp My Sleigh: 6** FT item musical 98
    1 L Pimp Peter: 1 FG PC disguised 60
    3 L Pimparoo: 1 FT item disguised 70
    2 L Ping Pong Brian: 1 FG PC athletic 49
-   1 L Pink Limo: 1 BB item rich 76
+   2 L Pink Limo: 1 BB item rich 76
    1 L Pink Limo: 6** BB item rich 108
    2 L Pirate Cannon Peter: 6** FG PC armed 99
    1 L Pirate Toy Peggy: 2* KotH PC toy 92
    1 L Pitcher Leela: 1 FT PC athletic 87
-   1 L Pizza Overlord: 1 AD item food 70
+   2 L Pizza Overlord: 1 AD item food 70
    9 L Pizzilla: 1 BB item animal 75
    5 L Pizzilla: 6** BB item animal 103
    3 L Placebo Effect: 6** Archer PC hyper 124
@@ -1980,7 +1988,7 @@
    1 L Poppler Activist: 1 FT PC food 94
    1 L Poppler Addict Leela: 2* FT PC hyper 93
    1 L Poppler Addict Leela: 6** FT PC hyper 117
-  20 L Poppler Honey Mustard: 1 FT item food 80
+  21 L Poppler Honey Mustard: 1 FT item food 80
    2 L Poppler Honey Mustard: 6** FT item food 112
   12 L Poppler Jingle Bender: 6** FT PC musical 115
    9 L Pork Pockets: 6** KotH item food 112
@@ -2016,7 +2024,7 @@
    1 L Principal Shepard: 1 FG item educated 70
    1 L Privacy Singing Amy: 1 FT PC musical 83
    1 L Privacy Singing Amy: 2* FT PC musical 94
-   2 L Private Band: 1 Archer item musical 79
+   3 L Private Band: 1 Archer item musical 79
    3 L Private Band: 6** Archer item musical 107
    1 L Private Brian: 2* FG PC armed 70
    1 L Private Reserves: 1 AD item drunk 75
@@ -2027,7 +2035,7 @@
    1 L Probot Artist Peggy: 1 KotH PC artistic 86
    6 L Prof Comedy: 6** FG PC educated 124
    3 L Professor Baxter: 1 AD item educated 70
-  15 L Professor Farnsworth: 1 FT char educated 54
+  16 L Professor Farnsworth: 1 FT char educated 54
    4 L Professor Farnsworth: 1** FT char educated 83
   18 L Professor Farnsworth: 6** FT char educated 94
    7 L Professor Lerner: 1 KotH item educated 70
@@ -2038,7 +2046,7 @@
    1 L Prom Beer Joe: 2* FG PC drunk 83
    2 L Prom Beer Joe: 6** FG PC drunk 110
    2 L Prom Luanne: 6** KotH PC rich 128
-   1 L Prop Stethoscope: 1 AD item disguised 72
+   2 L Prop Stethoscope: 1 AD item disguised 72
    2 L Prop Stethoscope: 6** AD item disguised 104
    2 L Propaniac Luanne: 1 KotH PC musical 92
   13 L Prosecco Not Champagne: 1 BB item drunk 75
@@ -2062,9 +2070,9 @@
    4 L Put Out The Fire: 6** FG PC fighter 128
    2 L QB Quagmire: 1 FG PC athletic 74
    3 L QB Quagmire: 6** FG PC athletic 116
-  34 L Quagmire: 1 FG char 54
+  36 L Quagmire: 1 FG char 54
    4 L Quagmire: 1* FG char 69
-   4 L Quagmire: 1** FG char 80
+   5 L Quagmire: 1** FG char 80
   14 L Quagmire: 6** FG char 94
    4 L Quahog College: 1 FG item educated 70
    9 L Quahog College: 6** FG item educated 98
@@ -2079,8 +2087,7 @@
    1 L Queen Francine: 1 AD PC rich 94
    3 L Queen of Catsteros: 6** BB item animal 98
    1 L Quiet Eli: 2* BB PC musical 108
-   3 L Quirky Turkey Zeke: 1 BB PC animal 94
-   9 L Quirky Turkey Zeke: 6** BB PC animal 128
+  12 L Quirky Turkey Zeke: 6** BB PC animal 128
    4 L Rabbert Klein: 1 Archer item animal 76
    5 L Rabbert Klein: 6** Archer item animal 108
    5 L Rabid Dale: 6** KotH PC fighter 105
@@ -2110,7 +2117,8 @@
    1 L Rebel Fighter Cyril: 6** Archer PC vehicle 128
    1 L Recall Replacement: 1 FG item toy 70
    9 L Recall Replacement: 6** FG item toy 99
-   3 L Red Ford Truck: 1 KotH item vehicle 70
+   1 L Red Corn: 1 KotH item food 79
+   4 L Red Ford Truck: 1 KotH item vehicle 70
    7 L Red Rodriguez 2 Real: 6** FT PC musical 107
    1 L Red Shirt Blue Shirt: 1 FG item musical 70
    8 L Red Station Wagon: 1 FG item vehicle 70
@@ -2134,9 +2142,10 @@
    2 L Revenge of the Nerds: 6** AD item fighter 104
    1 L Reverend Ping Ping: 1 AD item animal 70
    9 L Reverend Ping Ping: 6** AD item animal 98
+   2 L Rex: 1 KotH item animal 70
    9 L Rex: 6** KotH item animal 98
    1 L Rich Dress Leela: 1 FT PC rich 72
-   4 L Rich Griffin Home: 1 FG item rich 76
+   5 L Rich Griffin Home: 1 FG item rich 76
    2 L Rich Griffin Home: 6** FG item rich 108
    6 L Rifle Club: 1 KotH item armed 70
    4 L Rifle Club: 6** KotH item armed 98
@@ -2152,7 +2161,7 @@
    2 L Robot Clown: 6** FT item toy 106
    1 L Robot Dance: 1 FT PC musical 94
    1 L Robot Dance: 6** FT PC musical 128
-   1 L Robot Devil Band: 1 FT item musical 70
+   2 L Robot Devil Band: 1 FT item musical 70
    5 L Robot Devil Band: 6** FT item musical 98
    1 L Robot Devil's Hands: 1 FT PC musical 90
    3 L Robot Devil's Hands: 6** FT PC musical 124
@@ -2174,7 +2183,7 @@
    9 L Roger's Closet: 6** AD item disguised 98
    9 L Roger's Sexy Shorts: 6** AD item disguised 98
    2 L Roger's Space Ship: 1 AD item vehicle 70
-  23 L Roger: 1 AD char 54
+  24 L Roger: 1 AD char 54
    4 L Roger: 1** AD char 78
   15 L Roger: 6** AD char 94
   22 L Rogu: 1 AD char 54
@@ -2242,12 +2251,11 @@
    3 L School Soda: 1 KotH item hyper 80
    1 L School Soda: 6** KotH item hyper 112
    9 L School of Arts and Crafts: 6** AD item artistic 98
-   2 L Science Drinks: 1 FT item drunk 80
+   3 L Science Drinks: 1 FT item drunk 80
    8 L Science Drinks: 6** FT item drunk 112
    2 L Scientific Rivals: 6** FT PC fighter 102
    3 L Screaming Black Dolphins: 1 FG item animal 80
-   2 L Screaming Black Dolphins: 1* FG item animal 89
-   3 L Screaming Black Dolphins: 6** FG item animal 112
+   4 L Screaming Black Dolphins: 6** FG item animal 112
    1 L Screen Repairer: 1 BB PC educated 52
    1 L Screwdrive Chris: 1 FG PC armed 52
    2 L Scruffy: 1 FT char 54
@@ -2273,7 +2281,7 @@
    1 L Sentimental Bats: 2* FG item animal 85
    3 L SerPUNt: 1 KotH item animal 71
    4 L SerPUNt: 6** KotH item animal 102
-  10 L Sergeant Bosco: 1 BB item educated 73
+  11 L Sergeant Bosco: 1 BB item educated 73
    2 L Sergeant Bosco: 6** BB item educated 104
    1 L Server Luanne: 1 KotH PC food 94
    2 L Server Peggy: 1 KotH PC food 94
@@ -2286,6 +2294,7 @@
    1 L Shaken Not Stirred: 1 FT PC drunk 81
    9 L Shaken Not Stirred: 6** FT PC drunk 122
    9 L Shakespeare Calculon: 6** FT item artistic 98
+   1 L Shane the Tiger: 1 Archer item animal 79
    1 L Shane the Tiger: 6** Archer item animal 107
    3 L Shank Knife: 1 FG item armed 80
    2 L Shank Knife: 6** FG item armed 112
@@ -2310,7 +2319,7 @@
    1 L Shopping Stan: 1 AD PC rich 94
    1 L Shower Curtain Gayle: 1 BB PC disguised 94
    1 L Shower Drunk Hayley: 1 AD PC drunk 78
-   1 L Shrimp Dress: 1 BB item disguised 70
+   2 L Shrimp Dress: 1 BB item disguised 70
    9 L Shrimp Dress: 6** BB item disguised 98
    5 L Shrimpy Shrimps: 6** BB item disguised 98
    9 L Shubot Theater: 6** FT item artistic 100
@@ -2336,7 +2345,7 @@
    1 L Skiing Zoidberg: 1 FT PC athletic 53
    3 L Skipping: 1 BB item athletic 79
    2 L Skipping: 6** BB item athletic 107
-  12 L Skydiving: 1 FG item athletic 75
+  13 L Skydiving: 1 FG item athletic 75
    7 L Skydiving: 6** FG item athletic 103
    3 L Slap Fighting Jimmy: 1 BB PC fighter 94
   10 L Slap Fighting Jimmy: 6** BB PC fighter 128
@@ -2345,10 +2354,11 @@
   12 L Sled Armor Tina: 6** BB PC armed 128
    1 L Sled Pull Bob: 1 BB PC athletic 94
    1 L Sled Pull Bob: 6** BB PC athletic 128
+   1 L Sled Pulling: 1 BB item athletic 80
    3 L Sled Pulling: 6** BB item athletic 112
    3 L Sledding Gene: 6** BB PC athletic 112
-   2 L Sledding Jesus: 1 FG item athletic 65
-   9 L Sledding Jesus: 6** FG item athletic 95
+   2 L Sledding Jesus: 1 FG item athletic 70
+   9 L Sledding Jesus: 6** FG item athletic 98
    1 L Sledding Louise: 1 BB PC athletic 50
    6 L Sledding Louise: 6** BB PC athletic 101
    2 L Sleepover Contract: 1 KotH PC educated 94
@@ -2405,8 +2415,8 @@
   14 L Sower of Revenge: 6** BB PC armed 124
    1 L Space Pistol Fry: 2* FT PC armed 93
    2 L Space Pistol Fry: 6** FT PC armed 114
-   5 L Space Sewer Surfer: 1 FT item athletic 69
-   8 L Space Sewer Surfer: 6** FT item athletic 96
+   5 L Space Sewer Surfer: 1 FT item athletic 70
+   8 L Space Sewer Surfer: 6** FT item athletic 98
    3 L Space Suit: 1 FT item disguised 73
    3 L Space Suit: 6** FT item disguised 102
    1 L Space Tank: 1 Archer PC armed 94
@@ -2494,7 +2504,7 @@
    1 L Stuffington Steve: 1 AD PC educated 71
    7 L Stuffington Steve: 6** AD PC educated 115
    2 L Stupid Songs Carter: 6** FG PC musical 128
-   2 L Sub Hub Hayley: 1 AD PC disguised 68
+   3 L Sub Hub Hayley: 1 AD PC disguised 68
    1 L Sub Hub Hayley: 6** AD PC disguised 109
    3 L Sucker Punch Cotton: 1 KotH PC fighter 94
    2 L Sucker Punch Cotton: 6** KotH PC fighter 128
@@ -2510,7 +2520,7 @@
    2 L Supermodel Roger: 6** AD PC artistic 102
    4 L Surface Air Telegram: 1 FT item armed 70
    5 L Surface Air Telegram: 6** FT item armed 98
-  16 L Surface To Santa Launcher: 1 FT item armed 75
+  17 L Surface To Santa Launcher: 1 FT item armed 75
    3 L Surface To Santa Launcher: 6** FT item armed 103
    3 L Surprise Paperwork: 1 Archer item educated 84
    3 L Surveillance Mom: 1 FT PC educated 94
@@ -2538,7 +2548,7 @@
    2 L Take Your Cat To Work: 1 FG PC animal 94
    7 L Talent Show Lois: 6** FG PC musical 94
    1 L Talent Show Peter: 6** FG PC musical 122
-   1 L Talking Toys: 1 FG item toy 71
+   2 L Talking Toys: 1 FG item toy 71
    9 L Talking Toys: 6** FG item toy 102
    3 L Tammy on TV: 1 BB PC artistic 94
    4 L Tammy on TV: 6** BB PC artistic 128
@@ -2594,7 +2604,7 @@
    1 L The Thinker Ape: 6* FT PC artistic 84
   10 L The Thinker Ape: 6** FT PC artistic 104
    9 L The Wee Baby Seamus: 6** Archer item artistic 106
-   2 L The Wheel: 1 Archer PC toy 94
+   3 L The Wheel: 1 Archer PC toy 94
    4 L The Wheel: 6** Archer PC toy 128
    4 L Theater Costumes: 1 BB item disguised 80
    1 L Theater Costumes: 6** BB item disguised 112
@@ -2609,7 +2619,7 @@
    8 L Thunder Cocktails: 6** FT item drunk 98
    4 L Thundercougarfalconbird: 1 FT item vehicle 70
    1 L Thundercougarfalconbird: 6** FT item vehicle 98
-   4 L Thundergirl Handbook: 1 BB item educated 79
+   5 L Thundergirl Handbook: 1 BB item educated 79
    2 L Thundergirl Handbook: 6** BB item educated 107
    3 L Tickling the Ivories: 6** FG PC musical 128
    4 L Time Share Owner: 1 KotH item rich 79
@@ -2638,14 +2648,16 @@
    2 L Tom Landry Baseball Team: 1 KotH item athletic 70
    5 L Tom Landry Baseball Team: 6** KotH item athletic 98
    9 L Tom Landry Middle School: 6** KotH item educated 98
+   2 L Tony Gerbil: 1 FG PC animal 94
+   1 L Tony Gerbil: 1** FG PC animal 115
+   1 L Tony Gerbil: 6** FG PC animal 128
    2 L Tooting Away: 6** Archer PC musical 128
    7 L Top Shelf Carter: 6** FG PC drunk 128
    5 L Top Shelf Teamwork: 1 KotH item athletic 80
    3 L Top Shelf Teamwork: 6** KotH item athletic 112
    1 L Topped Off Wine: 2* AD PC drunk 65
    2 L Torch Bearer Hank: 6** KotH PC athletic 128
-   4 L Tortoise Trio: 1 FT item animal 80
-   1 L Tortoise Trio: 6** FT item animal 112
+   2 L Tortoise Trio: 6** FT item animal 112
    1 L Toshi and Ponzo: 1 AD PC toy 94
    5 L Toshi: 1 AD char 54
   12 L Toshi: 6** AD char 94
@@ -2672,6 +2684,7 @@
    2 L Toy Keyboard: 6** AD item musical 103
    2 L Toy Lawnmower: 1 FG item toy 80
    7 L Toy Lawnmower: 6** FG item toy 112
+   1 L Toy Meeting: 1 BB item toy 80
    1 L Toy Re-Enactment Fry: 1 FT PC toy 94
    8 L Training Luanne: 6** KotH PC athletic 124
    1 L Tranqued Ray: 6** Archer PC hyper 128
@@ -2720,7 +2733,7 @@
    1 L Umpire Scruffy: 6** FT PC athletic 128
    4 L Unemployed Drinking: 1 AD item drunk 73
    1 L Unemployed Drinking: 6** AD item drunk 104
-   1 L Unfinished Mona Lisa: 1 FT item artistic 79
+   2 L Unfinished Mona Lisa: 1 FT item artistic 79
    2 L Unfinished Mona Lisa: 6** FT item artistic 107
    8 L Unlabeled Pills: 6** KotH item hyper 98
    1 L Unsharp Scissors Zapp: 1 FT PC armed 62
@@ -2738,6 +2751,7 @@
    2 L Vanderhill: 1 AD PC rich 75
    1 L Vengeance Quagmire: 1 FG PC fighter 54
    1 L Very Sloshed: 6** FT PC drunk 128
+   1 L Vet Consortium: 1 KotH item animal 76
    1 L Vet Consortium: 2* KotH item animal 90
    2 L Veteran Cotton: 1 KotH PC educated 90
    2 L Veteran Cotton: 6** KotH PC educated 124
@@ -2746,7 +2760,7 @@
    1 L Victorian Knife Lois: 6** FG PC armed 128
    1 L Video Game Addict Hank: 2* KotH PC toy/hyper 81
   12 L Video Game Addict Hank: 6** KotH PC toy/hyper 112
-   2 L Video Game Joe: 1 FG PC toy 69
+   3 L Video Game Joe: 1 FG PC toy 69
    1 L Video Game Leela: 1 FT PC toy 67
    1 L Video Game Leela: 6** FT PC toy 109
    1 L Viking Peter: 2* FG PC drunk 71
@@ -2767,6 +2781,7 @@
    2 L Wagstaff Whaler: 1 BB item disguised 70
    9 L Wagstaff Whaler: 6** BB item disguised 98
    1 L Walkie Talkie Teddy: 6** BB PC toy 128
+   1 L Walking Man Exhibit: 1 KotH item artistic 70
    9 L Walking Man Exhibit: 6** KotH item artistic 98
    1 L Walkman Boomhauer: 1 KotH PC toy 65
    2 L Walkman Boomhauer: 6** KotH PC toy 110
@@ -2786,6 +2801,7 @@
    3 L Weed Work Song: 6** BB PC musical 128
    2 L Welcome Mojitos: 1 BB item drunk 70
    1 L Were-Car: 6** FT PC vehicle 128
+   1 L Western Lewis: 1 AD item armed 70
    8 L Western Lewis: 6** AD item armed 98
    4 L Whack-A-Toe: 1 BB item toy 73
    4 L Whack-A-Toe: 6** BB item toy 104
@@ -2805,7 +2821,7 @@
    2 L Wicked Mom: 6** FT PC disguised 128
    1 L Wild Brian: 2* FG PC animal 73
    1 L Wild Brian: 6** FG PC animal 107
-   2 L Wild Francine: 1 AD PC disguised 62
+   3 L Wild Francine: 1 AD PC disguised 62
    4 L Wild Francine: 6** AD PC disguised 108
    3 L Wild West Fischoeder: 1 BB PC disguised 94
    1 L Wild West Snot: 1 AD PC disguised 94
@@ -2823,6 +2839,7 @@
    5 L Wine Trio: 6** AD item drunk 98
    1 L Wingnut Amy: 1* FT PC athletic/hyper 103
    1 L Wingnut Amy: 6** FT PC athletic/hyper 128
+   1 L Wingnut Equipment: 1 FT item disguised 80
    2 L Wingnut Equipment: 6** FT item disguised 112
    4 L Wingnut Leela: 6** FT PC athletic/hyper 91
    8 L Winthrop Manor: 6** BB item disguised 98
@@ -2840,7 +2857,7 @@
    2 L Wood Chuck: 1 BB item toy 70
    8 L Wood Chuck: 6** BB item toy 99
    9 L Wooly Neptunes: 6** BB item hyper 102
-   3 L Work Hard or Die Trying Girl: 1 BB item musical 80
+   4 L Work Hard or Die Trying Girl: 1 BB item musical 80
    4 L Work Hard or Die Trying Girl: 6** BB item musical 112
    1 L Work Margaritas: 1 Archer item drunk 80
    9 L Work Margaritas: 6** Archer item drunk 112
@@ -2866,8 +2883,9 @@
   14 L Zapp Brannigan: 6** FT char 94
    1 L Zapp Figurines: 1 FT PC toy 67
    8 L Zapp Figurines: 6** FT PC toy 102
-   5 L Zeke: 1 BB char 54
-  12 L Zeke: 1** BB char 81
+   6 L Zeke: 1 BB char 54
+   1 L Zeke: 1* BB char 67
+  13 L Zeke: 1** BB char 81
   12 L Zeke: 6** BB char 94
    4 L Zen Statue: 6** AD item artistic 116
    3 L Zero Gravity Flight: 1 Archer PC athletic 94
@@ -2929,8 +2947,8 @@
    1 M Clone Fight: 5* FT item fighter 128
    1 M Coffee Maker: 1 Archer item hyper 106
    1 M Coilette: 4 FT item athletic 110
-   1 M Coin Dive: 1* FG item rich 132
-   1 M Connie: 4 KotH char 108
+   1 M Coin Dive: 2* FG item rich 134
+   1 M Connie: 1* KotH char 114
    1 M Cotton: 7** KotH char 128
    1 M Cuddles: 2* AD item animal 123
    1 M Cutie Patooties: 6* BB item musical 129
@@ -2977,7 +2995,7 @@
    1 M Hayley: 7** AD char artistic 128
    1 M Heat Packing Priest: 4* KotH item armed 125
    1 M Hermes: 7** FT char 128
-   1 M Hologram Happy Hour: 4 Archer item drunk 122
+   1 M Hologram Happy Hour: 2* Archer item drunk 133
    1 M Home Sniper: 2* FG item armed 126
    1 M Hooked On A Feline: 4* KotH item animal 123
    1 M Hypnotoad: 6* FT item hyper 130
@@ -3012,8 +3030,8 @@
    1 M Mayor West: 7** FG char 131
    1 M McBurgertown: 1 FG item food 110
    1 M Meg: 7** FG char 128
-   1 M Messy Fridge: 1 Archer item food 106
-   1 M Mini Car Racing: 4* AD item toy 122
+   1 M Messy Fridge: 1* Archer item food 121
+   1 M Mini Car Racing: 5* AD item toy 123
    1 M Miss Merkin: 4* BB item musical 127
    1 M Miss XXXMas: 3* BB item musical 128
    1 M Molotovs: 1* Archer item armed 132
@@ -3068,6 +3086,7 @@
    1 M School Board Minh: 7 KotH item educated 122
    1 M Scruffy Scruffington: 3** FT char 125
    1 M Seamus Levine: 7** FG char armed 131
+   1 M Shane the Tiger: 1* Archer item animal 130
    1 M Shelby: 4* BB item rich 126
    1 M Signature Cocktail: 3* AD item drunk 121
    1 M Silver Paint Disguise: 5* KotH item disguised 124
