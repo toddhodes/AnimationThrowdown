@@ -56,6 +56,6 @@ while IFS='|' read -r cm_level name stones _; do
 
     cost=$(upgrade_cost "$cm_level")
     count=${eligible[$name]}
-    desc=$(./cardAndCmGrep.sh "L $name" | grep 6\\*\\* | sed 's/.*6..//' 2>/dev/null)
+    desc=$(./cardAndCmGrep.sh "$name" | grep 6\\*\\* | sed "s/ $name: 6..//" 2>/dev/null)
     echo "$count | $name | CM $cm_level -> $((cm_level + 1)) (have $stones, need $cost)  - $desc"
 done < Combos/ComboMastery | sort -t'|' -k2
