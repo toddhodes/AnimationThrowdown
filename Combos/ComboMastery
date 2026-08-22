@@ -61,6 +61,7 @@
 5 | Board Game Stewie
 5 | Bob Archer
 5 | Bob's Pigeon Bath
+5 | Bobsterfest
 5 | Body Builder Stan
 5 | Bon Bon Art
 5 | Bong Rips Francine
@@ -93,6 +94,7 @@
 5 | CEO Fry
 5 | CIA Student
 5 | Cadet Hill
+5 | Cafeteria Frond
 5 | Capsuleer Barry
 5 | Captain Leela
 5 | Cardboard Boat Tina
@@ -213,6 +215,7 @@
 5 | Flute Solo Jeff
 5 | Food Addict Leela
 5 | Food Service Hank
+5 | Food Straw Farnsworth
 5 | Football Coach Roger
 5 | Fort Kickass
 5 | Fowl Fighter Teddy
@@ -604,14 +607,13 @@
 5 | Zinc Saucier
 5 | Zombie Jimmy Jr.
 4 | 'Cyril'
+4 | 71 Ounce Beef Bobby | 40
 4 | Action Delivery Force Zoidberg
 4 | Art Student
 4 | Artsy Steve | 15
 4 | Bazooka Shark Fan Francine | 10
 4 | Betting it All
-4 | Bobsterfest
 4 | Bookworm Bobby
-4 | Cafeteria Frond | 30
 4 | Calculon's Pride | 5
 4 | Captain Bender
 4 | Chainsaw Hank | 5
@@ -674,6 +676,7 @@
 4 | Sled Armor Tina | 5
 4 | Sleepover Contract | 5
 4 | Slow Dance Jimmy Jr. | 40
+4 | Snot's Mom's Mom Sauce
 4 | Spray Paint Chris | 35
 4 | Study Session | 5
 4 | Stuffed Alligator | 40
@@ -776,7 +779,6 @@
 3 | Xerxes the Falcon | 15
 3 | Zero Gravity Flight
 2 | 4 Irons Seamus | 5
-2 | 71 Ounce Beef Bobby | 100
 2 | Action Delivery Force Leela
 2 | Aerobics Frond | 20
 2 | Air Glider Peter | 5
@@ -834,7 +836,6 @@
 2 | Finch Hermes | 100
 2 | Fine Dining Barry | 5
 2 | Flame Belch Bender | 75
-2 | Food Straw Farnsworth | 10
 2 | Funeral Beer Francine | 15
 2 | Game Night Jeff
 2 | Gas Station Zeke | 5
@@ -993,7 +994,7 @@
 1 | Bottlecap Two | 15
 1 | Bucking Buggalo Hermes | 15
 1 | Budding Country Star | 55
-1 | Burger Wars
+1 | Burger Wars | 40
 1 | Butcher Knife Jeff
 1 | Butt Kicking Peggy
 1 | Butt Toucher Tina | 5
@@ -1010,6 +1011,7 @@
 1 | Chris' Pimple
 1 | Chris's Favorite Chicken | 125
 1 | Congo Jack | 5
+1 | Connie's Creme Brulee Robot | 5
 1 | Cough Syrup Drunk | 50
 1 | Cowpoke | 125
 1 | Crayon Drawing | 125
@@ -1129,7 +1131,7 @@
 1 | Running Back Hank | 125
 1 | Scooty-Puff Jr | 100
 1 | Scuba Krieger
-1 | Server Luanne | 60
+1 | Server Luanne | 90
 1 | Sherlock Zoidberg | 125
 1 | Shiny Pebbles | 125
 1 | Sing and Swing | 30
@@ -1139,6 +1141,7 @@
 1 | Sled Pull Bob | 10
 1 | Sledgehammer Dale | 125
 1 | Smoke Bomb! | 130
+1 | Snack Time Scruffy | 125
 1 | Sneak Tackle Hank | 95
 1 | Soccer Chris | 25
 1 | Softball Peggy
@@ -1209,6 +1212,7 @@
 0 | Money Retriever | 130
 0 | Mom's Fury | 130
 0 | Mind Switcher Amy | 130
+0 | McBurgertown Stewie | 130
 0 | Maxi Paddy | 130
 0 | Maracas Peter | 130
 0 | Manor Life Mayor West | 130
@@ -1233,6 +1237,7 @@
 0 | Delivery Marmoset | 130
 0 | DJ Klaus | 130
 0 | Cubert Farnsworth | 130
+0 | Clam King Steve | 130
 0 | Butt Closet | 130
 0 | Burger Mascot | 130
 0 | Bondage Klaus | 130
@@ -1266,7 +1271,6 @@
 0 | Tammy Turkey | 100
 0 | Singing Busboy | 100
 0 | Sex Ed Peter | 100
-0 | McBurgertown Stewie | 100
 0 | Francine Roger | 100
 0 | Dancing Teddy | 100
 0 | Cheerleader Lois | 100
@@ -1276,7 +1280,6 @@
 0 | Sperm Rider | 90
 0 | Special Guitar Bobby | 90
 0 | Sombrero Cotton | 90
-0 | Snack Time Scruffy | 90
 0 | Smashing It | 90
 0 | Red Wagon Stewie | 90
 0 | Painter Tina | 90
@@ -1286,7 +1289,6 @@
 0 | Grand Theft Hank | 90
 0 | Fighting Pose Zapp | 90
 0 | Draw Me Linda | 90
-0 | Clam King Steve | 90
 0 | Top of the Morning | 85
 0 | Shower Drunk Hayley | 85
 0 | Family Tree Steve | 85
@@ -1330,6 +1332,7 @@
 0 | Man of the House | 60
 0 | Longhorn Bobby | 60
 0 | Line Dancer Amy | 60
+0 | High Legman | 60
 0 | Foodie Fighter Bob | 60
 0 | Flying Dream Sequence | 60
 0 | Finger Cutter | 60
@@ -1339,6 +1342,7 @@
 0 | Cyclist Peggy | 60
 0 | Chest Harpoon | 60
 0 | Can't Get Clean | 60
+0 | Cab Driver Brian | 60
 0 | Booby Checklist | 60
 0 | Bob Gene | 60
 0 | Bass Pro Hank | 60
@@ -1466,6 +1470,7 @@
 0 | Wrestler Amy | 20
 0 | Tammy on Vocals | 20
 0 | Sister Peter | 20
+0 | Sad Pancakes Lois | 20
 0 | Lou Belchera | 20
 0 | Lady Bobbenstein | 20
 0 | Girl-Crazy Joseph | 20
@@ -1518,6 +1523,5 @@
 0 | Margarita Mix Zeke | 5
 0 | Just Mow a Lawn | 5
 0 | Fischoeder Shark Controller | 5
-0 | Connie's Creme Brulee Robot | 5
 0 | Bounty Hunter Roger | 5
-1257300 | Mastery Stone
+1374050 | Mastery Stone
