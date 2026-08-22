@@ -21,8 +21,8 @@ Once you have these, add them to a file called `.at_creds` in your home director
 formatted as follows:
 
 ```
-user_id=8679305
-password_hash=6BhhkA23C47ED572
+user_id=1234567890
+password_hash=8675309
 ```
 
 replacing those values with those matching your account.
