@@ -780,7 +780,7 @@
 3 | Wrestler Peggy | 75
 3 | Xerxes the Falcon | 15
 3 | Zero Gravity Flight
-2 | 4 Irons Seamus | 5
+2 | 4 Irons Seamus | 95
 2 | Action Delivery Force Leela
 2 | Aerobics Frond | 20
 2 | Air Glider Peter | 5
@@ -1196,6 +1196,7 @@
 0 | Strangler Stewie | 130
 0 | Stoned Loser Roger | 130
 0 | Squirrel Suit Hayley | 130
+0 | Sperm Rider | 130
 0 | Spaceship Pilot | 130
 0 | Sniper Zoidberg | 130
 0 | Slurm Queen | 130
@@ -1281,7 +1282,6 @@
 0 | Bandit Bob | 100
 0 | Mayor Adam We | 95
 0 | Martini Peggy | 95
-0 | Sperm Rider | 90
 0 | Special Guitar Bobby | 90
 0 | Sombrero Cotton | 90
 0 | Smashing It | 90
@@ -1531,4 +1531,4 @@
 0 | Just Mow a Lawn | 5
 0 | Fischoeder Shark Controller | 5
 0 | Bounty Hunter Roger | 5
-1287050 | Mastery Stone
+1253050 | Mastery Stone

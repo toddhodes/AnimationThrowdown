@@ -60,12 +60,27 @@ jq -r '.[] |
 echo "wrote cards-w-power"
 
 # extract skill ids for PCs (final_form), plus the level at which the card is
-# fully fused (max entry in .upgrade[].level, i.e. the "6**"-style max level)
-# format: <id> <max_level> <comma-separated-skill-ids>
-jq -r '.[] | select(.card_type == "final_form") |
+# fully fused (max entry in .upgrade[].level, i.e. the "6**"-style max level).
+# ids are translated from internal engine names to their in-game UI names.
+# format: <id> <max_level> <comma-separated-skill-names>
+jq -r '
+def uiname:
+  {
+    armored: "sturdy", backslap: "backslap", barrier: "shield",
+    barrierall: "shieldall", berserk: "craze", bodyguard: "bodyguard",
+    bunker: "bunker", burn: "burn", counter: "payback", enlarge: "enlarge",
+    enrage: "enrage", give: "give", giveall: "giveall",
+    globalhealth: "globalhealth", heal: "heal", healall: "healall",
+    hijack: "hijack", inspire: "motivate", invigorate: "boost",
+    leech: "leech", outlast: "recover", pierce: "jab", poison: "gas",
+    rally: "cheer", rallyall: "cheerall", shrapnel: "bomb", strike: "punch",
+    weaken: "cripple", weakenall: "crippleall"
+  }[.] // .;
+
+.[] | select(.card_type == "final_form") |
   . as $c |
   ([$c.skill // []] + [($c.upgrade // [])[] | .skill // []] | add) as $allskills |
-  ($allskills | map(.id) | unique | join(",")) as $ids |
+  ($allskills | map(.id | uiname) | unique | join(",")) as $ids |
   (($c.upgrade // []) | map(.level | tonumber) | max) as $maxlvl0 |
   ($maxlvl0 // 1) as $maxlvl |
   select($ids != "") |
