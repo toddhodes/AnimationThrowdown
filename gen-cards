@@ -60,6 +60,16 @@ do
 done
 source power_vars
 
+# caching PC skill ids + the level at which the card is fully fused:
+# skillmax_110001=18  skills_110001="pierce,poison,weaken"
+echo "" > skill_vars
+cat cards-w-skills | while read id maxlvl ids
+do
+  echo skillmax_${id}=${maxlvl} >> skill_vars
+  echo skills_${id}="\"$ids\"" >> skill_vars
+done
+source skill_vars
+
 for i in `cat units-w-levels`
 do
 
@@ -93,11 +103,22 @@ do
   power_key=power_${unit_id}_${lvl}
   pwr="${!power_key}"
 
-  #echo "unit:$unit name:$name: lvl:$lvl rare:$rarity"
-  if [ -n "$pwr" ] && [ "$pwr" != "0" ]; then
-    echo "$color $name: $stars $meta $pwr"
-  else
-    echo "$color $name: $stars $meta"
+  skillmax_key=skillmax_${unit_id}
+  skillmax="${!skillmax_key}"
+  skills=""
+  if [ -n "$skillmax" ] && [ "$lvl" == "$skillmax" ]; then
+    skills_key=skills_${unit_id}
+    skills="${!skills_key}"
   fi
+
+  #echo "unit:$unit name:$name: lvl:$lvl rare:$rarity"
+  line="$color $name: $stars $meta"
+  if [ -n "$pwr" ] && [ "$pwr" != "0" ]; then
+    line="$line $pwr"
+  fi
+  if [ -n "$skills" ]; then
+    line="$line - ${skills//,/, }"
+  fi
+  echo "$line"
 
 done 

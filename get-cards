@@ -59,4 +59,19 @@ jq -r '.[] |
 
 echo "wrote cards-w-power"
 
+# extract skill ids for PCs (final_form), plus the level at which the card is
+# fully fused (max entry in .upgrade[].level, i.e. the "6**"-style max level)
+# format: <id> <max_level> <comma-separated-skill-ids>
+jq -r '.[] | select(.card_type == "final_form") |
+  . as $c |
+  ([$c.skill // []] + [($c.upgrade // [])[] | .skill // []] | add) as $allskills |
+  ($allskills | map(.id) | unique | join(",")) as $ids |
+  (($c.upgrade // []) | map(.level | tonumber) | max) as $maxlvl0 |
+  ($maxlvl0 // 1) as $maxlvl |
+  select($ids != "") |
+  "\($c.id) \($maxlvl) \($ids)"
+' /tmp/card_data.json | sort > cards-w-skills
+
+echo "wrote cards-w-skills"
+
 

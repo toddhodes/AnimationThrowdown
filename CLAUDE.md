@@ -40,7 +40,7 @@ For searching your deck and combo mastery together:
 
 ### Fetch phase (network calls)
 
-- `get-cards` — calls `getStaticFiles` to get the CDN URL for global card data, then fetches it. Writes `cards-w-id-and-rarity` (format: `<id> <rarity> <name>`, one card per line, rarity 1–5 = C/R/E/L/M).
+- `get-cards` — calls `getStaticFiles` to get the CDN URL for global card data, then fetches it. Writes `cards-w-id-and-rarity` (format: `<id> <rarity> <name>`, one card per line, rarity 1–5 = C/R/E/L/M). Also writes `cards-w-skills` for PCs (`card_type == "final_form"`): `<id> <max_level> <comma-separated-skill-ids>`, where `max_level` is the highest level in the card's `.upgrade[]` array (i.e. the raw level corresponding to a fully-fused "6**"-style display) and the skill ids are the union of `.skill[].id` across the base card and all upgrade levels.
 - `get-deck` — calls `init` API with user credentials. Writes:
   - `units-w-levels` — user's owned cards: `<unit_id>-<level>-<mastery_level>`
   - `ids-with-cm` — combos with CM level: `<combo_id>-<cm_level>`
@@ -48,7 +48,7 @@ For searching your deck and combo mastery together:
 
 ### Generate phase (pure local computation)
 
-- `gen-cards` — joins `cards-w-id-and-rarity` + `units-w-levels` via shell variable cache in `vars`. Outputs card lines like `E Cute Witch of the North: 5**`; Makefile pipes through `sort | uniq -c` to produce `Decks/CARDS`.
+- `gen-cards` — joins `cards-w-id-and-rarity` + `units-w-levels` via shell variable cache in `vars`. Outputs card lines like `E Cute Witch of the North: 5**`; Makefile pipes through `sort | uniq -c` to produce `Decks/CARDS`. Also joins `cards-w-skills` (cached in `skill_vars`): when a PC's owned level equals its `max_level`, its skill ids are appended after a ` - ` separator (e.g. `... 84 - pierce, poison, weaken`); non-maxed PCs and non-PC cards get no skill suffix.
 - `gen-cm` — joins `ids-with-cm` + `cards-w-id-and-rarity`. Writes `Combos/ComboMasteryLevels`.
 - `gen-cm-tokens` — parses `/tmp/user.json` for mastery token items (item IDs starting with `2` + 6-digit combo ID) and mastery stones (item ID `200008`). Writes `Combos/ComboMasteryTokens`.
 - `gen-cm-combined` — joins `ComboMasteryLevels` + `ComboMasteryTokens` using shell `join`. Writes `Combos/ComboMastery` (the human-readable output).
@@ -92,10 +92,11 @@ The `result` field in responses is `true`/`false`; on failure, `result_message[0
 
 ## Output File Formats
 
-**`Decks/CARDS`** — `<count> <rarity-letter> <name>: <level><stars> <show> <card-type>` where:
+**`Decks/CARDS`** — `<count> <rarity-letter> <name>: <level><stars> <show> <card-type> [<power>] [- <skills>]` where:
 - Stars (`*`, `**`) indicate fuse cycles beyond max level (e.g., `6**` = max-fused legendary)
 - Show: `FG` `AD` `BB` `KotH` `FT` `Archer` `gen` (generic cross-show)
 - Card type: `PC` (power card / combo, has Combo Mastery), `item` (base single-show card), `chr` (character card)
+- Skills (only shown for fully-fused/max-level PCs, e.g. `6**`): comma-separated skill ids like `pierce, poison, weaken`, separated from power by ` - `
 
 **`Combos/ComboMastery`** — `<cm-level> | <combo-name> | <token-count>` (token count omitted when 0; CM level 0–3).
 
