@@ -15,8 +15,10 @@ do
   ./arena-buy-refills.sh 15
   sleep 5	
   echo "fight 150"
-  ./arena-fight5.sh 30 
-  #sleep 3	
+  ./arena-fight5.sh 30
+  echo "buy watts if coins near cap"
+  ./convert-coins-to-watts.sh 480000
+  #sleep 3
   #echo "buy coin packs"
   #./buy-50kcoin-pack.sh 9
 done

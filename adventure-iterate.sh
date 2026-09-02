@@ -18,6 +18,8 @@ do
     echo "fight 33/34"
     ./adventure-fight5.sh
   done
+  echo "buy watts if coins near cap"
+  ./convert-coins-to-watts.sh 480000
   #echo "buy coin packs"
   #./buy-50kcoin-pack.sh 3
 
