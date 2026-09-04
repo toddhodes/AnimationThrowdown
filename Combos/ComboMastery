@@ -648,6 +648,7 @@
 4 | Inappropriate Erection | 25
 4 | Interior Decorator | 10
 4 | Itsy Bitsy Rogu
+4 | JJu Rodeo Zeke | 5
 4 | Jetpack Kick Leela | 30
 4 | Last Photo Kif
 4 | Louise Chatterteeth
@@ -860,7 +861,6 @@
 2 | I am Mona
 2 | Improvised Crossbow Pam | 5
 2 | Instructional Video Stewie | 15
-2 | JJu Rodeo Zeke | 40
 2 | Jungle Snake | 5
 2 | Kawaii Klaus | 100
 2 | Keyboardist Gayle | 5
@@ -888,6 +888,7 @@
 2 | Nacho Addict Bender | 100
 2 | Nasal Spray Peter | 100
 2 | New Outfit Klaus | 10
+2 | Nibbler Sprint | 30
 2 | One Fish Lewis | 15
 2 | Opera Singer Leela | 60
 2 | Orange Crush Bobby | 20
@@ -1098,7 +1099,6 @@
 1 | Mr. Deliver | 125
 1 | Nacho Bartiromo | 125
 1 | Naked Gun Barry | 20
-1 | Nibbler Sprint
 1 | Nigerian Prince | 115
 1 | No Escape Lrrr | 5
 1 | Nutcracker Bender | 30
@@ -1234,6 +1234,7 @@
 0 | Hammer Olympian | 130
 0 | Food Truck Bob | 130
 0 | Food Restaurant Stan | 130
+0 | Firefighter Nibbler | 130
 0 | Fire Truck Peter | 130
 0 | Evening Beer Boomhauer | 130
 0 | Elevator Art | 130
@@ -1277,14 +1278,17 @@
 0 | Bible Study Stan | 105
 0 | Tammy Turkey | 100
 0 | Sex Ed Peter | 100
+0 | Parachute Jump Bullock | 100
 0 | Francine Roger | 100
 0 | Dancing Teddy | 100
 0 | Bandit Bob | 100
 0 | Mayor Adam We | 95
 0 | Martini Peggy | 95
+0 | Breakfast TV Workout | 95
 0 | Special Guitar Bobby | 90
 0 | Sombrero Cotton | 90
 0 | Smashing It | 90
+0 | Run, Gayle, Run! | 90
 0 | Red Wagon Stewie | 90
 0 | Painter Tina | 90
 0 | Nibbler's Birthday Cake | 90
@@ -1306,6 +1310,7 @@
 0 | Crooner Calculon | 80
 0 | Boy Tina | 80
 0 | Airpod Mort | 80
+0 | Nibbler's Capybara | 75
 0 | Mom Opera | 75
 0 | Malory and Duchess | 75
 0 | Topped Off Wine | 70
@@ -1320,7 +1325,6 @@
 0 | Makeover Louise | 65
 0 | Knight Louise | 65
 0 | Cowboy Kahn | 65
-0 | Breakfast TV Workout | 65
 0 | Young Hermes | 60
 0 | Water Gun Steve | 60
 0 | Washboard Bender | 60
@@ -1358,7 +1362,6 @@
 0 | Aversion Therapy | 60
 0 | $300 Knife | 60
 0 | Summer Lovin | 55
-0 | Parachute Jump Bullock | 55
 0 | Oktoberfest Fry | 55
 0 | Galapagos Tortoise | 55
 0 | Drum Solo Quagmire | 55
@@ -1366,7 +1369,6 @@
 0 | Sexy Cowardly Lion Stan | 50
 0 | Multiverse Slurp Barry | 50
 0 | Jericho | 50
-0 | Firefighter Nibbler | 50
 0 | Disco Peggy | 50
 0 | Breast Milk Addict | 50
 0 | Biking Barry | 50
@@ -1380,6 +1382,7 @@
 0 | Skydiving Peggy | 40
 0 | Show and Tell | 40
 0 | Rocker Bullock | 40
+0 | Raging Nibbler | 40
 0 | Paddle Ball Hank | 40
 0 | Nurse Pam | 40
 0 | Modest Painting | 40
@@ -1396,7 +1399,6 @@
 0 | Salmon Leela | 35
 0 | Paintball Bill | 35
 0 | One Eyed Orphan | 35
-0 | Nibbler's Capybara | 35
 0 | Lucky Panties Fight | 35
 0 | Karaoke Night | 35
 0 | Fan Art Jimmy | 35
@@ -1437,6 +1439,7 @@
 0 | Jimmy's Crushed Nuts | 30
 0 | Insecure Aiming Lrrr | 30
 0 | Hungover Steve | 30
+0 | Hot Dog Eating Contest | 30
 0 | Haunted Linda | 30
 0 | Grade 36 Bureaucrat | 30
 0 | Golfing Quagmire | 30
@@ -1531,4 +1534,4 @@
 0 | Just Mow a Lawn | 5
 0 | Fischoeder Shark Controller | 5
 0 | Bounty Hunter Roger | 5
-1253050 | Mastery Stone
+1243150 | Mastery Stone
