@@ -362,6 +362,7 @@
 5 | Mocktrial Gene
 5 | Money Giver Bullock
 5 | More Anchovies
+5 | More Time More Drugs
 5 | Mori-Carter-y
 5 | Mort At Work
 5 | Motivational Poster
@@ -611,6 +612,7 @@
 5 | Zinc Saucier
 5 | Zombie Jimmy Jr.
 4 | 'Cyril'
+4 | 4 Irons Seamus | 35
 4 | Action Delivery Force Zoidberg
 4 | Art Student
 4 | Artsy Steve | 15
@@ -655,9 +657,10 @@
 4 | Luxury Yacht | 5
 4 | Magic Breath Strips | 35
 4 | Mega Speed Barry | 45
-4 | More Time More Drugs | 40
 4 | Newlyweds | 20
+4 | Nibbler Sprint | 5
 4 | Pan-fully Prepared Bobby
+4 | Parachute Jump Bullock | 15
 4 | Party Board | 35
 4 | Pathetic Villain
 4 | Perfect Husband
@@ -704,6 +707,7 @@
 3 | ATV Kahn
 3 | Adult Gamer Bobby | 5
 3 | All Hail Mom | 5
+3 | Aprés Ski Principal | 20
 3 | BABOU!!!! | 75
 3 | Bad Boy Kif
 3 | Banquet Seamus | 75
@@ -712,6 +716,7 @@
 3 | Biker Confrontation | 10
 3 | Blueberry Picker | 75
 3 | Boy Crazy
+3 | Bucking Buggalo Hermes | 15
 3 | Buff Cyril | 10
 3 | Caricature Art Seamus
 3 | Connie and Doggie | 25
@@ -766,7 +771,7 @@
 3 | Shark Killer | 75
 3 | Shelter Leader Bill | 10
 3 | Softer Side Carter | 5
-3 | Space Walk | 40
+3 | Space Walk
 3 | Spies Like Mayor West | 10
 3 | Spitting Out Beer
 3 | Stupid Songs Carter | 30
@@ -781,14 +786,12 @@
 3 | Wrestler Peggy | 75
 3 | Xerxes the Falcon | 15
 3 | Zero Gravity Flight
-2 | 4 Irons Seamus | 95
 2 | Action Delivery Force Leela
 2 | Aerobics Frond | 20
 2 | Air Glider Peter | 5
 2 | Alley Entertainment | 100
 2 | American Giggolo | 65
 2 | Angry Drunk
-2 | Aprés Ski Principal | 45
 2 | Ba-Donkin Lewis
 2 | Bakaneko Fighter Louise
 2 | Barry on Fire | 5
@@ -826,7 +829,7 @@
 2 | Disco Boomhauer
 2 | Disco Skating Cyril
 2 | Dog Costume Bullock | 20
-2 | Dog Peter | 100
+2 | Dog Peter
 2 | Dolphin Rider Peter | 65
 2 | Draw Me Gene
 2 | Duke | 30
@@ -888,7 +891,6 @@
 2 | Nacho Addict Bender | 100
 2 | Nasal Spray Peter | 100
 2 | New Outfit Klaus | 10
-2 | Nibbler Sprint | 30
 2 | One Fish Lewis | 15
 2 | Opera Singer Leela | 60
 2 | Orange Crush Bobby | 20
@@ -926,7 +928,7 @@
 2 | Sibling Portrait | 5
 2 | Sleighing Tonight
 2 | Slick'd Steve | 100
-2 | Space Cadet Chris | 100
+2 | Space Cadet Chris
 2 | Space Stan | 60
 2 | Spray Painter | 100
 2 | Spy Brian | 35
@@ -994,12 +996,11 @@
 1 | Bookworm Toshi | 15
 1 | Boombox Teddy | 10
 1 | Bottlecap Two | 15
-1 | Bucking Buggalo Hermes | 15
 1 | Budding Country Star | 55
 1 | Burger Wars | 40
 1 | Butcher Knife Jeff
 1 | Butt Kicking Peggy
-1 | Butt Toucher Tina | 5
+1 | Butt Toucher Tina | 85
 1 | CIA Instructor | 10
 1 | Cafeteria Meg
 1 | Caffeinated Lana | 40
@@ -1015,10 +1016,13 @@
 1 | Chris's Favorite Chicken | 125
 1 | Congo Jack | 5
 1 | Connie's Creme Brulee Robot | 5
+1 | Cotton Candy Fischoeder
 1 | Cough Syrup Drunk | 50
 1 | Cowpoke | 125
 1 | Crayon Drawing | 125
+1 | Dance Flrrr Lrrr | 15
 1 | Danger Zone | 130
+1 | Deathrolling | 125
 1 | Derringer Francine | 60
 1 | Dodgeball Steve | 5
 1 | Dog Bone Stan | 95
@@ -1050,8 +1054,9 @@
 1 | Gas Class | 65
 1 | Girls Being Girls | 55
 1 | Glass of Wine
+1 | Greasy Skadootch
 1 | Green Russians | 20
-1 | Griffin and Quagmire | 115
+1 | Griffin and Quagmire | 125
 1 | Groin Kicker
 1 | Groupie Francine | 105
 1 | Guenter | 30
@@ -1147,7 +1152,7 @@
 1 | Smoke Bomb! | 130
 1 | Snack Time Scruffy | 125
 1 | Sneak Tackle Hank | 95
-1 | Soccer Chris | 25
+1 | Soccer Chris | 125
 1 | Softball Peggy
 1 | Space Queen | 125
 1 | Spacey Cheryl
@@ -1236,6 +1241,7 @@
 0 | Food Restaurant Stan | 130
 0 | Firefighter Nibbler | 130
 0 | Fire Truck Peter | 130
+0 | Fire Stuntman | 130
 0 | Evening Beer Boomhauer | 130
 0 | Elevator Art | 130
 0 | Electric Love | 130
@@ -1250,6 +1256,7 @@
 0 | Butt Closet | 130
 0 | Burger Mascot | 130
 0 | Bondage Klaus | 130
+0 | Blernsball Fry | 130
 0 | Bird Brain Barry | 130
 0 | Beer Funnel Peter | 130
 0 | Armadillo Boomhauer | 130
@@ -1264,13 +1271,11 @@
 0 | Powderpuff | 120
 0 | Rambo Lois | 115
 0 | High Roller Stewie | 115
-0 | Fire Stuntman | 115
 0 | Toilet Song Bob | 110
 0 | Roach Coach Roger | 110
 0 | Private Collection | 110
 0 | Poppler Activist | 110
 0 | Human Flesh Salesman | 110
-0 | Blernsball Fry | 110
 0 | Workout Klaus | 105
 0 | Skydiver Quagmire | 105
 0 | Heavenly Hank | 105
@@ -1278,10 +1283,11 @@
 0 | Bible Study Stan | 105
 0 | Tammy Turkey | 100
 0 | Sex Ed Peter | 100
-0 | Parachute Jump Bullock | 100
 0 | Francine Roger | 100
 0 | Dancing Teddy | 100
+0 | Bureaucrat Song | 100
 0 | Bandit Bob | 100
+0 | Nibbler's Birthday Cake | 95
 0 | Mayor Adam We | 95
 0 | Martini Peggy | 95
 0 | Breakfast TV Workout | 95
@@ -1291,7 +1297,6 @@
 0 | Run, Gayle, Run! | 90
 0 | Red Wagon Stewie | 90
 0 | Painter Tina | 90
-0 | Nibbler's Birthday Cake | 90
 0 | Mayor West is Packin' | 90
 0 | Hoverthrone King | 90
 0 | High Noon Fry | 90
@@ -1300,6 +1305,7 @@
 0 | Draw Me Linda | 90
 0 | Top of the Morning | 85
 0 | Shower Drunk Hayley | 85
+0 | Nibbler's Capybara | 85
 0 | Family Tree Steve | 85
 0 | Deer Daddy Steve | 85
 0 | Dance Party Bobby | 85
@@ -1310,7 +1316,6 @@
 0 | Crooner Calculon | 80
 0 | Boy Tina | 80
 0 | Airpod Mort | 80
-0 | Nibbler's Capybara | 75
 0 | Mom Opera | 75
 0 | Malory and Duchess | 75
 0 | Topped Off Wine | 70
@@ -1336,7 +1341,6 @@
 0 | Sidearm Brian | 60
 0 | Roger in Disguise | 60
 0 | Prof Max Hammer | 60
-0 | Peter Copter Down! | 60
 0 | Party Cup Barry | 60
 0 | Pace Car Driver | 60
 0 | Oktoberfest Amy | 60
@@ -1348,6 +1352,7 @@
 0 | Foodie Fighter Bob | 60
 0 | Flying Dream Sequence | 60
 0 | Finger Cutter | 60
+0 | Drunk Hermes | 60
 0 | Drunk Amy | 60
 0 | Disco Bender | 60
 0 | Day Drinking Mayor West | 60
@@ -1452,7 +1457,6 @@
 0 | Emcee Stewie | 30
 0 | El Presidente | 30
 0 | Egg vs Tornado | 30
-0 | Drunk Hermes | 30
 0 | Devil Luanne | 30
 0 | Da Vinci's Beard | 30
 0 | Cuddly Little Pet Slinky | 30
@@ -1460,7 +1464,6 @@
 0 | Circusitis Hermes | 30
 0 | Cinderella Lois | 30
 0 | Christian Rock | 30
-0 | Bureaucrat Song | 30
 0 | Bunny Brian | 30
 0 | Boss Hank | 30
 0 | Bob in the Wall | 30
@@ -1498,7 +1501,6 @@
 0 | Lrrr Planet Invasion Guide | 15
 0 | Googly Eyes Zeke | 15
 0 | Dance Outburst | 15
-0 | Dance Flrrr Lrrr | 15
 0 | Wired Stewie | 10
 0 | Space Pistol Bender | 10
 0 | Sketchy Bus Driver | 10
@@ -1519,7 +1521,6 @@
 0 | Football Bobby | 10
 0 | Espresso Tina | 10
 0 | Derby Wife | 10
-0 | Deathrolling | 10
 0 | Connie Done Drank | 10
 0 | Chokehold Cheryl | 10
 0 | Category 5 Sucker | 10
@@ -1534,4 +1535,4 @@
 0 | Just Mow a Lawn | 5
 0 | Fischoeder Shark Controller | 5
 0 | Bounty Hunter Roger | 5
-1243150 | Mastery Stone
+1104650 | Mastery Stone
