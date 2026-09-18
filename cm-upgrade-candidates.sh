@@ -4,8 +4,31 @@
 #
 # Output: <count> | <card name> | CM <level> -> <level+1> (have <stones>, need <cost>)
 #
+# -c: just show the cached output file, skip recomputation
+#
+
+OUTFILE=o-cm-upgrade-candidates
+
+cached_only=false
+while getopts "c" opt; do
+    case $opt in
+        c) cached_only=true ;;
+        *) exit 1 ;;
+    esac
+done
+
+if $cached_only; then
+    echo "-- cached --"
+    cat "$OUTFILE"
+    exit 0
+fi
 
 echo $0:
+
+[ -f "$OUTFILE" ] && (echo "-- cached --" ; cat "$OUTFILE" )
+
+echo
+echo "-- live --"
 
 can_upgrade() {
     local level=$1 stones=$2
@@ -58,4 +81,4 @@ while IFS='|' read -r cm_level name stones _; do
     count=${eligible[$name]}
     desc=$(./cardAndCmGrep.sh "$name" | grep 6\\*\\* | sed "s/ $name: 6..//" 2>/dev/null)
     echo "$count | $name | CM $cm_level -> $((cm_level + 1)) (have $stones, need $cost)  - $desc"
-done < Combos/ComboMastery | sort -t'|' -k2
+done < Combos/ComboMastery | sort -t'|' -k2 | tee "$OUTFILE"
