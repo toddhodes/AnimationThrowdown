@@ -21,5 +21,8 @@ gen_cm:
 
 cm: cards deck gen_cm
 
+diff:
+	git diff Decks/CARDS | grep ^\\+
+
 clean:
 	rm	-f cards-w-id-and-rarity cards-w-meta cards-w-power cards-w-skills units-w-levels ids-with-cm vars meta_vars power_vars skill_vars o-* Combos/ComboMasteryLevels Combos/ComboMasteryTokens
