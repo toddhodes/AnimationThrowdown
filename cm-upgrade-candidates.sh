@@ -18,17 +18,17 @@ while getopts "c" opt; do
 done
 
 if $cached_only; then
-    echo "-- cached --"
+    echo "-- cached --" >&2
     cat "$OUTFILE"
     exit 0
 fi
 
 echo $0:
 
-[ -f "$OUTFILE" ] && (echo "-- cached --" ; cat "$OUTFILE" )
+[ -f "$OUTFILE" ] && (echo "-- cached --" >&2 ; cat "$OUTFILE" )
 
 echo
-echo "-- live --"
+echo "-- live --" >&2
 
 can_upgrade() {
     local level=$1 stones=$2
