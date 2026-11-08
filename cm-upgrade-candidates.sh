@@ -17,6 +17,8 @@ while getopts "c" opt; do
     esac
 done
 
+echo
+
 if $cached_only; then
     echo "-- cached --" >&2
     cat "$OUTFILE"
